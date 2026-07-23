@@ -1,0 +1,107 @@
+# Energy Pulse — source configuration
+# Add/remove/edit sources here. Each source needs: name, url (RSS/Atom feed), category.
+# Categories drive the filter tabs on the site and the digest section headers.
+#
+# NOTE: Some organizations (ERCOT, MISO, SPP, etc.) don't publish clean RSS for
+# press releases. Where a real RSS feed isn't available, we point at a page and
+# flag "html: true" so the fetcher falls back to a lightweight scrape of link
+# titles. Verify/adjust these periodically — org websites change structure.
+
+sources:
+  # ---------------- ISOs / RTOs (grid operators) ----------------
+  - name: ERCOT News
+    url: https://www.ercot.com/news
+    category: ISO/RTO
+    html: true
+
+  - name: EIA Today in Energy
+    url: https://www.eia.gov/rss/todayinenergy.xml
+    category: ISO/RTO
+
+  - name: MISO Newsroom
+    url: https://www.misoenergy.org/about/media-center/
+    category: ISO/RTO
+    html: true
+
+  - name: SPP News
+    url: https://spp.org/newsroom/
+    category: ISO/RTO
+    html: true
+
+  - name: PJM Inside Lines
+    url: https://insidelines.pjm.com/feed/
+    category: ISO/RTO
+
+  - name: CAISO News
+    url: https://www.caiso.com/about/newsroom
+    category: ISO/RTO
+    html: true
+
+  - name: NYISO News
+    url: https://www.nyiso.com/documents/20142/RSS
+    category: ISO/RTO
+    html: true
+
+  - name: ISO New England
+    url: https://www.iso-ne.com/about/news-media/press-releases
+    category: ISO/RTO
+    html: true
+
+  # ---------------- Regulatory / Reliability ----------------
+  - name: FERC News
+    url: https://www.ferc.gov/rss.xml
+    category: Regulatory
+
+  - name: NERC News
+    url: https://www.nerc.com/news/Pages/default.aspx
+    category: Regulatory
+    html: true
+
+  - name: DOE Energy News
+    url: https://www.energy.gov/rss.xml
+    category: Regulatory
+
+  # ---------------- Trade press ----------------
+  - name: Utility Dive
+    url: https://www.utilitydive.com/feeds/news/
+    category: Trade Press
+
+  - name: T&D World
+    url: https://www.tdworld.com/rss.xml
+    category: Trade Press
+
+  - name: Canary Media
+    url: https://www.canarymedia.com/feed
+    category: Trade Press
+
+  - name: RTO Insider
+    url: https://www.rtoinsider.com/feed/
+    category: Trade Press
+
+  - name: POWER Magazine
+    url: https://www.powermag.com/feed/
+    category: Trade Press
+
+  # ---------------- Data centers / load growth ----------------
+  - name: Data Center Dynamics
+    url: https://www.datacenterdynamics.com/en/rss/
+    category: Data Centers & Load Growth
+
+  - name: Data Center Frontier
+    url: https://www.datacenterfrontier.com/rss.xml
+    category: Data Centers & Load Growth
+
+  # ---------------- DER / Grid Modernization ----------------
+  - name: Microgrid Knowledge
+    url: https://www.microgridknowledge.com/feed
+    category: DER & Grid Modernization
+
+  - name: Smart Electric Power Alliance (SEPA)
+    url: https://sepapower.org/feed/
+    category: DER & Grid Modernization
+
+# How many days back to keep an item in the feed/digest
+retention_days: 21
+
+# How many of the newest items go into the emailed/Slack digest per category
+digest_items_per_category: 5

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Energy Pulse — Digest Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark">⏚</span>
+        <div class="brand-text">
+          <h1>Digest Archive</h1>
+          <p class="tagline"><a href="index.html" style="color:inherit">← back to live feed</a></p>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main>
+    <div id="digestList" class="article-grid" style="grid-template-columns: 1fr;">
+      <p class="loading">Loading digests…</p>
+    </div>
+  </main>
+  <script>
+    // Digests are saved as docs/digests/<date>.md by scripts/send_digest.py.
+    // GitHub Pages has no directory listing API, so we keep a small index file
+    // (data/digest_index.json) updated alongside each run — see README for the
+    // one-line addition if you want this fully automatic, or just browse the
+    // docs/digests/ folder directly on GitHub in the meantime.
+    fetch("data/digest_index.json").then(r => r.json()).then(dates => {
+      const list = document.getElementById("digestList");
+      if (!dates.length) {
+        list.innerHTML = '<p class="empty">No digests yet — check back after the next scheduled run.</p>';
+        return;
+      }
+      list.innerHTML = dates.map(d => `
+        <article class="card">
+          <h3><a href="digests/${d}.md" target="_blank">${d}</a></h3>
+        </article>
+      `).join("");
+    }).catch(() => {
+      document.getElementById("digestList").innerHTML =
+        '<p class="empty">No digests yet — check back after the next scheduled run.</p>';
+    });
+  </script>
+</body>
+</html>
