@@ -6,8 +6,13 @@ const CATEGORY_CLASS = {
   "DER & Grid Modernization": "der",
 };
 
+// Sort priority when "All regions" is selected — Texas/South Central first
+// since that's the primary use case, everything else newest-first after that.
+const REGION_PRIORITY = ["Texas / South Central"];
+
 let ALL_ARTICLES = [];
 let ACTIVE_CATEGORY = "all";
+let ACTIVE_REGION = "all";
 
 function timeAgo(iso) {
   const then = new Date(iso);
@@ -27,6 +32,9 @@ function render() {
   if (ACTIVE_CATEGORY !== "all") {
     items = items.filter(a => a.category === ACTIVE_CATEGORY);
   }
+  if (ACTIVE_REGION !== "all") {
+    items = items.filter(a => a.region === ACTIVE_REGION);
+  }
   if (query) {
     items = items.filter(a =>
       a.title.toLowerCase().includes(query) ||
@@ -44,7 +52,7 @@ function render() {
     <article class="card">
       <div class="card-meta">
         <span class="card-category ${CATEGORY_CLASS[a.category] || ''}">${a.category}</span>
-        <span>${timeAgo(a.published)}</span>
+        <span>${escapeHtml(a.region || '')} · ${timeAgo(a.published)}</span>
       </div>
       <h3><a href="${a.link}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
       ${a.summary ? `<p>${escapeHtml(a.summary)}</p>` : ""}
@@ -59,27 +67,29 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
-function buildTabs(categories) {
-  const tabsEl = document.getElementById("filterTabs");
-  categories.forEach(cat => {
+function buildTabGroup(containerId, values, onSelect) {
+  const el = document.getElementById(containerId);
+  values.forEach(val => {
     const btn = document.createElement("button");
     btn.className = "tab";
-    btn.textContent = cat;
-    btn.dataset.category = cat;
+    btn.textContent = val;
+    btn.dataset.value = val;
     btn.addEventListener("click", () => {
-      document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+      el.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
       btn.classList.add("active");
-      ACTIVE_CATEGORY = cat;
+      onSelect(val);
       render();
     });
-    tabsEl.appendChild(btn);
+    el.appendChild(btn);
   });
+}
 
-  document.querySelector('.tab[data-category="all"]').addEventListener("click", (e) => {
-    document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
-    e.target.classList.add("active");
-    ACTIVE_CATEGORY = "all";
-    render();
+function sortArticles(articles) {
+  return [...articles].sort((a, b) => {
+    const aPri = REGION_PRIORITY.includes(a.region) ? 0 : 1;
+    const bPri = REGION_PRIORITY.includes(b.region) ? 0 : 1;
+    if (aPri !== bPri) return aPri - bPri;
+    return new Date(b.published) - new Date(a.published);
   });
 }
 
@@ -87,14 +97,39 @@ async function init() {
   try {
     const res = await fetch("data/articles.json", { cache: "no-store" });
     const data = await res.json();
-    ALL_ARTICLES = data.articles || [];
+    ALL_ARTICLES = sortArticles(data.articles || []);
 
     document.getElementById("statCount").textContent = `${data.count} articles tracked`;
     document.getElementById("statUpdated").textContent =
       `last updated ${new Date(data.generated_at).toLocaleString()}`;
 
     const categories = [...new Set(ALL_ARTICLES.map(a => a.category))].sort();
-    buildTabs(categories);
+    const regions = [...new Set(ALL_ARTICLES.map(a => a.region).filter(Boolean))].sort(
+      (a, b) => (REGION_PRIORITY.includes(a) ? -1 : 0) - (REGION_PRIORITY.includes(b) ? -1 : 0)
+        || a.localeCompare(b)
+    );
+
+    buildTabGroup("filterTabs", categories, (val) => { ACTIVE_CATEGORY = val; });
+    document.querySelector('#filterTabs .tab[data-value="all"]') ||
+      document.getElementById("filterTabs").insertAdjacentHTML("afterbegin",
+        '<button class="tab active" data-value="all">All</button>');
+    document.querySelector('#filterTabs .tab[data-value="all"]').addEventListener("click", (e) => {
+      document.querySelectorAll('#filterTabs .tab').forEach(t => t.classList.remove("active"));
+      e.target.classList.add("active");
+      ACTIVE_CATEGORY = "all";
+      render();
+    });
+
+    buildTabGroup("regionTabs", regions, (val) => { ACTIVE_REGION = val; });
+    document.getElementById("regionTabs").insertAdjacentHTML("afterbegin",
+      '<button class="tab active" data-value="all">All regions</button>');
+    document.querySelector('#regionTabs .tab[data-value="all"]').addEventListener("click", (e) => {
+      document.querySelectorAll('#regionTabs .tab').forEach(t => t.classList.remove("active"));
+      e.target.classList.add("active");
+      ACTIVE_REGION = "all";
+      render();
+    });
+
     render();
   } catch (e) {
     document.getElementById("articleGrid").innerHTML =

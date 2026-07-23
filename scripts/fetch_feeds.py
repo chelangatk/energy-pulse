@@ -12,6 +12,7 @@ Run in CI:     see .github/workflows/update.yml
 """
 import hashlib
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -27,6 +28,21 @@ CONFIG_PATH = ROOT / "config" / "feeds.yaml"
 OUTPUT_PATH = ROOT / "docs" / "data" / "articles.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EnergyPulseBot/1.0; +https://github.com/)"}
 REQUEST_TIMEOUT = 20
+
+# Words/phrases that mark a link as site navigation/footer chrome rather than
+# an actual news item. Checked against the lowercased link text.
+NAV_TEXT_BLOCKLIST = [
+    "about us", "careers", "contact", "mission", "vision", "values",
+    "workforce", "stakeholder", "environmental stewardship", "diversity",
+    "code of conduct", "governance", "meeting materials", "notice of recorded",
+    "market monitoring", "hotline", "conference materials", "member info",
+    "our highly skilled", "living in", "state profiles", "financial and performance",
+    "annual report", "fast facts", "slideshow", "government and industry affairs",
+    "documents filings", "presentations and conference", "regional electricity outlook",
+    "key grid and market stats", "batteries as energy storage",
+]
+# href fragments that suggest an actual news/press article
+NEWS_URL_HINTS = re.compile(r"(news|press|media|release|article|story|blog|/20\d{2}/)", re.I)
 
 
 def load_config():
@@ -69,6 +85,7 @@ def fetch_rss(source):
                 "summary": summary[:400],
                 "source": source["name"],
                 "category": source["category"],
+                "region": source.get("region", "National"),
                 "published": safe_date(entry).isoformat(),
             })
     except Exception as e:
@@ -76,10 +93,21 @@ def fetch_rss(source):
     return items
 
 
+def looks_like_nav(text, href):
+    lower = text.lower()
+    if any(phrase in lower for phrase in NAV_TEXT_BLOCKLIST):
+        return True
+    # Prefer links whose URL actually looks like a news/press article; if the
+    # URL gives no such hint at all, treat it as likely nav chrome.
+    if not NEWS_URL_HINTS.search(href):
+        return True
+    return False
+
+
 def fetch_html_fallback(source):
-    """Best-effort: grab anchor tags that look like headlines from a news/press page.
-    This is intentionally conservative — it's meant to surface links, not full articles.
-    Expect to hand-tune per site if a source's markup changes."""
+    """Best-effort: grab anchor tags that look like headlines from a news/press page,
+    filtering out obvious site-navigation links. Still lower-confidence than real
+    RSS — hand-tune NAV_TEXT_BLOCKLIST / NEWS_URL_HINTS per site if needed."""
     items = []
     try:
         resp = requests.get(source["url"], headers=HEADERS, timeout=REQUEST_TIMEOUT)
@@ -96,6 +124,8 @@ def fetch_html_fallback(source):
                 href = base + href
             if not href.startswith("http"):
                 continue
+            if looks_like_nav(text, href):
+                continue
             key = (text, href)
             if key in seen:
                 continue
@@ -107,6 +137,7 @@ def fetch_html_fallback(source):
                 "summary": "",
                 "source": source["name"],
                 "category": source["category"],
+                "region": source.get("region", "National"),
                 "published": datetime.now(timezone.utc).isoformat(),
             })
             if len(items) >= 15:

@@ -37,9 +37,11 @@
   <main>
     <div class="controls">
       <input type="search" id="searchBox" placeholder="Search headlines, sources…" aria-label="Search articles" />
-      <div class="filter-tabs" id="filterTabs">
-        <button class="tab active" data-category="all">All</button>
-        <!-- populated by JS -->
+      <div class="filter-tabs" id="regionTabs" aria-label="Filter by region">
+        <!-- populated by JS: All regions, Texas / South Central, Midwest, Northeast, West, National... -->
+      </div>
+      <div class="filter-tabs" id="filterTabs" aria-label="Filter by category">
+        <!-- populated by JS: All, ISO/RTO, Regulatory, Trade Press, ... -->
       </div>
     </div>
 

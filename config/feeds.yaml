@@ -1,104 +1,129 @@
 # Energy Pulse — source configuration
-# Add/remove/edit sources here. Each source needs: name, url (RSS/Atom feed), category.
-# Categories drive the filter tabs on the site and the digest section headers.
+# Add/remove/edit sources here. Each source needs: name, url (RSS/Atom feed),
+# category, and region.
+#
+# region is free text used for the region filter on the site. Suggested values:
+#   "Texas / South Central" | "Midwest" | "Northeast" | "West" | "Southeast" | "National"
 #
 # NOTE: Some organizations (ERCOT, MISO, SPP, etc.) don't publish clean RSS for
 # press releases. Where a real RSS feed isn't available, we point at a page and
-# flag "html: true" so the fetcher falls back to a lightweight scrape of link
-# titles. Verify/adjust these periodically — org websites change structure.
+# flag "html: true" so the fetcher falls back to a lightweight scrape. The
+# fetcher filters out obvious nav/footer links (About, Careers, Contact, etc.)
+# but these sources are still lower-confidence than real RSS — check them
+# after a run and prune/tune as needed.
 
 sources:
   # ---------------- ISOs / RTOs (grid operators) ----------------
   - name: ERCOT News
     url: https://www.ercot.com/news
     category: ISO/RTO
+    region: Texas / South Central
     html: true
 
   - name: EIA Today in Energy
     url: https://www.eia.gov/rss/todayinenergy.xml
     category: ISO/RTO
+    region: National
 
   - name: MISO Newsroom
     url: https://www.misoenergy.org/about/media-center/
     category: ISO/RTO
+    region: Midwest
     html: true
 
   - name: SPP News
     url: https://spp.org/newsroom/
     category: ISO/RTO
+    region: Midwest
     html: true
 
   - name: PJM Inside Lines
     url: https://insidelines.pjm.com/feed/
     category: ISO/RTO
+    region: Northeast
 
   - name: CAISO News
     url: https://www.caiso.com/about/newsroom
     category: ISO/RTO
+    region: West
     html: true
 
   - name: NYISO News
     url: https://www.nyiso.com/documents/20142/RSS
     category: ISO/RTO
+    region: Northeast
     html: true
 
   - name: ISO New England
     url: https://www.iso-ne.com/about/news-media/press-releases
     category: ISO/RTO
+    region: Northeast
     html: true
 
   # ---------------- Regulatory / Reliability ----------------
   - name: FERC News
     url: https://www.ferc.gov/rss.xml
     category: Regulatory
+    region: National
 
   - name: NERC News
     url: https://www.nerc.com/news/Pages/default.aspx
     category: Regulatory
+    region: National
     html: true
 
   - name: DOE Energy News
     url: https://www.energy.gov/rss.xml
     category: Regulatory
+    region: National
 
   # ---------------- Trade press ----------------
   - name: Utility Dive
     url: https://www.utilitydive.com/feeds/news/
     category: Trade Press
+    region: National
 
   - name: T&D World
     url: https://www.tdworld.com/rss.xml
     category: Trade Press
+    region: National
 
   - name: Canary Media
     url: https://www.canarymedia.com/feed
     category: Trade Press
+    region: National
 
   - name: RTO Insider
     url: https://www.rtoinsider.com/feed/
     category: Trade Press
+    region: National
 
   - name: POWER Magazine
     url: https://www.powermag.com/feed/
     category: Trade Press
+    region: National
 
   # ---------------- Data centers / load growth ----------------
   - name: Data Center Dynamics
     url: https://www.datacenterdynamics.com/en/rss/
     category: Data Centers & Load Growth
+    region: National
 
   - name: Data Center Frontier
     url: https://www.datacenterfrontier.com/rss.xml
     category: Data Centers & Load Growth
+    region: National
 
   # ---------------- DER / Grid Modernization ----------------
   - name: Microgrid Knowledge
     url: https://www.microgridknowledge.com/feed
     category: DER & Grid Modernization
+    region: National
 
   - name: Smart Electric Power Alliance (SEPA)
     url: https://sepapower.org/feed/
     category: DER & Grid Modernization
+    region: National
 
 # How many days back to keep an item in the feed/digest
 retention_days: 21
