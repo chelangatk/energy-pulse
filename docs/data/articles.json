@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-07-23T20:51:29.393777+00:00",
-  "count": 160,
+  "generated_at": "2026-07-23T21:12:23.324075+00:00",
+  "count": 166,
   "articles": [
+    {
+      "id": "623b1a9c6e498a89",
+      "title": "Auction Reports and Supporting Data",
+      "link": "https://www.iso-ne.com/markets-operations/iso-express/auctions-reports",
+      "summary": "",
+      "source": "ISO New England",
+      "category": "ISO/RTO",
+      "region": "Northeast",
+      "published": "2026-07-23T21:12:20.378998+00:00"
+    },
+    {
+      "id": "92273bfbfe140fca",
+      "title": "Billing, Settlements, and Tariff Reports",
+      "link": "https://www.iso-ne.com/markets-operations/iso-express/billing-settlements-and-tariff-reports",
+      "summary": "",
+      "source": "ISO New England",
+      "category": "ISO/RTO",
+      "region": "Northeast",
+      "published": "2026-07-23T21:12:20.378984+00:00"
+    },
+    {
+      "id": "b28b7b610ec8f487",
+      "title": "Energy, Load, and Demand Reports",
+      "link": "https://www.iso-ne.com/markets-operations/iso-express/load-and-demand-reports",
+      "summary": "",
+      "source": "ISO New England",
+      "category": "ISO/RTO",
+      "region": "Northeast",
+      "published": "2026-07-23T21:12:20.378966+00:00"
+    },
+    {
+      "id": "c938b6e4e2ffd8ca",
+      "title": "Real-Time Maps and Charts",
+      "link": "https://www.iso-ne.com/markets-operations/iso-express/real-time-maps-and-charts",
+      "summary": "",
+      "source": "ISO New England",
+      "category": "ISO/RTO",
+      "region": "Northeast",
+      "published": "2026-07-23T21:12:20.378935+00:00"
+    },
+    {
+      "id": "660f691e86a39ce7",
+      "title": "SPP\u2019s Markets+ tariff receives FERC approval",
+      "link": "https://spp.org/newsroom/press-releases/spp-s-marketsplus-tariff-receives-ferc-approval/",
+      "summary": "",
+      "source": "SPP News",
+      "category": "ISO/RTO",
+      "region": "Midwest",
+      "published": "2026-07-23T21:12:18.525199+00:00"
+    },
+    {
+      "id": "bbedce0439e84787",
+      "title": "February 2021 Extreme Weather Event",
+      "link": "https://www.ercot.com/news/february2021",
+      "summary": "",
+      "source": "ERCOT News",
+      "category": "ISO/RTO",
+      "region": "Texas / South Central",
+      "published": "2026-07-23T21:12:17.053199+00:00"
+    },
+    {
+      "id": "371ba492b1a539ad",
+      "title": "Federal Court Upholds NRC\u2019s Generic Severe-Accident Review for Nuclear Plant License Renewals",
+      "link": "https://www.powermag.com/federal-court-upholds-nrcs-generic-severe-accident-review-for-nuclear-plant-license-renewals/",
+      "summary": "A federal appeals court has upheld the Nuclear Regulatory Commission\u2019s (NRC\u2019s) use of a generic environmental analysis for nuclear plant license renewals, rejecting claims that the agency failed to adequately consider how aging components and climate change could affect the risk of severe reactor accidents. The July 21 decision from the U.S. Court of Appeals [\u2026]\nThe post Federal Court Upholds NRC\u2019",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T20:54:34+00:00"
+    },
     {
       "id": "18990713c69aeb37",
       "title": "Group Health Plan Transparency in Coverage",
@@ -190,15 +260,6 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "published": "2026-07-23T20:51:23.576672+00:00"
-    },
-    {
-      "id": "660f691e86a39ce7",
-      "title": "SPP\u2019s Markets+ tariff receives FERC approval",
-      "link": "https://spp.org/newsroom/press-releases/spp-s-marketsplus-tariff-receives-ferc-approval/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576658+00:00"
     },
     {
       "id": "8942e7d28c1288cb",
@@ -423,6 +484,7 @@
       "summary": "Systems expected to recover as issue is rolled back",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T19:04:00+00:00"
     },
     {
@@ -432,6 +494,7 @@
       "summary": "Will help developers incorporate rack into AI data centers",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T19:00:00+00:00"
     },
     {
@@ -441,6 +504,7 @@
       "summary": "Helios and Cerebras go up against Nvidia's NVL72 and Groq LPX",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T17:32:00+00:00"
     },
     {
@@ -450,6 +514,7 @@
       "summary": "As part of ongoing 6GW AMD rollout",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T17:22:00+00:00"
     },
     {
@@ -459,6 +524,7 @@
       "summary": "The UC Berkeley analysis should be welcome news for a manufacturing industry that is heavily reliant on natural gas, with its volatile prices, said\u00a0Jose Dominguez, one of the report\u2019s authors.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T17:17:17+00:00"
     },
     {
@@ -468,6 +534,7 @@
       "summary": "Company has already tested the beefy AI rack",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T17:02:00+00:00"
     },
     {
@@ -477,6 +544,7 @@
       "summary": "Targets both frontier AI and supercomputing",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:46:45+00:00"
     },
     {
@@ -486,6 +554,7 @@
       "summary": "Following ZT acquisition, company looks to compete with Nvidia's system-level approach",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:45:00+00:00"
     },
     {
@@ -495,6 +564,7 @@
       "summary": "Financial terms of the deal have not been disclosed",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:30:30+00:00"
     },
     {
@@ -504,6 +574,7 @@
       "summary": "Data center would be developed in phases over five years",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:30:28+00:00"
     },
     {
@@ -513,6 +584,7 @@
       "summary": "Firm's first US project revealed",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:14:47+00:00"
     },
     {
@@ -522,6 +594,7 @@
       "summary": "Company goes vertical in Umatilla",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:10:33+00:00"
     },
     {
@@ -531,6 +604,7 @@
       "summary": "Training initiative aims to meet America\u2019s growing demand for skilled trades workers",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:10:33+00:00"
     },
     {
@@ -540,6 +614,7 @@
       "summary": "Will see the firms integrate their systems",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:10:31+00:00"
     },
     {
@@ -549,6 +624,7 @@
       "summary": "GE Vernova is taking reservations for 2031 deliveries now, said CEO Scott Strazik. He spoke of an increasingly diverse customer base, including data centers.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T16:07:52+00:00"
     },
     {
@@ -558,6 +634,7 @@
       "summary": "Company adds bare-metal rack capacity to two data center sites",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:00:37+00:00"
     },
     {
@@ -567,6 +644,7 @@
       "summary": "NextDC is the primary developer of the 612MW facility",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:00:36+00:00"
     },
     {
@@ -576,6 +654,7 @@
       "summary": "The GPU kingpin on life beyond the GPU",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T16:00:34+00:00"
     },
     {
@@ -585,6 +664,7 @@
       "summary": "As the Network-as-a-Service provider continues to enter neocloud race",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T15:50:28+00:00"
     },
     {
@@ -594,6 +674,7 @@
       "summary": "CEO Christian Hillabrant says towercos can help to ease some of the data center challenges",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T15:50:26+00:00"
     },
     {
@@ -603,6 +684,7 @@
       "summary": "A major operator of power plants in the U.S. has a new name. IHI Power Services Corp. (IPSC) will now be known as Kyuden Energy Partners Corp. after the company finalized its acquisition by Japan-headquartered Kyuden International.\nThe post IHI Power Services Rebrands After Acquisition by Japan\u2019s Kyuden appeared first on POWER Magazine.",
       "source": "POWER Magazine",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T15:48:14+00:00"
     },
     {
@@ -612,6 +694,7 @@
       "summary": "Aims to provide greater redundancy",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T15:42:02+00:00"
     },
     {
@@ -621,6 +704,7 @@
       "summary": "Danish-Ukrainian joint constellation project perseveres despite CEO passing away",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
       "published": "2026-07-23T15:40:24+00:00"
     },
     {
@@ -630,6 +714,7 @@
       "summary": "A California-based solar power equipment group said it has signed two separate five-year, 5-GW commercialization partnerships with a pair of India's leading solar module manufacturers.\nThe post Caelux Signs Partnership Deals With Leading India Solar Module Makers appeared first on POWER Magazine.",
       "source": "POWER Magazine",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T15:06:29+00:00"
     },
     {
@@ -639,6 +724,7 @@
       "summary": "With so much riding on America's AI ambitions, utility workforce strategy must have a place alongside generation, transmission and capital planning, writes Stefan Hirniak, president of Specialist Staffing\u00a0Group US.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T15:00:00+00:00"
     },
     {
@@ -648,6 +734,7 @@
       "summary": "Why Generative Engine Optimization Is the Next Reputation Management Secret Weapon for Energy Brands Energy has become a kitchen-table issue. Bills are climbing. Data centers are being built at a breakneck pace, and new technologies are being launched faster than ever before, often facing NIMBY concerns. As customers and stakeholders look for answers, they may [\u2026]\nThe post Your Customers Are Askin",
       "source": "POWER Magazine",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T14:31:18+00:00"
     },
     {
@@ -657,6 +744,7 @@
       "summary": "\u201cAny export of power ... necessarily makes that power unavailable to domestic customers,\u201d potentially contributing to inadequate supplies for a region, Public Citizen said.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T13:33:10+00:00"
     },
     {
@@ -666,6 +754,7 @@
       "summary": "Data centers, competition in the transmission sector and PJM Interconnection governance reform were other key topics at the Senate Energy and Natural Resources Committee hearing.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T12:41:39+00:00"
     },
     {
@@ -675,6 +764,7 @@
       "summary": "Hawaii began developing a VPP grid-services program, two utilities proposed innovative pilot programs, Illinois and Maryland pushed forward with Herculean virtual power plant (VPP) efforts, and Virginia enacted a swarm of new laws \u2014 all during the past three months. This quarterly update from the Smart Electric Power Alliance (SEPA) and the N.C. Clean Energy [\u2026]\nThe post VPP and Supporting DER Pol",
       "source": "Smart Electric Power Alliance (SEPA)",
       "category": "DER & Grid Modernization",
+      "region": "National",
       "published": "2026-07-23T12:20:05+00:00"
     },
     {
@@ -684,6 +774,7 @@
       "summary": "When the largest solar farm in Indiana came online in early 2025, nearby residents in rural Jasper County were not exactly excited.   \u201cIt will mess up their fields,\u201d said long-time resident Gena Carlson, referring to solar panels on farmers\u2019 land. Carlson\u2019s concerns, which were echoed by other locals, highlight the\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T07:30:00+00:00"
     },
     {
@@ -693,6 +784,7 @@
       "summary": "An enormous shed sits on a ridge northeast of Calumet, Minnesota, along the state\u2019s Iron Range , visible for miles to drivers rushing by on Highway 169.  To reach it by car, I exited the highway at Nashwauk (population 950, give or take) and drove down a lonely county road, eventually pulling up to a security\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T07:30:00+00:00"
     },
     {
@@ -702,6 +794,7 @@
       "summary": "As wildfires spread across the Pacific Northwest, utilities in Washington and Oregon are on high alert with conditions indicating 2026 could be a more active fire season compared to recent years.\nThe post Pacific NW Utilities \u2018Share Awareness\u2019 as Wildfire Danger Builds appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T00:57:31+00:00"
     },
     {
@@ -711,6 +804,7 @@
       "summary": "A study by a subregional transmission planning group found that Arizona\u2019s grid would be \u201cgenerally robust\u201d in 2035, while pointing to potential problems if specific projects are delayed.\nThe post 2035 \u2018Snapshot\u2019 Report Pinpoints Problem Areas for Arizona Grid appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T00:55:50+00:00"
     },
     {
@@ -720,6 +814,7 @@
       "summary": "GE Vernova reported a familiar picture in its second-quarter earnings: healthy revenue increases for its power and electrification businesses and continued losses in its wind segment.\nThe post GE Vernova Reports Continued Strong Demand for Gas Turbines appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T00:45:33+00:00"
     },
     {
@@ -729,6 +824,7 @@
       "summary": "The Senate Energy and Natural Resources Committee questioned FERC commissioners about the recent large load proceedings.\nThe post Senate ENR Questions FERC Commissioners on Large Load Proceedings appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T00:37:59+00:00"
     },
     {
@@ -738,6 +834,7 @@
       "summary": "The Solar Energy Industries Association is urging policymakers and regulators to establish more consistent cybersecurity requirements for solar and energy storage systems, warning that rapid growth of the resources is outpacing existing regulatory frameworks.\nThe post SEIA Calls for Tighter Cybersecurity Standards for Solar, Storage appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-23T00:35:11+00:00"
     },
     {
@@ -747,6 +844,7 @@
       "summary": "ISO-NE\u2019s wholesale markets performed well throughout extreme conditions over the past winter, the RTO\u2019s Internal Market Monitor told NEPOOL stakeholders.\nThe post ISO-NE Monitor Details Market Performance in Tight Winter Conditions appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T23:03:44+00:00"
     },
     {
@@ -756,6 +854,7 @@
       "summary": "MISO has suspended the use of webcams by attendees during its teleconferences after a sexually explicit video was shown momentarily during a recent meeting.\nThe post MISO Blocks Webcam Use in Meetings Following Explicit Video appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T23:02:21+00:00"
     },
     {
@@ -765,6 +864,7 @@
       "summary": "FERC has denied the Lansing Board of Water and Light\u2019s late entry into MISO\u2019s 2026/27 capacity auction, forcing the municipal utility to find ways to offload duplicative capacity that was unwittingly purchased at the auction\u2019s $400/MW-day summer premium.\nThe post FERC Rejects Mich. Muni\u2019s Late Entry into MISO Capacity Auction appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T23:01:26+00:00"
     },
     {
@@ -774,6 +874,7 @@
       "summary": "IESO is advancing market rule changes to resolve three of five real-time scheduling problems identified in its pseudo-unit reference card, which explains temporary procedures for managing them.\nThe post Combined-cycle Scheduling Flaws Prompt IESO Market Rule Changes appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T22:59:39+00:00"
     },
     {
@@ -783,6 +884,7 @@
       "summary": "A new BloombergNEF report projects data centers could account for 12% of U.S. electricity consumption in 2030 and 20% in 2035.\nThe post Data Center Electricity Demand Projected to Soar appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T22:50:42+00:00"
     },
     {
@@ -792,6 +894,7 @@
       "summary": "The explosion of artificial intelligence (AI) computing is, for most utilities, a problem to be absorbed: gigawatts of new data-center demand arriving faster than transmission can be planned or built. The U.S. Department of Energy\u2019s (DOE\u2019s) Genesis Mission does not dispute that framing. But buried in the national research portfolio it unveiled July 22 is [\u2026]\nThe post AI Is Usually Cast as a Grid B",
       "source": "POWER Magazine",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T21:09:01+00:00"
     },
     {
@@ -801,6 +904,7 @@
       "summary": "More than 800 electric utilities have approved GPP\u2019s GenerLink transfer switch, which provides backup power for outlets and hardwired appliances at significantly lower cost than a standby generator, Ford says.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T17:08:52+00:00"
     },
     {
@@ -810,6 +914,7 @@
       "summary": "Cutting utility returns won't lower electric bills and will leave us with a more fragile power grid, writes\u00a0Scott Aaronson, former\u00a0secretary of the Electricity Subsector Coordinating Council.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T14:27:22+00:00"
     },
     {
@@ -819,6 +924,7 @@
       "summary": "Integrated resource planning would give regulators a clearer long-term picture of electricity needs before major energy investments are approved, advocates say.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T14:16:18+00:00"
     },
     {
@@ -828,6 +934,7 @@
       "summary": "For the week ending July 17, 2026, commercial crude oil inventories (excluding the Strategic Petroleum Reserve) increased 2.0 million barrels to 411.7 million barrels, 6% below the previous five-year (2021\u20132025) average. Gasoline inventories increased 0.8 million barrels, 7% below the five-year average. Distillate inventories increased 1.4 million barrels, 10% below the five-year average. Propane/",
       "source": "EIA Today in Energy",
       "category": "ISO/RTO",
+      "region": "National",
       "published": "2026-07-22T09:00:00+00:00"
     },
     {
@@ -837,6 +944,7 @@
       "summary": "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America\u2019s grid. And across the country, more state legislatures are passing laws to streamline renewable development than are enacting policies to prevent clean energy from being built.  That\u2019s the good news from the Siting\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T07:30:00+00:00"
     },
     {
@@ -846,6 +954,7 @@
       "summary": "Ohio has made $100 million available for new energy projects in the state, but critics are pushing back on the decision to bar renewable energy projects from accessing the funds \u2014 and on the lack of transparency around the process.  The JobsOhio Energy Opportunity Initiative was announced by Republican Gov. Mike\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T07:30:00+00:00"
     },
     {
@@ -855,6 +964,7 @@
       "summary": "This story was originally published by Grist . Sign up for Grist's weekly newsletter .    If you wanted to save some money by learning how to check your home for air leaks, poor insulation, and power-hungry light bulbs, the Department of Energy\u2019s website was ready to help. And if you needed an expert, the site guided\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-22T07:30:00+00:00"
     },
     {
@@ -864,6 +974,7 @@
       "summary": "The Marigold Energy Center, about 45 miles south of Phoenix, would include 400 MW of battery storage, 600 MW of solar generation, up to 675 MW of gas generation and a new substation.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-21T16:16:37+00:00"
     },
     {
@@ -873,6 +984,7 @@
       "summary": "The rise in emissions was linked to increased electricity generation and coal use, the U.S. Energy Information Administration said.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-21T16:06:48+00:00"
     },
     {
@@ -882,6 +994,7 @@
       "summary": "How utilities can turn unprecedented load growth into affordability, resilience and economic value.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-21T15:02:38+00:00"
     },
     {
@@ -891,6 +1004,7 @@
       "summary": "Renewable energy developer Avantus said its Aratina 1 solar-plus-storage project has entered commercial operation in California. The 200-MW/500-MWh installation in Kern County has long-term power purchase agreements (PPAs) with Central Coast Community Energy (3CE) and Silicon Valley Clean Energy (SVCE), a pair of community choice aggregators.\nThe post Avantus Brings Aratina 1 Solar-Plus-Storage On",
       "source": "POWER Magazine",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-21T14:40:06+00:00"
     },
     {
@@ -900,6 +1014,7 @@
       "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.  Starting in four counties in the southeastern part of the state, the company will provide customers with a 15-kilowatt-hour home\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-21T12:00:00+00:00"
     },
     {
@@ -909,6 +1024,7 @@
       "summary": "A hands-on form of solar power has electrified the U.S. in the past year. Plug-in solar lets anyone hang a few panels in the sunlight and send the power straight into their wall sockets to partially offset their utility bill. It extends the benefits of clean energy, a little bit at a time, to renters and anyone else\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-21T07:30:00+00:00"
     },
     {
@@ -918,6 +1034,7 @@
       "summary": "Brandon Oyer, director of energy and water for Amazon Web Services (AWS), discusses how Amazon invests in carbon-free energy, strengthens grids, and ensures communities benefit from data center growth.  Oyer leads energy and water strategy for AWS, but his path to that role was unconventional. He spent years serving\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-21T07:30:00+00:00"
     },
     {
@@ -927,6 +1044,7 @@
       "summary": "Artificial intelligence and high-performance computing have helped electrical utilities modernize how they model, forecast, and manage grid operations. These tools already play a central role in maintaining reliability, balancing supply and demand, and planning new infrastructure. But as electrical grids become more distributed, data-intensive, and renewable-heavy, some of the most complex decisio",
       "source": "POWER Magazine",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-21T00:16:09+00:00"
     },
     {
@@ -936,6 +1054,7 @@
       "summary": "Power industry severe service applications can be difficult, but new advanced trim designs and external noise reduction devices have created higher-performing and more cost-effective alternatives. Power industry applications practically define the phrase \u201csevere service.\u201d Elevated temperatures and pressures, cavitation, erosive solids, and high noise all conspire to push control valve technology t",
       "source": "POWER Magazine",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T22:27:41+00:00"
     },
     {
@@ -945,6 +1064,7 @@
       "summary": "CEO Michael Grasso of Grid Rails AI explains that ComEd's SDVPP program approval matters beyond Illinois because it demonstrates VPPs are moving from pilot projects into mainstream utility planning.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T20:03:17+00:00"
     },
     {
@@ -954,6 +1074,7 @@
       "summary": "President Trump\u2019s four nuclear executive orders issued on May 23, 2025, represented a historic liftoff for American nuclear energy. COMMENTARY As electricity demand surges, geopolitical energy competition intensifies, and America\u2019s power infrastructure faces mounting strain, the administration acted decisively. It recognized that American energy dominance\u2014and leadership in the digital age\u2014requires",
       "source": "POWER Magazine",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T19:16:09+00:00"
     },
     {
@@ -963,6 +1084,7 @@
       "summary": "",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T18:15:36+00:00"
     },
     {
@@ -972,6 +1094,7 @@
       "summary": "For years, utility wildfire liability was largely framed around a straightforward question: who caused the fire? That question still matters, but it is no longer the only one that matters.\nThe post Wildfire Liability Is Becoming a Data Problem, Not Just a Legal One appeared first on POWER Magazine.",
       "source": "POWER Magazine",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T17:50:33+00:00"
     },
     {
@@ -990,6 +1113,7 @@
       "summary": "As concrete remains the second most consumed material worldwide, emerging eco-friendly alternatives like biomason's bio-cement and volcanic rock cement are paving the way for greener construction practices and reduced carbon footprints.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T15:35:17+00:00"
     },
     {
@@ -999,6 +1123,7 @@
       "summary": "The order emphasizes the importance of seamless coordination between regional grid operators and neighboring authorities to enhance reliability and market efficiency amid expanding regional participation and complex transmission operations.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T15:31:34+00:00"
     },
     {
@@ -1008,6 +1133,7 @@
       "summary": "A coalition of 18 states and Washington, D.C., has moved to join an industry lawsuit challenging the Department of Defense\u2019s freeze on onshore wind projects in America.  It\u2019s the latest in a nearly yearlong saga during which the Trump administration has obstructed more than 155 land-based wind projects across the\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T09:30:00+00:00"
     },
     {
@@ -1017,6 +1143,7 @@
       "summary": "On July 3, 2026, the New York Independent System Operator (NYISO) imported 52 gigawatthours (GWh) of electricity from Canada, the most traded between the two areas since January 2025. Some of the imported electricity flowed along the new Champlain Hudson Power Express (CHPE) transmission line between Quebec, Canada, and New York City, which officially reached commercial operations in May after thr",
       "source": "EIA Today in Energy",
       "category": "ISO/RTO",
+      "region": "National",
       "published": "2026-07-20T09:00:00+00:00"
     },
     {
@@ -1026,6 +1153,7 @@
       "summary": "Over two decades ago, Ormat Technologies began a big experiment on a swath of rugged land near the Hot Springs Mountains in western Nevada.  The geothermal company was already producing electricity there, using the heat found naturally in hot water and steam trapped beneath the earth\u2019s surface. But in 2002, Ormat and\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T07:30:00+00:00"
     },
     {
@@ -1035,6 +1163,7 @@
       "summary": "Massachusetts state senators are taking aim at a pipeline replacement program they say is inflating natural gas bills while doing little to make the system safer.  The Senate earlier this month passed a sweeping energy-affordability bill that aims to save consumers roughly $14 billion over the next 10 years. One way\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-20T07:30:00+00:00"
     },
     {
@@ -1044,6 +1173,7 @@
       "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   Pretty much every type of energy is getting more expensive in the U.S., but clean energy is still a better bet than fossil fuels.  That\u2019s the topline from investment bank Lazard\u2019s latest annual report on\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-17T19:09:00+00:00"
     },
     {
@@ -1053,6 +1183,7 @@
       "summary": "The summit brought together emergency management, utilities, and local leaders to review Mississippi's storm response, focusing on operational challenges, mutual aid coordination, and initiatives like Superpower Mississippi to enhance future resilience.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-17T15:04:35+00:00"
     },
     {
@@ -1062,6 +1193,7 @@
       "summary": "This monthly musical playlist honors the spouses of the lineworkers who keep everything rolling at home while their loved ones are working on the line.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-17T14:18:24+00:00"
     },
     {
@@ -1071,6 +1203,7 @@
       "summary": "The impact wrench combines power, control and durability with features like a four-speed selector, quick bit changes and a built-in LED light,",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-17T12:52:26+00:00"
     },
     {
@@ -1080,6 +1213,7 @@
       "summary": "Felling Trailers hosts its 14th annual online auction from Sept, 24-30, featuring a custom FT-12 Pan trailer to benefit Henry\u2019s Heroes in Minnesota.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-17T12:17:30+00:00"
     },
     {
@@ -1089,6 +1223,7 @@
       "summary": "The program covers training costs and opens the door to full-time skilled trade careers for 10 recipients.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-17T12:07:06+00:00"
     },
     {
@@ -1098,6 +1233,7 @@
       "summary": "Journeyman Lineworker Miles Bell shares how he is analyzing new technologies for line crews in his role as a tools and methods specialist for Duke Energy,",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-17T11:55:09+00:00"
     },
     {
@@ -1107,6 +1243,7 @@
       "summary": "With the conclusion of its latest capacity auction, PJM Interconnection has once again shown that its process for securing new energy is unable to keep up with the wave of electricity demand from data centers.  But PJM, the grid operator for the country\u2019s biggest energy market, is poised to adopt a new process that\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-17T07:30:00+00:00"
     },
     {
@@ -1116,6 +1253,7 @@
       "summary": "This article is part of our  \u200b\u201cChart of the Week\u201d series  .   The global nuclear energy industry has been muted since 2011, when the Fukushima Daiichi disaster unfolded in Japan. Some new reactors have been built \u2014 especially in China \u2014 but a lot of old nuclear power plants have been retired as well.  That means\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-17T07:30:00+00:00"
     },
     {
@@ -1125,6 +1263,7 @@
       "summary": "Over 100 new, local jobs will be created during this European expansion, representing a roughly $13.7 million five-year investment.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T23:01:24+00:00"
     },
     {
@@ -1134,6 +1273,7 @@
       "summary": "ComEd's new substations will reportedly support up to 550 MW of expected wind generation to come online between 2026 and 2027.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T23:00:59+00:00"
     },
     {
@@ -1143,6 +1283,7 @@
       "summary": "This collaboration aims to connect GM's bidirectional-capable EVs and home energy systems with utility programs, facilitating load management, backup power, and future energy flow back to the grid, supporting the growth of distributed energy resources.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T21:49:02+00:00"
     },
     {
@@ -1152,6 +1293,7 @@
       "summary": "",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T19:26:51+00:00"
     },
     {
@@ -1161,6 +1303,7 @@
       "summary": "",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T18:18:04+00:00"
     },
     {
@@ -1170,6 +1313,7 @@
       "summary": "It\u2019s time to start including VPPs in grid-responsive asset planning models.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T16:08:01+00:00"
     },
     {
@@ -1179,6 +1323,7 @@
       "summary": "The event features technical sessions, case studies, and testing events focused on enhancing grid reliability, worker safety, and flood preparedness through advanced communication infrastructure and spectrum strategies.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T16:02:55+00:00"
     },
     {
@@ -1188,6 +1333,7 @@
       "summary": "As renewable energy integration introduces new complexities to modern power grids, traditional testing methods face important limitations. To ensure system reliability, KEMA Labs (CESI Group) utilizes Hardware-in-the-Loop (HIL) testing, providing utilities, manufacturers and system operators with a dynamic, closed-loop environment to thoroughly validate protection schemes before deployment.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T14:02:53+00:00"
     },
     {
@@ -1197,6 +1343,7 @@
       "summary": "Crude oil inventories held at storage facilities in Cushing, Oklahoma, fell below 20 million barrels during the week ending June 19 until the week ending July 10, according to our Weekly Petroleum Status Report.",
       "source": "EIA Today in Energy",
       "category": "ISO/RTO",
+      "region": "National",
       "published": "2026-07-16T09:00:00+00:00"
     },
     {
@@ -1206,6 +1353,7 @@
       "summary": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades.  Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T07:30:00+00:00"
     },
     {
@@ -1215,6 +1363,7 @@
       "summary": "Residents of Springfield, Massachusetts, have spent more than a decade fighting a proposal to build a dirty wood-burning plant in the already-polluted city. Several times they thought they had killed it, only to have it rise from the dead. Now, the \u201czombie project\u201d could soon perish for real.  That\u2019s because language\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-16T07:30:00+00:00"
     },
     {
@@ -1224,6 +1373,7 @@
       "summary": "Utilities are shifting from pilot projects to full deployment of AI and geospatial tools to improve outage management and infrastructure maintenance, but face barriers like data silos and legacy systems that hinder enterprise-wide adoption.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-15T19:58:33+00:00"
     },
     {
@@ -1233,6 +1383,7 @@
       "summary": "Hear how Kissimmee Utility Authority improved customer satisfaction with OutageTexting Alerts.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-15T19:13:22+00:00"
     },
     {
@@ -1242,6 +1393,7 @@
       "summary": "Learn how group text messaging can improve communication, drive faster responses, and keep teams informed in this live demo webinar.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-15T19:13:22+00:00"
     },
     {
@@ -1251,6 +1403,7 @@
       "summary": "The moratorium is billed by the governor as a way to protect consumers from spiking electricity bills.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-15T19:03:40+00:00"
     },
     {
@@ -1260,6 +1413,7 @@
       "summary": "Longtime solar developer Cypress Creek Energy has not only broken ground on what could be the largest solar-plus-storage plant in the country, but also secured a blue-chip customer to pay for the clean power.  Google will buy all the electricity from the first two phases of the forthcoming Steel River Energy Center\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-15T17:00:00+00:00"
     },
     {
@@ -1269,6 +1423,7 @@
       "summary": "Petroleum markets in the second quarter of 2026 (2Q26) were characterized by continued disruptions to international crude oil and petroleum product flows through the Strait of Hormuz, contributing to higher and more volatile crude oil prices through most of the quarter. The disruptions also resulted in international buyers seeking alternative supply sources for petroleum products, driving up U.S. ",
       "source": "EIA Today in Energy",
       "category": "ISO/RTO",
+      "region": "National",
       "published": "2026-07-15T09:00:00+00:00"
     },
     {
@@ -1278,6 +1433,7 @@
       "summary": "A sweeping federal housing bill that became law last Saturday contains some big benefits for Americans poised to buy or rent new manufactured homes \u2014 the same families who often struggle to make ends meet and can least afford the rising cost of heating fuel and electricity.  The 21st Century ROAD to Housing Act \u2014 a\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-15T07:30:00+00:00"
     },
     {
@@ -1287,6 +1443,7 @@
       "summary": "This story was originally published by Grist . Sign up for Grist\u2019s weekly newsletter here .  Wind turbines can confuse radar systems on ships and aircraft. Their massive rotating blades create a \u201cblade flash\u201d on radar screens, while their steel bases reflect electromagnetic waves, making it difficult to distinguish\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-15T07:30:00+00:00"
     },
     {
@@ -1296,6 +1453,7 @@
       "summary": "Nuclear giant Holtec International is betting big that its 300-megawatt small modular reactors are the future of atomic energy.  On Friday, the Florida-headquartered firm filed paperwork with the Securities and Exchange Commission in order to sell shares in the company on the Nasdaq.  Across hundreds of pages, the\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-15T07:30:00+00:00"
     },
     {
@@ -1305,6 +1463,7 @@
       "summary": "A second peer reached out to Dominion boss Bob Blue more than four months after NextEra\u2019s John Ketchum started talks.",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-14T17:58:06+00:00"
     },
     {
@@ -1314,6 +1473,7 @@
       "summary": "",
       "source": "T&D World",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-14T17:41:58+00:00"
     },
     {
@@ -1323,6 +1483,7 @@
       "summary": "Global liquefied natural gas (LNG) trade volumes increased 5.4% to a record 56.3 billion cubic feet per day last year (Bcf/d), driven largely by U.S. LNG export capacity expanding to meet growing demand, according to a recent report from the International Group of Liquefied Natural Gas Importers (GIIGNL). Global LNG trade has slowed this year following the closure of the key export route for Qatar",
       "source": "EIA Today in Energy",
       "category": "ISO/RTO",
+      "region": "National",
       "published": "2026-07-14T09:00:00+00:00"
     },
     {
@@ -1332,6 +1493,7 @@
       "summary": "America\u2019s offshore wind farms have already shown their ability to keep electricity flowing during brutal winter storms. Now, the clean energy resource has proved it can also bolster the grid during major heat waves.  Earlier this month, as dangerously hot and humid temperatures settled over the eastern United States,\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-14T07:30:00+00:00"
     },
     {
@@ -1341,6 +1503,7 @@
       "summary": "More and more Ohioans are struggling to pay their utility bills. That\u2019s one clear takeaway from the latest utility reports showing how many customers had their power shut off because of unpaid bills.  Across the state\u2019s regulated electric utilities, an average of 7.7% of customers had their power turned off because\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-14T07:30:00+00:00"
     },
     {
@@ -1350,6 +1513,7 @@
       "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home.  Today, California-based nonprofit Bright Saver announced it\u2019s selling zero-markup DIY solar kits starting at about\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-13T07:30:00+00:00"
     },
     {
@@ -1359,6 +1523,7 @@
       "summary": "Earlier this month, as a historic heat dome smothered the U.S. Midwest and Atlantic Coast, New York City Mayor Zohran Mamdani asked residents to set their air conditioners to 78 degrees Fahrenheit to protect the city\u2019s severely strained grid. \u201cLet's ease demand \u2014 and get through the heat \u2014 together,\u201d he posted on X\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-13T07:30:00+00:00"
     },
     {
@@ -1368,6 +1533,7 @@
       "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it\u2019s building a gigafactory in Sacramento, California, that will be the country\u2019s first to produce sodium-ion battery storage plants for the grid.  If Peak Energy succeeds in its\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-10T20:30:00+00:00"
     },
     {
@@ -1377,6 +1543,7 @@
       "summary": "Introduction The bespoke interconnection review process for fleet charging, community solar, commercial storage, distributed energy resource (DER) deployment, and other mid-size energy projects is costing developers millions. A recent study by Atlas Public Policy found that a reduction in interconnection queues by 18 months for heavy-duty, 4 megawatt (MW) electric vehicle (EV) charging stations ge",
       "source": "Smart Electric Power Alliance (SEPA)",
       "category": "DER & Grid Modernization",
+      "region": "National",
       "published": "2026-07-10T19:09:40+00:00"
     },
     {
@@ -1386,6 +1553,7 @@
       "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   Last week brought soaring temperatures to much of the U.S., forcing Americans to switch on their air conditioners \u2014 or, in many cases, flex their heat pumps\u2019 cooling capabilities. And to cope with it all,\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-10T17:06:00+00:00"
     },
     {
@@ -1395,6 +1563,7 @@
       "summary": "Up until recently, the U.S. was in a yearslong dry spell in the construction of new nuclear power plants. The hiatus finally ended in April , when two next-generation nuclear developers broke ground on their debut plants.  Though those facilities will take years to finish, the next reactor set to patch onto the U.S.\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-10T15:30:00+00:00"
     },
     {
@@ -1404,6 +1573,7 @@
       "summary": "This article is part of our  \u200b\u201cChart of the Week\u201d series  .  President Donald Trump\u2019s attacks on clean energy haven\u2019t spelled disaster for the energy transition \u2014 but they have definitely hurt job prospects for Americans.  Between January 2025, when Trump took office for his second term, and May 2026, a total of 216\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-10T07:30:00+00:00"
     },
     {
@@ -1413,6 +1583,7 @@
       "summary": "For more than a year, the Ohio Supreme Court has been set to make a landmark ruling in a case with high stakes for renewable energy development. But now, the Ohio Power Siting Board has asked the court to skip that and dismiss the case altogether.  In December 2022, the OPSB denied developer Vesper Energy\u2019s permit\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-09T20:00:00+00:00"
     },
     {
@@ -1422,6 +1593,7 @@
       "summary": "The United States remained the world's largest crude oil producer in 2025, according to our International Energy Statistics database, extending a streak that began in 2018 when the United States overtook Russia to become the world's leading producer.",
       "source": "EIA Today in Energy",
       "category": "ISO/RTO",
+      "region": "National",
       "published": "2026-07-09T09:00:00+00:00"
     },
     {
@@ -1431,6 +1603,7 @@
       "summary": "In the rugged mountains of Ashe County, North Carolina, woodstoves and propane heat are common \u2014 and money tends to be tight. That\u2019s especially true for families still recovering from Hurricane Helene nearly two years later.  Wood is cheap and easy enough to come by in the forested region. But propane has to be\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
+      "region": "National",
       "published": "2026-07-09T07:30:00+00:00"
     },
     {
@@ -1440,6 +1613,7 @@
       "summary": "U.S. petroleum exports reached a record in April as disruptions to international crude oil and refined product flows through the Strait of Hormuz increased global demand for U.S. exports. Exports increased to 13.6 million barrels per day (b/d) in April, 15% more than the previous record set in March.",
       "source": "EIA Today in Energy",
       "category": "ISO/RTO",
+      "region": "National",
       "published": "2026-07-08T09:00:00+00:00"
     }
   ]
