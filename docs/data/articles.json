@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T21:25:07.088101+00:00",
-  "count": 185,
+  "generated_at": "2026-07-23T22:53:46.592037+00:00",
+  "count": 187,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T21:25:04.294033+00:00"
+      "published": "2026-07-23T22:53:42.678748+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T21:25:04.294019+00:00"
+      "published": "2026-07-23T22:53:42.678737+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T21:25:04.293998+00:00"
+      "published": "2026-07-23T22:53:42.678721+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T21:25:04.293956+00:00"
+      "published": "2026-07-23T22:53:42.678686+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-07-23T21:25:02.123787+00:00"
+      "published": "2026-07-23T22:53:39.966138+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-07-23T21:25:01.324768+00:00"
+      "published": "2026-07-23T22:53:38.707456+00:00"
+    },
+    {
+      "id": "4e11bd07828e94b4",
+      "title": "Iran Cyber Attacks Continuing, CISA Warns",
+      "link": "https://www.rtoinsider.com/137296-iran-cyber-attacks-continuing-cisa-warns/",
+      "summary": "CISA and other federal agencies updated their warnings about the cyber campaigns that Iran has waged alongside the conventional war with the U.S. and Israel.\nThe post Iran Cyber Attacks Continuing, CISA Warns appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T22:44:31+00:00"
+    },
+    {
+      "id": "6174028e8045087b",
+      "title": "White House Expands Data Center Ratepayer Pledge as Congress Moves to Codify Protections",
+      "link": "https://www.powermag.com/white-house-expands-data-center-ratepayer-pledge-as-congress-moves-to-codify-protections/",
+      "summary": "Congress and the White House advanced parallel tracks this week to keep large data centers from shifting their grid costs onto electricity customers, reflecting a concern that has gathered momentum among state regulators, consumer advocates, and members of both parties. On July 21, the House Energy and Commerce Committee voted 52-0 to advance the\u00a0Ratepayer Protection [\u2026]\nThe post White House Expan",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T22:26:47+00:00"
     },
     {
       "id": "371ba492b1a539ad",
