@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T21:13:35.474856+00:00",
-  "count": 166,
+  "generated_at": "2026-07-23T21:25:07.088101+00:00",
+  "count": 185,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T21:13:31.627182+00:00"
+      "published": "2026-07-23T21:25:04.294033+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T21:13:31.627171+00:00"
+      "published": "2026-07-23T21:25:04.294019+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T21:13:31.627158+00:00"
+      "published": "2026-07-23T21:25:04.293998+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T21:13:31.627136+00:00"
+      "published": "2026-07-23T21:25:04.293956+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-07-23T21:13:28.970963+00:00"
+      "published": "2026-07-23T21:25:02.123787+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-07-23T21:13:27.285574+00:00"
+      "published": "2026-07-23T21:25:01.324768+00:00"
     },
     {
       "id": "371ba492b1a539ad",
@@ -738,6 +738,36 @@
       "published": "2026-07-23T14:31:18+00:00"
     },
     {
+      "id": "d45e8874c5c598be",
+      "title": "LineOps",
+      "link": "https://www.tdworld.com/directory/vegetation-management/herbicides/company/55393081/lineops",
+      "summary": "",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T13:50:30+00:00"
+    },
+    {
+      "id": "ecb23dfeddd75372",
+      "title": "Mark Broomfield",
+      "link": "https://www.tdworld.com/directory/contact/55393077/mark-broomfield",
+      "summary": "",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T13:47:12+00:00"
+    },
+    {
+      "id": "bafa204254c0d454",
+      "title": "Bluemax USA, Inc.",
+      "link": "https://www.tdworld.com/directory/construction-equipment-machinery/cable-pullers-tensioners/company/55393078/bluemax-usa-inc",
+      "summary": "",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T13:44:40+00:00"
+    },
+    {
       "id": "d4fe795ab11c2946",
       "title": "DOE\u2019s new power export rule at odds with \u2018energy emergency\u2019 findings: Public Citizen",
       "link": "https://www.utilitydive.com/news/doe-electricity-export-authorization-energy-emergency/825876/",
@@ -888,6 +918,36 @@
       "published": "2026-07-22T22:50:42+00:00"
     },
     {
+      "id": "1704b9788222e191",
+      "title": "Study: Only 41% of Power Customers Recall Hearing from Utilities Amid Rising Reliability Struggles",
+      "link": "https://www.tdworld.com/utility-business/news/55392997/study-only-41-of-power-customers-recall-hearing-from-utilities-amid-rising-reliability-struggles",
+      "summary": "Surging energy costs, J.D. Power adds, have not only triggered a sharp reduction in engagement from utilities, but consumers are feeling the financial squeeze.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T22:35:28+00:00"
+    },
+    {
+      "id": "6e5463fd2c0164d2",
+      "title": "Prysmian Introduces New Subsea Cable Burial Tool for Offshore Power Projects",
+      "link": "https://www.tdworld.com/intelligent-undergrounding/undersea-applications/news/55393008/prysmian-introduces-new-subsea-cable-burial-tool-for-offshore-power-projects",
+      "summary": "The latest-generation burial tool, deployed on Prysmian's advanced vessels, improves cable installation efficiency and protection, supporting the UK's submarine power infrastructure and renewable energy integration.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T21:22:10+00:00"
+    },
+    {
+      "id": "1ba0788f2d20b9b2",
+      "title": "COPA-DATA to Showcase Software-Defined Grid Modernization at CIGRE 2026",
+      "link": "https://www.tdworld.com/smart-utility/grid-security/news/55393003/copa-data-to-showcase-software-defined-grid-modernization-at-cigre-2026",
+      "summary": "COPA-DATA's zenon platform enables utilities to upgrade aging infrastructure incrementally, standardize engineering workflows, and deploy across diverse environments, facilitating seamless integration of legacy and modern IEC 61850 systems while ensuring cybersecurity compliance.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T21:13:12+00:00"
+    },
+    {
       "id": "eda11bae68a3c02d",
       "title": "AI Is Usually Cast as a Grid Burden. The Genesis Mission Is Betting It\u2019s a Grid Tool.",
       "link": "https://www.powermag.com/ai-is-usually-cast-as-a-grid-burden-the-genesis-mission-is-betting-its-a-grid-tool/",
@@ -898,6 +958,46 @@
       "published": "2026-07-22T21:09:01+00:00"
     },
     {
+      "id": "7300bba1930a0700",
+      "title": "Centuri Expands Industrial Construction Capabilities with Acquisition of J.J. White",
+      "link": "https://www.tdworld.com/utility-business/news/55392975/centuri-expands-industrial-construction-capabilities-with-acquisition-of-jj-white",
+      "summary": "The acquisition of J.J. White by Centuri Holdings will bolster its union electrical construction services, especially in data centers and industrial sectors. With a backlog of $315 million and pipeline opportunities exceeding $2.8 billion, the deal aligns with Centuri\u2019s strategy to grow its industrial and energy infrastructure offerings, projecting over $20 million in annual gross profit.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T20:35:58+00:00"
+    },
+    {
+      "id": "84cb712f1e5aade8",
+      "title": "Report: 44 States Advanced Grid Modernization Policies in Q2 2026",
+      "link": "https://www.tdworld.com/policy/news/55392959/report-44-states-advanced-grid-modernization-policies-in-q2-2026",
+      "summary": "Energy storage deployment led policy actions in Q2 2026, alongside increased scrutiny of utility investments and expanded opportunities for virtual power plants, reflecting evolving strategies to enhance grid resilience and cost-effectiveness nationwide.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T20:07:44+00:00"
+    },
+    {
+      "id": "6f6e6f30e8827213",
+      "title": "Building the Utility Workforce of the Future: Training, Technology and Talent for the Modern Grid",
+      "link": "https://www.tdworld.com/electric-utility-operations/whitepaper/55391232/building-the-utility-workforce-of-the-future-training-technology-and-talent-for-the-modern-grid",
+      "summary": "Discover industry insights and real-world examples of innovative training approaches that enhance safety, preserve knowledge, and prepare utility workers for future challenges.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T18:51:37+00:00"
+    },
+    {
+      "id": "4459730b45fd734d",
+      "title": "From Asset Risk to Capital Plan: How Actionable Data Drives Investment Decisions",
+      "link": "https://www.tdworld.com/resources/webinars/webinar/55390161/from-asset-risk-to-capital-plan-how-actionable-data-drives-investment-decisions",
+      "summary": "Utilities are facing record demand, aging infrastructure, and tighter resources, making every capital investment decision more critical than ever. Join Endevor and T&D World to learn how connected asset data and AI-assisted insights can help you prioritize investments, reduce risk, and build a more defensible capital plan.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T18:40:36+00:00"
+    },
+    {
       "id": "e2a554d0a3488ae6",
       "title": "Ford, Global Power Products debut home backup solution",
       "link": "https://www.utilitydive.com/news/ford-and-global-power-products-debut-vehicle-to-home-backup-solution/825928/",
@@ -906,6 +1006,56 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-22T17:08:52+00:00"
+    },
+    {
+      "id": "29125c77e45be702",
+      "title": "Action Plan: EU Targets 46% Electrification by 2040 to Drive Decarbonization",
+      "link": "https://www.tdworld.com/electrification/article/55392611/action-plan-eu-targets-46-electrification-by-2040-to-drive-decarbonization",
+      "summary": "Meeting this target is projected to cut the EU's annual fossil fuel import bill by approximately $286 billion by 2040 while aligning to become a continent powered by an abundance of domestically produced renewable energy.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T16:24:51+00:00"
+    },
+    {
+      "id": "7e8f519ce6c09fdc",
+      "title": "Scott Fulton",
+      "link": "https://www.tdworld.com/home/contact/55391740/scott-fulton",
+      "summary": "",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T15:47:59+00:00"
+    },
+    {
+      "id": "eceefc92a5a49677",
+      "title": "Why Grid Reliability Is Becoming a Data Coordination Problem",
+      "link": "https://www.tdworld.com/smart-utility/data-analytics/blog/55391737/why-grid-reliability-is-becoming-a-data-coordination-problem",
+      "summary": "Fragmented systems hinder quick response and accurate decision-making in utility operations. Integrating core network services and operational data enhances resilience, reduces downtime, and streamlines workflows.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T15:47:09+00:00"
+    },
+    {
+      "id": "268bd9161fb3301d",
+      "title": "Shaping the Future of Utility Transmission & Distribution at T&D World LIVE 2026",
+      "link": "https://www.tdworld.com/smart-utility/article/55390029/the-utility-conversations-shaping-the-future-grid",
+      "summary": "The conference highlights strategies for utilities to adapt to increasing demand from data centers and electrification, emphasizing infrastructure investments, resilience, and operational efficiency through digital technologies and modernization efforts.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T15:11:00+00:00"
+    },
+    {
+      "id": "1fbfc0177a320f43",
+      "title": "NERC Releases Canadian Wildfire Mitigation Report, Three-Year Action Plan",
+      "link": "https://www.tdworld.com/wildfire/news/55392725/nerc-releases-canadian-wildfire-mitigation-report-three-year-action-plan",
+      "summary": "The new NERC report and Wildfire Action Plan emphasize risk assessments, operational practices, and standards review, fostering collaboration among utilities, regulators, and government agencies to protect North America's power infrastructure from wildfires.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-22T14:28:35+00:00"
     },
     {
       "id": "932151d5e04b2540",
@@ -966,6 +1116,46 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-22T07:30:00+00:00"
+    },
+    {
+      "id": "2dc1b3f96a270758",
+      "title": "Natti Hugi",
+      "link": "https://www.tdworld.com/home/contact/55392642/natti-hugi",
+      "summary": "",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-21T21:49:44+00:00"
+    },
+    {
+      "id": "1c09fa471205002b",
+      "title": "Is Your Grid Modeling Strategy Ready for a More Uncertain Energy Future?",
+      "link": "https://www.tdworld.com/utility-business/article/55391508/is-your-grid-modeling-strategy-ready-for-a-more-uncertain-energy-future",
+      "summary": "As energy landscapes become more interconnected and unpredictable, organizations must shift from static forecasts to high-frequency, scenario-based models that account for diverse disruptions, ensuring reliable and efficient energy systems.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-21T20:12:40+00:00"
+    },
+    {
+      "id": "cdb9e627152b6f1b",
+      "title": "TXNM, Blackstone Push Out Sale Completion Deadline",
+      "link": "https://www.tdworld.com/utility-business/news/55392573/txnm-blackstone-push-out-sale-completion-deadline",
+      "summary": "Executives are giving themselves more time after New Mexico regulators voided a $400 million stock sale that took place shortly after the companies announced their combination plans.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-21T19:44:32+00:00"
+    },
+    {
+      "id": "5fff7bf794e78b87",
+      "title": "Florida Regulators Approve Final FPL Storm Recovery Costs for 2024 Hurricanes",
+      "link": "https://www.tdworld.com/disaster-response/news/55392552/florida-regulators-approve-final-fpl-storm-recovery-costs-for-2024-hurricanes",
+      "summary": "FPL's storm recovery costs for the 2024 hurricane season have been finalized at $1.125 billion, with Hurricane Milton accounting for the largest share. The temporary recovery charge collected in 2025 will be partially refunded to customers, ensuring fair cost recovery and continued investment in Florida's electric infrastructure.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-21T19:06:10+00:00"
     },
     {
       "id": "15953d59bf636893",
