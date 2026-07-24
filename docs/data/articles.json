@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T13:42:19.040209+00:00",
-  "count": 216,
+  "generated_at": "2026-07-24T22:59:04.558527+00:00",
+  "count": 230,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-24T13:42:10.728752+00:00"
+      "published": "2026-07-24T22:59:01.749104+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-24T13:42:10.728744+00:00"
+      "published": "2026-07-24T22:59:01.749090+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-24T13:42:10.728733+00:00"
+      "published": "2026-07-24T22:59:01.749072+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-24T13:42:10.728712+00:00"
+      "published": "2026-07-24T22:59:01.749042+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-07-24T13:42:08.447819+00:00"
+      "published": "2026-07-24T22:58:59.815485+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,117 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-07-24T13:42:07.054627+00:00"
+      "published": "2026-07-24T22:58:58.469811+00:00"
+    },
+    {
+      "id": "15cf9664a719c242",
+      "title": "Duh, solar power doesn't work at night \u2014 but it excels during the day",
+      "link": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
+      "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.  It\u2019s an old and lazy swipe that critics of renewable energy love to take, even though the people who operate our power grids know that this is the case and plan\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T22:58:00+00:00"
+    },
+    {
+      "id": "a1f4cd69fe6e53ef",
+      "title": "Strategy Amid Uncertainty: Why Decisioning Maturity is the Critical Differentiator in Today\u2019s Power Markets",
+      "link": "https://www.powermag.com/strategy-amid-uncertainty-why-decisioning-maturity-is-the-critical-differentiator-in-todays-power-markets/",
+      "summary": "The pace of change in energy markets has never been faster. Price signals that once evolved over days now shift within settlement windows. Geopolitical shocks that once took weeks to propagate through commodity markets now ripple across interconnected European power grids and global liquefied natural gas (LNG) supply chains in hours. And amid this acceleration, [\u2026]\nThe post Strategy Amid Uncertain",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T21:33:08+00:00"
+    },
+    {
+      "id": "adcb3ae4897cf1fa",
+      "title": "Sponsored: AI\u2019s impact on data center infrastructure \u2013 is this the dawn of \u201cthe flux capacitor\u201d?",
+      "link": "https://www.datacenterdynamics.com/en/opinions/ais-impact-on-data-center-infrastructure-is-this-the-dawn-of-the-flux-capacitor/",
+      "summary": "Who knew Doc Brown and Marty McFly would be helping us build AI data centers?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T15:00:00+00:00"
+    },
+    {
+      "id": "57b28c6756f038ef",
+      "title": "FERC will impose reforms if PJM fails to adopt changes by September, chairman warns",
+      "link": "https://www.utilitydive.com/news/ferc-pjm-governance-reforms-data-centers-capacity-market/826140/",
+      "summary": "There appears to be broad support for strengthening the independence of the grid operator\u2019s board, possibly by moving to an advisory stakeholder process, and giving states more influence.\u00a0Some also called for codifying the public interest in PJM\u2019s mission.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T14:48:44+00:00"
+    },
+    {
+      "id": "f273ce0df0d3ad17",
+      "title": "Empery Digital invests $20m in Cardinal Data Power",
+      "link": "https://www.datacenterdynamics.com/en/news/empery-digital-invests-20m-in-cardinal-data-power/",
+      "summary": "Investment supports proposed West Texas campus with plans to scale beyond 5GW",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T14:40:30+00:00"
+    },
+    {
+      "id": "56e2e2785e731637",
+      "title": "Parks S/A to invest R$500m in 5MW data center in Cachoeirinha, Brazil",
+      "link": "https://www.datacenterdynamics.com/en/news/parks-sa-to-invest-r500-million-in-a-new-tier-iii-data-center-in-cachoeirinha-rio-grande-do-sul/",
+      "summary": "Project to total 5MW in the Porto Alegre Metropolitan Region",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T14:35:35+00:00"
+    },
+    {
+      "id": "59d7066e4ae5c79a",
+      "title": "Eurus Energy & Toyota break ground on wind-powered data center in Hokkaido, Japan",
+      "link": "https://www.datacenterdynamics.com/en/news/eurus-energy-toyota-break-ground-on-wind-powered-data-center-in-hokkaido-japan/",
+      "summary": "Soya Green Data Center 1 is Japan\u2019s first data center to be directly connected to wind power",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T14:19:07+00:00"
+    },
+    {
+      "id": "a56f44a6888cb9bc",
+      "title": "Data center demand is soaring, and off-grid gas won't fix the problem",
+      "link": "https://www.canarymedia.com/articles/data-centers/data-center-off-grid-gas",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   It\u2019s no secret that data centers are slated to bring stunning levels of new power demand to the grid in the coming years.  Report after report has tried to put a number on just how much electricity these\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T14:17:00+00:00"
+    },
+    {
+      "id": "94c37a2cea1282cc",
+      "title": "AI chip startup Etched closes $300m funding round, doubles its valuation to $10.3bn",
+      "link": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-etched-closes-300m-funding-round-doubles-its-valuation-to-103bn/",
+      "summary": "Latest round saw participation from SK Hynix, Andreessen Horowitz, Jane Street, and Diffusion",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T14:01:32+00:00"
+    },
+    {
+      "id": "b16669c6df7fa1ef",
+      "title": "Building resilience at scale: why modern data centers need integrated risk management",
+      "link": "https://www.datacenterdynamics.com/en/opinions/building-resilience-at-scale-why-modern-data-centers-need-integrated-risk-management/",
+      "summary": "The new risk profile of digital infrastructure and a framework for the future",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T14:00:25+00:00"
+    },
+    {
+      "id": "90f2d5f3421b279d",
+      "title": "Developer eyes 930-acre data center in Ransom Township, Pennsylvania",
+      "link": "https://www.datacenterdynamics.com/en/news/developer-eyes-930-acre-data-center-in-ransom-township-pennsylvania/",
+      "summary": "Bought a 530-acre parcel earlier this week",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T13:59:59+00:00"
     },
     {
       "id": "6f00df61745f3553",
@@ -361,6 +471,26 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-23T22:26:47+00:00"
+    },
+    {
+      "id": "94a9c1fc136a5e6b",
+      "title": "5 North American Energy Providers Team Up on V2G Testing in Massachusetts to Advance Reliability Solutions",
+      "link": "https://www.tdworld.com/electrification/news/55393278/5-north-american-energy-providers-team-up-on-v2g-testing-in-massachusetts-to-advance-reliability-solutions",
+      "summary": "The group of five companies\u2014Eversource, National Grid, EnergyHub, Sunrun and The Mobility House announced Thursday they are enrolling qualifying customers with V2G-capable electric vehicles in a program called ConnectedSolutions.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T21:19:41+00:00"
+    },
+    {
+      "id": "69d12750468c0935",
+      "title": "Next-Gen Fault Location: Transforming Grid Reliability with Hardware-in-the-Loop Evaluation",
+      "link": "https://www.tdworld.com/test-and-measurement/blog/55390888/next-gen-fault-location-transforming-grid-reliability-with-hardware-in-the-loop-evaluation",
+      "summary": "Hardware-in-the-loop evaluation examines the performance of Meta-Alert fault location technology and its potential to improve distribution outage response.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T20:57:59+00:00"
     },
     {
       "id": "371ba492b1a539ad",
@@ -776,6 +906,16 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "published": "2026-07-23T20:51:21.616961+00:00"
+    },
+    {
+      "id": "65b8ee7361cd6349",
+      "title": "The Life and Training of a Modern Lineworker: From Apprenticeship to Leadership",
+      "link": "https://www.tdworld.com/electric-utility-operations/article/55374019/the-life-and-training-of-a-modern-lineworker-from-apprenticeship-to-leadership",
+      "summary": "As an apprentice for Eversource, Mike Soderquist is focusing on learning new skills to work safely in the line trade.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T20:01:45+00:00"
     },
     {
       "id": "b36f9c81c9bece84",
