@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T22:53:46.592037+00:00",
-  "count": 187,
+  "generated_at": "2026-07-24T13:42:19.040209+00:00",
+  "count": 216,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T22:53:42.678748+00:00"
+      "published": "2026-07-24T13:42:10.728752+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T22:53:42.678737+00:00"
+      "published": "2026-07-24T13:42:10.728744+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T22:53:42.678721+00:00"
+      "published": "2026-07-24T13:42:10.728733+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-23T22:53:42.678686+00:00"
+      "published": "2026-07-24T13:42:10.728712+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-07-23T22:53:39.966138+00:00"
+      "published": "2026-07-24T13:42:08.447819+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,287 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-07-23T22:53:38.707456+00:00"
+      "published": "2026-07-24T13:42:07.054627+00:00"
+    },
+    {
+      "id": "6f00df61745f3553",
+      "title": "T-Mobile CEO: Satellite exclusivity deal with Starlink doesn't end this year",
+      "link": "https://www.datacenterdynamics.com/en/news/t-mobile-ceo-satellite-exclusivity-deal-with-starlink-doesnt-end-this-year/",
+      "summary": "As carrier reiterates that satellite offering is \"complementary\" to its terrestrial network",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T13:33:27+00:00"
+    },
+    {
+      "id": "7128833d371fda39",
+      "title": "Infleqtion to deploy quantum computer at Illinois Quantum & Microelectronics Park",
+      "link": "https://www.datacenterdynamics.com/en/news/infleqtion-to-deploy-quantum-computer-at-illinois-quantum-microelectronics-park/",
+      "summary": "System has an expected delivery date of 2027",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T13:31:35+00:00"
+    },
+    {
+      "id": "8532b514054a0125",
+      "title": "Pantheon Atlas secures grid approval for 1GW Croatia data center",
+      "link": "https://www.datacenterdynamics.com/en/news/pantheon-atlas-secures-grid-approval-for-1gw-croatia-data-center/",
+      "summary": "Construction at the campus expected to start next year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T13:30:24+00:00"
+    },
+    {
+      "id": "f91d178d5a78fa61",
+      "title": "Trump expands Ratepayer Protection Pledge with 200-plus new signatories",
+      "link": "https://www.datacenterdynamics.com/en/news/trump-expands-ratepayer-protection-pledge-with-200-plus-new-signatories/",
+      "summary": "Including utility heavyweights Southern Company, PPL Corp, NextEra Energy, Duke Energy, and American Electric Power",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T13:20:27+00:00"
+    },
+    {
+      "id": "2527c929d01aba88",
+      "title": "Google announced as end user of 8 million sq ft data center in Columbia, Georgia",
+      "link": "https://www.datacenterdynamics.com/en/news/google-announced-as-end-user-of-8-million-sq-ft-data-center-in-columbia-georgia/",
+      "summary": "Chairman of County Board makes announcement with President Trump",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T13:00:31+00:00"
+    },
+    {
+      "id": "6d7452342b5139b5",
+      "title": "Vantage, VoltaGrid face lawsuit concerning natural gas powered off-grid data centers in San Antonio, Texas",
+      "link": "https://www.datacenterdynamics.com/en/news/vantage-voltagrid-face-lawsuit-concerning-natural-gas-powered-off-grid-data-centers-in-san-antonio-texas/",
+      "summary": "Environmental Integrity Project, the Sierra Club, and Public Citizen submit a notice of intent to sue letter",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T12:52:48+00:00"
+    },
+    {
+      "id": "22cfcea8a390769f",
+      "title": "Prysmian, Relativity Networks pair to deploy their highest density hollow core fiber cable so far",
+      "link": "https://www.datacenterdynamics.com/en/news/prysmian-relativity-networks-pair-to-deploy-their-highest-density-hollow-core-fiber-cable-so-far/",
+      "summary": "Builds on the partnership signed between the two companies last March",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T12:40:25+00:00"
+    },
+    {
+      "id": "adc9f75e341af617",
+      "title": "PJM grid hit by voltage disturbance after data center load abruptly drops offline - report",
+      "link": "https://www.datacenterdynamics.com/en/news/pjm-grid-hit-by-voltage-disturbance-after-data-center-load-abruptly-drops-offline-report/",
+      "summary": "Reportedly took ten minutes for the grid to stabilize",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T12:27:46+00:00"
+    },
+    {
+      "id": "1d482574a03f1168",
+      "title": "Gda\u0144sk University of Technology in Poland submits bid to host Gaia AI Factory",
+      "link": "https://www.datacenterdynamics.com/en/news/gda%C5%84sk-university-of-technology-in-poland-submits-bid-to-host-gaia-ai-factory/",
+      "summary": "Bid made by the institution\u2019s Tricity Academic Computer Network IT Center",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T11:20:24+00:00"
+    },
+    {
+      "id": "248a75692e66ef28",
+      "title": "Volta Data Centres appoints Jason Liggins as CEO",
+      "link": "https://www.datacenterdynamics.com/en/news/volta-data-centres-appoints-jason-liggins-as-ceo/",
+      "summary": "Liggins previously led Ark's Crown Hosting venture",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T11:19:01+00:00"
+    },
+    {
+      "id": "425d113e5f906816",
+      "title": "Intel posts fastest YoY growth since 2011, with Q2 2026 revenue totaling $16.1bn",
+      "link": "https://www.datacenterdynamics.com/en/news/intel-posts-fastest-yoy-growth-since-2011-with-q2-2026-revenue-totaling-161bn/",
+      "summary": "Chipmaker\u2019s data center segment once again posted strongest growth, while Intel Foundry continues to operate at a loss",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T10:50:06+00:00"
+    },
+    {
+      "id": "d2738005410f4de6",
+      "title": "Nokia networking wins bolster latest earnings",
+      "link": "https://www.datacenterdynamics.com/en/news/nokia-networking-wins-bolster-latest-earnings/",
+      "summary": "Vendor also touts 105 percent bump in AI and cloud sales",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T10:40:27+00:00"
+    },
+    {
+      "id": "524e4cf8f9e66769",
+      "title": "Two data centers planned in Pregnana Milanese, Italy",
+      "link": "https://www.datacenterdynamics.com/en/news/two-data-centers-planned-in-pregnana-milanese-italy/",
+      "summary": "A third project has also been reported in the town",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T10:30:29+00:00"
+    },
+    {
+      "id": "f8d1d105136bb55f",
+      "title": "DCD Talks: A new definition of speed to power with Patrick Dillow, Rowan Digital Infrastructure",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-talks-a-new-definition-of-speed-to-power-with-patrick-dillow-rowan-digital-infrastructure/",
+      "summary": "Patrick Dillow, Vice President of Energy and Water at Rowan Digital Infrastructure, joins James Raddings to discuss accelerating time to power, lessons from Bauxite 1, and meeting AI-driven demand.",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T09:49:44+00:00"
+    },
+    {
+      "id": "832d9b70de32de72",
+      "title": "Energia Costa Azul, Mexico's second LNG terminal, shipped first cargo",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67884",
+      "summary": "Energia Costa Azul, the second liquefied natural gas (LNG) export facility in Mexico, shipped its initial cargo from Phase 1 of the terminal on July 8, according to the project developer. The completion of the project adds 0.4 billion cubic feet per day (Bcf/d) of nominal export capacity from a single train, tripling Mexico's LNG export capacity. The facility is the first terminal in Mexico and th",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
+      "region": "National",
+      "published": "2026-07-24T09:00:00+00:00"
+    },
+    {
+      "id": "b585421136fe5dd9",
+      "title": "Hydrogen fuel cells for data center power",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/hydrogen-fuel-cells-for-data-center-power/",
+      "summary": "Explore how hydrogen fuel cells can provide zero-emission backup power while helping unlock new data center capacity and resilience",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T08:08:30+00:00"
+    },
+    {
+      "id": "aac22eaee82aaaf0",
+      "title": "Post\u2013Hurricane Helene, this community is getting creative with solar",
+      "link": "https://www.canarymedia.com/articles/solar/post-hurricane-helene-community-solar",
+      "summary": "ASHEVILLE, N.C. \u2014 Nearly two years after Hurricane Helene wreaked havoc on western North Carolina\u2019s largest city, many Asheville residents are still rebuilding \u2014 and determined to be better prepared for the next weather disaster.  In Emma, a diverse, mostly immigrant neighborhood just northwest of downtown, solar\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T07:30:00+00:00"
+    },
+    {
+      "id": "8927544f2b8be4b3",
+      "title": "Solar is having its best summer yet in Europe",
+      "link": "https://www.canarymedia.com/articles/solar/solar-best-summer-europe",
+      "summary": "This article is part of our  \u200b\u201cChart of the Week\u201d series  .   Europe has had a sunny start to its summer.  Across both May and June, solar was the European Union\u2019s top source of electricity \u2014 and provided a record-high 25% of the region\u2019s power last month, per new data from think tank Ember . Several countries,\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T07:30:00+00:00"
+    },
+    {
+      "id": "736e862cac9677a7",
+      "title": "The real challenge for liquid cooling isn\u2019t deployment \u2013 it\u2019s scale",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/the-real-challenge-for-liquid-cooling-isnt-deployment-its-scale/",
+      "summary": "Liquid cooling has arrived. Now the industry must identify how to scale it, say nVent\u2019s experts",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-24T07:00:00+00:00"
+    },
+    {
+      "id": "035870348178478b",
+      "title": "FERC Technical Conference Seeks PJM Governance Improvements",
+      "link": "https://www.rtoinsider.com/137317-ferc-technical-conference-seeks-improvements-on-pjm-decision-making-as-action-on-reliability-backstop-nears/",
+      "summary": "At a FERC technical conference on PJM's governance, CEO David Mills spoke about an imminent decision on a reliability backstop auction \u2014 and shared his views on overhauling the Board of Managers' terms and responsibilities.\n\nThe post FERC Technical Conference Seeks PJM Governance Improvements appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T02:53:07+00:00"
+    },
+    {
+      "id": "9f8e2fad82260b6f",
+      "title": "MISO to Ask for FERC Approval to Pass over Late Affected Studies in Queue",
+      "link": "https://www.rtoinsider.com/137210-miso-to-ask-for-ferc-approval-to-pass-over-late-affected-studies-in-queue/",
+      "summary": "MISO plans to ask FERC for permission to forge ahead with some stalled generator interconnection studies in its 2022 and 2023 queue cycles, regardless of whether its neighbors have affected systems studies ready to go.\nThe post MISO to Ask for FERC Approval to Pass over Late Affected Studies in Queue appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T02:35:11+00:00"
+    },
+    {
+      "id": "af5c527d305e0ec4",
+      "title": "BPA Pressured on Market Choice by PPC, Avangrid",
+      "link": "https://www.rtoinsider.com/137274-ppc-urges-bpa-to-stick-to-markets/",
+      "summary": "In two separate letters, the Public Power Council and Avangrid offered their views on how the Bonneville Power Administration\u2019s new leader should move forward on day-ahead markets.\nThe post BPA Pressured on Market Choice by PPC, Avangrid appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T02:26:12+00:00"
+    },
+    {
+      "id": "71a6a910f5742012",
+      "title": "FERC Dives into PJM Governance Woes, Wants Fixes by this Fall",
+      "link": "https://www.rtoinsider.com/137303-ferc-dives-into-pjm-governance-woes-wants-fixes-by-this-fall/",
+      "summary": "FERC spent all day July 23 hearing about why PJM and its stakeholder process have been slow to respond to the rapid increase in demand from data centers and its impact on resource adequacy and market prices.\nThe post FERC Dives into PJM Governance Woes, Wants Fixes by this Fall appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T02:21:30+00:00"
+    },
+    {
+      "id": "2cb1a973c4f85326",
+      "title": "Ontario DER Coordination Plan Takes Shape",
+      "link": "https://www.rtoinsider.com/137289-ontario-der-coordination-plan-takes-shape/",
+      "summary": "IESO presented its first distributed energy resource-specific materiality thresholds for when local distribution companies would notify the grid operator of DER activity on their systems.\nThe post Ontario DER Coordination Plan Takes Shape appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T00:26:16+00:00"
+    },
+    {
+      "id": "81dca28db703b6fc",
+      "title": "Texas PUC Asks for More Authority Over Large Loads",
+      "link": "https://www.rtoinsider.com/137213-texas-puc-asks-for-more-authority-over-large-loads/",
+      "summary": "Texas regulators have proposed several legislative remedies to give them and ERCOT more authority in regulating the development of large loads in the state, even as the grid sets new marks for peak demand.\nThe post Texas PUC Asks for More Authority Over Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T00:20:23+00:00"
+    },
+    {
+      "id": "2a99eceb7c3a87a5",
+      "title": "White House Expands Ratepayer Protection Pledge to Include Utilities, Governors",
+      "link": "https://www.rtoinsider.com/137313-white-house-expands-ratepayer-protection-pledge/",
+      "summary": "The White House has expanded its Ratepayer Protection Pledge to include commitments from electric utilities and governors from 23 states.\n\nThe post White House Expands Ratepayer Protection Pledge to Include Utilities, Governors appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T23:25:46+00:00"
+    },
+    {
+      "id": "39f7b5a8a4243254",
+      "title": "NYISO Warns of Shortfalls, Pushes for New Fossil Generation",
+      "link": "https://www.rtoinsider.com/137299-nyiso-warns-of-shortfalls-pushes-for-new-fossil-generation/",
+      "summary": "New York will need substantial new grid resources under every scenario modeled in a new analysis, and need them on a magnitude not previously seen if the state sticks to its zero-emissions goals, NYISO said.\nThe post NYISO Warns of Shortfalls, Pushes for New Fossil Generation appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T23:01:02+00:00"
+    },
+    {
+      "id": "40cb968dee9133ef",
+      "title": "Line Fault Causes 3 GW in Data Center Load to Drop in Virginia",
+      "link": "https://www.rtoinsider.com/137301-line-fault-causes-3-gw-in-data-center-load-to-drop-in-virginia/",
+      "summary": "About 3 GW of data center load automatically switched to backup power after a transmission line fault occurred in Northern Virginia, leading to flickering lights in the area but no loss of power, according to Dominion Energy.\nThe post Line Fault Causes 3 GW in Data Center Load to Drop in Virginia appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-23T22:58:57+00:00"
     },
     {
       "id": "4e11bd07828e94b4",
@@ -516,6 +796,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-07-23T19:00:00+00:00"
+    },
+    {
+      "id": "113acfdd1be9b79b",
+      "title": "The new playbook to energize AI data center development",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/the-new-playbook-to-energize-ai-data-center-development/",
+      "summary": "A strategic framework to secure power and fast-track energization",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-23T17:38:00+00:00"
     },
     {
       "id": "cf28d99ec917bfe3",
