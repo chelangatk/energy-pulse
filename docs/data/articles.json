@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T13:22:26.333873+00:00",
-  "count": 231,
+  "generated_at": "2026-07-25T22:53:07.642302+00:00",
+  "count": 232,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-25T13:22:23.289608+00:00"
+      "published": "2026-07-25T22:53:04.417381+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-25T13:22:23.289580+00:00"
+      "published": "2026-07-25T22:53:04.417354+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-25T13:22:23.289545+00:00"
+      "published": "2026-07-25T22:53:04.417318+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-25T13:22:23.289486+00:00"
+      "published": "2026-07-25T22:53:04.417283+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-07-25T13:22:21.427256+00:00"
+      "published": "2026-07-25T22:53:02.537727+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,17 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-07-25T13:22:18.912836+00:00"
+      "published": "2026-07-25T22:53:01.349773+00:00"
+    },
+    {
+      "id": "05c86bf2b9026738",
+      "title": "Sponsored: The key to the data center power problem",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-key-to-the-data-center-power-problem/",
+      "summary": "A power-first mindset amid AI at scale and aging infrastructure",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-25T15:00:00+00:00"
     },
     {
       "id": "15cf9664a719c242",
