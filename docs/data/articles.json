@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T22:59:04.558527+00:00",
-  "count": 230,
+  "generated_at": "2026-07-25T13:22:26.333873+00:00",
+  "count": 231,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-24T22:59:01.749104+00:00"
+      "published": "2026-07-25T13:22:23.289608+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-24T22:59:01.749090+00:00"
+      "published": "2026-07-25T13:22:23.289580+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-24T22:59:01.749072+00:00"
+      "published": "2026-07-25T13:22:23.289545+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-24T22:59:01.749042+00:00"
+      "published": "2026-07-25T13:22:23.289486+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-07-24T22:58:59.815485+00:00"
+      "published": "2026-07-25T13:22:21.427256+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-07-24T22:58:58.469811+00:00"
+      "published": "2026-07-25T13:22:18.912836+00:00"
     },
     {
       "id": "15cf9664a719c242",
@@ -251,6 +251,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-07-24T12:27:46+00:00"
+    },
+    {
+      "id": "d15c3d2100ce0149",
+      "title": "PG&E says it has 12.7 GW in data center pipeline as it courts smaller loads",
+      "link": "https://www.utilitydive.com/news/pge-claims-127-gw-in-data-center-pipeline-as-utility-courts-smaller-loads/826099/",
+      "summary": "The company\u2019s data center pipeline has fluctuated over the past year. Executives attributed the changes to stricter vetting of potential projects and expressed confidence that its efforts to attract the right kind of customer are paying off.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T12:00:00+00:00"
     },
     {
       "id": "1d482574a03f1168",
