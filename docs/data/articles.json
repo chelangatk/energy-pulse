@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T13:18:39.389897+00:00",
-  "count": 233,
+  "generated_at": "2026-07-26T22:57:15.968913+00:00",
+  "count": 242,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-26T13:18:36.369714+00:00"
+      "published": "2026-07-26T22:57:11.771681+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-26T13:18:36.369701+00:00"
+      "published": "2026-07-26T22:57:11.771666+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-26T13:18:36.369683+00:00"
+      "published": "2026-07-26T22:57:11.771648+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-26T13:18:36.369656+00:00"
+      "published": "2026-07-26T22:57:11.771615+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-07-26T13:18:34.647295+00:00"
+      "published": "2026-07-26T22:57:09.391117+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,97 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-07-26T13:18:33.345763+00:00"
+      "published": "2026-07-26T22:57:07.717587+00:00"
+    },
+    {
+      "id": "3c7040399f755424",
+      "title": "PJM MRC/MC Preview: July 28, 2026",
+      "link": "https://www.rtoinsider.com/137424-pjm-mrc-mc-preview-072826/",
+      "summary": "A summary of the agenda items scheduled to be brought to a vote at the PJM Markets and Reliability Committee and Members Committee is provided.\nThe post PJM MRC/MC Preview: July 28, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-26T18:58:43+00:00"
+    },
+    {
+      "id": "e444d2168fbedc0b",
+      "title": "SPP West Exits 2nd EEA in 5 Days",
+      "link": "https://www.rtoinsider.com/137473-spp-west-exits-2nd-eea-in-5-days/",
+      "summary": "SPP ended a second energy emergency alert in five days in its Western balancing authority area after it said system conditions improved.\nThe post SPP West Exits 2nd EEA in 5 Days appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-26T17:56:25+00:00"
+    },
+    {
+      "id": "8a8437db37225f8a",
+      "title": "ISO-NE Proposes BYOG Requirement for Large Loads",
+      "link": "https://www.rtoinsider.com/137316-iso-ne-proposes-byog-requirement-large-loads/",
+      "summary": "ISO-NE plans to require new large loads to bring their own incremental generation and exclude new large loads from its installed capacity requirement.\nThe post ISO-NE Proposes BYOG Requirement for Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-26T17:53:27+00:00"
+    },
+    {
+      "id": "185cb5df508f064a",
+      "title": "Duke Rate Case Underscores Complexities of Data Center Grid Impacts",
+      "link": "https://www.rtoinsider.com/137138-duke-rate-case-underscores-complexities-data-centers/",
+      "summary": "The Trump administration is trumpeting the inclusion of utilities and other players in its Ratepayer Protection Pledge, but proceedings in a contentious rate case in North Carolina suggest the follow-though won\u2019t be so simple.\nThe post Duke Rate Case Underscores Complexities of Data Center Grid Impacts appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-26T17:46:54+00:00"
+    },
+    {
+      "id": "5d76c6013378b65a",
+      "title": "FERC\u2019s Interconnection Fix has a Blind Spot: Grid Communications",
+      "link": "https://www.rtoinsider.com/137305-ferc-interconnection-fix-has-a-blind-spot-grid-communications/",
+      "summary": "Order 2023 created a deadline for the industry. It failed to give transmission providers the data they need to meet it, Everardo Camacho contends.\nThe post FERC\u2019s Interconnection Fix has a Blind Spot: Grid Communications appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-26T17:30:29+00:00"
+    },
+    {
+      "id": "1eb9e088a89d07b3",
+      "title": "Ariz. Commissioner Nick Myers Defeated in Tight Primary Race",
+      "link": "https://www.rtoinsider.com/137470-arizona-commissioner-nick-myers-defeated-in-tight-primary-race/",
+      "summary": "Arizona Corporation Commission member Nick Myers lost his bid for a second term in the state\u2019s primary election to a fellow Republican who may be more amenable to keeping coal plants open.\nThe post Ariz. Commissioner Nick Myers Defeated in Tight Primary Race appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-26T17:06:31+00:00"
+    },
+    {
+      "id": "45c65bfc42367f32",
+      "title": "CAISO Tees Up Changes to RA Incentive Program",
+      "link": "https://www.rtoinsider.com/137135-caiso-tees-up-changes-ra-incentive-program-availability/",
+      "summary": "CAISO proposed revisions to its monthly Resource Adequacy Availability Incentive Mechanism structure to include a more targeted, event-based availability process.\nThe post CAISO Tees Up Changes to RA Incentive Program appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-26T16:53:46+00:00"
+    },
+    {
+      "id": "fe724b5ef8b1ade3",
+      "title": "MISO to Abolish Most Tx Charges for Charging Storage",
+      "link": "https://www.rtoinsider.com/137384-miso-to-abolish-most-tx-charges-charging-storage/",
+      "summary": "After an apparent change of heart, MISO said it would lift its longstanding transmission use charges on most energy storage resources\u2019 charging from the grid.\nThe post MISO to Abolish Most Tx Charges for Charging Storage appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-26T16:36:57+00:00"
+    },
+    {
+      "id": "3dbb722d88889a18",
+      "title": "NextEra Touts New Capacity to Meet Expected Demand Growth",
+      "link": "https://www.rtoinsider.com/137402-nextera-touts-new-capacity-meet-expected-demand-growth/",
+      "summary": "NextEra Energy is reporting solid second-quarter financials and planning new capacity to meet expected new demand.\nThe post NextEra Touts New Capacity to Meet Expected Demand Growth appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-26T15:53:48+00:00"
     },
     {
       "id": "63b9e97954a7be63",
