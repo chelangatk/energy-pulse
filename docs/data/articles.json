@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T22:53:07.642302+00:00",
-  "count": 232,
+  "generated_at": "2026-07-26T13:18:39.389897+00:00",
+  "count": 233,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-25T22:53:04.417381+00:00"
+      "published": "2026-07-26T13:18:36.369714+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-25T22:53:04.417354+00:00"
+      "published": "2026-07-26T13:18:36.369701+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-25T22:53:04.417318+00:00"
+      "published": "2026-07-26T13:18:36.369683+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-25T22:53:04.417283+00:00"
+      "published": "2026-07-26T13:18:36.369656+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-07-25T22:53:02.537727+00:00"
+      "published": "2026-07-26T13:18:34.647295+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,17 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-07-25T22:53:01.349773+00:00"
+      "published": "2026-07-26T13:18:33.345763+00:00"
+    },
+    {
+      "id": "63b9e97954a7be63",
+      "title": "Rethinking redundancy: smarter strategies for the AI-driven data center",
+      "link": "https://www.datacenterdynamics.com/en/opinions/rethinking-redundancy-smarter-strategies-for-the-ai-driven-data-center/",
+      "summary": "Thinking harder about cooling, power, and server-level redundancy",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-26T13:00:28+00:00"
     },
     {
       "id": "05c86bf2b9026738",
@@ -260,7 +270,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-07-24T12:27:46+00:00"
+      "published": "2026-07-24T12:27:00+00:00"
     },
     {
       "id": "d15c3d2100ce0149",
