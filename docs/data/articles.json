@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T22:57:15.968913+00:00",
-  "count": 242,
+  "generated_at": "2026-07-27T14:30:37.404181+00:00",
+  "count": 264,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-26T22:57:11.771681+00:00"
+      "published": "2026-07-27T14:30:33.940677+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-26T22:57:11.771666+00:00"
+      "published": "2026-07-27T14:30:33.940666+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-26T22:57:11.771648+00:00"
+      "published": "2026-07-27T14:30:33.940652+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-07-26T22:57:11.771615+00:00"
+      "published": "2026-07-27T14:30:33.940621+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-07-26T22:57:09.391117+00:00"
+      "published": "2026-07-27T14:30:31.299671+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,217 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-07-26T22:57:07.717587+00:00"
+      "published": "2026-07-27T14:30:30.108622+00:00"
+    },
+    {
+      "id": "27911d431ff6410e",
+      "title": "Hong Kong's SmarTone to terminate 3G services from October",
+      "link": "https://www.datacenterdynamics.com/en/news/hong-kongs-smartone-to-terminate-3g-services-from-october/",
+      "summary": "Only around one percent of SmarTone's customers use 3G as of last month",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T14:22:42+00:00"
+    },
+    {
+      "id": "91a1e4957e79af15",
+      "title": "Efficiency first infrastructure",
+      "link": "https://www.datacenterdynamics.com/en/opinions/efficiency-first-infrastructure/",
+      "summary": "Aligning sustainability with performance",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T14:00:28+00:00"
+    },
+    {
+      "id": "052aaefd1b65e8a1",
+      "title": "Vodafone Spain seeks to replace Vantage Towers with Cellnex, American Tower agreements",
+      "link": "https://www.datacenterdynamics.com/en/news/vodafone-spain-reorganizes-its-tower-infrastructure-and-strengthens-its-agreements-with-cellnex-and-american-tower/",
+      "summary": "As the telco looks to reduce its reliance on Vantage Towers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T13:47:44+00:00"
+    },
+    {
+      "id": "97b54b93162f5452",
+      "title": "Loudoun County considering moratorium on new data center applications, rejects 3.25 million sq ft campus",
+      "link": "https://www.datacenterdynamics.com/en/news/loudoun-county-considering-moratorium-on-new-data-center-applications-rejects-325-million-sq-ft-campus/",
+      "summary": "Trouble in data center paradise",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T13:01:04+00:00"
+    },
+    {
+      "id": "62cae9a1b3921ecb",
+      "title": "Asperitas develops wall-mounted immersion tank for Edge use cases",
+      "link": "https://www.datacenterdynamics.com/en/news/asperitas-develops-wall-mounted-immersion-tank-for-edge-use-cases/",
+      "summary": "Company working with Cisco to immerse Unified Edge hardware as a way to protect servers from dust and damage",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T12:51:36+00:00"
+    },
+    {
+      "id": "7d9bb35fc0222c1d",
+      "title": "Vodafone confirms 1,200 jobs cuts in Europe during Q1, as revenue grows 9.7%",
+      "link": "https://www.datacenterdynamics.com/en/news/vodafone-confirms-1200-jobs-cuts-in-europe-during-q1-as-revenue-grows-97/",
+      "summary": "As UK revenue jumps 22 percent YoY for Q1",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T12:49:17+00:00"
+    },
+    {
+      "id": "a547e5ede143bedb",
+      "title": "PG&E data center pipeline more than doubles to 12.7GW, compared to last quarter",
+      "link": "https://www.datacenterdynamics.com/en/news/pge-data-center-pipeline-more-than-doubles-to-127gw-compared-to-last-quarter/",
+      "summary": "1.8GW of which is expected to be operational by 2030",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T12:20:37+00:00"
+    },
+    {
+      "id": "ecf44521b3775f8a",
+      "title": "The Agentic AI Supplement",
+      "link": "https://www.datacenterdynamics.com/en/magazines/the-agentic-ai-supplement/",
+      "summary": "An agentic agenda",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T12:11:00+00:00"
+    },
+    {
+      "id": "81b9cd7acbc370a4",
+      "title": "Meta leaves RE100 climate initiative - report",
+      "link": "https://www.datacenterdynamics.com/en/news/meta-leaves-re100-climate-initiative-report/",
+      "summary": "Due to increase in natural gas procurement",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T12:10:28+00:00"
+    },
+    {
+      "id": "aab9c397b01249fd",
+      "title": "Meta inks 172MW solar PPA with Lightsource BP in Acadia Parish, Louisiana",
+      "link": "https://www.datacenterdynamics.com/en/news/meta-inks-172mw-solar-ppa-with-lightsource-bp-in-acadia-parish-louisiana/",
+      "summary": "Construction on the solar farm expected to start this year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T12:00:31+00:00"
+    },
+    {
+      "id": "39bab01ee4ede463",
+      "title": "Castrol signs MoU to bring immersion cooling to Japan",
+      "link": "https://www.datacenterdynamics.com/en/news/castrol-signs-mou-to-bring-immersion-cooling-to-japan/",
+      "summary": "Partners with Woodman and Eole",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T11:48:33+00:00"
+    },
+    {
+      "id": "974c6af5af84b2db",
+      "title": "Google files to expand data center campus in LaGrange, Georgia",
+      "link": "https://www.datacenterdynamics.com/en/news/google-files-to-expand-data-center-campus-in-lagrange-georgia/",
+      "summary": "Company looks to add second building at in-development site",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T11:30:23+00:00"
+    },
+    {
+      "id": "7bdc516254694879",
+      "title": "New Zealand's Green Party calls for one-year moratorium on new AI data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/httpswwwdatacenterdynamicscomennewsnew-york-becomes-first-us-state-to-enact-data-ce/",
+      "summary": "Leader argues that rules need to be written before the concrete is poured",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T11:10:24+00:00"
+    },
+    {
+      "id": "d3fc448f05648091",
+      "title": "Nvidia and SK Group announce $500bn AI agreement, includes 2GW of data center capacity",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-and-sk-group-announce-500bn-ai-agreement-includes-2gw-of-data-center-capacity/",
+      "summary": "First AI factory slated to come online in 2027 alongside broader memory partnership",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T11:10:01+00:00"
+    },
+    {
+      "id": "426d5e2a1a6f2894",
+      "title": "Gigawatt-scale data center campus planned outside Atlanta, Georgia",
+      "link": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-campus-planned-outside-atlanta-georgia/",
+      "summary": "Stillwater is behind 15-building project",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T11:03:18+00:00"
+    },
+    {
+      "id": "2f1018f04effc7f5",
+      "title": "Verizon signs $1bn fiber deal with Google to connect hyperscaler's data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/verizon-signs-1bn-fiber-deal-with-google-to-connect-hyperscalers-data-centers/",
+      "summary": "CEO Dan Schulman hints that more deals will come",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-07-27T10:48:00+00:00"
+    },
+    {
+      "id": "ad42186edd1bac6e",
+      "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67885",
+      "summary": "In the second quarter of 2026 (2Q26), 24% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, up from 22% in 2Q25. Between 2Q25 and 2Q26, hybrid electric vehicles continued to gain market share, reaching a record 16% of light-duty vehicle sales. The market shares of battery electric and plug-in hybrid electric vehicles d",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
+      "region": "National",
+      "published": "2026-07-27T09:00:00+00:00"
+    },
+    {
+      "id": "9f4362f7cec455da",
+      "title": "The electric meter is growing a brain: Why AMI 2.0 is the grid\u2019s next big leap and what you should do about it",
+      "link": "https://www.utilitydive.com/spons/the-electric-meter-is-growing-a-brain-why-ami-20-is-the-grids-next-big-l/825615/",
+      "summary": "The first wave of smart meters are near retirement and new meters with edge computing capabilities are arriving. Utilities have crucial equipment decisions ahead.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-27T09:00:00+00:00"
+    },
+    {
+      "id": "7c822903cdc98e6a",
+      "title": "How procurement strategy can strengthen electrification programs",
+      "link": "https://www.utilitydive.com/spons/how-procurement-strategy-can-strengthen-electrification-programs/825983/",
+      "summary": "How smarter procurement can reduce costs and strengthen electrification programs.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-27T09:00:00+00:00"
+    },
+    {
+      "id": "9c6666714d2647ef",
+      "title": "California to offer a novel $3,500 rebate for first-time EV buyers",
+      "link": "https://www.canarymedia.com/articles/electric-vehicles/california-rebate-ev-buyers",
+      "summary": "California is making a bet: Once you\u2019ve driven an EV, you won\u2019t want to go back to a gas-powered car.  Earlier this month, Gov. Gavin Newsom (D) signed legislation creating the MyFirstEV program. It\u2019s the state\u2019s first big attempt to make up for the loss of federal EV tax credits, and it\u2019s exclusively targeting the\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-27T07:30:00+00:00"
+    },
+    {
+      "id": "d7e4c849f74c980c",
+      "title": "US factories are struggling to get cleaner heat. These ideas may help.",
+      "link": "https://www.canarymedia.com/articles/clean-energy-manufacturing/factories-cleaner-heat-ideas",
+      "summary": "American households are all too familiar with the pain of high electric bills, which are climbing nationwide. The same problem is quietly hindering the country\u2019s factories from cleaning up their operations, too.  Hundreds of thousands of U.S. manufacturing facilities burn fossil fuels to produce the heat they need to\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-27T07:30:00+00:00"
     },
     {
       "id": "3c7040399f755424",
@@ -160,7 +370,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-07-26T13:00:28+00:00"
+      "published": "2026-07-26T13:00:00+00:00"
     },
     {
       "id": "05c86bf2b9026738",
@@ -185,6 +395,16 @@
     {
       "id": "a1f4cd69fe6e53ef",
       "title": "Strategy Amid Uncertainty: Why Decisioning Maturity is the Critical Differentiator in Today\u2019s Power Markets",
+      "link": "https://www.powermag.com/strategy-amid-uncertainty-why-decisioning-maturity-is-the-critical-differentiator-in-todays-power-markets/",
+      "summary": "The pace of change in energy markets has never been faster. Price signals that once evolved over days now shift within settlement windows. Geopolitical shocks that once took weeks to propagate through commodity markets now ripple across interconnected European power grids and global liquefied natural gas (LNG) supply chains in hours. And amid this acceleration, [\u2026]\nThe post Strategy Amid Uncertain",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-07-24T21:33:08+00:00"
+    },
+    {
+      "id": "95d9bb4e9d280062",
+      "title": "Strategy Amid Uncertainty: Why Decisioning Maturity Is the Critical Differentiator in Today\u2019s Power Markets",
       "link": "https://www.powermag.com/strategy-amid-uncertainty-why-decisioning-maturity-is-the-critical-differentiator-in-todays-power-markets/",
       "summary": "The pace of change in energy markets has never been faster. Price signals that once evolved over days now shift within settlement windows. Geopolitical shocks that once took weeks to propagate through commodity markets now ripple across interconnected European power grids and global liquefied natural gas (LNG) supply chains in hours. And amid this acceleration, [\u2026]\nThe post Strategy Amid Uncertain",
       "source": "POWER Magazine",
