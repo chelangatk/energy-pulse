@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:08:18.641129+00:00",
-  "count": 329,
+  "generated_at": "2026-08-08T12:44:00.159267+00:00",
+  "count": 333,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T05:08:14.902971+00:00"
+      "published": "2026-08-08T12:43:55.029176+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T05:08:14.902956+00:00"
+      "published": "2026-08-08T12:43:55.029165+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T05:08:14.902938+00:00"
+      "published": "2026-08-08T12:43:55.029151+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T05:08:14.902905+00:00"
+      "published": "2026-08-08T12:43:55.029122+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-08T05:08:13.382269+00:00"
+      "published": "2026-08-08T12:43:52.977931+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,17 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-08T05:08:12.581494+00:00"
+      "published": "2026-08-08T12:43:52.103373+00:00"
+    },
+    {
+      "id": "a686a11021895d16",
+      "title": "Sponsored: How high-performance coatings accelerate AI data center construction",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/how-high-performance-coatings-accelerate-ai-data-center-construction/",
+      "summary": "As modular construction accelerates, coatings are helping improve speed, reliability, safety, and sustainability across the data center lifecycle",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-08T07:00:00+00:00"
     },
     {
       "id": "b9c8c1d74a92711d",
@@ -146,7 +156,7 @@
       "id": "ba15bde4431ad1d3",
       "title": "The utility billing system is preventing rate and program innovation",
       "link": "https://www.utilitydive.com/news/utility-billing-system-preventing-rate-program-innovation/826053/",
-      "summary": "Utilities are spending billions to modernize the grid but the system responsible for billing customers is not keeping up, writes GridX CCO Scott Engstrom.",
+      "summary": "Utilities are spending billions to modernize the grid, but the system responsible for billing customers is not keeping up, writes GridX Chief Commercial Officer Scott Engstrom.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -161,6 +171,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-07T15:00:00+00:00"
+    },
+    {
+      "id": "82ddb1d2a939567f",
+      "title": "Existing power plants are \u2018bedrock\u2019 in supplying data centers: Constellation CEO",
+      "link": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
+      "summary": "Constellation Energy expects Texas\u2019 Batch Zero large load interconnection process will resume without \u201cmeaningful delay.\u201d",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-07T14:23:04+00:00"
     },
     {
       "id": "470c3b7ec7f3bbc5",
@@ -281,6 +301,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-07T12:00:38+00:00"
+    },
+    {
+      "id": "d4dd90cd2e8ac5d6",
+      "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+      "link": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+      "summary": "Executives at parent company Sempra said they support the governor's pause on new data center interconnection approvals, citing a need for durable long-term outcomes amid growing public opposition.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-07T12:00:00+00:00"
     },
     {
       "id": "f9058a7902d06926",
@@ -431,6 +461,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-06T21:32:38+00:00"
+    },
+    {
+      "id": "99355962732789ff",
+      "title": "Data center power sales drive $220M increase in TVA\u2019s net income",
+      "link": "https://www.utilitydive.com/news/data-center-tva-income-earnings-cumberland/827282/",
+      "summary": "The federal utility\u2019s total operating revenue was $10 billion over the first nine months of the fiscal year, up 3% year over year, with a net income of $965 million.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-06T20:54:49+00:00"
     },
     {
       "id": "5685d95e6f964289",
