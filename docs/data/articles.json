@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:44:00.159267+00:00",
+  "generated_at": "2026-08-08T22:25:06.625598+00:00",
   "count": 333,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T12:43:55.029176+00:00"
+      "published": "2026-08-08T22:25:03.505389+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T12:43:55.029165+00:00"
+      "published": "2026-08-08T22:25:03.505375+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T12:43:55.029151+00:00"
+      "published": "2026-08-08T22:25:03.505358+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T12:43:55.029122+00:00"
+      "published": "2026-08-08T22:25:03.505313+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-08T12:43:52.977931+00:00"
+      "published": "2026-08-08T22:25:00.695647+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-08T12:43:52.103373+00:00"
+      "published": "2026-08-08T22:24:59.504146+00:00"
     },
     {
       "id": "a686a11021895d16",
