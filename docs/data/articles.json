@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T22:25:06.625598+00:00",
-  "count": 333,
+  "generated_at": "2026-08-09T12:46:11.060296+00:00",
+  "count": 334,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T22:25:03.505389+00:00"
+      "published": "2026-08-09T12:46:08.238137+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T22:25:03.505375+00:00"
+      "published": "2026-08-09T12:46:08.238123+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T22:25:03.505358+00:00"
+      "published": "2026-08-09T12:46:08.238106+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-08T22:25:03.505313+00:00"
+      "published": "2026-08-09T12:46:08.238069+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-08T22:25:00.695647+00:00"
+      "published": "2026-08-09T12:46:06.810520+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-08T22:24:59.504146+00:00"
+      "published": "2026-08-09T12:46:05.162896+00:00"
     },
     {
       "id": "a686a11021895d16",
@@ -87,6 +87,16 @@
       "title": "Wisconsin Tells ATC to Start Over Again on $1.4B Tx Line to Power Stargate Data Center",
       "link": "https://www.rtoinsider.com/138679-wisconsin-tells-atc-to-start-over-again/",
       "summary": "Wisconsin regulators rescinded a completeness determination for a $1.4 billion, 345-kV transmission project associated with the Stargate data center north of Milwaukee after more than 550 project adjustments.\nThe post Wisconsin Tells ATC to Start Over Again on $1.4B Tx Line to Power Stargate Data Center appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-07T18:56:00+00:00"
+    },
+    {
+      "id": "e51f35e72b7be351",
+      "title": "Wis. Tells ATC to Start Over Again on $1.4B Tx Line to Power Stargate Data Center",
+      "link": "https://www.rtoinsider.com/138679-wisconsin-tells-atc-to-start-over-again/",
+      "summary": "Wisconsin regulators rescinded a completeness determination for a $1.4 billion, 345-kV transmission project associated with the Stargate data center north of Milwaukee after more than 550 project adjustments.\nThe post Wis. Tells ATC to Start Over Again on $1.4B Tx Line to Power Stargate Data Center appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
       "region": "National",
@@ -156,7 +166,7 @@
       "id": "ba15bde4431ad1d3",
       "title": "The utility billing system is preventing rate and program innovation",
       "link": "https://www.utilitydive.com/news/utility-billing-system-preventing-rate-program-innovation/826053/",
-      "summary": "Utilities are spending billions to modernize the grid, but the system responsible for billing customers is not keeping up, writes GridX Chief Commercial Officer Scott Engstrom.",
+      "summary": "Utilities are spending billions to modernize the grid but the system responsible for billing customers is not keeping up, writes GridX CCO Scott Engstrom.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -466,7 +476,7 @@
       "id": "99355962732789ff",
       "title": "Data center power sales drive $220M increase in TVA\u2019s net income",
       "link": "https://www.utilitydive.com/news/data-center-tva-income-earnings-cumberland/827282/",
-      "summary": "The federal utility\u2019s total operating revenue was $10 billion over the first nine months of the fiscal year, up 3% year over year, with a net income of $965 million.",
+      "summary": "The federal utility\u2019s total operating revenue was $10 billion over the first nine months of the fiscal year, up 3% year-over-year, with a net income of $965 million.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
