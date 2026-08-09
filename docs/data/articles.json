@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:46:11.060296+00:00",
-  "count": 334,
+  "generated_at": "2026-08-09T22:27:12.000052+00:00",
+  "count": 343,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-09T12:46:08.238137+00:00"
+      "published": "2026-08-09T22:27:08.619936+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-09T12:46:08.238123+00:00"
+      "published": "2026-08-09T22:27:08.619921+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-09T12:46:08.238106+00:00"
+      "published": "2026-08-09T22:27:08.619903+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-09T12:46:08.238069+00:00"
+      "published": "2026-08-09T22:27:08.619871+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-09T12:46:06.810520+00:00"
+      "published": "2026-08-09T22:27:06.067420+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,97 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-09T12:46:05.162896+00:00"
+      "published": "2026-08-09T22:27:04.955462+00:00"
+    },
+    {
+      "id": "0de955c7ad395753",
+      "title": "Stakeholders Weigh in on Hurdles to N.J.\u2019s VPP Plans",
+      "link": "https://www.rtoinsider.com/138724-stakeholders-voice-support-hurdles-new-jersey-vpp-plans/",
+      "summary": "Stakeholders at a meeting hosted by the New Jersey Board of Public Utilities weighed in on the state's proposal to create a virtual power plant.\nThe post Stakeholders Weigh in on Hurdles to N.J.\u2019s VPP Plans appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-09T20:43:53+00:00"
+    },
+    {
+      "id": "1aef6bd881ad4bad",
+      "title": "Groups Warn that La. Ratepayers Could be Saddled with Buildout for Meta\u2019s Hyperion",
+      "link": "https://www.rtoinsider.com/138696-nonprofits-denounce-louisiana-meta-buildout-warn-cost-spillover/",
+      "summary": "Earthjustice, the Union of Concerned Scientists and the Alliance for Affordable Energy argued that Louisiana ratepayers could end up footing some of the power bill for Meta\u2019s \u201cHyperion\u201d data center complex.\nThe post Groups Warn that La. Ratepayers Could be Saddled with Buildout for Meta\u2019s Hyperion appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-09T20:28:24+00:00"
+    },
+    {
+      "id": "31ba64c67e3478f6",
+      "title": "SPP: BPA Decision Expected Within Months",
+      "link": "https://www.rtoinsider.com/138721-spp-bpa-decision-expected-within-months/",
+      "summary": "SPP staff told stakeholders they expect a decision within the next two months from the Bonneville Power Administration on whether it will follow through on its commitment to join the RTO\u2019s day-ahead Markets+.\nThe post SPP: BPA Decision Expected Within Months appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-09T18:38:24+00:00"
+    },
+    {
+      "id": "5c9ce0dbc4b4a597",
+      "title": "Texas PUC Special Session Tackles 765-kV, Data Center Issues",
+      "link": "https://www.rtoinsider.com/138601-texas-puc-special-session-tackles-765-kv-data-center-issues/",
+      "summary": "The Texas Public Utility Commission has scheduled a special open meeting to discuss 765-kV transmission lines and data centers, both of which have faced increasing public opposition.\nThe post Texas PUC Special Session Tackles 765-kV, Data Center Issues appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-09T18:22:40+00:00"
+    },
+    {
+      "id": "945b2a6ac98435d8",
+      "title": "Constellation Secures More Buyers for its Nuclear Power",
+      "link": "https://www.rtoinsider.com/138524-constellation-secures-more-buyers-nuclear-power/",
+      "summary": "Constellation Energy reported solid second-quarter financials, including nearly a gigawatt of new long-term purchase agreements for power from its nuclear reactors.\nThe post Constellation Secures More Buyers for its Nuclear Power appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-09T18:21:16+00:00"
+    },
+    {
+      "id": "d42859c497393bcd",
+      "title": "A Faster Interconnection Queue Still Ends at a Construction Site",
+      "link": "https://www.rtoinsider.com/138449-a-faster-interconnection-queue-still-ends-at-a-construction-site/",
+      "summary": "Regulators are setting the terms for connecting data centers and other large loads to the grid. Whatever those terms end up saying, they will move only as fast as transmission gets built.\nThe post A Faster Interconnection Queue Still Ends at a Construction Site appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-09T18:18:12+00:00"
+    },
+    {
+      "id": "0d539fd28acd5cbe",
+      "title": "Members Say MISO on Right Path to Cutting DR Fraud",
+      "link": "https://www.rtoinsider.com/138693-members-say-miso-on-right-path-to-cutting-dr-fraud/",
+      "summary": "MISO members said the RTO\u2019s more stringent performance rules should win back trust in its demand-side resource fleet, though it should take care to be meticulous when registering new demand response entities.\nThe post Members Say MISO on Right Path to Cutting DR Fraud appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-09T17:42:27+00:00"
+    },
+    {
+      "id": "6b19470058adc5d8",
+      "title": "Alabama Proceeding Reveal Split Over Data Center Regulation",
+      "link": "https://www.rtoinsider.com/138689-alabama-power-argues-existing-tariff-serve-large-loads/",
+      "summary": "After data center divisions roiled the Alabama governor\u2019s race, stark tensions have emerged over how best to address the computing hubs\u2019 impact on the state\u2019s electric grid.\nThe post Alabama Proceeding Reveal Split Over Data Center Regulation appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-09T16:51:52+00:00"
+    },
+    {
+      "id": "e86f73bca41744bd",
+      "title": "Community benefit agreements are essential to data center success",
+      "link": "https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/",
+      "summary": "The roadmap to being a good neighbor",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-09T13:00:24+00:00"
     },
     {
       "id": "a686a11021895d16",
