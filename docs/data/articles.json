@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T13:03:56.720598+00:00",
-  "count": 356,
+  "generated_at": "2026-08-10T22:33:52.675777+00:00",
+  "count": 370,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-10T13:03:53.089670+00:00"
+      "published": "2026-08-10T22:33:48.619283+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-10T13:03:53.089658+00:00"
+      "published": "2026-08-10T22:33:48.619269+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-10T13:03:53.089643+00:00"
+      "published": "2026-08-10T22:33:48.619252+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-10T13:03:53.089611+00:00"
+      "published": "2026-08-10T22:33:48.619221+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-10T13:03:51.132079+00:00"
+      "published": "2026-08-10T22:33:46.558421+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,197 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-10T13:03:49.944060+00:00"
+      "published": "2026-08-10T22:33:45.484390+00:00"
+    },
+    {
+      "id": "5bf79aa87c5c6c2c",
+      "title": "Kotek Supports Local Pauses on Data Center Development in Oregon",
+      "link": "https://www.rtoinsider.com/138786-oregon-gov-kotek-supports-local-pauses-data-center-development/",
+      "summary": "Oregon Gov. Tina Kotek (D) is backing efforts by local governments to halt data center development, saying more needs to be done to prevent Oregonians from footing the bill.\nThe post Kotek Supports Local Pauses on Data Center Development in Oregon appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T21:35:17+00:00"
+    },
+    {
+      "id": "4d9cb5cebbb850e9",
+      "title": "Hyundai Heavy Industries signs 1GW natural gas engine supply deal with unnamed US data center developer",
+      "link": "https://www.datacenterdynamics.com/en/news/hyundai-heavy-industries-signs-1gw-natural-gas-engine-supply-deal-with-unnamed-us-data-center-developer/",
+      "summary": "Worth a reported $675.6m",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T16:40:24+00:00"
+    },
+    {
+      "id": "d50a2200718f32e8",
+      "title": "Fuse Touts \u2018Highest\u2019 Neutron Yield by Any Fusion Company",
+      "link": "https://www.powermag.com/fuse-touts-highest-neutron-yield-by-any-fusion-company/",
+      "summary": "A California-based fusion energy company announced it has reached an industry milestone. Fuse Energy Technologies Corp. on August 10 published a report noting the company set a record for the highest fusion neutron yield\u20141.27\u00d710\u00b9\u00b2 in a single shot\u2014by any commercial fusion company.\nThe post Fuse Touts \u2018Highest\u2019 Neutron Yield by Any Fusion Company appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T16:34:11+00:00"
+    },
+    {
+      "id": "d87d9ee7a2192a47",
+      "title": "Data center opens on tribal lands in California to support fiber network",
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-opens-on-tribal-lands-in-california-to-support-fiber-network/",
+      "summary": "Hoopa Valley people launch new facility",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T16:30:27+00:00"
+    },
+    {
+      "id": "5d0cd9b9c702775d",
+      "title": "Alabama city considers data center moratorium, could kill Edged project",
+      "link": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
+      "summary": "Edged aiming to build 8MW facility at site of former 911 data center in Prichard",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T16:20:26+00:00"
+    },
+    {
+      "id": "5e1680a3ecd663e9",
+      "title": "3 GW Off PJM, Again: What NERC\u2019s 2024 Investigation Already Told Us",
+      "link": "https://www.powermag.com/3-gw-off-pjm-again-what-nercs-2024-investigation-already-told-us/",
+      "summary": "More than 3 GW of data center load left the PJM system on July 22, 2026, after a single transmission fault. The North American Electric Reliability Corporation (NERC) investigated the same failure mode in 2024 and found that utility equipment shed none of it. Customer-side protection did all of it. Those settings are about to [\u2026]\nThe post 3 GW Off PJM, Again: What NERC\u2019s 2024 Investigation Already",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T16:18:53+00:00"
+    },
+    {
+      "id": "5e238548460cc38f",
+      "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
+      "link": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
+      "summary": "Largest deal to date for the energy storage firm",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T16:10:21+00:00"
+    },
+    {
+      "id": "4f6fda92ff076f07",
+      "title": "Array Digital Infrastructure reports 95% increase in site rental revenue, remains patient with C-band spectrum holdings",
+      "link": "https://www.datacenterdynamics.com/en/news/array-digital-infrastructure-reports-95-increase-in-site-rental-revenue-remains-patient-with-c-band-spectrum-holdings/",
+      "summary": "A sale of its C-band spectrum won't come straight away",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T15:50:29+00:00"
+    },
+    {
+      "id": "12c300ac086efcdc",
+      "title": "Alarm Bells Are Sounding for the Grid: Answering Them Takes More Than Megawatts",
+      "link": "https://www.powermag.com/alarm-bells-are-sounding-for-the-grid-answering-them-takes-more-than-megawatts/",
+      "summary": "When federal emergency powers become routine operating procedure, the system is not holding up. It is operating at its ceiling. And the customers who kept their lights on paid triple for the privilege, which means the event that operations survived is one that affordability did not.\nThe post Alarm Bells Are Sounding for the Grid: Answering Them Takes More Than Megawatts appeared first on POWER Mag",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T15:45:47+00:00"
+    },
+    {
+      "id": "0d4f3f3f7c7a6993",
+      "title": "Sunrun pursues direct-sales transition amid industry headwinds",
+      "link": "https://www.utilitydive.com/news/sunrun-rooftop-solar-battery-earnings/827458/",
+      "summary": "The residential solar-and-storage provider is looking to diversify its revenue while increasing focus on \u201cunlocking value from the customers and assets we already have,\u201d CEO Mary Powell told investors.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T15:40:13+00:00"
+    },
+    {
+      "id": "44d0faaf5b1cf2d5",
+      "title": "Firebird.ai launches 300MW Nvidia-powered AI data center in Armenia",
+      "link": "https://www.datacenterdynamics.com/en/news/firebirdai-launches-300mw-nvidia-powered-ai-data-center-in-armenia/",
+      "summary": "Company says it will deploy more than 70,000 Nvidia Rubin and Blackwell GPUs at the site",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T15:30:33+00:00"
+    },
+    {
+      "id": "987d93b3afb68ed9",
+      "title": "Virginia regulators order Dominion Energy to directly assign transmission costs to data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/virginia-regulators-order-dominion-energy-to-directly-assign-transmission-costs-to-data-centers/",
+      "summary": "Follows growing scrutiny from state regulators",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T15:12:39+00:00"
+    },
+    {
+      "id": "1801d59b1a8610ba",
+      "title": "T-Mobile US cut more than 4,500 jobs in 2026 as Deutsche Telekom drives modernization",
+      "link": "https://www.datacenterdynamics.com/en/news/t-mobile-us-cut-more-than-4500-jobs-in-2026-as-deutsche-telekom-drives-modernization/",
+      "summary": "Vendor's multiple acquisitions consolidated in first half of the year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T15:02:02+00:00"
+    },
+    {
+      "id": "d50c52b26100fb49",
+      "title": "Sponsored: Who backstops the backstop? The operational gap in neocloud financing",
+      "link": "https://www.datacenterdynamics.com/en/opinions/who-backstops-the-backstop-the-operational-gap-in-neocloud-financing/",
+      "summary": "With neocloud SLAs priced on compute delivered, and Nvidia's backstop landing on the other side of that equation, who backstops the finanical implications of operational downtime?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T15:00:00+00:00"
+    },
+    {
+      "id": "ed0ca5f63502d412",
+      "title": "Vistra supports Texas data center pause, execs say",
+      "link": "https://www.utilitydive.com/news/vistra-texas-data-center-pause-comanche-amazon-earnings/827434/",
+      "summary": "\u201cI'd like to see the queues culled, at the end of the day,\u201d said Vistra CEO Jim Burke in a second quarter earnings call.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T14:19:41+00:00"
+    },
+    {
+      "id": "5081325ede0ae1d3",
+      "title": "More Data Center Operators Commit to Abbott\u2019s Texas Standards as Power Companies Endorse ERCOT Batch Framework",
+      "link": "https://www.powermag.com/more-data-center-operators-commit-to-abbotts-texas-standards-as-power-companies-endorse-ercot-batch-framework/",
+      "summary": "A growing group of data center operators\u2014including Dallas-based Skybox Datacenters, Austin-headquartered bitcoin miner and hyperscale developer Mara, and global colocation giant Digital Realty\u2014have publicly committed to comply with Texas Gov. Greg Abbott\u2019s data center standards and the state\u2019s active audit of projects in the Texas grid operator\u2019s interconnection queue. They join QTS Data Centers, ",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T14:17:20+00:00"
+    },
+    {
+      "id": "a926a24d8cbb3317",
+      "title": "Building cost-effective networks for the AI era: data center interconnect and scale-across networking",
+      "link": "https://www.datacenterdynamics.com/en/opinions/building-cost-effective-networks-for-the-ai-era-data-center-interconnect-and-scale-across-networking/",
+      "summary": "Three innovations central to next phase of DCI and scale-across networking",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T14:00:21+00:00"
+    },
+    {
+      "id": "53c5174fa79a598b",
+      "title": "PPL-Blackstone joint venture secures 5 GW of gas turbines for data centers in Pennsylvania",
+      "link": "https://www.utilitydive.com/news/ppl-blackstone-joint-venture-secures-5-gw-of-gas-turbines-for-data-centers/827408/",
+      "summary": "Although the PJM Interconnection aims to hold a backstop reliability auction in late September,\u00a0Vincent Sorgi, PPL president and CEO, said he expects bilateral contracting will be the main pathway for adding generation in the region.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T13:27:12+00:00"
+    },
+    {
+      "id": "6b9f820b2e9d1b7e",
+      "title": "Why verification matters in modern chip design",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/why-verification-matters-in-modern-chip-design/",
+      "summary": "And how emulation with Cadence ProtiumTM enables confident pre-silicon validation",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T13:02:16+00:00"
     },
     {
       "id": "e707cf8dc1556b17",
@@ -121,6 +311,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-10T12:00:29+00:00"
+    },
+    {
+      "id": "2f83348aa9c1c110",
+      "title": "Siemens\u2019 gas turbine backlog nears 70 GW as company expands manufacturing",
+      "link": "https://www.utilitydive.com/news/siemens-gas-turbine-backlog-nears-70-gw-as-company-expands-manufacturing/827390/",
+      "summary": "The company booked 15 GW in new orders this quarter, executives said, with lead times running three years or more. It also plans to expand its transformer manufacturing capacity 50% by 2030.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T12:00:00+00:00"
     },
     {
       "id": "c742a48b3f2cb232",
@@ -313,6 +513,16 @@
       "published": "2026-08-09T16:51:52+00:00"
     },
     {
+      "id": "3edfe5e0c8ee380d",
+      "title": "Alabama Proceeding Reveals Split Over Data Center Regulation",
+      "link": "https://www.rtoinsider.com/138689-alabama-power-argues-existing-tariff-serve-large-loads/",
+      "summary": "After data center divisions roiled the Alabama governor\u2019s race, stark tensions have emerged over how best to address the computing hubs\u2019 impact on the state\u2019s electric grid.\nThe post Alabama Proceeding Reveals Split Over Data Center Regulation appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-09T16:51:52+00:00"
+    },
+    {
       "id": "e86f73bca41744bd",
       "title": "Community benefit agreements are essential to data center success",
       "link": "https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/",
@@ -445,6 +655,16 @@
     {
       "id": "82ddb1d2a939567f",
       "title": "Existing power plants are \u2018bedrock\u2019 in supplying data centers: Constellation CEO",
+      "link": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
+      "summary": "Constellation Energy expects Texas\u2019 Batch Zero large load interconnection process will resume without \u201cmeaningful delay.\u201d",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-07T14:23:04+00:00"
+    },
+    {
+      "id": "bee52a9368694016",
+      "title": "Constellation CEO: Existing power plants are \u2018bedrock\u2019 in supplying data centers",
       "link": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
       "summary": "Constellation Energy expects Texas\u2019 Batch Zero large load interconnection process will resume without \u201cmeaningful delay.\u201d",
       "source": "Utility Dive",
@@ -3436,85 +3656,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-21T00:16:09+00:00"
-    },
-    {
-      "id": "ae32dc310622befd",
-      "title": "Severe Service Control Valves for Power Plants: Reducing Cavitation, Noise, and Maintenance Costs",
-      "link": "https://www.powermag.com/severe-service-control-valves-for-power-plants-reducing-cavitation-noise-and-maintenance-costs/",
-      "summary": "Power industry severe service applications can be difficult, but new advanced trim designs and external noise reduction devices have created higher-performing and more cost-effective alternatives. Power industry applications practically define the phrase \u201csevere service.\u201d Elevated temperatures and pressures, cavitation, erosive solids, and high noise all conspire to push control valve technology t",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T22:27:41+00:00"
-    },
-    {
-      "id": "ed06ae70dc80c5b1",
-      "title": "Transforming the Grid: Why Scaling VPPs Is the Next Big Step for Utility Sustainability",
-      "link": "https://www.tdworld.com/distributed-energy-resources/news/55391820/transforming-the-grid-why-scaling-vpps-is-the-next-big-step-for-utility-sustainability",
-      "summary": "CEO Michael Grasso of Grid Rails AI explains that ComEd's SDVPP program approval matters beyond Illinois because it demonstrates VPPs are moving from pilot projects into mainstream utility planning.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T20:03:17+00:00"
-    },
-    {
-      "id": "dd407dd88a9a6774",
-      "title": "America Needs a Fifth Nuclear Executive Order",
-      "link": "https://www.powermag.com/america-needs-a-fifth-nuclear-executive-order/",
-      "summary": "President Trump\u2019s four nuclear executive orders issued on May 23, 2025, represented a historic liftoff for American nuclear energy. COMMENTARY As electricity demand surges, geopolitical energy competition intensifies, and America\u2019s power infrastructure faces mounting strain, the administration acted decisively. It recognized that American energy dominance\u2014and leadership in the digital age\u2014requires",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T19:16:09+00:00"
-    },
-    {
-      "id": "f2137d016357f8ef",
-      "title": "D Volt Co.",
-      "link": "https://www.tdworld.com/directory/equipment/transformers/power-substation/company/55392133/d-volt-co",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T18:15:36+00:00"
-    },
-    {
-      "id": "620024a00ac63ae4",
-      "title": "Wildfire Liability Is Becoming a Data Problem, Not Just a Legal One",
-      "link": "https://www.powermag.com/wildfire-liability-is-becoming-a-data-problem-not-just-a-legal-one/",
-      "summary": "For years, utility wildfire liability was largely framed around a straightforward question: who caused the fire? That question still matters, but it is no longer the only one that matters.\nThe post Wildfire Liability Is Becoming a Data Problem, Not Just a Legal One appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T17:50:33+00:00"
-    },
-    {
-      "id": "a3efca682e424743",
-      "title": "Terra Innovatum, Waiken ILW Will Deploy Microreactors for Data Center Infrastructure",
-      "link": "https://www.powermag.com/terra-innovatum-waiken-ilw-will-deploy-microreactors-for-data-center-infrastructure/",
-      "summary": "A micro-modular nuclear reactor developer with global headquarters in Italy and a U.S. corporate office in Pennsylvania said it has been selected to deploy its equipment for data center infrastructure in Latin America and Brazil.\nThe post Terra Innovatum, Waiken ILW Will Deploy Microreactors for Data Center Infrastructure appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "published": "2026-07-20T15:56:57+00:00"
-    },
-    {
-      "id": "141949691556bb64",
-      "title": "Eco-Friendly Concrete Is Evolving",
-      "link": "https://www.tdworld.com/substations/blog/55388958/eco-friendly-concrete-is-evolving",
-      "summary": "As concrete remains the second most consumed material worldwide, emerging eco-friendly alternatives like biomason's bio-cement and volcanic rock cement are paving the way for greener construction practices and reduced carbon footprints.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T15:35:17+00:00"
-    },
-    {
-      "id": "9fcaad3c8bdc3076",
-      "title": "FERC Orders CAISO, SPP to Report on Western Grid Coordination Efforts",
-      "link": "https://www.tdworld.com/policy/news/55392030/ferc-orders-caiso-spp-to-report-on-western-grid-coordination-efforts",
-      "summary": "The order emphasizes the importance of seamless coordination between regional grid operators and neighboring authorities to enhance reliability and market efficiency amid expanding regional participation and complex transmission operations.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T15:31:34+00:00"
     }
   ]
 }
