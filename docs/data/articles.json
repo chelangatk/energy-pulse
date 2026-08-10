@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T22:27:12.000052+00:00",
-  "count": 343,
+  "generated_at": "2026-08-10T13:03:56.720598+00:00",
+  "count": 356,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-09T22:27:08.619936+00:00"
+      "published": "2026-08-10T13:03:53.089670+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-09T22:27:08.619921+00:00"
+      "published": "2026-08-10T13:03:53.089658+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-09T22:27:08.619903+00:00"
+      "published": "2026-08-10T13:03:53.089643+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-09T22:27:08.619871+00:00"
+      "published": "2026-08-10T13:03:53.089611+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-09T22:27:06.067420+00:00"
+      "published": "2026-08-10T13:03:51.132079+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,177 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-09T22:27:04.955462+00:00"
+      "published": "2026-08-10T13:03:49.944060+00:00"
+    },
+    {
+      "id": "e707cf8dc1556b17",
+      "title": "Telesat expands Lightspeed capacity by 44% after securing $1.93bn Arctic military satcom contract",
+      "link": "https://www.datacenterdynamics.com/en/news/telesat-expands-lightspeed-capacity-by-44-after-securing-193bn-arctic-military-satcom-contract/",
+      "summary": "Canadian space champion sees compounding recommitment in funding on sovereign space connectivity",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T13:00:26+00:00"
+    },
+    {
+      "id": "d84d96fe1b34db59",
+      "title": "Gigawatt-scale data center in Atlanta, Georgia, withdrawn by developer",
+      "link": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-in-atlanta-georgia-withdrawn-by-developer/",
+      "summary": "Developer will instead pursue residential development",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T12:35:00+00:00"
+    },
+    {
+      "id": "2a0093d34b676004",
+      "title": "Chinese green tech company Envision says it has commissioned 2GW campus in Inner Mongolia",
+      "link": "https://www.datacenterdynamics.com/en/news/chinese-green-tech-company-envision-says-it-has-commissioned-2gw-campus-in-inner-mongolia/",
+      "summary": "Envision joins the ranks of DeepSeek and RedNote",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T12:26:42+00:00"
+    },
+    {
+      "id": "38d0d25d6203e2ed",
+      "title": "Officials reject proposal for 20-story data center in downtown Kansas City, Missouri",
+      "link": "https://www.datacenterdynamics.com/en/news/officials-reject-proposal-for-20-story-data-center-in-downtown-kansas-city-missouri/",
+      "summary": "Revitalization Unlimited has hoped to demolish former newspaper building",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T12:20:30+00:00"
+    },
+    {
+      "id": "749342c31f956bfe",
+      "title": "12-story office building in Chicago, Illinios, eyed for data center conversion",
+      "link": "https://www.datacenterdynamics.com/en/news/12-story-office-building-in-chicago-illinios-eyed-for-data-center-conversion/",
+      "summary": "Local developer files to convert portion of 300 West Adams to data center use",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T12:00:31+00:00"
+    },
+    {
+      "id": "a2ddc5a82ef3d39a",
+      "title": "Taiwanese cloud provider Konst signs data center lease with LG Sinar Mas in Indonesia",
+      "link": "https://www.datacenterdynamics.com/en/news/taiwanese-cloud-provider-konst-signs-data-center-lease-with-lg-sinar-mas-in-indonesia/",
+      "summary": "Taiwanese cloud provider is leasing capacity from LGSM Indonesian data center unit",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T12:00:29+00:00"
+    },
+    {
+      "id": "c742a48b3f2cb232",
+      "title": "Quantum earnings Q2 2026: D-Wave, IonQ, and Rigetti publish financial results alongside newly IPO-ed IQM Quantum Computers",
+      "link": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q2-2026-d-wave-ionq-and-rigetti-publish-financial-results-alongside-newly-ipo-ed-iqm-quantum-computers/",
+      "summary": "Six quantum computing companies now publicly trading following SPAC mergers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T11:59:33+00:00"
+    },
+    {
+      "id": "4904fe77999d63d7",
+      "title": "FCC approves Xona application for 258-satellite PNT constellation",
+      "link": "https://www.datacenterdynamics.com/en/news/fcc-approves-xona-application-for-258-satellite-pnt-constellation/",
+      "summary": "GPS competitor prepares to scale following March Series C",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T11:42:17+00:00"
+    },
+    {
+      "id": "b17f5ef1c29c1f07",
+      "title": "Macquarie finalizes acquisition of IHS Towers' Latam assets",
+      "link": "https://www.datacenterdynamics.com/en/news/macquarie-finalizes-acquisition-of-ihs-towers-latam-assets/",
+      "summary": "As IHS Towers shareholders vote in favor of MTN takeover",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T11:20:28+00:00"
+    },
+    {
+      "id": "50690433a0ef284b",
+      "title": "Pennsylvania utility PPL sees advanced-stage data center pipeline grow to 31.8GW",
+      "link": "https://www.datacenterdynamics.com/en/news/pennsylvania-utility-ppl-sees-advanced-stage-data-center-pipeline-grow-to-318gw/",
+      "summary": "An increase of 3.5GW from last quarter",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T10:56:00+00:00"
+    },
+    {
+      "id": "6743fabda8b421eb",
+      "title": "Amazon acquires 8,000-acre site in Pecos, Texas, for natural gas powered behind-the-meter data center - report",
+      "link": "https://www.datacenterdynamics.com/en/news/amazon-acquires-8000-acre-site-in-pecos-texas-for-natural-gas-powered-behind-the-meter-data-center-report/",
+      "summary": "If built, it could be the largest natural gas plant in US at 7.65GW",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T10:55:00+00:00"
+    },
+    {
+      "id": "ed576dcc01f56707",
+      "title": "Switch confidentially files for IPO - report",
+      "link": "https://www.datacenterdynamics.com/en/news/switch-confidentially-files-for-ipo-report/",
+      "summary": "Rob Roy's data center firm could be going public again",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T10:53:40+00:00"
+    },
+    {
+      "id": "353bd2da89c223a9",
+      "title": "Spain's Nabiax to expand Madrid data center campus",
+      "link": "https://www.datacenterdynamics.com/en/news/spains-nabiax-to-expand-madrid-data-center-campus/",
+      "summary": "Company aims to expand IT capacity from 35MW to 140MW via \u20ac800 million investment",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-10T09:49:08+00:00"
+    },
+    {
+      "id": "e1c5d0d52ea77606",
+      "title": "Duration of power outages in Puerto Rico not caused by major events increased 19% in 2025",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67926",
+      "summary": "In 2025, customers in Puerto Rico experienced an average of 36 hours of power interruptions that were not caused by major events such as hurricanes, 19% more than in 2024. On average, between 2021 and 2025, Puerto Rican customers experience 29 hours of power loss each year. By comparison, electricity customers in the mainland United States generally experience about two hours of electricity interr",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
+      "region": "National",
+      "published": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "id": "6f896a8dbe1adfcc",
+      "title": "Building a more resilient distribution grid: improving reliability and storm recovery",
+      "link": "https://www.utilitydive.com/spons/building-a-more-resilient-distribution-grid-improving-reliability-and-stor/827322/",
+      "summary": "The future of grid reliability is proactive, not reactive. Learn how leading utilities are building resilience before the next storm hits.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "id": "10fcdaebd7e51fa4",
+      "title": "In North Carolina, rooftop solar is alive and well despite headwinds",
+      "link": "https://www.canarymedia.com/articles/solar/north-carolina-rooftop-solar",
+      "summary": "Stew Miller, who launched his North Carolina rooftop solar company in the 2000s, says there\u2019s \u201ca lot of negativity\u201d in his industry right now \u2014 and it\u2019s easy to see why.    A year ago, Republicans passed the One Big Beautiful Bill Act eliminating the 30% federal tax credit for households who buy rooftop panels. That\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T07:30:00+00:00"
+    },
+    {
+      "id": "45635ee665ceee18",
+      "title": "World\u2019s oldest cheddar-maker slashes energy bills with novel heat pumps",
+      "link": "https://www.canarymedia.com/articles/heat-pumps/worlds-oldest-cheddar-maker-heat-pumps",
+      "summary": "In many ways the world's oldest cheddar-maker hews to tradition.  Since 1833, Barber\u2019s Farmhouse Cheesemakers has operated from the rolling green pastures of southwest England, milking grass-fed cows and fermenting the milk with microbial starters passed down for generations. That heritage has led to award-winning\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T07:30:00+00:00"
     },
     {
       "id": "0de955c7ad395753",
@@ -193,16 +363,6 @@
       "published": "2026-08-07T18:56:00+00:00"
     },
     {
-      "id": "0df14166e7f5bfc6",
-      "title": "Bridge DC launches prefabricated data center power module",
-      "link": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
-      "summary": "Container contains transformers, power distribution, UPS, and cooling infrastructure",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-07T17:00:55+00:00"
-    },
-    {
       "id": "e4943e54b28ccfce",
       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
       "link": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
@@ -211,6 +371,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-07T17:00:40+00:00"
+    },
+    {
+      "id": "0df14166e7f5bfc6",
+      "title": "Bridge DC launches prefabricated data center power module",
+      "link": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
+      "summary": "Container contains transformers, power distribution, UPS, and cooling infrastructure",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-07T17:00:00+00:00"
     },
     {
       "id": "ee8ea5f8a2f2718a",
@@ -256,7 +426,7 @@
       "id": "ba15bde4431ad1d3",
       "title": "The utility billing system is preventing rate and program innovation",
       "link": "https://www.utilitydive.com/news/utility-billing-system-preventing-rate-program-innovation/826053/",
-      "summary": "Utilities are spending billions to modernize the grid but the system responsible for billing customers is not keeping up, writes GridX CCO Scott Engstrom.",
+      "summary": "Utilities are spending billions to modernize the grid, but the system responsible for billing customers is not keeping up, writes GridX Chief Commercial Officer Scott Engstrom.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -566,7 +736,7 @@
       "id": "99355962732789ff",
       "title": "Data center power sales drive $220M increase in TVA\u2019s net income",
       "link": "https://www.utilitydive.com/news/data-center-tva-income-earnings-cumberland/827282/",
-      "summary": "The federal utility\u2019s total operating revenue was $10 billion over the first nine months of the fiscal year, up 3% year-over-year, with a net income of $965 million.",
+      "summary": "The federal utility\u2019s total operating revenue was $10 billion over the first nine months of the fiscal year, up 3% year over year, with a net income of $965 million.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -3345,46 +3515,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-20T15:31:34+00:00"
-    },
-    {
-      "id": "7856ce0f8deceb05",
-      "title": "States join fight against Trump administration\u2019s wind farm blockade",
-      "link": "https://www.canarymedia.com/articles/wind/states-lawsuit-trump-defense-permitting-freeze",
-      "summary": "A coalition of 18 states and Washington, D.C., has moved to join an industry lawsuit challenging the Department of Defense\u2019s freeze on onshore wind projects in America.  It\u2019s the latest in a nearly yearlong saga during which the Trump administration has obstructed more than 155 land-based wind projects across the\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T09:30:00+00:00"
-    },
-    {
-      "id": "7b4c979b5c373204",
-      "title": "New York imports more electricity from Canada after high-voltage transmission line opens",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67867",
-      "summary": "On July 3, 2026, the New York Independent System Operator (NYISO) imported 52 gigawatthours (GWh) of electricity from Canada, the most traded between the two areas since January 2025. Some of the imported electricity flowed along the new Champlain Hudson Power Express (CHPE) transmission line between Quebec, Canada, and New York City, which officially reached commercial operations in May after thr",
-      "source": "EIA Today in Energy",
-      "category": "ISO/RTO",
-      "region": "National",
-      "published": "2026-07-20T09:00:00+00:00"
-    },
-    {
-      "id": "0574c8fa0f3ed989",
-      "title": "An old-school geothermal giant rides the tech\u2019s newfound popularity",
-      "link": "https://www.canarymedia.com/articles/geothermal/ormat-next-gen-geothermal-popularity",
-      "summary": "Over two decades ago, Ormat Technologies began a big experiment on a swath of rugged land near the Hot Springs Mountains in western Nevada.  The geothermal company was already producing electricity there, using the heat found naturally in hot water and steam trapped beneath the earth\u2019s surface. But in 2002, Ormat and\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T07:30:00+00:00"
-    },
-    {
-      "id": "964a8d8bba88b712",
-      "title": "Massachusetts bill would end a costly gas pipeline repair program",
-      "link": "https://www.canarymedia.com/articles/utilities/massachusetts-gas-pipeline-repair-program",
-      "summary": "Massachusetts state senators are taking aim at a pipeline replacement program they say is inflating natural gas bills while doing little to make the system safer.  The Senate earlier this month passed a sweeping energy-affordability bill that aims to save consumers roughly $14 billion over the next 10 years. One way\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-20T07:30:00+00:00"
     }
   ]
 }
