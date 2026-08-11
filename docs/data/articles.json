@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T22:33:52.675777+00:00",
-  "count": 370,
+  "generated_at": "2026-08-11T13:00:31.312382+00:00",
+  "count": 382,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-10T22:33:48.619283+00:00"
+      "published": "2026-08-11T13:00:27.080014+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-10T22:33:48.619269+00:00"
+      "published": "2026-08-11T13:00:27.080001+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-10T22:33:48.619252+00:00"
+      "published": "2026-08-11T13:00:27.079986+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-10T22:33:48.619221+00:00"
+      "published": "2026-08-11T13:00:27.079956+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-10T22:33:46.558421+00:00"
+      "published": "2026-08-11T13:00:25.118639+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,167 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-10T22:33:45.484390+00:00"
+      "published": "2026-08-11T13:00:23.745313+00:00"
+    },
+    {
+      "id": "ffb7ae780aa1191e",
+      "title": "Fermi signs agreement with TensorWave for up to 650MW of data center capacity at Project Matador site",
+      "link": "https://www.datacenterdynamics.com/en/news/fermi-signs-agreement-with-tensorwave-for-up-to-650mw-of-data-center-capacity-at-project-matador-site/",
+      "summary": "Facility will support AMD GPU deployments once completed",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-11T12:15:52+00:00"
+    },
+    {
+      "id": "5554d218813de8e3",
+      "title": "Verizon blames Sunday's network outage in Southern California on multiple fiber cuts",
+      "link": "https://www.datacenterdynamics.com/en/news/verizon-blames-sundays-network-outage-in-southern-california-on-multiple-fiber-cuts/",
+      "summary": "As vandals caused mobile and Internet disruption for 12,000 customers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-11T11:09:15+00:00"
+    },
+    {
+      "id": "0f7ccdb4d2808960",
+      "title": "atNorth partners with Selected Group on heat reuse project in Denmark",
+      "link": "https://www.datacenterdynamics.com/en/news/atnorth-partners-with-selected-group-on-heat-reuse-project-in-denmark/",
+      "summary": "Will supply surplus heat to a large-scale greenhouse development",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-11T10:54:12+00:00"
+    },
+    {
+      "id": "41fac1d13c075b87",
+      "title": "Ohio regulators direct data center firms to provide utility AEP Ohio with 180 days notice prior to grid connection",
+      "link": "https://www.datacenterdynamics.com/en/news/ohio-regulators-direct-data-center-firms-to-provide-utility-aep-ohio-with-180-days-notice-prior-to-grid-connection/",
+      "summary": "Adds to the existing large load rate class structure in the state",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-11T10:50:34+00:00"
+    },
+    {
+      "id": "7186ab9f9a024c22",
+      "title": "Riot Platforms agrees 191MW, 20-year lease agreement with Anthropic worth $9.1bn \u2013 report",
+      "link": "https://www.datacenterdynamics.com/en/news/riot-platforms-agrees-191mw-20-year-lease-agreement-with-anthropic-worth-91bn-report/",
+      "summary": "Capacity will be deployed at Bitcoin miner\u2019s campus in Rockdale, Texas",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-11T10:45:59+00:00"
+    },
+    {
+      "id": "1def0b5996c9029b",
+      "title": "Fluidstack shares details of planned data center in Sullivan County, Indiana",
+      "link": "https://www.datacenterdynamics.com/en/news/fluidstack-shares-details-of-planned-data-center-in-sullivan-county-indiana/",
+      "summary": "Company said it wants to provide information about the project, local residents remain unconvinced",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-11T09:23:52+00:00"
+    },
+    {
+      "id": "99418bf739018dec",
+      "title": "TalkTalk nears exclusive talks with Octopus Investment over wholesale unit - report",
+      "link": "https://www.datacenterdynamics.com/en/news/talktalk-nears-exclusive-talks-with-octopus-investment-over-wholesale-unit-report/",
+      "summary": "Could herald a full break-up of the UK broadband provider",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-11T09:22:00+00:00"
+    },
+    {
+      "id": "0f114136d38e7f16",
+      "title": "AI readiness starts with power 1 designing for real-world load conditions",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/ai-readiness-starts-with-power-1-designing-for-real-world-load-conditions/",
+      "summary": "Explore a structured approach to powering AI data centers that balances speed, reliability and long-term decarbonization",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-11T09:17:40+00:00"
+    },
+    {
+      "id": "f2b6fa42a73612c6",
+      "title": "3 ways to fix California's utility spending problem \u2014 if lawmakers act",
+      "link": "https://www.canarymedia.com/articles/utilities/3-ways-fix-california-utility-spending",
+      "summary": "California lawmakers are once again contending with how to curb the state\u2019s high energy costs as they hurtle toward the end of this year\u2019s legislative session on Aug. 31. So what\u2019s on the table for utility rate reform in the final stretch?  Enter Senate Bill 905 , a complicated package of proposals that are likely to\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-11T07:30:00+00:00"
+    },
+    {
+      "id": "0e6b827e5499c969",
+      "title": "Why Illinois has struggled to turn old coal sites into solar farms",
+      "link": "https://www.canarymedia.com/articles/solar/illinois-coal-sites-to-solar-farms",
+      "summary": "Illinois had big plans to turn a bunch of old coal plant sites into solar and battery farms. But the program has turned out to be kind of a bust.  The state created its Coal to Solar and Energy Storage Initiative five years ago, hoping it would speed clean energy deployment by making use of the grid infrastructure\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-11T07:30:00+00:00"
+    },
+    {
+      "id": "af05c433d0ccf388",
+      "title": "Trump\u2019s war on offshore wind is robbing a generation of workers",
+      "link": "https://www.canarymedia.com/articles/offshore-wind/trump-offshore-wind-robbing-workers",
+      "summary": "This article originally appeared on Inside Climate News , a nonprofit, nonpartisan news organization that covers climate, energy, and the environment. Sign up for their newsletter.   When Gerard Mullin decided to train in offshore wind, he didn\u2019t know what to expect. But on his first long-term project in\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-11T07:30:00+00:00"
+    },
+    {
+      "id": "c06c922a560ceeec",
+      "title": "Sponsored: Don\u2019t bring yesterday\u2019s optics to tomorrow\u2019s AI fabric",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/dont-bring-yesterdays-optics-to-tomorrows-ai-fabric/",
+      "summary": "Overcoming multifiber test challenges inside the modern data center",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-11T07:00:00+00:00"
+    },
+    {
+      "id": "9fe7cd254d937105",
+      "title": "Finally in Service, NECEC\u2019s Effects Still Hotly Contested in New England",
+      "link": "https://www.rtoinsider.com/138788-finally-in-service-necec-effects-hotly-contested-new-england/",
+      "summary": "NECEC appears to have led to, or at least coincided with, several notable changes, including shifting flow patterns between New England and Qu\u00e9bec, increased congestion within ISO-NE, and price suppression during periods of increased imports.\nThe post Finally in Service, NECEC\u2019s Effects Still Hotly Contested in New England appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-11T00:56:47+00:00"
+    },
+    {
+      "id": "1502ec8033ad9d81",
+      "title": "Gunra Ransomware Targeting Utilities, Agencies Warn",
+      "link": "https://www.rtoinsider.com/138792-agencies-warn-gunra-ransomware-targeting-utilities/",
+      "summary": "Multiple law enforcement agencies warned that a ransomware gang known to target utilities is selling its services to other criminal actors.\nThe post Gunra Ransomware Targeting Utilities, Agencies Warn appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T23:33:44+00:00"
+    },
+    {
+      "id": "f40d81d1ce26dffc",
+      "title": "BHE Montana Commits to Join EDAM in 2028",
+      "link": "https://www.rtoinsider.com/138800-bhe-montana-commits-to-join-edam-in-2028/",
+      "summary": "BHE Montana said it will join CAISO\u2019s Extended Day-Ahead Market in 2028, increasing to eight the number of participants committed to the new market.\nThe post BHE Montana Commits to Join EDAM in 2028 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T22:59:08+00:00"
+    },
+    {
+      "id": "3c8f65c85badb782",
+      "title": "The True Vulnerability in SPP\u2019s July Emergency Wasn\u2019t the Coal Plant",
+      "link": "https://www.rtoinsider.com/138565-the-true-vulnerability-spp-july-emergency-wasnt-coal-plant/",
+      "summary": "SPP's newest Western territory was pushed to its highest emergency tier. The generator that went offline got the attention, but the weather forecasting gap behind it is the real story, writes Chris Goode.\nThe post The True Vulnerability in SPP\u2019s July Emergency Wasn\u2019t the Coal Plant appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-10T22:37:12+00:00"
     },
     {
       "id": "5bf79aa87c5c6c2c",
@@ -236,7 +396,7 @@
       "id": "53c5174fa79a598b",
       "title": "PPL-Blackstone joint venture secures 5 GW of gas turbines for data centers in Pennsylvania",
       "link": "https://www.utilitydive.com/news/ppl-blackstone-joint-venture-secures-5-gw-of-gas-turbines-for-data-centers/827408/",
-      "summary": "Although the PJM Interconnection aims to hold a backstop reliability auction in late September,\u00a0Vincent Sorgi, PPL president and CEO, said he expects bilateral contracting will be the main pathway for adding generation in the region.",
+      "summary": "Although the PJM Interconnection aims to hold a backstop reliability auction in late September, CEO Vincent Sorgi said he expects bilateral contracting will be the main pathway for adding generation in the region.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -3616,46 +3776,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-21T14:40:06+00:00"
-    },
-    {
-      "id": "85e600c7c445713e",
-      "title": "Startup offers low-cost home batteries to Massachusetts residents",
-      "link": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts",
-      "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.  Starting in four counties in the southeastern part of the state, the company will provide customers with a 15-kilowatt-hour home\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-21T12:00:00+00:00"
-    },
-    {
-      "id": "cc3831ef06f99737",
-      "title": "Balcony solar is sweeping the US, but who's actually selling it?",
-      "link": "https://www.canarymedia.com/articles/solar/balcony-solar-for-sale-us",
-      "summary": "A hands-on form of solar power has electrified the U.S. in the past year. Plug-in solar lets anyone hang a few panels in the sunlight and send the power straight into their wall sockets to partially offset their utility bill. It extends the benefits of clean energy, a little bit at a time, to renters and anyone else\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-21T07:30:00+00:00"
-    },
-    {
-      "id": "696e3a828bf74563",
-      "title": "Inside Amazon's approach to data center sustainability: A conversation with Brandon Oyer",
-      "link": "https://www.canarymedia.com/articles/sponsored/inside-amazons-approach-to-data-center-sustainability-a-conversation-with-brandon-oyer",
-      "summary": "Brandon Oyer, director of energy and water for Amazon Web Services (AWS), discusses how Amazon invests in carbon-free energy, strengthens grids, and ensures communities benefit from data center growth.  Oyer leads energy and water strategy for AWS, but his path to that role was unconventional. He spent years serving\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-21T07:30:00+00:00"
-    },
-    {
-      "id": "6897db382b0d3db8",
-      "title": "Quantum Computing Is Emerging as a Tool for Tomorrow\u2019s Electrical Grids",
-      "link": "https://www.powermag.com/quantum-computing-is-emerging-as-a-tool-for-tomorrows-electrical-grids/",
-      "summary": "Artificial intelligence and high-performance computing have helped electrical utilities modernize how they model, forecast, and manage grid operations. These tools already play a central role in maintaining reliability, balancing supply and demand, and planning new infrastructure. But as electrical grids become more distributed, data-intensive, and renewable-heavy, some of the most complex decisio",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-21T00:16:09+00:00"
     }
   ]
 }
