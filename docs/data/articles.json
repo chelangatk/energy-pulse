@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T13:05:26.921570+00:00",
-  "count": 419,
+  "generated_at": "2026-08-12T22:36:54.756718+00:00",
+  "count": 421,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-12T13:05:22.892274+00:00"
+      "published": "2026-08-12T22:36:50.903763+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-12T13:05:22.892259+00:00"
+      "published": "2026-08-12T22:36:50.903748+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-12T13:05:22.892241+00:00"
+      "published": "2026-08-12T22:36:50.903730+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-12T13:05:22.892206+00:00"
+      "published": "2026-08-12T22:36:50.903699+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-12T13:05:21.468518+00:00"
+      "published": "2026-08-12T22:36:48.963502+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,177 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-12T13:05:20.442646+00:00"
+      "published": "2026-08-12T22:36:46.734517+00:00"
+    },
+    {
+      "id": "233279ef38da9c52",
+      "title": "PJM OC Briefs Aug. 6, 2026",
+      "link": "https://www.rtoinsider.com/138978-pjm-oc-080626/",
+      "summary": "PJM saw a preliminary hourly peak load of 159,021 MW on July 15 as a heatwave brought heat indexes above 100 degrees across the footprint between July 14 and July 17, according to a presentation delivered to the Operating Committee.\nThe post PJM OC Briefs Aug. 6, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T21:16:48+00:00"
+    },
+    {
+      "id": "06e195bf9b400c24",
+      "title": "Telkom Indonesia finalizes spin-off of $4.8bn InfraCo",
+      "link": "https://www.datacenterdynamics.com/en/news/telkom-indonesia-finalizes-spin-off-of-48bn-infraco/",
+      "summary": "Company completes transfer of network infrastructure assets to InfraNexia",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T17:30:32+00:00"
+    },
+    {
+      "id": "90025191b0b4b430",
+      "title": "Google launches $6m R&D intiative for carbon removal, superpollutant abatement",
+      "link": "https://www.datacenterdynamics.com/en/news/google-launches-6m-rd-intiative-for-carbon-removal-superpollutant-abatement/",
+      "summary": "Will offer funding to a range of carbon removal technologies",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T17:04:52+00:00"
+    },
+    {
+      "id": "4ef1c93f9c0cccb5",
+      "title": "Texas hits new peak demand record, but supply constraints will limit growth",
+      "link": "https://www.utilitydive.com/news/supply-constraints-will-limit-ercot-peak-demand-growth-report/827677/",
+      "summary": "Ascend Analytics says more than 80% of new large loads seeking interconnection will not have matching generation online by 2030, even as data centers and industrial demand continue to surge.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T17:00:00+00:00"
+    },
+    {
+      "id": "354c59860b634ed8",
+      "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW data center",
+      "link": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+      "summary": "Behring looks to turn vacant site back into live data center",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T16:00:31+00:00"
+    },
+    {
+      "id": "9db6cf4d655296a8",
+      "title": "ConEd plans 28 new substations by 2035",
+      "link": "https://www.utilitydive.com/news/coned-plans-28-new-substations-by-2035/827700/",
+      "summary": "The New York-based utility company is pursuing growth through electrification, in alignment with city and state climate policies, it said last week.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T15:46:32+00:00"
+    },
+    {
+      "id": "440c313372f43a37",
+      "title": "Landmark Dividend acquires data center in Jacksonville, Florida, for $8.1m",
+      "link": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
+      "summary": "Leased by telecoms provider T-Mobile",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T15:42:32+00:00"
+    },
+    {
+      "id": "9a3386f4a59b9782",
+      "title": "Raid by authorities sees illegal migrant workers arrested at under-construction data center site in Rayong, Thailand",
+      "link": "https://www.datacenterdynamics.com/en/news/raid-by-authorities-sees-illegal-migrant-workers-arrested-at-under-construction-data-center-site-in-rayong-thailand/",
+      "summary": "24 illegal workers arrested at the site in the Ban Chang District",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T15:33:49+00:00"
+    },
+    {
+      "id": "1a197decbd08bedb",
+      "title": "Dominion ordered to directly assign some transmission costs to data centers",
+      "link": "https://www.utilitydive.com/news/dominion-energy-scc-transmission-costs-data-center/827693/",
+      "summary": "The Virginia State Corporation Commission said it may use an upcoming docket to weigh whether this policy \u201ccould or should\u201d also apply to more upstream transmission costs.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T15:02:51+00:00"
+    },
+    {
+      "id": "9cee46dbf4f01547",
+      "title": "Xcel asks Colorado Supreme Court to facilitate wind farm interconnection",
+      "link": "https://www.utilitydive.com/news/xcel-asks-colorado-supreme-court-to-facilitate-wind-farm-interconnection/827572/",
+      "summary": "In June,\u00a0a district court judge rejected PSCo\u2019s effort to acquire roughly 550 feet of easement via eminent domain to connect two nearly complete wind farms totaling more than 1 GW. The utility says the project delays are harming ratepayers.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T15:02:23+00:00"
+    },
+    {
+      "id": "ac218878bbb44289",
+      "title": "JLL: Data center demand exceeds expectations, doubles year-over-year",
+      "link": "https://www.datacenterdynamics.com/en/news/jll-data-center-demand-exceeds-expectations-doubles-year-over-year/",
+      "summary": "Absorption hits record 25GW in 1H 2026",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T15:00:00+00:00"
+    },
+    {
+      "id": "d8413fb1f3a1ca45",
+      "title": "Sponsored: The powered mill: 10GW of shovel-ready data center sites is hiding in plain sight",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-powered-mill-10gw-of-shovel-ready-data-center-sites-is-hiding-in-plain-sight/",
+      "summary": "A view for hyperscalers, colos, and infrastructure capital",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T15:00:00+00:00"
+    },
+    {
+      "id": "096881513c9aae45",
+      "title": "Oracle partners with Quantinuum to deploy Helios quantum computer on OCI",
+      "link": "https://www.datacenterdynamics.com/en/news/oracle-partners-with-quantinuum-to-deploy-helios-quantum-computer-on-oci/",
+      "summary": "Oracle will preview its OCI quantum system in the coming months",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T14:57:23+00:00"
+    },
+    {
+      "id": "c2edf951fdb53485",
+      "title": "Colos are buying into GPUs",
+      "link": "https://www.datacenterdynamics.com/en/opinions/colos-are-buying-into-gpus/",
+      "summary": "GPUs have become a financeable asset class",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T14:30:41+00:00"
+    },
+    {
+      "id": "934cc70e02e33e13",
+      "title": "Technician rescued from 275ft cell tower in Rockford, Illinois",
+      "link": "https://www.datacenterdynamics.com/en/news/technician-rescued-from-275ft-cell-tower-in-rockford-illinois/",
+      "summary": "He was helped down following a three-hour rescue",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T13:30:34+00:00"
+    },
+    {
+      "id": "431dd2825f0cbec9",
+      "title": "IBM and Together AI sign $240m Nvidia HGX B300 cloud deployment deal",
+      "link": "https://www.datacenterdynamics.com/en/news/ibm-and-together-ai-sign-240m-nvidia-hgx-b300-cloud-deployment-deal/",
+      "summary": "Cluster expected to go live in Q1 2027",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T13:20:32+00:00"
+    },
+    {
+      "id": "5491c1e05248b688",
+      "title": "PJM eyes data center, crypto reliability requirements after 3.8 GW of load trips offline",
+      "link": "https://www.utilitydive.com/news/pjm-nerc-data-center-crypto-reliability-standards/827653/",
+      "summary": "The PJM Interconnection is considering setting \u201cride-through\u201d standards after data centers tripped offline in Northern Virginia on July 22, the latest and largest such event in PJM\u2019s history, the grid operator said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T13:01:39+00:00"
     },
     {
       "id": "fff6a230ca65fae8",
@@ -151,6 +321,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-12T10:38:44+00:00"
+    },
+    {
+      "id": "8f5bad85f11414ba",
+      "title": "United States on track for record natural gas production in 2026",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67944",
+      "summary": "We forecast U.S. marketed natural gas production will average 122.5 billion cubic feet per day (Bcf/d) in 2026, surpassing the previous record of 118.5 Bcf/d set in 2025, in our August 2026 Short-Term Energy Outlook (STEO).",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
+      "region": "National",
+      "published": "2026-08-12T09:00:00+00:00"
     },
     {
       "id": "914bbd2ffb3ce4e8",
@@ -3986,166 +4166,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-22T22:50:42+00:00"
-    },
-    {
-      "id": "1704b9788222e191",
-      "title": "Study: Only 41% of Power Customers Recall Hearing from Utilities Amid Rising Reliability Struggles",
-      "link": "https://www.tdworld.com/utility-business/news/55392997/study-only-41-of-power-customers-recall-hearing-from-utilities-amid-rising-reliability-struggles",
-      "summary": "Surging energy costs, J.D. Power adds, have not only triggered a sharp reduction in engagement from utilities, but consumers are feeling the financial squeeze.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T22:35:28+00:00"
-    },
-    {
-      "id": "6e5463fd2c0164d2",
-      "title": "Prysmian Introduces New Subsea Cable Burial Tool for Offshore Power Projects",
-      "link": "https://www.tdworld.com/intelligent-undergrounding/undersea-applications/news/55393008/prysmian-introduces-new-subsea-cable-burial-tool-for-offshore-power-projects",
-      "summary": "The latest-generation burial tool, deployed on Prysmian's advanced vessels, improves cable installation efficiency and protection, supporting the UK's submarine power infrastructure and renewable energy integration.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T21:22:10+00:00"
-    },
-    {
-      "id": "1ba0788f2d20b9b2",
-      "title": "COPA-DATA to Showcase Software-Defined Grid Modernization at CIGRE 2026",
-      "link": "https://www.tdworld.com/smart-utility/grid-security/news/55393003/copa-data-to-showcase-software-defined-grid-modernization-at-cigre-2026",
-      "summary": "COPA-DATA's zenon platform enables utilities to upgrade aging infrastructure incrementally, standardize engineering workflows, and deploy across diverse environments, facilitating seamless integration of legacy and modern IEC 61850 systems while ensuring cybersecurity compliance.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T21:13:12+00:00"
-    },
-    {
-      "id": "eda11bae68a3c02d",
-      "title": "AI Is Usually Cast as a Grid Burden. The Genesis Mission Is Betting It\u2019s a Grid Tool.",
-      "link": "https://www.powermag.com/ai-is-usually-cast-as-a-grid-burden-the-genesis-mission-is-betting-its-a-grid-tool/",
-      "summary": "The explosion of artificial intelligence (AI) computing is, for most utilities, a problem to be absorbed: gigawatts of new data-center demand arriving faster than transmission can be planned or built. The U.S. Department of Energy\u2019s (DOE\u2019s) Genesis Mission does not dispute that framing. But buried in the national research portfolio it unveiled July 22 is [\u2026]\nThe post AI Is Usually Cast as a Grid B",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T21:09:01+00:00"
-    },
-    {
-      "id": "7300bba1930a0700",
-      "title": "Centuri Expands Industrial Construction Capabilities with Acquisition of J.J. White",
-      "link": "https://www.tdworld.com/utility-business/news/55392975/centuri-expands-industrial-construction-capabilities-with-acquisition-of-jj-white",
-      "summary": "The acquisition of J.J. White by Centuri Holdings will bolster its union electrical construction services, especially in data centers and industrial sectors. With a backlog of $315 million and pipeline opportunities exceeding $2.8 billion, the deal aligns with Centuri\u2019s strategy to grow its industrial and energy infrastructure offerings, projecting over $20 million in annual gross profit.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T20:35:58+00:00"
-    },
-    {
-      "id": "84cb712f1e5aade8",
-      "title": "Report: 44 States Advanced Grid Modernization Policies in Q2 2026",
-      "link": "https://www.tdworld.com/policy/news/55392959/report-44-states-advanced-grid-modernization-policies-in-q2-2026",
-      "summary": "Energy storage deployment led policy actions in Q2 2026, alongside increased scrutiny of utility investments and expanded opportunities for virtual power plants, reflecting evolving strategies to enhance grid resilience and cost-effectiveness nationwide.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T20:07:44+00:00"
-    },
-    {
-      "id": "6f6e6f30e8827213",
-      "title": "Building the Utility Workforce of the Future: Training, Technology and Talent for the Modern Grid",
-      "link": "https://www.tdworld.com/electric-utility-operations/whitepaper/55391232/building-the-utility-workforce-of-the-future-training-technology-and-talent-for-the-modern-grid",
-      "summary": "Discover industry insights and real-world examples of innovative training approaches that enhance safety, preserve knowledge, and prepare utility workers for future challenges.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T18:51:37+00:00"
-    },
-    {
-      "id": "4459730b45fd734d",
-      "title": "From Asset Risk to Capital Plan: How Actionable Data Drives Investment Decisions",
-      "link": "https://www.tdworld.com/resources/webinars/webinar/55390161/from-asset-risk-to-capital-plan-how-actionable-data-drives-investment-decisions",
-      "summary": "Utilities are facing record demand, aging infrastructure, and tighter resources, making every capital investment decision more critical than ever. Join Endevor and T&D World to learn how connected asset data and AI-assisted insights can help you prioritize investments, reduce risk, and build a more defensible capital plan.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T18:40:36+00:00"
-    },
-    {
-      "id": "e2a554d0a3488ae6",
-      "title": "Ford, Global Power Products debut home backup solution",
-      "link": "https://www.utilitydive.com/news/ford-and-global-power-products-debut-vehicle-to-home-backup-solution/825928/",
-      "summary": "More than 800 electric utilities have approved GPP\u2019s GenerLink transfer switch, which provides backup power for outlets and hardwired appliances at significantly lower cost than a standby generator, Ford says.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T17:08:52+00:00"
-    },
-    {
-      "id": "29125c77e45be702",
-      "title": "Action Plan: EU Targets 46% Electrification by 2040 to Drive Decarbonization",
-      "link": "https://www.tdworld.com/electrification/article/55392611/action-plan-eu-targets-46-electrification-by-2040-to-drive-decarbonization",
-      "summary": "Meeting this target is projected to cut the EU's annual fossil fuel import bill by approximately $286 billion by 2040 while aligning to become a continent powered by an abundance of domestically produced renewable energy.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T16:24:51+00:00"
-    },
-    {
-      "id": "7e8f519ce6c09fdc",
-      "title": "Scott Fulton",
-      "link": "https://www.tdworld.com/home/contact/55391740/scott-fulton",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T15:47:59+00:00"
-    },
-    {
-      "id": "eceefc92a5a49677",
-      "title": "Why Grid Reliability Is Becoming a Data Coordination Problem",
-      "link": "https://www.tdworld.com/smart-utility/data-analytics/blog/55391737/why-grid-reliability-is-becoming-a-data-coordination-problem",
-      "summary": "Fragmented systems hinder quick response and accurate decision-making in utility operations. Integrating core network services and operational data enhances resilience, reduces downtime, and streamlines workflows.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T15:47:09+00:00"
-    },
-    {
-      "id": "268bd9161fb3301d",
-      "title": "Shaping the Future of Utility Transmission & Distribution at T&D World LIVE 2026",
-      "link": "https://www.tdworld.com/smart-utility/article/55390029/the-utility-conversations-shaping-the-future-grid",
-      "summary": "The conference highlights strategies for utilities to adapt to increasing demand from data centers and electrification, emphasizing infrastructure investments, resilience, and operational efficiency through digital technologies and modernization efforts.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T15:11:00+00:00"
-    },
-    {
-      "id": "1fbfc0177a320f43",
-      "title": "NERC Releases Canadian Wildfire Mitigation Report, Three-Year Action Plan",
-      "link": "https://www.tdworld.com/wildfire/news/55392725/nerc-releases-canadian-wildfire-mitigation-report-three-year-action-plan",
-      "summary": "The new NERC report and Wildfire Action Plan emphasize risk assessments, operational practices, and standards review, fostering collaboration among utilities, regulators, and government agencies to protect North America's power infrastructure from wildfires.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T14:28:35+00:00"
-    },
-    {
-      "id": "932151d5e04b2540",
-      "title": "Don\u2019t gut the utility model just as we need it most",
-      "link": "https://www.utilitydive.com/news/utility-model-grid-investment-affordability-roe/825672/",
-      "summary": "Cutting utility returns won't lower electric bills and will leave us with a more fragile power grid, writes\u00a0Scott Aaronson, former\u00a0secretary of the Electricity Subsector Coordinating Council.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T14:27:22+00:00"
-    },
-    {
-      "id": "24f6f174db801fc3",
-      "title": "Wisconsin gas plant proposals test state review process",
-      "link": "https://www.utilitydive.com/news/wisconsin-gas-plant-proposals-test-state-review-process/825885/",
-      "summary": "Integrated resource planning would give regulators a clearer long-term picture of electricity needs before major energy investments are approved, advocates say.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T14:16:18+00:00"
     }
   ]
 }
