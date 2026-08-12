@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T22:40:29.393259+00:00",
-  "count": 404,
+  "generated_at": "2026-08-12T13:05:26.921570+00:00",
+  "count": 419,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-11T22:40:21.506867+00:00"
+      "published": "2026-08-12T13:05:22.892274+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-11T22:40:21.506853+00:00"
+      "published": "2026-08-12T13:05:22.892259+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-11T22:40:21.506836+00:00"
+      "published": "2026-08-12T13:05:22.892241+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-11T22:40:21.506803+00:00"
+      "published": "2026-08-12T13:05:22.892206+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-11T22:38:07.007552+00:00"
+      "published": "2026-08-12T13:05:21.468518+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,197 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-11T22:38:05.290804+00:00"
+      "published": "2026-08-12T13:05:20.442646+00:00"
+    },
+    {
+      "id": "fff6a230ca65fae8",
+      "title": "Google announces three new cable projects in the Americas",
+      "link": "https://www.datacenterdynamics.com/en/news/google-announces-three-new-cable-projects-in-the-americas/",
+      "summary": "Trio to land in the Dominican Republic, alongside a new branch of Firmina",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T13:00:34+00:00"
+    },
+    {
+      "id": "44d03d7c8c45386c",
+      "title": "Copper thieves cause another telecoms outage in British Columbia, Canada",
+      "link": "https://www.datacenterdynamics.com/en/news/copper-thieves-cause-another-telecoms-outage-in-british-columbia-canada/",
+      "summary": "A fiber cut in Alberta has caused connectivity disruption",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T12:45:10+00:00"
+    },
+    {
+      "id": "38b7389d404c63de",
+      "title": "Siemens Energy to supply B&W with 1GW of steam turbine-generators for data center power program",
+      "link": "https://www.datacenterdynamics.com/en/news/siemens-energy-to-supply-bw-with-1gw-of-steam-turbine-generators-for-data-center-power-program/",
+      "summary": "Will be delivered to an undisclosed operator in US market",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T12:30:36+00:00"
+    },
+    {
+      "id": "eeb36650efe59bd3",
+      "title": "SpaceX to power TeraFab chip factory in Texas via on-site generation and battery storage",
+      "link": "https://www.datacenterdynamics.com/en/news/spacex-to-power-terafab-chip-factory-in-texas-via-on-site-generation-and-battery-storage/",
+      "summary": "Said it is not expected to use energy from the grid",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T12:06:22+00:00"
+    },
+    {
+      "id": "7bd79eeaa3b68d4d",
+      "title": "Digital Core REIT to sell stakes in three US data centers back to Digital Realty, buys stake in two facilities in Asia",
+      "link": "https://www.datacenterdynamics.com/en/news/digital-core-reit-to-sell-stakes-in-three-us-data-centers-back-to-digital-realty-buys-stake-in-two-facilities-in-asia/",
+      "summary": "REIT sells stakes for $316 million, buys stakes for $176 million",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T12:03:49+00:00"
+    },
+    {
+      "id": "c4ef655903466d85",
+      "title": "Bloomberg NEF: Texas grid pause puts 20 percent of US data center pipeline at risk",
+      "link": "https://www.datacenterdynamics.com/en/news/bloomberg-nef-texas-grid-pause-puts-20-percent-of-us-data-center-pipeline-at-risk/",
+      "summary": "Governor initiated a pause in interconnections earlier this month",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T11:59:59+00:00"
+    },
+    {
+      "id": "c14b9b68c897998c",
+      "title": "Data center operators sneak in pair of projects hours before moratorium enacted in Hillsboro, Oregon",
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-operators-sneak-in-pair-of-projects-hours-before-moratorium-enacted-in-hillsboro-oregon/",
+      "summary": "120-day moratorium aims to give the city time to re-evaluate its data center stance",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T10:50:08+00:00"
+    },
+    {
+      "id": "5861b952fa3c42ab",
+      "title": "Orange could keep Huawei or bring Nokia into its Spanish mobile network - report",
+      "link": "https://www.datacenterdynamics.com/en/news/orange-plans-to-keep-huawei-or-add-nokia-to-its-mobile-network/",
+      "summary": "The Spanish subsidiary is challenging the agreement that called for transferring 100 percent of its network to Ericsson",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T10:41:41+00:00"
+    },
+    {
+      "id": "20e0cafff5335e45",
+      "title": "Beltline Energy withdraws data center proposal in Pacific, Missouri",
+      "link": "https://www.datacenterdynamics.com/en/news/beltline-energy-withdraws-data-center-proposal-in-pacific-missouri/",
+      "summary": "Proposal called for rezoning of a 500-acre property",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T10:38:44+00:00"
+    },
+    {
+      "id": "914bbd2ffb3ce4e8",
+      "title": "Solar on storage units? Here\u2019s how Illinois is making it happen.",
+      "link": "https://www.canarymedia.com/articles/solar/solar-on-storage-units-illinois",
+      "summary": "Krzysztof Wasowicz, mayor of Justice, Illinois, has some concerns about solar: that it takes up farmland and enriches China. But he\u2019s all-in on the community solar array that was recently deployed at a Public Storage facility in his village, a suburb of Chicago.  The panels are located on otherwise unused roof space\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T07:30:00+00:00"
+    },
+    {
+      "id": "589e021abb50d4fa",
+      "title": "In Puerto Rico, Trump admin backs big battery project but snubs solar",
+      "link": "https://www.canarymedia.com/articles/batteries/puerto-rico-trump-admin-battery-project",
+      "summary": "The Department of Energy is backing a major battery project to bolster Puerto Rico\u2019s fragile electric grid \u2014 even as the Trump administration axes funding for key clean energy initiatives across the U.S. territory.  Last week, the DOE said it closed a nearly $490 million loan to a subsidiary of Pattern Energy to\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T07:30:00+00:00"
+    },
+    {
+      "id": "d1da5ea41887d7d0",
+      "title": "Sponsored: Meeting AI demand with flexible power infrastructure",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/meeting-ai-demand-with-flexible-power-infrastructure/",
+      "summary": "As AI drives larger campuses and tighter deployment schedules, operators are rethinking how they secure and supply power",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-12T07:00:00+00:00"
+    },
+    {
+      "id": "b5834fe6ad973447",
+      "title": "Maryland Ratepayers at Risk from PJM Backstop, Advocate Says",
+      "link": "https://www.rtoinsider.com/138882-maryland-fears-pjm-backstop-effort-could-raise-ratepayer-costs/",
+      "summary": "PJM\u2019s proposed reliability backstop procurement risks costing customers of two of Maryland\u2019s electric utilities more than a half billion dollars over 15 years, the state\u2019s ratepayer advocate wrote in a new filing.\nThe post Maryland Ratepayers at Risk from PJM Backstop, Advocate Says appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T01:17:53+00:00"
+    },
+    {
+      "id": "df1c8fc8be2801df",
+      "title": "NYISO: CHPE yet to \u2018Demonstrate\u2019 Full Capability; Danskammer to Stay Online into 2027",
+      "link": "https://www.rtoinsider.com/138548-nyiso-chpe-yet-to-demonstrate-full-capability/",
+      "summary": "The Champlain Hudson Power Express\u2019 rocky first months after its much-celebrated start of commercial operations is rippling through NYISO\u2019s reliability planning and illustrating the risks of a grid relying on new, large transmission projects.\nThe post NYISO: CHPE yet to \u2018Demonstrate\u2019 Full Capability; Danskammer to Stay Online into 2027 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T01:15:33+00:00"
+    },
+    {
+      "id": "e0d974da612baa24",
+      "title": "NV Energy\u2019s Wildfire Plan Too Expensive, Critics Say",
+      "link": "https://www.rtoinsider.com/138862-nv-energy-wildfire-plan-too-expensive-critics-say/",
+      "summary": "NV Energy\u2019s proposed three-year plan for wildfires and other natural disasters is facing opposition from parties who say costs have increased too much from previous plans and more cost-benefit analysis is needed.\nThe post NV Energy\u2019s Wildfire Plan Too Expensive, Critics Say appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T00:40:19+00:00"
+    },
+    {
+      "id": "342d2cd46a46c4cd",
+      "title": "FERC Approves Updated INSM Standard",
+      "link": "https://www.rtoinsider.com/138864-ferc-approves-updated-insm-standard/",
+      "summary": "FERC approved NERC\u2019s proposed standard that will expand requirements for internal network security monitoring on some grid-connected cyber systems.\nThe post FERC Approves Updated INSM Standard appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T00:38:57+00:00"
+    },
+    {
+      "id": "c1ee2080021bed6a",
+      "title": "EPRI SAFERai.power Initiative Aims to Make AI Tools Safe for Operators",
+      "link": "https://www.rtoinsider.com/138858-epri-safeai-power-initiative-aims-make-ai-tools-safe/",
+      "summary": "EPRI launched its SAFERai.power initiative with power and AI industry members to ensure the former can beneficially use the latter's technology while maintaining reliability and safety.\nThe post EPRI SAFERai.power Initiative Aims to Make AI Tools Safe for Operators appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-11T23:47:00+00:00"
+    },
+    {
+      "id": "28b60e1cc61fad61",
+      "title": "Atlantic Shores Offshore Wind Approval to be Reviewed",
+      "link": "https://www.rtoinsider.com/138874-atlantic-shores-offshore-wind-approval-to-be-reviewed/",
+      "summary": "A judge has granted the Trump administration\u2019s request to reconsider approval granted by the Biden administration for construction and operation for the wind farm off the New Jersey coast.\nThe post Atlantic Shores Offshore Wind Approval to be Reviewed appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-11T23:43:51+00:00"
+    },
+    {
+      "id": "5c7ac3f2acf5e56f",
+      "title": "U.S. Clean Energy, Transportation Investments Increase",
+      "link": "https://www.rtoinsider.com/138872-clean-investment-monitor-2q-update/",
+      "summary": "The Clean Investment Monitor tallied $75 billion of clean-tech investments in the second quarter, the second-highest three-month total since the database began in 2018.\nThe post U.S. Clean Energy, Transportation Investments Increase appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-11T23:41:23+00:00"
     },
     {
       "id": "c95d81a9bac58324",
@@ -206,11 +396,11 @@
       "id": "3973cdf16374cffb",
       "title": "T-Mobile finally shifts 800MHz spectrum to Grain, picks up 600MHz as part of swap deal",
       "link": "https://www.datacenterdynamics.com/en/news/t-mobile-finally-shifts-800mhz-spectrum-to-grain-picks-up-600mhz-as-part-of-swap-deal/",
-      "summary": "T-Mobile finally shifts its 800MHz spectrum",
+      "summary": "Deal raises $2.9 billion",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-08-11T14:25:10+00:00"
+      "published": "2026-08-11T14:25:00+00:00"
     },
     {
       "id": "558a6c4a2a46fa8a",
@@ -3956,46 +4146,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-22T14:16:18+00:00"
-    },
-    {
-      "id": "81439a85f0ccdc0a",
-      "title": "Commercial crude oil inventories increased by 2.0 million barrels",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67868",
-      "summary": "For the week ending July 17, 2026, commercial crude oil inventories (excluding the Strategic Petroleum Reserve) increased 2.0 million barrels to 411.7 million barrels, 6% below the previous five-year (2021\u20132025) average. Gasoline inventories increased 0.8 million barrels, 7% below the five-year average. Distillate inventories increased 1.4 million barrels, 10% below the five-year average. Propane/",
-      "source": "EIA Today in Energy",
-      "category": "ISO/RTO",
-      "region": "National",
-      "published": "2026-07-22T09:00:00+00:00"
-    },
-    {
-      "id": "625926baeca3b56f",
-      "title": "State legislatures are getting better at clean-energy permitting policy",
-      "link": "https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting",
-      "summary": "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America\u2019s grid. And across the country, more state legislatures are passing laws to streamline renewable development than are enacting policies to prevent clean energy from being built.  That\u2019s the good news from the Siting\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T07:30:00+00:00"
-    },
-    {
-      "id": "c18a1f8e30e6ce68",
-      "title": "A $100M Ohio energy fund lacks transparency \u2014 and excludes renewables",
-      "link": "https://www.canarymedia.com/articles/fossil-fuels/100m-ohio-energy-fund",
-      "summary": "Ohio has made $100 million available for new energy projects in the state, but critics are pushing back on the decision to bar renewable energy projects from accessing the funds \u2014 and on the lack of transparency around the process.  The JobsOhio Energy Opportunity Initiative was announced by Republican Gov. Mike\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T07:30:00+00:00"
-    },
-    {
-      "id": "f5fe25915474f64c",
-      "title": "Energy Department disappears website\u2019s energy-saving tips as costs soar",
-      "link": "https://www.canarymedia.com/articles/energy-efficiency/energy-department-deletes-energy-saving-tips",
-      "summary": "This story was originally published by Grist . Sign up for Grist's weekly newsletter .    If you wanted to save some money by learning how to check your home for air leaks, poor insulation, and power-hungry light bulbs, the Department of Energy\u2019s website was ready to help. And if you needed an expert, the site guided\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T07:30:00+00:00"
     }
   ]
 }
