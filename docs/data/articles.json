@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T22:36:54.756718+00:00",
-  "count": 421,
+  "generated_at": "2026-08-13T13:06:23.547755+00:00",
+  "count": 434,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-12T22:36:50.903763+00:00"
+      "published": "2026-08-13T13:06:20.468312+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-12T22:36:50.903748+00:00"
+      "published": "2026-08-13T13:06:20.468298+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-12T22:36:50.903730+00:00"
+      "published": "2026-08-13T13:06:20.468281+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-12T22:36:50.903699+00:00"
+      "published": "2026-08-13T13:06:20.468246+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-12T22:36:48.963502+00:00"
+      "published": "2026-08-13T13:06:19.319788+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,277 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-12T22:36:46.734517+00:00"
+      "published": "2026-08-13T13:06:18.424333+00:00"
+    },
+    {
+      "id": "5b059501d5133621",
+      "title": "Form Energy raises $750m to expand West Virginia iron-air battery plant to meet surging data center demand",
+      "link": "https://www.datacenterdynamics.com/en/news/form-energy-raises-750m-to-expand-west-virginia-iron-air-battery-plant-to-meet-surging-data-center-demand/",
+      "summary": "The company has previously signed supply deals with Google and Crusoe",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T11:40:29+00:00"
+    },
+    {
+      "id": "d05c3bf9e17d6607",
+      "title": "Verizon offers $25,000 reward to curb California fiber attacks",
+      "link": "https://www.datacenterdynamics.com/en/news/verizon-offers-25000-reward-to-curb-california-fiber-attacks/",
+      "summary": "As the carrier seeks to bring vandals behind Sunday's outage to justice",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T11:07:43+00:00"
+    },
+    {
+      "id": "cb5aa52992b1e9c6",
+      "title": "Centuria eyes 250MW of data center capacity in Australia",
+      "link": "https://www.datacenterdynamics.com/en/news/centuria-eyes-250mw-of-data-center-capacity-in-australia/",
+      "summary": "Real estate firm looks to expand existing sites and repurpose industrial sites",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T10:47:29+00:00"
+    },
+    {
+      "id": "2a7afe55ac550c24",
+      "title": "Plans for 2.6 million sq ft data center outside Allentown, Pennsylvania, dropped after officials deny application",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-for-26-million-sq-ft-data-center-outside-allentown-pennsylvania-dropped-after-officials-deny-application/",
+      "summary": "Air Products' hopes to develop its old HQ dashed",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T10:40:32+00:00"
+    },
+    {
+      "id": "29bf13e2d44a89f1",
+      "title": "Centuria Capital Group and ResetData sign 7MW capacity agreement with CDC Data Centres, secures $165m bridge facility with Macquarie Bank",
+      "link": "https://www.datacenterdynamics.com/en/news/centuria-capital-group-and-resetdata-sign-7mw-capacity-agreement-with-cdc-data-centres-secures-165m-bridge-facility-with-macquarie-bank/",
+      "summary": "GPUs for initial CDC deployment have been ordered, companies said",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T10:40:00+00:00"
+    },
+    {
+      "id": "25d8d049e6dd9a78",
+      "title": "NTT DC REIT earned $27.9m in quarterly net property income, beats IPO expectations",
+      "link": "https://www.datacenterdynamics.com/en/news/ntt-dc-reit-earned-279m-in-quarterly-net-property-income-beats-ipo-expectations/",
+      "summary": "Company currently has 90.7MW of IT load",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T10:36:12+00:00"
+    },
+    {
+      "id": "2145bdaff23002df",
+      "title": "Malaysian real estate firm DPS Resources eyes data center developments in Melaka",
+      "link": "https://www.datacenterdynamics.com/en/news/malaysian-real-estate-firm-dps-resources-eyes-data-center-developments-in-melaka/",
+      "summary": "Signs MoUs to support 89MW factory conversion project",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T10:30:34+00:00"
+    },
+    {
+      "id": "acae5af7eb36570c",
+      "title": "Lambda raises $926m senior secured loan facility",
+      "link": "https://www.datacenterdynamics.com/en/news/lambda-raises-926m-senior-secured-loan-facility/",
+      "summary": "Funds will be used for GPU acquisition and committed developments",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T10:30:32+00:00"
+    },
+    {
+      "id": "7c5abdee51bf4cea",
+      "title": "South African utility Eskom courts hyperscalers as it seeks offtakers for excess energy - report",
+      "link": "https://www.datacenterdynamics.com/en/news/south-african-utility-eskom-courts-hyperscalers-as-it-seeks-offtakers-for-excess-energy-report/",
+      "summary": "Reportedly in discussion with the world's biggest tech companies",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T10:20:31+00:00"
+    },
+    {
+      "id": "f1fda9eb6a7211ba",
+      "title": "Fermi taps Hillcore to construct 2.6GW gas plant for up to 11GW Project Matador in Amarillo, Texas",
+      "link": "https://www.datacenterdynamics.com/en/news/fermi-taps-hillcore-to-construct-26gw-gas-plant-for-up-to-11gw-project-matador-in-amarillo-texas/",
+      "summary": "Company also appoints new CEO",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T10:20:29+00:00"
+    },
+    {
+      "id": "d824459a1291bdfe",
+      "title": "PJM considering changes to interconnection reliability requirements for data centers following mass outage",
+      "link": "https://www.datacenterdynamics.com/en/news/pjm-considering-changes-to-interconnection-reliability-requirements-for-data-centers-following-mass-outage/",
+      "summary": "The outage, which originated in Northern Virginia, brought approximately 4GW of data center load offline",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T09:49:00+00:00"
+    },
+    {
+      "id": "52ff96f148aa4f06",
+      "title": "STT GDC secures up to $1.37bn in funding for 166MW data center in Johor, Malaysia",
+      "link": "https://www.datacenterdynamics.com/en/news/stt-gdc-secures-up-to-137bn-in-funding-for-166mw-data-center-in-johor-malaysia/",
+      "summary": "Will support construction of first 16MW phase",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T09:47:38+00:00"
+    },
+    {
+      "id": "cf10640633eb0db2",
+      "title": "Colo customers don\u2019t just want uptime anymore. They want real-time data",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/colo-customers-dont-just-want-uptime-anymore-they-want-real-time-data/",
+      "summary": "Turn infrastructure data Into a competitive advantage",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T08:22:40+00:00"
+    },
+    {
+      "id": "0418a3647afa8fcc",
+      "title": "Cloud is (still) king: Private equity investments in the AI data center era",
+      "link": "https://www.datacenterdynamics.com/en/analysis/cloud-is-still-king-private-equity-investments-in-the-ai-data-center-era/",
+      "summary": "AI is grabbing the headlines, but investors still have their eye firmly on the cloud",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T08:15:46+00:00"
+    },
+    {
+      "id": "fb9bfce016dda6b3",
+      "title": "US aluminum is poised for a comeback \u2014 if it overcomes these hurdles",
+      "link": "https://www.canarymedia.com/articles/clean-aluminum/us-aluminum-comeback-barriers",
+      "summary": "America\u2019s aluminum sector is growing again after years of decline, spurred by tariffs and a push to revive domestic manufacturing. But the voracious power needs of aluminum smelters and communities\u2019 concerns about pollution still pose major hurdles to scaling up production.  Globally, a deficit in aluminum supply is\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T07:30:00+00:00"
+    },
+    {
+      "id": "29ca916975c2eb50",
+      "title": "Huge new turbines could let biggest UK wind farm do more with less",
+      "link": "https://www.canarymedia.com/articles/wind/huge-new-turbines-uk-wind-farm",
+      "summary": "It's almost an ironclad law: Over time, wind turbines get taller, better, and more cost-effective.  A new proposed project in the U.K. demonstrates that. ScottishPower recently announced its intention to repower the U.K.\u2019s largest onshore wind farm, a process that will involve replacing old turbines with\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T07:30:00+00:00"
+    },
+    {
+      "id": "fa3cfda1be49026a",
+      "title": "Federal ruling hands virtual power plants a win in PJM",
+      "link": "https://www.canarymedia.com/articles/virtual-power-plants/federal-ruling-virtual-power-plants-pjm",
+      "summary": "A recent ruling from federal regulators will let virtual power plants help meet surging energy demand in the county\u2019s biggest energy market.  Late last month, the Federal Energy Regulatory Commission ordered PJM Interconnection to accept statistical sampling as a valid method for measuring the reliability of programs\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T07:30:00+00:00"
+    },
+    {
+      "id": "02cc03633730dc1c",
+      "title": "PJM PC/TEAC Briefs: Aug. 4, 2026",
+      "link": "https://www.rtoinsider.com/138969-pjm-pc-teac-060426/",
+      "summary": "The Planning Committee deferred voting on changes to PJM\u2019s rules for how capacity resources are tested and to require that installed capacity values be set based on running all units at a site simultaneously.\nThe post PJM PC/TEAC Briefs: Aug. 4, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T01:15:33+00:00"
+    },
+    {
+      "id": "fe37d54535190142",
+      "title": "DOE Cancels Proposed National Interest Electric Transmission Corridors",
+      "link": "https://www.rtoinsider.com/139041-doe-cancels-proposed-national-interest-electric-transmission-corridors/",
+      "summary": "The Department of Energy has halted efforts to designate three National Interest Electric Transmission Corridors proposed by the Biden administration\nThe post DOE Cancels Proposed National Interest Electric Transmission Corridors appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T01:03:29+00:00"
+    },
+    {
+      "id": "7337c71bc99cf32a",
+      "title": "PGE, Oregon PUC Staff Agree on Holding Co. Proposal",
+      "link": "https://www.rtoinsider.com/139030-oregon-puc-recommend-approval-pge-holding-co-proposal/",
+      "summary": "Portland General Electric and staff of the Oregon Public Utility Commission have entered a stipulation to recommend that the state\u2019s regulators approve PGE\u2019s proposal to create a holding company.\nThe post PGE, Oregon PUC Staff Agree on Holding Co. Proposal appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T00:36:23+00:00"
+    },
+    {
+      "id": "30662961abb8891d",
+      "title": "ClearPath: New Modeling Can Find Best Mix of Greenfield Tx, Reconductoring",
+      "link": "https://www.rtoinsider.com/138950-clearpath-new-modeling-can-find-best-mix-greenfield-tx-reconductoring/",
+      "summary": "A new ClearPath report analyzes the optimal mix of advanced reconductoring and greenfield transmission for the U.S. grid, finding that using the former in addition to developing the latter can save major investments and cut the miles of new transmission needed to meet demand growth.\nThe post ClearPath: New Modeling Can Find Best Mix of Greenfield Tx, Reconductoring appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T00:26:34+00:00"
+    },
+    {
+      "id": "9e4e76e850802bc3",
+      "title": "PJM MIC Briefs Aug. 5, 2026",
+      "link": "https://www.rtoinsider.com/138971-pjm-mic-080626/",
+      "summary": "The Market Implementation Committee endorsed a joint proposal from PJM and the Independent Market Monitor to codify its practice of prohibiting generation owners from including fuel quotes from affiliated suppliers in their fuel cost policies.\nThe post PJM MIC Briefs Aug. 5, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T00:04:13+00:00"
+    },
+    {
+      "id": "a66f0ebb579dd389",
+      "title": "Ariz. Commission Approves Large Load Process for Cooperatives",
+      "link": "https://www.rtoinsider.com/138965-arizona-commission-approves-large-load-process-for-cooperatives/",
+      "summary": "Arizona electric cooperatives now have a standardized process for crafting energy service agreements with large load customers, as rural parts of the state draw more interest from data centers and other large energy users.\nThe post Ariz. Commission Approves Large Load Process for Cooperatives appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T23:53:59+00:00"
+    },
+    {
+      "id": "e2bb57ed065b5d47",
+      "title": "Half of a 765-kV Line in PJM is a Postage Stamp; the Other Half Stops at the Zone Line",
+      "link": "https://www.rtoinsider.com/139005-half-765kv-line-is-postage-stamp-other-half-stops-zone-line-pjm/",
+      "summary": "PJM's Schedule 12 allocates precisely down to the zone boundary; below it, nothing conditions on geography, writes researcher Tommy Turner.\nThe post Half of a 765-kV Line in PJM is a Postage Stamp; the Other Half Stops at the Zone Line appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T23:51:33+00:00"
+    },
+    {
+      "id": "6f4d4ad3d6df1b56",
+      "title": "FERC Allows MISO to Correct $280M Capacity Auction Error",
+      "link": "https://www.rtoinsider.com/139001-ferc-rules-miso-correct-280m-capacity-auction-error/",
+      "summary": "FERC determined MISO acted within its rights to make $280 million worth of backdated pricing changes to its 2025/26 capacity auction after it repeated an auction input mistake for eight years.\nThe post FERC Allows MISO to Correct $280M Capacity Auction Error appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T23:31:24+00:00"
+    },
+    {
+      "id": "6af7513df842d9d5",
+      "title": "D.C. Circuit Sides with FERC in SPP Dispute over Cost Allocation",
+      "link": "https://www.rtoinsider.com/138962-appeals-court-sides-with-spp-over-cost-shifts/",
+      "summary": "The D.C. Circuit Court of Appeals denied a request by SPP utilities, transmission owners and a state regulator representing affected ratepayers to review a FERC decision shifting some transmission costs from a local zone across the RTO\u2019s broader region\nThe post D.C. Circuit Sides with FERC in SPP Dispute over Cost Allocation appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T23:27:25+00:00"
+    },
+    {
+      "id": "e7b0773592b523e5",
+      "title": "Stakeholders Balk at NYISO\u2019s Proposed Project Cuts for 2027",
+      "link": "https://www.rtoinsider.com/139003-stakeholders-balk-nyiso-proposed-project-cuts-2027/",
+      "summary": "NYISO has proposed cutting 28 of the 40 projects considered for inclusion in the 2027 budget to shift resources to complying with FERC's show-cause order on large load interconnections.\nThe post Stakeholders Balk at NYISO\u2019s Proposed Project Cuts for 2027 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-12T23:01:59+00:00"
     },
     {
       "id": "233279ef38da9c52",
@@ -4026,146 +4296,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-23T13:33:10+00:00"
-    },
-    {
-      "id": "0836c633ed30bf40",
-      "title": "FERC eyes \u2018grid-enhancing technology\u2019 incentives: Chairman Swett",
-      "link": "https://www.utilitydive.com/news/ferc-grid-enhancing-technology-incentives-atts-senate-hearing/825992/",
-      "summary": "Data centers, competition in the transmission sector and PJM Interconnection governance reform were other key topics at the Senate Energy and Natural Resources Committee hearing.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T12:41:39+00:00"
-    },
-    {
-      "id": "5edd5836d20f7fe7",
-      "title": "VPP and Supporting DER Policy Developments: Q2 2026",
-      "link": "https://sepapower.org/knowledge/vpp-and-supporting-der-policy-developments-q2-2026/",
-      "summary": "Hawaii began developing a VPP grid-services program, two utilities proposed innovative pilot programs, Illinois and Maryland pushed forward with Herculean virtual power plant (VPP) efforts, and Virginia enacted a swarm of new laws \u2014 all during the past three months. This quarterly update from the Smart Electric Power Alliance (SEPA) and the N.C. Clean Energy [\u2026]\nThe post VPP and Supporting DER Pol",
-      "source": "Smart Electric Power Alliance (SEPA)",
-      "category": "DER & Grid Modernization",
-      "region": "National",
-      "published": "2026-07-23T12:20:05+00:00"
-    },
-    {
-      "id": "9e72074c985cdee5",
-      "title": "Solar is booming in Indiana. Not everyone is happy about it.",
-      "link": "https://www.canarymedia.com/articles/solar/indiana-quietly-became-a-solar-giant-not-everyone-is-happy",
-      "summary": "When the largest solar farm in Indiana came online in early 2025, nearby residents in rural Jasper County were not exactly excited.   \u201cIt will mess up their fields,\u201d said long-time resident Gena Carlson, referring to solar panels on farmers\u2019 land. Carlson\u2019s concerns, which were echoed by other locals, highlight the\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T07:30:00+00:00"
-    },
-    {
-      "id": "adf0217fdff1ca65",
-      "title": "Could a new iron ore mine turn Minnesota into a green steel powerhouse?",
-      "link": "https://www.canarymedia.com/articles/green-steel/new-iron-ore-mine-minnesota",
-      "summary": "An enormous shed sits on a ridge northeast of Calumet, Minnesota, along the state\u2019s Iron Range , visible for miles to drivers rushing by on Highway 169.  To reach it by car, I exited the highway at Nashwauk (population 950, give or take) and drove down a lonely county road, eventually pulling up to a security\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T07:30:00+00:00"
-    },
-    {
-      "id": "2ad914d3bad50c9a",
-      "title": "Pacific NW Utilities \u2018Share Awareness\u2019 as Wildfire Danger Builds",
-      "link": "https://www.rtoinsider.com/137046-pacific-nw-utilities-share-awareness-as-wildfire-danger-builds/",
-      "summary": "As wildfires spread across the Pacific Northwest, utilities in Washington and Oregon are on high alert with conditions indicating 2026 could be a more active fire season compared to recent years.\nThe post Pacific NW Utilities \u2018Share Awareness\u2019 as Wildfire Danger Builds appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T00:57:31+00:00"
-    },
-    {
-      "id": "d866d7c863dd5ff9",
-      "title": "2035 \u2018Snapshot\u2019 Report Pinpoints Problem Areas for Arizona Grid",
-      "link": "https://www.rtoinsider.com/137200-2035-snapshot-report-pinpoints-problem-areas-for-ariz-grid/",
-      "summary": "A study by a subregional transmission planning group found that Arizona\u2019s grid would be \u201cgenerally robust\u201d in 2035, while pointing to potential problems if specific projects are delayed.\nThe post 2035 \u2018Snapshot\u2019 Report Pinpoints Problem Areas for Arizona Grid appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T00:55:50+00:00"
-    },
-    {
-      "id": "bef3c4153449c3cd",
-      "title": "GE Vernova Reports Continued Strong Demand for Gas Turbines",
-      "link": "https://www.rtoinsider.com/137206-ge-vernova-reports-continued-gas-turbine-sales-growth/",
-      "summary": "GE Vernova reported a familiar picture in its second-quarter earnings: healthy revenue increases for its power and electrification businesses and continued losses in its wind segment.\nThe post GE Vernova Reports Continued Strong Demand for Gas Turbines appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T00:45:33+00:00"
-    },
-    {
-      "id": "2b4633f8bb9d3975",
-      "title": "Senate ENR Questions FERC Commissioners on Large Load Proceedings",
-      "link": "https://www.rtoinsider.com/137204-senate-enr-holds-oversight-hearing-with-five-ferc-commissioners/",
-      "summary": "The Senate Energy and Natural Resources Committee questioned FERC commissioners about the recent large load proceedings.\nThe post Senate ENR Questions FERC Commissioners on Large Load Proceedings appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T00:37:59+00:00"
-    },
-    {
-      "id": "da9f5f52682b3c52",
-      "title": "SEIA Calls for Tighter Cybersecurity Standards for Solar, Storage",
-      "link": "https://www.rtoinsider.com/137202-seia-calls-for-tighter-cybersecurity-standards-for-solar-storage/",
-      "summary": "The Solar Energy Industries Association is urging policymakers and regulators to establish more consistent cybersecurity requirements for solar and energy storage systems, warning that rapid growth of the resources is outpacing existing regulatory frameworks.\nThe post SEIA Calls for Tighter Cybersecurity Standards for Solar, Storage appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T00:35:11+00:00"
-    },
-    {
-      "id": "6776ac3f6045b2d5",
-      "title": "ISO-NE Monitor Details Market Performance in Tight Winter Conditions",
-      "link": "https://www.rtoinsider.com/iso-ne-monitor-details-market-performance-in-tight-winter-conditions/",
-      "summary": "ISO-NE\u2019s wholesale markets performed well throughout extreme conditions over the past winter, the RTO\u2019s Internal Market Monitor told NEPOOL stakeholders.\nThe post ISO-NE Monitor Details Market Performance in Tight Winter Conditions appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T23:03:44+00:00"
-    },
-    {
-      "id": "82a8d88deffbebb8",
-      "title": "MISO Blocks Webcam Use in Meetings Following Explicit Video",
-      "link": "https://www.rtoinsider.com/137198-miso-blocks-video-features-in-meetings-following-indecent-exposure/",
-      "summary": "MISO has suspended the use of webcams by attendees during its teleconferences after a sexually explicit video was shown momentarily during a recent meeting.\nThe post MISO Blocks Webcam Use in Meetings Following Explicit Video appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T23:02:21+00:00"
-    },
-    {
-      "id": "c352cf8123f01ab3",
-      "title": "FERC Rejects Mich. Muni\u2019s Late Entry into MISO Capacity Auction",
-      "link": "https://www.rtoinsider.com/137214-ferc-rejects-mich-munis-late-entry-into-miso-capacity-auction/",
-      "summary": "FERC has denied the Lansing Board of Water and Light\u2019s late entry into MISO\u2019s 2026/27 capacity auction, forcing the municipal utility to find ways to offload duplicative capacity that was unwittingly purchased at the auction\u2019s $400/MW-day summer premium.\nThe post FERC Rejects Mich. Muni\u2019s Late Entry into MISO Capacity Auction appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T23:01:26+00:00"
-    },
-    {
-      "id": "69e5eec577b7a4d4",
-      "title": "Combined-cycle Scheduling Flaws Prompt IESO Market Rule Changes",
-      "link": "https://www.rtoinsider.com/137131-combined-cycle-scheduling-flaws-prompt-ieso-market-rule-changes/",
-      "summary": "IESO is advancing market rule changes to resolve three of five real-time scheduling problems identified in its pseudo-unit reference card, which explains temporary procedures for managing them.\nThe post Combined-cycle Scheduling Flaws Prompt IESO Market Rule Changes appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T22:59:39+00:00"
-    },
-    {
-      "id": "a9be673a71356801",
-      "title": "Data Center Electricity Demand Projected to Soar",
-      "link": "https://www.rtoinsider.com/137126-projected-data-center-power-demand-much-higher-in-latest-bnef-report/",
-      "summary": "A new BloombergNEF report projects data centers could account for 12% of U.S. electricity consumption in 2030 and 20% in 2035.\nThe post Data Center Electricity Demand Projected to Soar appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-22T22:50:42+00:00"
     }
   ]
 }
