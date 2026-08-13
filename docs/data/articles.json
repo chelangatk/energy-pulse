@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T13:06:23.547755+00:00",
-  "count": 434,
+  "generated_at": "2026-08-13T22:37:51.460002+00:00",
+  "count": 373,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-13T13:06:20.468312+00:00"
+      "published": "2026-08-13T22:37:47.321299+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-13T13:06:20.468298+00:00"
+      "published": "2026-08-13T22:37:47.321288+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-13T13:06:20.468281+00:00"
+      "published": "2026-08-13T22:37:47.321275+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-13T13:06:20.468246+00:00"
+      "published": "2026-08-13T22:37:47.321238+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-13T13:06:19.319788+00:00"
+      "published": "2026-08-13T22:37:45.669675+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,197 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-13T13:06:18.424333+00:00"
+      "published": "2026-08-13T22:37:44.025677+00:00"
+    },
+    {
+      "id": "cd07f5224e44b388",
+      "title": "N.Y. Moves to Create Statewide Demand Response Platform",
+      "link": "https://www.rtoinsider.com/139122-new-york-moves-create-statewide-demand-response-platform/",
+      "summary": "The Excelsior Power Program is an effort to unify and streamline the similar DR programs operated by the state's electric and gas utilities.\nThe post N.Y. Moves to Create Statewide Demand Response Platform appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T22:26:24+00:00"
+    },
+    {
+      "id": "011231dcd443564c",
+      "title": "Texas 2.5-GW Gas-Plus-Nuclear Project Proceeds to Engineering, Licensing Phase",
+      "link": "https://www.powermag.com/texas-2-5-gw-gas-plus-nuclear-project-proceeds-to-engineering-licensing-phase/",
+      "summary": "Blue Energy and GE Vernova Hitachi Nuclear Energy (GVH) have signed an agreement to launch the next phase of their collaboration on a planned 2.5-GW gas-plus-nuclear power project in Victoria, Texas, moving the closely watched data-center power concept from an announced collaboration to engineering, licensing, and safety analysis. The\u00a0Aug. 13-announced agreement\u00a0will advance project definition for",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T20:26:14+00:00"
+    },
+    {
+      "id": "d700607532e44fb9",
+      "title": "Lightmatter launches 19-company strong initiative to standardize silicon photonics-ready infrastructure",
+      "link": "https://www.datacenterdynamics.com/en/news/lightmatter-launches-19-company-strong-initiative-to-standardize-silicon-photonics-ready-infrastructure/",
+      "summary": "Company has also published a 300-page whitepaper to support the project",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T20:00:38+00:00"
+    },
+    {
+      "id": "388b60a53c16e6f8",
+      "title": "Record-setting geothermal bid signals rising interest in federal leases",
+      "link": "https://www.utilitydive.com/news/record-setting-geothermal-bid-signals-rising-interest-in-federal-leases/827834/",
+      "summary": "One parcel in New Mexico sold for $701 per acre in June. Analysts cited stronger bidder competition as the Bureau of Land Management prepares for another lease sale in Utah scheduled for August 18.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T18:16:29+00:00"
+    },
+    {
+      "id": "fc46994671336d1f",
+      "title": "RWE nears completion on two data center deals",
+      "link": "https://www.datacenterdynamics.com/en/news/rwe-nears-completion-on-two-data-center-deals/",
+      "summary": "Plans total net investments of \u20ac42 billion from 2026 to 2031 to meet skyrocketing demand",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T16:50:27+00:00"
+    },
+    {
+      "id": "2278de619675326f",
+      "title": "Crusoe-backed transformer manufacturer Heron Power selects Morgan Hill, California, as site of first large-scale factory",
+      "link": "https://www.datacenterdynamics.com/en/news/crusoe-backed-transformer-manufacturer-heron-power-selects-morgan-hill-california-as-site-of-first-large-scale-factory/",
+      "summary": "Expected to manufacture 10,000 Heron Links every year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T16:30:41+00:00"
+    },
+    {
+      "id": "c5c479c4e41317b1",
+      "title": "Nebius to lease data center capacity from Vantage in Newport, Wales",
+      "link": "https://www.datacenterdynamics.com/en/news/nebius-to-lease-data-center-capacity-from-vantage-in-newport-wales/",
+      "summary": "AI cloud firm to deploy Nvidia GPUs at CLW1 site",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T16:20:31+00:00"
+    },
+    {
+      "id": "f9cd0804016707ea",
+      "title": "Vantage, CyrusOne, and DayOne all plan IPOs with potential record breaking valuations",
+      "link": "https://www.datacenterdynamics.com/en/news/vantage-cyrusone-and-dayone-all-plan-ipos-with-potential-record-breaking-valuations/",
+      "summary": "Vantage and CyrusOne are targeting 2027, while DayOne could go public next quarter",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T16:10:17+00:00"
+    },
+    {
+      "id": "178a5d32f259661d",
+      "title": "Nebius expands European presence, announces deployment in Estonia and second data center in M\u00e4nts\u00e4l\u00e4, Finland",
+      "link": "https://www.datacenterdynamics.com/en/news/nebius-expands-european-presence-announces-deployment-in-estonia-and-second-data-center-in-m%C3%A4nts%C3%A4l%C3%A4-finland/",
+      "summary": "Announcements made alongside company\u2019s Q2 2026 results",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T16:07:10+00:00"
+    },
+    {
+      "id": "88639673cb1ded6c",
+      "title": "AT&T taps Airspan for neutral host network at Davis Wade Stadium, Mississippi",
+      "link": "https://www.datacenterdynamics.com/en/news/att-taps-airspan-for-neutral-host-network-at-davis-wade-stadium-mississippi/",
+      "summary": "Airspan\u2019s MobileAccess 6000 powers the newly-installed DAS at the stadium",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T16:07:00+00:00"
+    },
+    {
+      "id": "8dcb76fd9a692818",
+      "title": "Amazon plans 18-building campus outside Cincinnati, Ohio",
+      "link": "https://www.datacenterdynamics.com/en/news/amazon-plans-18-building-campus-outside-cincinnati-ohio/",
+      "summary": "3.96 million sq ft campus planned around Trenton",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T16:02:51+00:00"
+    },
+    {
+      "id": "3128629fed3f3674",
+      "title": "City council in Fort Worth, Texas, issues temporary data center moratorium",
+      "link": "https://www.datacenterdynamics.com/en/news/city-council-in-fort-worth-texas-issues-temporary-data-center-moratorium/",
+      "summary": "During which time new regulations may be developed, though won\u2019t come into force until next year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T15:28:20+00:00"
+    },
+    {
+      "id": "799b0ee09d1f75cf",
+      "title": "Sponsored: Planning liquid cooling for new AI data center builds in India",
+      "link": "https://www.datacenterdynamics.com/en/opinions/planning-liquid-cooling-for-new-ai-data-center-builds-in-india/",
+      "summary": "Identifying which liquid cooling architecture to design for",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "id": "7b6c19fea46e9c1c",
+      "title": "Software-based initiative could unlock up to 20% more bulk capacity: OATI",
+      "link": "https://www.utilitydive.com/news/software-based-initiative-could-unlock-up-to-20-more-bulk-capacity-oati/827806/",
+      "summary": "OATI seeks federal funding for widespread deployment of dynamic line rating software, near-real-time inter-regional coordination and AI-enhanced resource dispatch \u2014 none of which requires new poles or wires, the company says.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T14:51:48+00:00"
+    },
+    {
+      "id": "8bbb420568cebd50",
+      "title": "Vodafone secures Telenor international voice contract",
+      "link": "https://www.datacenterdynamics.com/en/news/vodafone-secures-telenor-international-voice-contract/",
+      "summary": "Will support management of international voice operations across Nordic markets",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T13:42:30+00:00"
+    },
+    {
+      "id": "b9cbd8fe4f77430a",
+      "title": "\u2018Zero-impact\u2019 data center announced for Florence, Italy",
+      "link": "https://www.datacenterdynamics.com/en/news/zero-impact-data-center-announced-for-florence-italy/",
+      "summary": "The facility will form part of a renewable energy hub planned for the southeast of the city",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T13:40:01+00:00"
+    },
+    {
+      "id": "adb47c710416b081",
+      "title": "Optimal Transit pitches Kraaken floating data center than can generate power and provide clean drinking water",
+      "link": "https://www.datacenterdynamics.com/en/news/optimal-transit-pitches-kraaken-floating-data-center-than-can-generate-power-and-provide-clean-drinking-water/",
+      "summary": "Project sounds ambitious, but is apparently based on proven technologies",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T13:38:00+00:00"
+    },
+    {
+      "id": "c5ad1ee2b4a137b4",
+      "title": "Intel submits patent continuation on multi-orbit data center solution",
+      "link": "https://www.datacenterdynamics.com/en/news/intel-submits-patent-continuation-on-multi-orbit-data-center-solution/",
+      "summary": "CPU giant keeps four-year-old patent going as competing hyperscalers hurry to get them built",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-13T13:23:24+00:00"
+    },
+    {
+      "id": "f19aec36f9368aff",
+      "title": "Mitsubishi\u2019s large-frame gas turbine backlog reaches 35 GW",
+      "link": "https://www.utilitydive.com/news/mitsubishi-gas-turbine-backlog-earnings/827761/",
+      "summary": "The company plans to double its manufacturing capacity as it continues to see a \u201cstrong supply-demand environment\u201d for gas turbines in the U.S., CFO Hiroshi Nishio said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-13T12:00:00+00:00"
     },
     {
       "id": "5b059501d5133621",
@@ -731,6 +921,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-11T21:44:40+00:00"
+    },
+    {
+      "id": "b366fc8984257308",
+      "title": "The US infrastructure buildout needs more than capital",
+      "link": "https://www.utilitydive.com/news/the-us-infrastructure-buildout-needs-more-than-capital/826167/",
+      "summary": "The country is not short on infrastructure ambition; what it risks running short on is orchestration, writes\u00a0Daryl Walcroft, PwC's capital projects and infrastructure leader.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-11T17:09:59+00:00"
     },
     {
       "id": "6fe104c284718b9e",
@@ -3531,771 +3731,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-23T22:44:31+00:00"
-    },
-    {
-      "id": "6174028e8045087b",
-      "title": "White House Expands Data Center Ratepayer Pledge as Congress Moves to Codify Protections",
-      "link": "https://www.powermag.com/white-house-expands-data-center-ratepayer-pledge-as-congress-moves-to-codify-protections/",
-      "summary": "Congress and the White House advanced parallel tracks this week to keep large data centers from shifting their grid costs onto electricity customers, reflecting a concern that has gathered momentum among state regulators, consumer advocates, and members of both parties. On July 21, the House Energy and Commerce Committee voted 52-0 to advance the\u00a0Ratepayer Protection [\u2026]\nThe post White House Expan",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T22:26:47+00:00"
-    },
-    {
-      "id": "94a9c1fc136a5e6b",
-      "title": "5 North American Energy Providers Team Up on V2G Testing in Massachusetts to Advance Reliability Solutions",
-      "link": "https://www.tdworld.com/electrification/news/55393278/5-north-american-energy-providers-team-up-on-v2g-testing-in-massachusetts-to-advance-reliability-solutions",
-      "summary": "The group of five companies\u2014Eversource, National Grid, EnergyHub, Sunrun and The Mobility House announced Thursday they are enrolling qualifying customers with V2G-capable electric vehicles in a program called ConnectedSolutions.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T21:19:41+00:00"
-    },
-    {
-      "id": "69d12750468c0935",
-      "title": "Next-Gen Fault Location: Transforming Grid Reliability with Hardware-in-the-Loop Evaluation",
-      "link": "https://www.tdworld.com/test-and-measurement/blog/55390888/next-gen-fault-location-transforming-grid-reliability-with-hardware-in-the-loop-evaluation",
-      "summary": "Hardware-in-the-loop evaluation examines the performance of Meta-Alert fault location technology and its potential to improve distribution outage response.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T20:57:59+00:00"
-    },
-    {
-      "id": "371ba492b1a539ad",
-      "title": "Federal Court Upholds NRC\u2019s Generic Severe-Accident Review for Nuclear Plant License Renewals",
-      "link": "https://www.powermag.com/federal-court-upholds-nrcs-generic-severe-accident-review-for-nuclear-plant-license-renewals/",
-      "summary": "A federal appeals court has upheld the Nuclear Regulatory Commission\u2019s (NRC\u2019s) use of a generic environmental analysis for nuclear plant license renewals, rejecting claims that the agency failed to adequately consider how aging components and climate change could affect the risk of severe reactor accidents. The July 21 decision from the U.S. Court of Appeals [\u2026]\nThe post Federal Court Upholds NRC\u2019",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T20:54:34+00:00"
-    },
-    {
-      "id": "18990713c69aeb37",
-      "title": "Group Health Plan Transparency in Coverage",
-      "link": "https://www.nerc.com/group-health-plan-transparency-in-coverage-files",
-      "summary": "",
-      "source": "NERC News",
-      "category": "Regulatory",
-      "published": "2026-07-23T20:51:26.170529+00:00"
-    },
-    {
-      "id": "be74314d0ce4d16b",
-      "title": "New England State Profiles",
-      "link": "https://www.iso-ne.com/about/public-affairs/new-england-state-profiles",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740512+00:00"
-    },
-    {
-      "id": "34bd77ddbdb37093",
-      "title": "Memos, Reports, and Other Public\u00a0Communications",
-      "link": "https://www.iso-ne.com/about/public-affairs/memos-reports-and-other-public-communications",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740505+00:00"
-    },
-    {
-      "id": "6bd5dbd496d95f90",
-      "title": "Presentations and Conference\u00a0Materials",
-      "link": "https://www.iso-ne.com/about/public-affairs/materials",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740498+00:00"
-    },
-    {
-      "id": "5e4710f9a087c64e",
-      "title": "Key Grid and Market Stats",
-      "link": "https://www.iso-ne.com/about/key-stats",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740483+00:00"
-    },
-    {
-      "id": "3c4f095b53da7b5d",
-      "title": "Batteries as Energy Storage",
-      "link": "https://www.iso-ne.com/about/where-we-are-going/batteries-as-energy-storage",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740476+00:00"
-    },
-    {
-      "id": "8df73c576f1af11f",
-      "title": "Regional Electricity Outlook",
-      "link": "https://www.iso-ne.com/about/where-we-are-going/regional-electricity-outlook",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740470+00:00"
-    },
-    {
-      "id": "ddd9735bc6138947",
-      "title": "Financial and Performance Reports",
-      "link": "https://www.iso-ne.com/about/corporate-governance/financial-performance",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740460+00:00"
-    },
-    {
-      "id": "5af30c290f012b85",
-      "title": "Living in Western New England",
-      "link": "https://www.iso-ne.com/about/careers/living-in-western-new-england",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740449+00:00"
-    },
-    {
-      "id": "95ece5eb56ab0779",
-      "title": "Careers at ISO New England",
-      "link": "https://www.iso-ne.com/about/careers",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740439+00:00"
-    },
-    {
-      "id": "3601840b32b1b2fb",
-      "title": "Environmental Stewardship",
-      "link": "https://www.iso-ne.com/about/who-we-are/environmental-stewardship",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740432+00:00"
-    },
-    {
-      "id": "6b901d8269a40ec7",
-      "title": "Our Highly Skilled Workforce",
-      "link": "https://www.iso-ne.com/about/who-we-are/our-highly-skilled-workforce",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740425+00:00"
-    },
-    {
-      "id": "89b1ba85fffc2b6b",
-      "title": "Our Mission, Vision, and Values",
-      "link": "https://www.iso-ne.com/about/who-we-are/our-mission-vision-and-values",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740415+00:00"
-    },
-    {
-      "id": "19d4e3869714895d",
-      "title": "Notice of Recorded or Monitored Conversations",
-      "link": "https://www.iso-ne.com/about/contact/notice-of-recorded-or-monitored-conversations",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740407+00:00"
-    },
-    {
-      "id": "5d7d505aa99889b1",
-      "title": "Market Monitoring and Mitigation Hotline",
-      "link": "https://www.iso-ne.com/about/contact/market-monitoring-mitigation",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740398+00:00"
-    },
-    {
-      "id": "575cfd9e77e656e8",
-      "title": "Government and Industry Affairs Contacts",
-      "link": "https://www.iso-ne.com/about/contact/government-industry-affairs",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:25.740375+00:00"
-    },
-    {
-      "id": "e4756d25300b7cf5",
-      "title": "News\n\n\nLatest company news and media contacts.",
-      "link": "https://spp.org/newsroom/press-releases/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576709+00:00"
-    },
-    {
-      "id": "969b4c794f8095d7",
-      "title": "Documents\n\n\nFilings, governing documents, and other resources.",
-      "link": "https://spp.org/spp-documents-filings/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576701+00:00"
-    },
-    {
-      "id": "11cb04956a21b656",
-      "title": "Stakeholder Groups\n\n\nMeeting materials, member info, and more.",
-      "link": "https://spp.org/stakeholder-groups/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576692+00:00"
-    },
-    {
-      "id": "a555dd871353e728",
-      "title": "Fast Facts, Annual Reports & Corporate Metrics",
-      "link": "https://spp.org/spp-documents-filings/?id=18171",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576680+00:00"
-    },
-    {
-      "id": "51d5531c98ad77d1",
-      "title": "Introduction to SPP Slideshow",
-      "link": "https://spp.org/Documents/69129/SPP 101 - 7.1.26 - Web.pptx",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576672+00:00"
-    },
-    {
-      "id": "8942e7d28c1288cb",
-      "title": "Request Management System using the \u2018General Inquiry\u2019\u00a0Request Template",
-      "link": "https://spprms.issuetrak.com/login.asp",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576650+00:00"
-    },
-    {
-      "id": "1c6c3bc7a671ba18",
-      "title": "Western Interconnection Unscheduled Flow Mitigation Plan (WIUFMP)",
-      "link": "https://spp.org/western-services/western-interconnection-unscheduled-flow-mitigation-plan-wiufmp/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576624+00:00"
-    },
-    {
-      "id": "b14cbcf2e5a7a7ce",
-      "title": "Western Resource Adequacy Program",
-      "link": "https://spp.org/western-services/western-resource-adequacy-program/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576617+00:00"
-    },
-    {
-      "id": "b9e3248ff02c2171",
-      "title": "High Impact Large Load (HILL) Integration",
-      "link": "https://spp.org/markets-operations/high-impact-large-load-hill-integration/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576604+00:00"
-    },
-    {
-      "id": "1fad7dd013072b1a",
-      "title": "Consolidated Planning Process",
-      "link": "https://spp.org/engineering/consolidated-planning-process/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576581+00:00"
-    },
-    {
-      "id": "09e6dba3cc246b54",
-      "title": "Transmission Owner Selection Process",
-      "link": "https://spp.org/engineering/transmission-owner-selection-process/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576571+00:00"
-    },
-    {
-      "id": "30dfcc8378e1d88f",
-      "title": "Generator Interconnection",
-      "link": "https://spp.org/engineering/generator-interconnection/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576551+00:00"
-    },
-    {
-      "id": "0facb8b29c101025",
-      "title": "Compliance and Advanced Studies",
-      "link": "https://spp.org/engineering/compliance-and-advanced-studies/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576542+00:00"
-    },
-    {
-      "id": "90d3484e64869d83",
-      "title": "User Guides, APIs & Integrations",
-      "link": "https://spp.org/stakeholder-center/user-guides-apis-integrations/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:23.576517+00:00"
-    },
-    {
-      "id": "22ae2f0a8c23d8db",
-      "title": "Independent Market Information System Registered Entity",
-      "link": "https://www.ercot.com/services/rq/imre",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617129+00:00"
-    },
-    {
-      "id": "e0bbfa4e00f5e36f",
-      "title": "Congestion Revenue Rights Account Holder",
-      "link": "https://www.ercot.com/services/rq/crr",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617122+00:00"
-    },
-    {
-      "id": "2c6b19a526dc3afb",
-      "title": "Registration and Qualification",
-      "link": "https://www.ercot.com/services/rq",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617116+00:00"
-    },
-    {
-      "id": "0a7569def382164b",
-      "title": "Texas Cybersecurity Monitor Program",
-      "link": "https://www.ercot.com/services/programs/tcmp",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617110+00:00"
-    },
-    {
-      "id": "a8f760f4539806aa",
-      "title": "QSE Services Available on Short Notice",
-      "link": "https://www.ercot.com/services/programs/qse",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617102+00:00"
-    },
-    {
-      "id": "090d8a6dd4b6bacd",
-      "title": "Power Operations Bulletins",
-      "link": "https://www.ercot.com/services/comm/pobs",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617086+00:00"
-    },
-    {
-      "id": "6bed8f76267a9521",
-      "title": "Market Participant Communications",
-      "link": "https://www.ercot.com/services/comm",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617076+00:00"
-    },
-    {
-      "id": "165456fb5f12600e",
-      "title": "ERCOT Reliability Monitor Program",
-      "link": "https://www.ercot.com/about/reliability-monitor",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617050+00:00"
-    },
-    {
-      "id": "6928c87093f61dd5",
-      "title": "Grid Research Innovation and Transformation",
-      "link": "https://www.ercot.com/about/grit",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617029+00:00"
-    },
-    {
-      "id": "5b0280346dfd7dd1",
-      "title": "January 24 and 25, 2026, DOE 202(c) Orders",
-      "link": "https://www.ercot.com/about/legal/doe202c",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617023+00:00"
-    },
-    {
-      "id": "c66c41ec43254c36",
-      "title": "February 2021 Extreme Weather Event",
-      "link": "https://www.ercot.com/about/legal/february2021",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617017+00:00"
-    },
-    {
-      "id": "76f5951980a01896",
-      "title": "Proposed Brazos and ERCOT Bankruptcy Settlement",
-      "link": "https://www.ercot.com/about/legal/brazos",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.617006+00:00"
-    },
-    {
-      "id": "0d393f419b3033fe",
-      "title": "Legal Policies and Notices",
-      "link": "https://www.ercot.com/about/legal",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.616999+00:00"
-    },
-    {
-      "id": "0316fdfe35f375c8",
-      "title": "Subchapter N Uplift Balance Securitization",
-      "link": "https://www.ercot.com/about/hb4492securitization/subchaptern",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.616989+00:00"
-    },
-    {
-      "id": "41e36a26ed38e580",
-      "title": "Subchapter M Default Balance Securitization",
-      "link": "https://www.ercot.com/about/hb4492securitization/subchapterm",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "published": "2026-07-23T20:51:21.616961+00:00"
-    },
-    {
-      "id": "65b8ee7361cd6349",
-      "title": "The Life and Training of a Modern Lineworker: From Apprenticeship to Leadership",
-      "link": "https://www.tdworld.com/electric-utility-operations/article/55374019/the-life-and-training-of-a-modern-lineworker-from-apprenticeship-to-leadership",
-      "summary": "As an apprentice for Eversource, Mike Soderquist is focusing on learning new skills to work safely in the line trade.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T20:01:45+00:00"
-    },
-    {
-      "id": "b36f9c81c9bece84",
-      "title": "Microsoft Azure outage at West US region causes intermittent connectivity failures",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-azure-outage-at-west-us-region-causes-intermittent-connectivity-failures/",
-      "summary": "Systems expected to recover as issue is rolled back",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T19:04:00+00:00"
-    },
-    {
-      "id": "c9be9727fcc61e89",
-      "title": "AMD and Schneider Electric launch reference standards for Helios AI rack",
-      "link": "https://www.datacenterdynamics.com/en/news/amd-and-schneider-electric-launch-reference-standards-for-helios-ai-rack/",
-      "summary": "Will help developers incorporate rack into AI data centers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T19:00:00+00:00"
-    },
-    {
-      "id": "113acfdd1be9b79b",
-      "title": "The new playbook to energize AI data center development",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/the-new-playbook-to-energize-ai-data-center-development/",
-      "summary": "A strategic framework to secure power and fast-track energization",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T17:38:00+00:00"
-    },
-    {
-      "id": "cf28d99ec917bfe3",
-      "title": "AMD partners with big chip co. Cerebras for ultra-low-latency and high throughput AI inference system",
-      "link": "https://www.datacenterdynamics.com/en/news/amd-partners-with-big-chip-co-cerebras-for-ultra-low-latency-and-high-throughput-ai-inference-system/",
-      "summary": "Helios and Cerebras go up against Nvidia's NVL72 and Groq LPX",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T17:32:00+00:00"
-    },
-    {
-      "id": "9223846a5ad9dc94",
-      "title": "Meta to deploy custom AMD Instinct MI450-based GPU, is 'lead customer' for Venice Epyc CPU",
-      "link": "https://www.datacenterdynamics.com/en/news/meta-to-deploy-custom-amd-instinct-mi450-based-gpu-is-lead-customer-for-venice-epyc-cpu/",
-      "summary": "As part of ongoing 6GW AMD rollout",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T17:22:00+00:00"
-    },
-    {
-      "id": "847cb798e16e5161",
-      "title": "Renewables, storage can meet one-third of US industrial heat demand: report",
-      "link": "https://www.utilitydive.com/news/renewables-and-storage-can-meet-one-third-of-us-industrial-heat-demand-r/826057/",
-      "summary": "The UC Berkeley analysis should be welcome news for a manufacturing industry that is heavily reliant on natural gas, with its volatile prices, said\u00a0Jose Dominguez, one of the report\u2019s authors.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T17:17:17+00:00"
-    },
-    {
-      "id": "40b11470f7997c97",
-      "title": "OpenAI to deploy AMD Helios rackscale system as first part of up to 6GW partnership",
-      "link": "https://www.datacenterdynamics.com/en/news/openai-to-deploy-amd-helios-rackscale-system-as-first-part-of-up-to-6gw-partnership/",
-      "summary": "Company has already tested the beefy AI rack",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T17:02:00+00:00"
-    },
-    {
-      "id": "39624580b3be43f4",
-      "title": "AMD launches Instinct MI400 Series GPUs for AI workloads",
-      "link": "https://www.datacenterdynamics.com/en/news/amd-launches-instinct-mi400-series-gpus-for-ai-workloads/",
-      "summary": "Targets both frontier AI and supercomputing",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:46:45+00:00"
-    },
-    {
-      "id": "d01f12d3e06d92c2",
-      "title": "AMD officially launches Helios rackscale system, with MI455X GPUs, Venice Epyc CPUs, and Pensando",
-      "link": "https://www.datacenterdynamics.com/en/news/amd-officially-launches-helios-rackscale-system-with-mi455x-gpus-venice-epyc-cpus-and-pensando/",
-      "summary": "Following ZT acquisition, company looks to compete with Nvidia's system-level approach",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:45:00+00:00"
-    },
-    {
-      "id": "042f6dfa8d4c61e4",
-      "title": "IBM acquires HRL Laboratories to further boost quantum computing R&D efforts",
-      "link": "https://www.datacenterdynamics.com/en/news/ibm-acquires-hrl-laboratories-to-further-boost-quantum-computing-rd-efforts/",
-      "summary": "Financial terms of the deal have not been disclosed",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:30:30+00:00"
-    },
-    {
-      "id": "bf286c84a1ede47b",
-      "title": "Hong Kong property firm ITC inks memorandum to build 1GW data center near Shanghai",
-      "link": "https://www.datacenterdynamics.com/en/news/hong-kong-property-firm-itc-inks-memorandum-to-build-1gw-data-center-near-shanghai/",
-      "summary": "Data center would be developed in phases over five years",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:30:28+00:00"
-    },
-    {
-      "id": "a2b831a3767c6d48",
-      "title": "Submer's Rubix Data Centers proposes 2GW data center at former steelworks in Kentucky",
-      "link": "https://www.datacenterdynamics.com/en/news/submers-rubix-data-centers-proposes-2gw-data-center-at-former-steelworks-in-kentucky/",
-      "summary": "Firm's first US project revealed",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:14:47+00:00"
-    },
-    {
-      "id": "408610e81e80ba98",
-      "title": "Sabey starts construction on 120MW data center campus in Oregon",
-      "link": "https://www.datacenterdynamics.com/en/news/sabey-starts-construction-on-120mw-data-center-campus-in-oregon/",
-      "summary": "Company goes vertical in Umatilla",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:10:33+00:00"
-    },
-    {
-      "id": "826673a616f873b6",
-      "title": "Google, BlackRock, Ford Motors, and Carhartt launch Alliance for America\u2019s Skilled Trades",
-      "link": "https://www.datacenterdynamics.com/en/news/google-blackrock-ford-motors-and-carhartt-launch-alliance-for-americas-skilled-trades/",
-      "summary": "Training initiative aims to meet America\u2019s growing demand for skilled trades workers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:10:33+00:00"
-    },
-    {
-      "id": "6a1c3d6035a32631",
-      "title": "DG Matrix, Skeleton Technologies partner on 800V DC power systems for AI data centers",
-      "link": "https://www.datacenterdynamics.com/en/news/dg-matrix-skeleton-technologies-partner-on-800v-dc-power-systems-for-ai-data-centers/",
-      "summary": "Will see the firms integrate their systems",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:10:31+00:00"
-    },
-    {
-      "id": "25561fb16c1b7f24",
-      "title": "GE Vernova gas turbine backlog climbs to 116 GW",
-      "link": "https://www.utilitydive.com/news/ge-vernova-gas-turbine-backlog-climbs-to-116-gw/826039/",
-      "summary": "GE Vernova is taking reservations for 2031 deliveries now, said CEO Scott Strazik. He spoke of an increasingly diverse customer base, including data centers.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T16:07:52+00:00"
-    },
-    {
-      "id": "eb2c60b2d1029746",
-      "title": "NovoServe expands data center capacity in the Netherlands",
-      "link": "https://www.datacenterdynamics.com/en/news/novoserve-expands-data-center-capacity-in-the-netherlands/",
-      "summary": "Company adds bare-metal rack capacity to two data center sites",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:00:37+00:00"
-    },
-    {
-      "id": "5b76dd983cc6b5ff",
-      "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report",
-      "link": "https://www.datacenterdynamics.com/en/news/openai-data-center-in-sydney-australia-abandons-plans-for-recycled-water-cooling-system-report/",
-      "summary": "NextDC is the primary developer of the 612MW facility",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:00:36+00:00"
-    },
-    {
-      "id": "52c39cdaeab8412c",
-      "title": "Nvidia\u2019s LPU gamble",
-      "link": "https://www.datacenterdynamics.com/en/analysis/nvidias-lpu-gamble/",
-      "summary": "The GPU kingpin on life beyond the GPU",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T16:00:34+00:00"
-    },
-    {
-      "id": "e7e41d8652368b9c",
-      "title": "Wasabi to provide cloud object storage to Megaport",
-      "link": "https://www.datacenterdynamics.com/en/news/wasabi-to-provide-cloud-object-storage-to-megaport/",
-      "summary": "As the Network-as-a-Service provider continues to enter neocloud race",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T15:50:28+00:00"
-    },
-    {
-      "id": "fbba9dd6d040c5c0",
-      "title": "Crown Castle CEO: Edge opportunity is gaining momentum",
-      "link": "https://www.datacenterdynamics.com/en/news/crown-castle-ceo-edge-opportunity-is-gaining-momentum/",
-      "summary": "CEO Christian Hillabrant says towercos can help to ease some of the data center challenges",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T15:50:26+00:00"
-    },
-    {
-      "id": "ca29b95f3736b2b0",
-      "title": "IHI Power Services Rebrands After Acquisition by Japan\u2019s Kyuden",
-      "link": "https://www.powermag.com/ihi-power-services-rebrands-after-acquisition-by-japans-kyuden/",
-      "summary": "A major operator of power plants in the U.S. has a new name. IHI Power Services Corp. (IPSC) will now be known as Kyuden Energy Partners Corp. after the company finalized its acquisition by Japan-headquartered Kyuden International.\nThe post IHI Power Services Rebrands After Acquisition by Japan\u2019s Kyuden appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T15:48:14+00:00"
-    },
-    {
-      "id": "c20ce52d59671dfa",
-      "title": "Mozambique's cloud provider Bubble to operate with two availability zones",
-      "link": "https://www.datacenterdynamics.com/en/news/mozambiques-cloud-provider-bubble-to-operate-with-two-availability-zones/",
-      "summary": "Aims to provide greater redundancy",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T15:42:02+00:00"
-    },
-    {
-      "id": "f0fad614ee75a511",
-      "title": "Ukraine's sovereign \u20ac1bn communications constellation to launch in 2027",
-      "link": "https://www.datacenterdynamics.com/en/news/ukraines-sovereign-1bn-communications-constellation-to-launch-in-2027/",
-      "summary": "Danish-Ukrainian joint constellation project perseveres despite CEO passing away",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-23T15:40:24+00:00"
-    },
-    {
-      "id": "7d6134949d3a6fe9",
-      "title": "Caelux Signs Partnership Deals With Leading India Solar Module Makers",
-      "link": "https://www.powermag.com/caelux-signs-partnership-deals-with-leading-india-solar-module-makers/",
-      "summary": "A California-based solar power equipment group said it has signed two separate five-year, 5-GW commercialization partnerships with a pair of India's leading solar module manufacturers.\nThe post Caelux Signs Partnership Deals With Leading India Solar Module Makers appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T15:06:29+00:00"
-    },
-    {
-      "id": "7173b6051e95bc4d",
-      "title": "People are critical infrastructure, too. Utilities must do more or lose talent to tech.",
-      "link": "https://www.utilitydive.com/news/people-are-critical-infrastructure-too-utilities-must-do-more-or-lose-tal/824765/",
-      "summary": "With so much riding on America's AI ambitions, utility workforce strategy must have a place alongside generation, transmission and capital planning, writes Stefan Hirniak, president of Specialist Staffing\u00a0Group US.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T15:00:00+00:00"
-    },
-    {
-      "id": "005590c3deb8620b",
-      "title": "Your Customers Are Asking AI About You. Do You Know What It\u2019s Saying?",
-      "link": "https://www.powermag.com/your-customers-are-asking-ai-about-you-do-you-know-what-its-saying/",
-      "summary": "Why Generative Engine Optimization Is the Next Reputation Management Secret Weapon for Energy Brands Energy has become a kitchen-table issue. Bills are climbing. Data centers are being built at a breakneck pace, and new technologies are being launched faster than ever before, often facing NIMBY concerns. As customers and stakeholders look for answers, they may [\u2026]\nThe post Your Customers Are Askin",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T14:31:18+00:00"
-    },
-    {
-      "id": "d45e8874c5c598be",
-      "title": "LineOps",
-      "link": "https://www.tdworld.com/directory/vegetation-management/herbicides/company/55393081/lineops",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T13:50:30+00:00"
-    },
-    {
-      "id": "ecb23dfeddd75372",
-      "title": "Mark Broomfield",
-      "link": "https://www.tdworld.com/directory/contact/55393077/mark-broomfield",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T13:47:12+00:00"
-    },
-    {
-      "id": "bafa204254c0d454",
-      "title": "Bluemax USA, Inc.",
-      "link": "https://www.tdworld.com/directory/construction-equipment-machinery/cable-pullers-tensioners/company/55393078/bluemax-usa-inc",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T13:44:40+00:00"
-    },
-    {
-      "id": "d4fe795ab11c2946",
-      "title": "DOE\u2019s new power export rule at odds with \u2018energy emergency\u2019 findings: Public Citizen",
-      "link": "https://www.utilitydive.com/news/doe-electricity-export-authorization-energy-emergency/825876/",
-      "summary": "\u201cAny export of power ... necessarily makes that power unavailable to domestic customers,\u201d potentially contributing to inadequate supplies for a region, Public Citizen said.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-23T13:33:10+00:00"
     }
   ]
 }
