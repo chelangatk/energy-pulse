@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T12:33:39.339560+00:00",
-  "count": 397,
+  "generated_at": "2026-08-15T22:17:37.203261+00:00",
+  "count": 398,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-15T12:33:36.577498+00:00"
+      "published": "2026-08-15T22:17:34.396615+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-15T12:33:36.577484+00:00"
+      "published": "2026-08-15T22:17:34.396601+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-15T12:33:36.577466+00:00"
+      "published": "2026-08-15T22:17:34.396583+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-15T12:33:36.577430+00:00"
+      "published": "2026-08-15T22:17:34.396553+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-15T12:33:34.937401+00:00"
+      "published": "2026-08-15T22:17:31.950128+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-15T12:33:34.256296+00:00"
+      "published": "2026-08-15T22:17:30.837766+00:00"
+    },
+    {
+      "id": "02b1379583d11085",
+      "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of data center development",
+      "link": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+      "summary": "The next decade of digital infrastructure will be shaped by how quickly power can reach the right place, at the right time, at an acceptable cost",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-15T15:00:00+00:00"
+    },
+    {
+      "id": "ce30346305a9991b",
+      "title": "Are orbital AI data centers the next frontier for compute infrastructure?",
+      "link": "https://www.datacenterdynamics.com/en/opinions/are-orbital-ai-data-centers-the-next-frontier-for-compute-infrastructure/",
+      "summary": "Data centers in space shift from concept to early operational demonstrations",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-15T13:00:33+00:00"
     },
     {
       "id": "e83ffa11c87b88f8",
@@ -3961,16 +3981,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-07-26T13:00:00+00:00"
-    },
-    {
-      "id": "05c86bf2b9026738",
-      "title": "Sponsored: The key to the data center power problem",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-key-to-the-data-center-power-problem/",
-      "summary": "A power-first mindset amid AI at scale and aging infrastructure",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-25T15:00:00+00:00"
     }
   ]
 }
