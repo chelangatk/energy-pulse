@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T22:19:07.746011+00:00",
-  "count": 398,
+  "generated_at": "2026-08-15T12:33:39.339560+00:00",
+  "count": 397,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-14T22:19:04.047408+00:00"
+      "published": "2026-08-15T12:33:36.577498+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-14T22:19:04.047394+00:00"
+      "published": "2026-08-15T12:33:36.577484+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-14T22:19:04.047376+00:00"
+      "published": "2026-08-15T12:33:36.577466+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-14T22:19:04.047344+00:00"
+      "published": "2026-08-15T12:33:36.577430+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-14T22:19:01.538157+00:00"
+      "published": "2026-08-15T12:33:34.937401+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-14T22:18:59.820416+00:00"
+      "published": "2026-08-15T12:33:34.256296+00:00"
     },
     {
       "id": "e83ffa11c87b88f8",
@@ -3971,16 +3971,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-07-25T15:00:00+00:00"
-    },
-    {
-      "id": "15cf9664a719c242",
-      "title": "Duh, solar power doesn't work at night \u2014 but it excels during the day",
-      "link": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
-      "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.  It\u2019s an old and lazy swipe that critics of renewable energy love to take, even though the people who operate our power grids know that this is the case and plan\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-24T22:58:00+00:00"
     }
   ]
 }
