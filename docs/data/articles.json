@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:35:39.780136+00:00",
+  "generated_at": "2026-08-16T22:17:26.071155+00:00",
   "count": 399,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-16T12:35:36.795692+00:00"
+      "published": "2026-08-16T22:17:23.220654+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-16T12:35:36.795678+00:00"
+      "published": "2026-08-16T22:17:23.220640+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-16T12:35:36.795661+00:00"
+      "published": "2026-08-16T22:17:23.220622+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-16T12:35:36.795625+00:00"
+      "published": "2026-08-16T22:17:23.220587+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-16T12:35:30.736036+00:00"
+      "published": "2026-08-16T22:17:21.627827+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-16T12:35:30.092733+00:00"
+      "published": "2026-08-16T22:17:20.827426+00:00"
+    },
+    {
+      "id": "19be1a591a1983cd",
+      "title": "Christie: Don\u2019t Settle for Cosmetic Half Measures in PJM",
+      "link": "https://www.rtoinsider.com/139339-christie-dont-settle-for-cosmetic-half-measures-pjm-reform/",
+      "summary": "Former FERC Chair Mark Christie has strong words of advice for current commissioners considering changes to PJM governance.\nThe post Christie: Don\u2019t Settle for Cosmetic Half Measures in PJM appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-16T20:12:46+00:00"
+    },
+    {
+      "id": "04f23595e54bb531",
+      "title": "Big Wall Street Move into Data Centers May Bring Money, Problems for AI",
+      "link": "https://www.rtoinsider.com/139289-big-wall-street-data-centers-bring-money-problems-for-ai/",
+      "summary": "As political demands grow to slow down AI\u2019s surge, technology and finance leaders parlaying the bulging muscle of Silicon Valley and Wall Street are saying \u201cfaster,\" writes Energy Futures columnist Peter Behr.\nThe post Big Wall Street Move into Data Centers May Bring Money, Problems for AI appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-16T19:57:40+00:00"
+    },
+    {
+      "id": "fadf2adc4fff1d61",
+      "title": "N.J. Approves 1st Batch of Dual-use Solar Projects",
+      "link": "https://www.rtoinsider.com/139292-nj-approves-first-batch-dual-solar-projects/",
+      "summary": "The New Jersey Board of Public Utilities approved 16 dual-use solar projects with a combined capacity of 52 MW as the state seeks to ramp up solar power production to meet a looming supply shortage.\nThe post N.J. Approves 1st Batch of Dual-use Solar Projects appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-16T19:55:12+00:00"
+    },
+    {
+      "id": "f55f2b663cc5d4a0",
+      "title": "PJM MRC/MC Preview: Aug. 19, 2026",
+      "link": "https://www.rtoinsider.com/139323-pjm-mrc-mc-preview-081926/",
+      "summary": "Included is a summary of items scheduled to be brought to a vote at the PJM Markets and Reliability Committee and Members Committee meetings.\nThe post PJM MRC/MC Preview: Aug. 19, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-16T19:16:59+00:00"
+    },
+    {
+      "id": "614ddc1cbe6b6bc3",
+      "title": "ERCOT Asks for Exceptions to Batch Study Process",
+      "link": "https://www.rtoinsider.com/139319-ercot-asks-for-exceptions-batch-study-process/",
+      "summary": "ERCOT says it will need to file good-cause exceptions with the Texas PUC to respond to Gov. Greg Abbott\u2019s request that the organizations conduct a \u201ccomprehensive\u201d verification and audit of all data centers.\nThe post ERCOT Asks for Exceptions to Batch Study Process appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-16T19:09:41+00:00"
+    },
+    {
+      "id": "73a07749161c7d14",
+      "title": "Exelon has $1B in TSAs, but Debate over Data Centers Continues",
+      "link": "https://www.rtoinsider.com/139238-exelon-1b-tsas-but-debate-over-data-centers-continues/",
+      "summary": "Exelon recently reported it has signed data centers to $1 billion in customer protections through transmission security agreements, but the political backlash against data center development has not quieted.\nThe post Exelon has $1B in TSAs, but Debate over Data Centers Continues appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-16T17:55:28+00:00"
+    },
+    {
+      "id": "40e09c1cec2227a4",
+      "title": "Affordability Wars: Why Chris Wright is Obsessed with Killing Energy-efficient Building Codes",
+      "link": "https://www.rtoinsider.com/139259-doe-opposition-residential-building-decarb-codes/",
+      "summary": "Data centers have been grabbing the headlines, but the definitions and public understandings of energy efficiency and what building codes should and shouldn't include also have become fiercely contested territory.\nThe post Affordability Wars: Why Chris Wright is Obsessed with Killing Energy-efficient Building Codes appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-16T16:53:18+00:00"
+    },
+    {
+      "id": "7c61fbffa2e951ba",
+      "title": "When a grid signal becomes a production change",
+      "link": "https://www.datacenterdynamics.com/en/opinions/when-a-grid-signal-becomes-a-production-change/",
+      "summary": "Grid flexibility depends on who can change a live system, when they can do it, and how the site recovers.",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-16T14:00:31+00:00"
     },
     {
       "id": "d4fb413a9c72143e",
@@ -203,6 +283,16 @@
       "published": "2026-08-14T14:40:05+00:00"
     },
     {
+      "id": "60b90aba5ea336c5",
+      "title": "WSP capitalizes on surging US power infrastructure construction",
+      "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
+      "summary": "Power now accounts for as much as 40% of the company\u2019s revenue, CEO Alexandre L\u2019Heureux said during a second-quarter earnings call.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-14T14:40:05+00:00"
+    },
+    {
       "id": "3eb58c8550a5cf57",
       "title": "California approves $34.5bn Charter-Cox merger deal",
       "link": "https://www.datacenterdynamics.com/en/news/california-approves-345bn-charter-cox-merger-deal/",
@@ -271,6 +361,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-14T13:02:53+00:00"
+    },
+    {
+      "id": "606eddb640eed994",
+      "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
+      "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
+      "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for\u00a0an \u201cenergy campus.\u201d\u00a0TransAlta intends to buy two\u00a0power plants in Colorado totaling about 319 MW.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-14T13:02:30+00:00"
     },
     {
       "id": "7691eb932006707a",
@@ -3891,106 +3991,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-27T07:30:00+00:00"
-    },
-    {
-      "id": "3c7040399f755424",
-      "title": "PJM MRC/MC Preview: July 28, 2026",
-      "link": "https://www.rtoinsider.com/137424-pjm-mrc-mc-preview-072826/",
-      "summary": "A summary of the agenda items scheduled to be brought to a vote at the PJM Markets and Reliability Committee and Members Committee is provided.\nThe post PJM MRC/MC Preview: July 28, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-26T18:58:43+00:00"
-    },
-    {
-      "id": "e444d2168fbedc0b",
-      "title": "SPP West Exits 2nd EEA in 5 Days",
-      "link": "https://www.rtoinsider.com/137473-spp-west-exits-2nd-eea-in-5-days/",
-      "summary": "SPP ended a second energy emergency alert in five days in its Western balancing authority area after it said system conditions improved.\nThe post SPP West Exits 2nd EEA in 5 Days appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-26T17:56:25+00:00"
-    },
-    {
-      "id": "8a8437db37225f8a",
-      "title": "ISO-NE Proposes BYOG Requirement for Large Loads",
-      "link": "https://www.rtoinsider.com/137316-iso-ne-proposes-byog-requirement-large-loads/",
-      "summary": "ISO-NE plans to require new large loads to bring their own incremental generation and exclude new large loads from its installed capacity requirement.\nThe post ISO-NE Proposes BYOG Requirement for Large Loads appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-26T17:53:27+00:00"
-    },
-    {
-      "id": "185cb5df508f064a",
-      "title": "Duke Rate Case Underscores Complexities of Data Center Grid Impacts",
-      "link": "https://www.rtoinsider.com/137138-duke-rate-case-underscores-complexities-data-centers/",
-      "summary": "The Trump administration is trumpeting the inclusion of utilities and other players in its Ratepayer Protection Pledge, but proceedings in a contentious rate case in North Carolina suggest the follow-though won\u2019t be so simple.\nThe post Duke Rate Case Underscores Complexities of Data Center Grid Impacts appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-26T17:46:54+00:00"
-    },
-    {
-      "id": "5d76c6013378b65a",
-      "title": "FERC\u2019s Interconnection Fix has a Blind Spot: Grid Communications",
-      "link": "https://www.rtoinsider.com/137305-ferc-interconnection-fix-has-a-blind-spot-grid-communications/",
-      "summary": "Order 2023 created a deadline for the industry. It failed to give transmission providers the data they need to meet it, Everardo Camacho contends.\nThe post FERC\u2019s Interconnection Fix has a Blind Spot: Grid Communications appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-26T17:30:29+00:00"
-    },
-    {
-      "id": "1eb9e088a89d07b3",
-      "title": "Ariz. Commissioner Nick Myers Defeated in Tight Primary Race",
-      "link": "https://www.rtoinsider.com/137470-arizona-commissioner-nick-myers-defeated-in-tight-primary-race/",
-      "summary": "Arizona Corporation Commission member Nick Myers lost his bid for a second term in the state\u2019s primary election to a fellow Republican who may be more amenable to keeping coal plants open.\nThe post Ariz. Commissioner Nick Myers Defeated in Tight Primary Race appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-26T17:06:31+00:00"
-    },
-    {
-      "id": "45c65bfc42367f32",
-      "title": "CAISO Tees Up Changes to RA Incentive Program",
-      "link": "https://www.rtoinsider.com/137135-caiso-tees-up-changes-ra-incentive-program-availability/",
-      "summary": "CAISO proposed revisions to its monthly Resource Adequacy Availability Incentive Mechanism structure to include a more targeted, event-based availability process.\nThe post CAISO Tees Up Changes to RA Incentive Program appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-26T16:53:46+00:00"
-    },
-    {
-      "id": "fe724b5ef8b1ade3",
-      "title": "MISO to Abolish Most Tx Charges for Charging Storage",
-      "link": "https://www.rtoinsider.com/137384-miso-to-abolish-most-tx-charges-charging-storage/",
-      "summary": "After an apparent change of heart, MISO said it would lift its longstanding transmission use charges on most energy storage resources\u2019 charging from the grid.\nThe post MISO to Abolish Most Tx Charges for Charging Storage appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-26T16:36:57+00:00"
-    },
-    {
-      "id": "3dbb722d88889a18",
-      "title": "NextEra Touts New Capacity to Meet Expected Demand Growth",
-      "link": "https://www.rtoinsider.com/137402-nextera-touts-new-capacity-meet-expected-demand-growth/",
-      "summary": "NextEra Energy is reporting solid second-quarter financials and planning new capacity to meet expected new demand.\nThe post NextEra Touts New Capacity to Meet Expected Demand Growth appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-26T15:53:48+00:00"
-    },
-    {
-      "id": "63b9e97954a7be63",
-      "title": "Rethinking redundancy: smarter strategies for the AI-driven data center",
-      "link": "https://www.datacenterdynamics.com/en/opinions/rethinking-redundancy-smarter-strategies-for-the-ai-driven-data-center/",
-      "summary": "Thinking harder about cooling, power, and server-level redundancy",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-26T13:00:00+00:00"
     }
   ]
 }
