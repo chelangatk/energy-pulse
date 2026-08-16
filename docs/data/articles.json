@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T22:17:37.203261+00:00",
-  "count": 398,
+  "generated_at": "2026-08-16T12:35:39.780136+00:00",
+  "count": 399,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-15T22:17:34.396615+00:00"
+      "published": "2026-08-16T12:35:36.795692+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-15T22:17:34.396601+00:00"
+      "published": "2026-08-16T12:35:36.795678+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-15T22:17:34.396583+00:00"
+      "published": "2026-08-16T12:35:36.795661+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-15T22:17:34.396553+00:00"
+      "published": "2026-08-16T12:35:36.795625+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-15T22:17:31.950128+00:00"
+      "published": "2026-08-16T12:35:30.736036+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,17 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-15T22:17:30.837766+00:00"
+      "published": "2026-08-16T12:35:30.092733+00:00"
+    },
+    {
+      "id": "d4fb413a9c72143e",
+      "title": "When AI hoards flash: the storage playbook that protects budget and performance in turbulent times",
+      "link": "https://www.datacenterdynamics.com/en/opinions/when-ai-hoards-flash-the-storage-playbook-that-protects-budget-and-performance-in-turbulent-times/",
+      "summary": "Storage for the future",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-16T10:00:33+00:00"
     },
     {
       "id": "02b1379583d11085",
