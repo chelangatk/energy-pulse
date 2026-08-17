@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T12:40:10.026842+00:00",
-  "count": 399,
+  "generated_at": "2026-08-17T22:20:45.088208+00:00",
+  "count": 416,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-17T12:40:07.333287+00:00"
+      "published": "2026-08-17T22:20:40.808910+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-17T12:40:07.333274+00:00"
+      "published": "2026-08-17T22:20:40.808896+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-17T12:40:07.333257+00:00"
+      "published": "2026-08-17T22:20:40.808878+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-17T12:40:07.333227+00:00"
+      "published": "2026-08-17T22:20:40.808850+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-17T12:40:05.338352+00:00"
+      "published": "2026-08-17T22:20:39.001023+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,227 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-17T12:40:04.247014+00:00"
+      "published": "2026-08-17T22:20:38.047342+00:00"
+    },
+    {
+      "id": "9177fd00d77a71a6",
+      "title": "Energy Dominance Requires Commitments That Last",
+      "link": "https://www.powermag.com/energy-dominance-requires-commitments-that-last/",
+      "summary": "The Trump administration\u2019s decision to unwind offshore wind leases through negotiated buybacks has predictably reignited the debate over renewable energy. Many welcome the move as a correction to policies that heavily favored offshore wind during the previous administration. That debate is perfectly legitimate. However, the recent\u00a0agreements\u00a0involving TotalEnergies, Bluepoint Wind, Golden State Wi",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T20:45:59+00:00"
+    },
+    {
+      "id": "eb63a09b9ec791f3",
+      "title": "Blue Origin starts buildout of Quartz ground station network with partner RBC Signals",
+      "link": "https://www.datacenterdynamics.com/en/news/blue-origin-starts-buildout-of-quartz-ground-station-network-with-partner-rbc-signals/",
+      "summary": "Rollout of mission-critical Quartz offering appears to cover unaddressed market share across government and defense",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T16:30:25+00:00"
+    },
+    {
+      "id": "fb0724efbe088648",
+      "title": "EchoStar's Charlie Ergen to acquire controlling stake in MVNO MobileX - report",
+      "link": "https://www.datacenterdynamics.com/en/news/echostars-charlie-ergen-to-acquire-controlling-stake-in-mvno-mobilex-report/",
+      "summary": "What does this mean for Boost Mobile and MobileX?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T16:10:00+00:00"
+    },
+    {
+      "id": "3d2f182ed035b150",
+      "title": "WhiteFiber acquires two sites in North Carolina, plans data center developments",
+      "link": "https://www.datacenterdynamics.com/en/news/whitefiber-acquires-two-sites-in-north-carolina-plans-data-center-developments/",
+      "summary": "Bit Digital-backed firm buys more industrial assets from Unifi",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T16:07:27+00:00"
+    },
+    {
+      "id": "e28ffb995d761bd8",
+      "title": "Enterprise quantum spend surpassed combined academic and gov\u2019t investments in 2025, Boston Consulting Group reports",
+      "link": "https://www.datacenterdynamics.com/en/news/enterprise-quantum-spend-surpassed-combined-academic-and-govt-investments-in-2025-boston-consulting-group-reports/",
+      "summary": "Findings based on responses from more than 200 companies",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T16:00:42+00:00"
+    },
+    {
+      "id": "99cbc2265cc72572",
+      "title": "TV station sues data center firm over fears it could lose access to 70 years of archive footage",
+      "link": "https://www.datacenterdynamics.com/en/news/tv-station-sues-data-center-firm-over-fears-it-could-lose-access-to-70-years-of-archive-footage/",
+      "summary": "Iron Mountain dragged into dispute between broadcaster and its cloud provider",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T15:52:00+00:00"
+    },
+    {
+      "id": "256e458bc01d73d9",
+      "title": "Potentia plans 450-acre behind-the-meter site in Bowie County, Texas, for potential data center",
+      "link": "https://www.datacenterdynamics.com/en/news/potentia-plans-450-acre-behind-the-meter-site-in-bowie-county-texas-for-potential-data-center/",
+      "summary": "Seeking anchor offtaker for site",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T15:51:19+00:00"
+    },
+    {
+      "id": "b12c992ec3b8e07e",
+      "title": "Is moving inland the only way to address data center energy demands?",
+      "link": "https://www.datacenterdynamics.com/en/opinions/is-moving-inland-the-only-way-to-address-data-center-energy-demands/",
+      "summary": "Why the data center industry is moving away from just Northern Virginia",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T15:39:35+00:00"
+    },
+    {
+      "id": "580ace3c9649f2a5",
+      "title": "Axe Compute and Duos Technologies sign 55MW capacity agreement",
+      "link": "https://www.datacenterdynamics.com/en/news/axe-compute-and-duos-technologies-sign-55mw-capacity-agreement/",
+      "summary": "Will cover multiple US locations",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T15:21:09+00:00"
+    },
+    {
+      "id": "a6b02e3a15894a00",
+      "title": "Canada's Kahnaw\u00e0:ke council set out plans to demolish abandoned cell tower",
+      "link": "https://www.datacenterdynamics.com/en/news/canadas-kahnaw%C3%A0ke-council-set-out-plans-to-demolish-abandoned-cell-tower/",
+      "summary": "The cell tower sits at on a parcel of land in St-R\u00e9mi",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T15:00:35+00:00"
+    },
+    {
+      "id": "405b4dc1266b5a6d",
+      "title": "Colorado has provided the blueprint for integrating community power",
+      "link": "https://www.utilitydive.com/news/colorado-has-provided-the-blueprint-for-integrating-community-power/826175/",
+      "summary": "The state is \u201ctapping private investment and competitive market forces to deliver new grid capacity years faster and at a lower cost to customers than utility-owned infrastructure alone,\u201d writes Common Charge Executive Director\u00a0Mary Rafferty.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T15:00:00+00:00"
+    },
+    {
+      "id": "9a8ba0101e86928e",
+      "title": "Sponsored: The modernization imperative for data center resiliency: Riding the heatwaves",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-modernization-imperative-for-data-center-resiliency-riding-the-heatwaves/",
+      "summary": "As rising temperatures and high-density AI workloads place increasing pressure on critical infrastructure, modernizing cooling systems are becoming essential for maintaining uptime, efficiency, and resilience",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T15:00:00+00:00"
+    },
+    {
+      "id": "7d0a99e17c91bdd4",
+      "title": "Data centers transform communities",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/data-centers-transform-communities/",
+      "summary": "Proactive community engagement strategies for data center developers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T14:59:04+00:00"
+    },
+    {
+      "id": "923701652d5b328a",
+      "title": "Google rumored to have partnered with AMD on TPU v10, as shipments of current generations revised down - report",
+      "link": "https://www.datacenterdynamics.com/en/news/google-rumored-to-have-partnered-with-amd-on-tpu-v10-as-shipments-of-current-generations-revised-down-report/",
+      "summary": "Details disclosed in a report from research firm SemiAnalysis",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T14:40:27+00:00"
+    },
+    {
+      "id": "1f5bde13aa5ed45c",
+      "title": "Sponsored: Riding the heatwaves: The modernization imperative for data center resiliency",
+      "link": "https://www.datacenterdynamics.com/en/opinions/riding-the-heatwaves-the-modernization-imperative-for-data-center-resiliency/",
+      "summary": "As rising temperatures and high-density AI workloads place increasing pressure on critical infrastructure, modernizing your cooling system is now essential for maintaining uptime, efficiency, and resilience",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T14:35:00+00:00"
+    },
+    {
+      "id": "9ca3deae72cea951",
+      "title": "Akamai secures $600m cloud computing contract",
+      "link": "https://www.datacenterdynamics.com/en/news/akamai-secures-600m-cloud-computing-contract/",
+      "summary": "While Buzz HPC scores $350m agreement spread over five years",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T14:20:37+00:00"
+    },
+    {
+      "id": "8bfe8154b9652e32",
+      "title": "Thylander breaks ground on Danish data center in Esbjerg",
+      "link": "https://www.datacenterdynamics.com/en/news/thylander-breaks-ground-on-danish-data-center-in-esbjerg/",
+      "summary": "Grid-reactive facility to offer waste heat to local utility",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T14:10:27+00:00"
+    },
+    {
+      "id": "51659cbe1cb456e0",
+      "title": "Nvidia confirms it will back 4.25GW of OpenAI capacity at Ports-Pike mega data center",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-confirms-it-will-back-425gw-of-openai-capacity-at-ports-pike-mega-data-center/",
+      "summary": "SB Energy facility will exclusively use Nvidia compute and networking",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T14:06:00+00:00"
+    },
+    {
+      "id": "e4b77fdac4be7a74",
+      "title": "Quant trading firm IMC signs expanded cloud contract with CoreWeave",
+      "link": "https://www.datacenterdynamics.com/en/news/quant-trading-firm-imc-signs-expanded-cloud-contract-with-coreweave/",
+      "summary": "Trader will use the neocloud's platform to research trading strategies",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T14:00:26+00:00"
+    },
+    {
+      "id": "89ea22c637222221",
+      "title": "FERC approves MISO cost recovery plan for transmission projects built in PJM",
+      "link": "https://www.utilitydive.com/news/ferc-miso-pjm-cost-recovery-transmission-projects/828002/",
+      "summary": "In its decision affecting Exelon and Duke Energy utilities, the Federal Energy Regulatory Commission rejected calls to require the planned projects to go through a bidding process.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T13:54:55+00:00"
+    },
+    {
+      "id": "6ee939b06834b311",
+      "title": "New South Wales to require new data centers run 40% on wind energy under new framework",
+      "link": "https://www.datacenterdynamics.com/en/news/new-south-wales-to-require-new-data-centers-run-40-on-wind-energy-under-new-framework/",
+      "summary": "Data centers that fail to meet the standards could see their projects rejected",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T13:53:26+00:00"
+    },
+    {
+      "id": "6b8c217bbf9f16ea",
+      "title": "Data center proposals withdrawn in Raleigh, North Carolina",
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-proposals-withdrawn-in-raleigh-north-carolina/",
+      "summary": "Plans for 100,000 sq ft development withdrawn",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-17T13:39:24+00:00"
     },
     {
       "id": "aa571ecb437c546a",
@@ -169,6 +389,16 @@
       "summary": "Another summer of evacuation orders and smoke-filled skies across the country as hundreds of wildfires are burning. Technology is helping to mitigate grid impacts.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "id": "3b9e02c92f95a74d",
+      "title": "Waterborne shipments from the U.S. Gulf Coast increased in April and May",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67964",
+      "summary": "Waterborne shipments of crude oil and petroleum products from the U.S. Gulf Coast (PADD 3) to the West Coast (PADD 5) more than quadrupled year-on-year in April and May following a waiver that permitted a broader group of ships to travel between U.S. ports. Shipments from the U.S. Gulf Coast to the East Coast (PADD 1) also increased.",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
       "region": "National",
       "published": "2026-08-17T09:00:00+00:00"
     },
@@ -3931,66 +4161,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-28T07:30:00+00:00"
-    },
-    {
-      "id": "27911d431ff6410e",
-      "title": "Hong Kong's SmarTone to terminate 3G services from October",
-      "link": "https://www.datacenterdynamics.com/en/news/hong-kongs-smartone-to-terminate-3g-services-from-october/",
-      "summary": "Only around one percent of SmarTone's customers use 3G as of last month",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-27T14:22:42+00:00"
-    },
-    {
-      "id": "91a1e4957e79af15",
-      "title": "Efficiency first infrastructure",
-      "link": "https://www.datacenterdynamics.com/en/opinions/efficiency-first-infrastructure/",
-      "summary": "Aligning sustainability with performance",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-27T14:00:28+00:00"
-    },
-    {
-      "id": "052aaefd1b65e8a1",
-      "title": "Vodafone Spain seeks to replace Vantage Towers with Cellnex, American Tower agreements",
-      "link": "https://www.datacenterdynamics.com/en/news/vodafone-spain-reorganizes-its-tower-infrastructure-and-strengthens-its-agreements-with-cellnex-and-american-tower/",
-      "summary": "As the telco looks to reduce its reliance on Vantage Towers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-27T13:47:44+00:00"
-    },
-    {
-      "id": "97b54b93162f5452",
-      "title": "Loudoun County considering moratorium on new data center applications, rejects 3.25 million sq ft campus",
-      "link": "https://www.datacenterdynamics.com/en/news/loudoun-county-considering-moratorium-on-new-data-center-applications-rejects-325-million-sq-ft-campus/",
-      "summary": "Trouble in data center paradise",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-27T13:01:04+00:00"
-    },
-    {
-      "id": "62cae9a1b3921ecb",
-      "title": "Asperitas develops wall-mounted immersion tank for Edge use cases",
-      "link": "https://www.datacenterdynamics.com/en/news/asperitas-develops-wall-mounted-immersion-tank-for-edge-use-cases/",
-      "summary": "Company working with Cisco to immerse Unified Edge hardware as a way to protect servers from dust and damage",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-27T12:51:36+00:00"
-    },
-    {
-      "id": "7d9bb35fc0222c1d",
-      "title": "Vodafone confirms 1,200 jobs cuts in Europe during Q1, as revenue grows 9.7%",
-      "link": "https://www.datacenterdynamics.com/en/news/vodafone-confirms-1200-jobs-cuts-in-europe-during-q1-as-revenue-grows-97/",
-      "summary": "As UK revenue jumps 22 percent YoY for Q1",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-07-27T12:49:17+00:00"
     }
   ]
 }
