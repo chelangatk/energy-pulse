@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T22:20:45.088208+00:00",
-  "count": 416,
+  "generated_at": "2026-08-18T12:41:41.394940+00:00",
+  "count": 433,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-17T22:20:40.808910+00:00"
+      "published": "2026-08-18T12:41:37.841732+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-17T22:20:40.808896+00:00"
+      "published": "2026-08-18T12:41:37.841723+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-17T22:20:40.808878+00:00"
+      "published": "2026-08-18T12:41:37.841712+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-17T22:20:40.808850+00:00"
+      "published": "2026-08-18T12:41:37.841687+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-17T22:20:39.001023+00:00"
+      "published": "2026-08-18T12:41:35.782034+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,197 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-17T22:20:38.047342+00:00"
+      "published": "2026-08-18T12:41:34.808247+00:00"
+    },
+    {
+      "id": "ba5d3c0ae30bfd7f",
+      "title": "Sunrun to supply residential solar + storage capacity to Voltus for AI data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/sunrun-to-supply-residential-solar-storage-capacity-to-voltus-for-ai-data-centers/",
+      "summary": "Part of Voltus' Bring Your Own Capacity program",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T12:10:28+00:00"
+    },
+    {
+      "id": "439dc4e50d3de709",
+      "title": "Equinix signs 11.5MW vPPA with Flo Energy in Singapore",
+      "link": "https://www.datacenterdynamics.com/en/news/equinix-signs-115mw-vppa-with-flo-energy-in-singapore/",
+      "summary": "Supplied from industrial and commercial rooftop solar installations across the country",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T11:53:07+00:00"
+    },
+    {
+      "id": "c8f81e6fee6e9833",
+      "title": "Starlink goes live in Vietnam, signs launch contract with local satellite operator VinSpace",
+      "link": "https://www.datacenterdynamics.com/en/news/starlink-goes-live-in-vietnam-signs-launch-contract-with-local-satellite-operator-vinspace/",
+      "summary": "Commercial services are now available in Starlink's sixth Southeast Asian market",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T10:48:57+00:00"
+    },
+    {
+      "id": "73199ed2d41ec60e",
+      "title": "NextEra secures $3.3bn in state funding for 10GW of new natural gas generation to meet growing data center power needs",
+      "link": "https://www.datacenterdynamics.com/en/news/nextera-secures-33bn-in-state-funding-for-10gw-of-new-natural-gas-generation-to-meet-growing-data-center-power-needs/",
+      "summary": "Will support two projects in Texas and Pennsylvania",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T10:45:42+00:00"
+    },
+    {
+      "id": "7ed6fb4c73897499",
+      "title": "Cherokee Nation in the US bans data center development",
+      "link": "https://www.datacenterdynamics.com/en/news/cherokee-nation-in-the-us-bans-data-center-development/",
+      "summary": "Nation also releases report on data centers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T10:40:34+00:00"
+    },
+    {
+      "id": "2e0b316a84e95f25",
+      "title": "Groq raises $350m, with Nvidia participation \"planned\"",
+      "link": "https://www.datacenterdynamics.com/en/news/groq-raises-350m-with-nvidia-participation-planned/",
+      "summary": "Company value nearly halved following Nvidia license deal",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T10:36:51+00:00"
+    },
+    {
+      "id": "277ebb08fdaf71ed",
+      "title": "Core Scientific completes acquisition of Polaris DS",
+      "link": "https://www.datacenterdynamics.com/en/news/core-scientific-completes-acquisition-of-polaris-ds/",
+      "summary": "Will enable expansion of Muskogee campus to 1.5GW",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T10:29:03+00:00"
+    },
+    {
+      "id": "8da60f7d52d559c5",
+      "title": "Lockheed Martin taps Verizon, Nvidia to prepare drone detection service",
+      "link": "https://www.datacenterdynamics.com/en/news/lockheed-martin-taps-verizon-nvidia-to-prepare-drone-detection-service/",
+      "summary": "A host of other partners have worked to support the \"airspace as a network service\"",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T10:20:33+00:00"
+    },
+    {
+      "id": "69897c3d7de9a9e0",
+      "title": "The retrofitting roadmap: An evolution of liquid cooling",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/the-retrofitting-roadmap-an-evolution-of-liquid-cooling/",
+      "summary": "Assess when liquid cooling retrofits make strategic sense and how to evaluate, plan and execute upgrades across existing data center facilities.",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T09:37:19+00:00"
+    },
+    {
+      "id": "7cd84e0b1ed1dda8",
+      "title": "Geothermal has big potential. Here\u2019s how states can help realize it.",
+      "link": "https://www.canarymedia.com/articles/geothermal/geothermal-big-potential-states",
+      "summary": "Next-generation geothermal energy has massive potential in the western United States, but it won\u2019t be realized unless developers can overcome the big economic barriers these novel systems face.  Unlike traditional geothermal plants, next-gen projects use innovative underground techniques to produce power wherever\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T09:00:00+00:00"
+    },
+    {
+      "id": "e90185c6b0dccce9",
+      "title": "California gubernatorial candidate pledges two hours of free power a day",
+      "link": "https://www.canarymedia.com/articles/politics/california-becerra-pledges-free-power",
+      "summary": "California\u2019s Democratic candidate for governor, Xavier Becerra, is borrowing a page from Australia with a new plan to give state residents free electricity during certain parts of the day.  Last week, Becerra unveiled a proposal to offer up to two free hours of electricity per day, starting with low-income families.\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T07:30:00+00:00"
+    },
+    {
+      "id": "d78aa02e022bb899",
+      "title": "Major data center bills advance in California despite industry pushback",
+      "link": "https://www.canarymedia.com/articles/data-centers/major-data-center-bills-advance-california",
+      "summary": "California, with its sky-high electricity prices, isn\u2019t facing the same influx of data centers that many other states are. But the massive facilities are still being built and proposed in California \u2014 and legislators are racing to stop them from pushing up utility rates and pollution.  Two major data center bills\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T07:30:00+00:00"
+    },
+    {
+      "id": "61deef5f469b848d",
+      "title": "Sponsored: Countdown to Yotta 2026: Three days inside the engine of the AI boom",
+      "link": "https://www.datacenterdynamics.com/en/product-news/countdown-to-yotta-2026-three-days-inside-the-engine-of-the-ai-boom/",
+      "summary": "From mini-summits to the Innovate Arena, the iMasons Awards and a Brooklyn Bowl takeover, here\u2019s what\u2019s waiting in Las Vegas Sept. 28-30. Advance rates end Aug. 21",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T07:00:00+00:00"
+    },
+    {
+      "id": "4a537dc45c0830d7",
+      "title": "Sponsored: An ecosystem for scale",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/an-ecosystem-for-scale/",
+      "summary": "Portfolio planning and the strategic decisions behind AI infrastructure operations",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T07:00:00+00:00"
+    },
+    {
+      "id": "be0a813a155bcc68",
+      "title": "Georgia PSC Extends Review of Hyperscale Data Center Contract",
+      "link": "https://www.rtoinsider.com/139454-georgia-psc-extends-review-hyperscale-data-center-contract/",
+      "summary": "A mammoth Georgia Power data center contract with OpenAI is facing heightened scrutiny from the state\u2019s Public Service Commission amid questions over the 3.2-GW project\u2019s long-term repercussions for other ratepayers.\nThe post Georgia PSC Extends Review of Hyperscale Data Center Contract appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T00:48:32+00:00"
+    },
+    {
+      "id": "02e3f9e4a6989467",
+      "title": "ROWE Should Keep \u2018Robust\u2019 CAISO Market Functions, Pathways Says",
+      "link": "https://www.rtoinsider.com/139233-rowe-should-keep-robust-caiso-market-functions-pathways-says/",
+      "summary": "Representatives of the West-Wide Governance Pathways Initiative are recommending that the board of the Regional Organization for Western Energy keep in place CAISO\u2019s market monitoring functions while ensuring there is a robust data-sharing framework after the ROWE assumes governance over the ISO\u2019s energy markets.\nThe post ROWE Should Keep \u2018Robust\u2019 CAISO Market Functions, Pathways Says appeared fir",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T00:01:30+00:00"
+    },
+    {
+      "id": "f226a71207972ac1",
+      "title": "N.J. Lists Priorities for Changes to PJM Markets",
+      "link": "https://www.rtoinsider.com/139452-new-jersey-bpu-urges-pjm-market-reforms/",
+      "summary": "The New Jersey Board of Public Utilities has issued a report suggesting changes to the rules of the PJM capacity market to address the high cost of electricity in the state.\nThe post N.J. Lists Priorities for Changes to PJM Markets appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T23:36:11+00:00"
+    },
+    {
+      "id": "f1aeb10bef6ac03a",
+      "title": "Alberta Market Surveillance Administrator Briefs",
+      "link": "https://www.rtoinsider.com/139460-alberta-market-surveillance-administrator-briefs/",
+      "summary": "Alberta\u2019s second-quarter average pool price fell 27% year over year and 8% from the preceding quarter to $29.47/MWh, according to the Market Surveillance Administrator\u2019s Wholesale Market Report.\nThe post Alberta Market Surveillance Administrator Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T23:33:55+00:00"
+    },
+    {
+      "id": "bce4a70ee94926bf",
+      "title": "Mesa Power Solutions Expands With $70 Million Wyoming Manufacturing Campus",
+      "link": "https://www.powermag.com/mesa-power-solutions-expands-with-70-million-wyoming-manufacturing-campus/",
+      "summary": "Mesa Power Solutions has opened a new $70 million manufacturing and administrative campus in Evansville, Wyoming, consolidating 300 employees and expanding the company\u2019s capacity to produce natural gas power generation equipment for utilities, data centers, and other commercial and industrial customers. The 220,000-square-foot facility at One Mesa Way (Figure 1) will serve as a hub [\u2026]\nThe post Me",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T22:33:24+00:00"
     },
     {
       "id": "9177fd00d77a71a6",
@@ -4141,26 +4331,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-29T07:30:00+00:00"
-    },
-    {
-      "id": "ec7f99dbcf0a4ad8",
-      "title": "Want a home battery on a budget? Consider a portable, DIY system.",
-      "link": "https://www.canarymedia.com/articles/batteries/home-battery-on-a-budget",
-      "summary": "Canary Media\u2019s  Electrified Life  column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and lives to clean electric power.  When the power goes out, a home battery can keep you going.  Energy storage, often paired with rooftop solar , has taken off in the U.S. in\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-28T07:30:00+00:00"
-    },
-    {
-      "id": "852a7aa2a1b9c6e4",
-      "title": "Solar-powered EV carshare pilot launches in Massachusetts",
-      "link": "https://www.canarymedia.com/articles/electric-vehicles/solar-powered-ev-carshare-massachusetts",
-      "summary": "Residents in four lower-income Massachusetts neighborhoods now have access to a new, low-cost option for running errands or getting to appointments: a shared, solar-powered electric vehicle.  The innovative pilot program, CommunityEV Carshare , launched Monday and offers eligible drivers discounted prices on hourly\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-28T07:30:00+00:00"
     }
   ]
 }
