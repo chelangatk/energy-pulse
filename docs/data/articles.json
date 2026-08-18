@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T12:41:41.394940+00:00",
-  "count": 433,
+  "generated_at": "2026-08-18T22:19:22.289082+00:00",
+  "count": 457,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-18T12:41:37.841732+00:00"
+      "published": "2026-08-18T22:19:19.152922+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-18T12:41:37.841723+00:00"
+      "published": "2026-08-18T22:19:19.152909+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-18T12:41:37.841712+00:00"
+      "published": "2026-08-18T22:19:19.152893+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-18T12:41:37.841687+00:00"
+      "published": "2026-08-18T22:19:19.152861+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-18T12:41:35.782034+00:00"
+      "published": "2026-08-18T22:19:16.763490+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,227 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-18T12:41:34.808247+00:00"
+      "published": "2026-08-18T22:19:15.608856+00:00"
+    },
+    {
+      "id": "442ad9e470f90dab",
+      "title": "FERC Greenlights MISO Assignment of Some Long-range Tx Projects to PJM TOs",
+      "link": "https://www.rtoinsider.com/139547-ferc-greenlights-miso-assignment-long-range-tx-projects-pjm-tos/",
+      "summary": "FERC ruled MISO can circumvent a competitive bidding process when it taps PJM transmission owners to build parts of its long-range transmission projects that cross into the neighboring RTO.\nThe post FERC Greenlights MISO Assignment of Some Long-range Tx Projects to PJM TOs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T21:43:18+00:00"
+    },
+    {
+      "id": "c32d5bdb3a8a411f",
+      "title": "MISO, SPP Find 1 Joint Study Project that Shows Promise",
+      "link": "https://www.rtoinsider.com/139450-miso-spp-ipsac-discuss-joint-system-study/",
+      "summary": "MISO and SPP staffs have asked stakeholders to provide feedback on their \u201cnear-final\u201d 2024-2025 Coordinated System Plan\u2019s Core and Core+ 500-kV portfolios.\nThe post MISO, SPP Find 1 Joint Study Project that Shows Promise appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T20:58:34+00:00"
+    },
+    {
+      "id": "a14c3666a66f5945",
+      "title": "Tencent Cloud plans cloud region in Malaysia",
+      "link": "https://www.datacenterdynamics.com/en/news/tencent-cloud-plans-cloud-region-in-malaysia/",
+      "summary": "Will offer three availability zones",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T16:50:20+00:00"
+    },
+    {
+      "id": "180922597222911d",
+      "title": "Contested 5-GW Ridgeline Gas, Solar, and Data-Center Complex in West Virginia Clears Site-Control Question",
+      "link": "https://www.powermag.com/contested-5-gw-ridgeline-gas-solar-and-data-center-complex-in-west-virginia-clears-site-control-question/",
+      "summary": "The West Virginia Department of Environmental Protection\u2019s (WVDEP) Division of Air Quality (DAQ) has determined that Purcellville, Virginia-based Fundamental Data satisfied the site-control requirements associated with its August 2025 air quality permit for the Ridgeline Facility\u2014a gas turbine power plant that Fundamental Data is planning as the first phase of a project intended to include [\u2026]\nThe",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T16:45:19+00:00"
+    },
+    {
+      "id": "404831355505c9b6",
+      "title": "Application filed for data center campus near QTS' site in Northumberland, UK",
+      "link": "https://www.datacenterdynamics.com/en/news/application-filed-for-data-center-campus-near-qts-site-in-northumberland-uk/",
+      "summary": "UK family office plans campus in Cambois on former GSK manufacturing site",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T16:30:25+00:00"
+    },
+    {
+      "id": "05538d54470b799d",
+      "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
+      "summary": "Will combine its ultracapacitor energy storage system with grid-forming power conversion",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T16:20:21+00:00"
+    },
+    {
+      "id": "2201440ad87ddca1",
+      "title": "Globalinx buys land in Virginia Beach to expand CLS campus",
+      "link": "https://www.datacenterdynamics.com/en/news/globalinx-buys-land-in-virginia-beach-to-expand-cls-campus/",
+      "summary": "As Virginia Beach officials look to bring in data center moratorium",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T16:19:36+00:00"
+    },
+    {
+      "id": "d9acc80c1dd2a9b1",
+      "title": "Northwest council proposes 11 GW of new generation, 5 GW storage by 2032",
+      "link": "https://www.utilitydive.com/news/northwest-council-proposes-11-gw-of-new-generation-5-gw-storage-by-2032/828171/",
+      "summary": "The Northwest Power and Conservation Council estimates the portfolio for its Ninth Power Plan would have a fixed cost of $2.3 billion in 2032.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T16:08:52+00:00"
+    },
+    {
+      "id": "629daaa6e421a779",
+      "title": "Nigerian gov't prepares to deploy 3,700 cell towers from October",
+      "link": "https://www.datacenterdynamics.com/en/news/nigerian-govt-prepares-to-deploy-3700-cell-towers-from-october/",
+      "summary": "Aims to improve connectivity for more than 20 million Nigerians",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T16:01:51+00:00"
+    },
+    {
+      "id": "208cfdd61bb0aa4f",
+      "title": "DataVita secures \u00a3300m debt facility to expand North Lanarkshire data center campus",
+      "link": "https://www.datacenterdynamics.com/en/news/datavita-secures-300m-debt-facility-to-expand-north-lanarkshire-data-center-campus/",
+      "summary": "Funds to fuel expansion of two buildings",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T15:57:58+00:00"
+    },
+    {
+      "id": "205ceddb00278698",
+      "title": "CBRE: Europe data center market to grow by nearly a quarter in 2026",
+      "link": "https://www.datacenterdynamics.com/en/news/cbre-europe-data-center-market-to-grow-by-nearly-a-quarter-in-2026/",
+      "summary": "Reaching 13GW of capacity by the end of the year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T15:53:58+00:00"
+    },
+    {
+      "id": "5195673ad8e97cbc",
+      "title": "Turkish real estate investment firm Koray GYO targets data centers, eyes developments in US",
+      "link": "https://www.datacenterdynamics.com/en/news/turkish-real-estate-investment-firm-koray-gyo-targets-data-centers-eyes-developments-in-us/",
+      "summary": "Company evaluating sites in Texas and Louisiana",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T15:50:28+00:00"
+    },
+    {
+      "id": "09cc77aacce9ac4e",
+      "title": "The Xcelerated Compute Show | New York 2026 - Post Event Report",
+      "link": "https://www.datacenterdynamics.com/en/dcd-downloads/txcsny-26-post-event-report/",
+      "summary": "Gain insights into the key statistics and attendee demographics from this year's event",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T15:47:00+00:00"
+    },
+    {
+      "id": "33aab8fc990a0018",
+      "title": "Sponsored: AI cooling is no longer a component problem",
+      "link": "https://www.datacenterdynamics.com/en/opinions/ai-cooling-is-no-longer-a-component-problem/",
+      "summary": "The question is no longer simply: \"Which cooling component performs best?\" It is: \"Which thermal architecture gives us the performance and headroom to support what comes next?\"",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "id": "42f78afe3b32b976",
+      "title": "Hyundai unifies vehicle V2X capabilities with AllDayEnergy entity",
+      "link": "https://www.utilitydive.com/news/hyundai-unifies-vehicle-v2x-capabilities-with-alldayenergy-entity/828129/",
+      "summary": "The global service signals a consistent energy management experience across Hyundai, Kia and Genesis EVs, and better use of bidirectional charging functionality.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T14:31:53+00:00"
+    },
+    {
+      "id": "c3124880251ab054",
+      "title": "CAISO\u2019s load-balancing EDAM math doesn\u2019t add up, says CPUC staff",
+      "link": "https://www.utilitydive.com/news/caiso-load-balancing-edam-cpuc-staff-powerex/828142/",
+      "summary": "The California Public Utilities Commission\u2019s Energy Division staff asked the California Independent System Operator to publish methodology explaining discrepancies in its public Extended Day-Ahead Market data.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T14:30:29+00:00"
+    },
+    {
+      "id": "6bb8601bb12524cb",
+      "title": "DayOne partners with Cortical Labs, NUS Medicine, for deployment of Singapore\u2019s first biological data center prototype",
+      "link": "https://www.datacenterdynamics.com/en/news/dayone-partners-with-cortical-labs-nus-medicine-for-deployment-of-singapores-first-biological-data-center-prototype/",
+      "summary": "Deployment consists of 20-unit CL1 biological computing system",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T14:19:51+00:00"
+    },
+    {
+      "id": "db4e74a32a37045a",
+      "title": "Beyond the home meter: How utilities can eliminate the EV \u2018renter\u2019s penalty\u2019",
+      "link": "https://www.utilitydive.com/news/beyond-home-meter-why-utilities-eliminate-ev-renters-penalty/825665/",
+      "summary": "Tying affordability measures to the customer rather than a home meter can ensure that predictable charging costs are available regardless of housing type, write experts at GRID Alternatives.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T14:18:26+00:00"
+    },
+    {
+      "id": "888de935fde72edd",
+      "title": "Helios looks to build data center on 860 hectares in Finnish Lapland",
+      "link": "https://www.datacenterdynamics.com/en/news/helios-looks-to-build-data-center-on-860-hectares-in-finnish-lapland/",
+      "summary": "Renewable company's third data center project",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T14:02:14+00:00"
+    },
+    {
+      "id": "de2dbf8b0b8dc7cc",
+      "title": "Alibaba Cloud launches third data center in South Korea",
+      "link": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-launches-third-data-center-in-south-korea/",
+      "summary": "Has been in the country since 2016",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T13:56:38+00:00"
+    },
+    {
+      "id": "dab76a3749a5b319",
+      "title": "ISO-NE to review \u2018asset condition\u2019 transmission projects under proposal filed at FERC",
+      "link": "https://www.utilitydive.com/news/iso-ne-asset-condition-transmission-projects-blumenthal-eversource-ferc/828124/",
+      "summary": "The class of projects, which are chosen and built by transmission owners, mainly to replace aging infrastructure, with limited oversight, have long been a source of complaint by New England states and ratepayer advocates.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T13:37:03+00:00"
+    },
+    {
+      "id": "fb93108db983284b",
+      "title": "Gramercy Networks unveils plans for low latency global financial backbone",
+      "link": "https://www.datacenterdynamics.com/en/news/gramercy-networks-unveils-plans-for-low-latency-global-financial-backbone/",
+      "summary": "Vendor targets trading firms with unified high-speed connectivity linking financial centers across three continents",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-18T13:00:36+00:00"
     },
     {
       "id": "ba5d3c0ae30bfd7f",
@@ -161,6 +381,36 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-18T09:00:00+00:00"
+    },
+    {
+      "id": "7da07a11863a6794",
+      "title": "State Briefs",
+      "link": "https://www.rtoinsider.com/27982-state-briefs/",
+      "summary": "News briefs from the states within the footprint of RTOs.\nThe post State Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T08:00:00+00:00"
+    },
+    {
+      "id": "f4d1ed8d3c2b0df7",
+      "title": "Federal Briefs",
+      "link": "https://www.rtoinsider.com/27981-federal-briefs/",
+      "summary": "News briefs on FERC and the federal agencies that impact RTOs.\nThe post Federal Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T08:00:00+00:00"
+    },
+    {
+      "id": "bf2d64a6386cebe6",
+      "title": "Company Briefs",
+      "link": "https://www.rtoinsider.com/27979-company-briefs/",
+      "summary": "News briefs on companies and firms doing business with RTOs.\nThe post Company Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T08:00:00+00:00"
     },
     {
       "id": "e90185c6b0dccce9",
@@ -413,6 +663,16 @@
       "published": "2026-08-17T14:20:37+00:00"
     },
     {
+      "id": "bff67d56ac22690a",
+      "title": "DOE cancels 3 national transmission corridors, citing \u2018Green New Scam\u2019",
+      "link": "https://www.utilitydive.com/news/doe-cancels-3-national-transmission-corridors-citing-green-new-scam/828012/",
+      "summary": "The agency previously said the projects would provide resource adequacy support to the PJM Interconnection, bolster transmission between the Southwest Power Pool and WestConnect regions, and address a lack of\u00a0high-voltage transmission in tribal areas.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T14:16:39+00:00"
+    },
+    {
       "id": "8bfe8154b9652e32",
       "title": "Thylander breaks ground on Danish data center in Esbjerg",
       "link": "https://www.datacenterdynamics.com/en/news/thylander-breaks-ground-on-danish-data-center-in-esbjerg/",
@@ -471,6 +731,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-17T13:39:24+00:00"
+    },
+    {
+      "id": "39619f0cf9758836",
+      "title": "2026 Q2 roundup: Utilities emphasize project execution and ratepayer protections",
+      "link": "https://www.utilitydive.com/news/2026-q2-roundup-utilities-emphasize-project-execution-ratepayer-protec/827997/",
+      "summary": "Executives tried to show they can secure the equipment needed to meet rising demand without shifting costs to existing customers as politicians take aim at data centers ahead of the midterm elections.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T13:30:52+00:00"
     },
     {
       "id": "aa571ecb437c546a",
@@ -2461,36 +2731,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-11T09:17:40+00:00"
-    },
-    {
-      "id": "7da07a11863a6794",
-      "title": "State Briefs",
-      "link": "https://www.rtoinsider.com/27982-state-briefs/",
-      "summary": "News briefs from the states within the footprint of RTOs.\nThe post State Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T08:00:00+00:00"
-    },
-    {
-      "id": "f4d1ed8d3c2b0df7",
-      "title": "Federal Briefs",
-      "link": "https://www.rtoinsider.com/27981-federal-briefs/",
-      "summary": "News briefs on FERC and the federal agencies that impact RTOs.\nThe post Federal Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T08:00:00+00:00"
-    },
-    {
-      "id": "bf2d64a6386cebe6",
-      "title": "Company Briefs",
-      "link": "https://www.rtoinsider.com/27979-company-briefs/",
-      "summary": "News briefs on companies and firms doing business with RTOs.\nThe post Company Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T08:00:00+00:00"
     },
     {
       "id": "f2b6fa42a73612c6",
