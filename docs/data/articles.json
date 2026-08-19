@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T22:19:22.289082+00:00",
-  "count": 457,
+  "generated_at": "2026-08-19T12:42:25.005965+00:00",
+  "count": 479,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-18T22:19:19.152922+00:00"
+      "published": "2026-08-19T12:42:21.823028+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-18T22:19:19.152909+00:00"
+      "published": "2026-08-19T12:42:21.823014+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-18T22:19:19.152893+00:00"
+      "published": "2026-08-19T12:42:21.822996+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-18T22:19:19.152861+00:00"
+      "published": "2026-08-19T12:42:21.822967+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-18T22:19:16.763490+00:00"
+      "published": "2026-08-19T12:42:19.729105+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,267 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-18T22:19:15.608856+00:00"
+      "published": "2026-08-19T12:42:18.821074+00:00"
+    },
+    {
+      "id": "90414a8b2ba6d5a8",
+      "title": "Trane and Eaton tout integrated designs for AI data center power and cooling systems",
+      "link": "https://www.datacenterdynamics.com/en/news/trane-and-eaton-tout-integrated-designs-for-ai-data-center-power-and-cooling-systems/",
+      "summary": "Vendors promise big savings for digital infrastructure operators",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T12:30:34+00:00"
+    },
+    {
+      "id": "1c9e244ed6caccb8",
+      "title": "Inference chip startup Etched raises $700m, doubles valuation to $21bn",
+      "link": "https://www.datacenterdynamics.com/en/news/inference-chip-startup-etched-raises-700m-doubles-valuation-to-21bn/",
+      "summary": "Comes weeks after company announced $300m fundraise",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T12:16:33+00:00"
+    },
+    {
+      "id": "634c40d93ba7891c",
+      "title": "Australia's DXN to supply prefabricated modular data center to Melbourne Airport",
+      "link": "https://www.datacenterdynamics.com/en/news/australias-dxn-to-supply-prefabricated-modular-data-center-to-melbourne-airport/",
+      "summary": "Company wins another contract",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T12:00:56+00:00"
+    },
+    {
+      "id": "056574e44d5ad6ef",
+      "title": "AWS pledges $6bn investment in data center campus in Shreveport, Louisiana",
+      "link": "https://www.datacenterdynamics.com/en/news/aws-pledges-6bn-investment-in-data-center-campus-in-shreveport-louisiana/",
+      "summary": "Total data center investment in state now $18bn",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T11:57:30+00:00"
+    },
+    {
+      "id": "ef4876040d57c30b",
+      "title": "Case Study: How Google onboarded data center technicians to the highest industry standard",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/case-study-how-google-onboarded-data-center-technicians-to-the-highest-industry-standard/",
+      "summary": "Preparing their Netherlands-based technicians for rigorous hyperscale operations",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T11:52:50+00:00"
+    },
+    {
+      "id": "29fb50328f282dcc",
+      "title": "Colt DCS appoints Quy Nguyen as permanent CEO",
+      "link": "https://www.datacenterdynamics.com/en/news/colt-dcs-appoints-quy-nguyen-as-permanent-ceo/",
+      "summary": "Nguyen takes helm after retirement of Niclas Sanfridsson",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T11:50:36+00:00"
+    },
+    {
+      "id": "0bda750f963dbff0",
+      "title": "Plans for data center campus in Virginia\u2019s Prince William County refiled",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-campus-in-virginias-prince-william-county-refiled/",
+      "summary": "Opponents dub scheme \"a bad rash that won't go away\"",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T11:30:38+00:00"
+    },
+    {
+      "id": "bf54728918490147",
+      "title": "AirJoule, NZIH partner to trial waste heat-to-water tech in data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/airjoule-nzih-partner-to-trial-waste-heat-to-water-tech-in-data-centers/",
+      "summary": "Initiative forms part of the NZIH\u2019s broader work on heat reuse and heat-to-X solutions",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T11:20:49+00:00"
+    },
+    {
+      "id": "d528deab44db7309",
+      "title": "Centra appoints former CyrusOne exec as CEO",
+      "link": "https://www.datacenterdynamics.com/en/news/centra-appoints-former-cyrusone-exec-as-ceo/",
+      "summary": "Comes as company spearheads new changes",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T11:00:33+00:00"
+    },
+    {
+      "id": "5a614b57d2141a2e",
+      "title": "Sage Geosystems brings its first next-gen geothermal plant online",
+      "link": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-next-gen-geothermal-online",
+      "summary": "Sage Geosystems has hit a big milestone out on a rugged tract near San Antonio: The startup is producing power from its first next-generation geothermal plant. The system is just the third of its kind to come online in the U.S. as the sector races to commercialize the source of on-demand clean electricity.  The novel\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T11:00:00+00:00"
+    },
+    {
+      "id": "5be633de71e1216d",
+      "title": "Nokia to shutter Hangzhou R&D site as its long-awaited Chinese job cuts begin",
+      "link": "https://www.datacenterdynamics.com/en/news/nokia-to-shutter-hangzhou-rd-site-as-its-long-awaited-chinese-job-cuts-begin/",
+      "summary": "Vendor's Chinese market share has fallen to just three percent",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T10:53:48+00:00"
+    },
+    {
+      "id": "31ff37ef300c9542",
+      "title": "Hyperscaler signs 20-year lease for 50MW of Goodman's Tsukuba Tech Central data center",
+      "link": "https://www.datacenterdynamics.com/en/news/hyperscaler-signs-20-year-lease-for-50mw-of-goodmans-tsukuba-tech-central-data-center/",
+      "summary": "Goodman says facility will be RFS in early 2028",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T10:48:00+00:00"
+    },
+    {
+      "id": "6acdf7df4f9cc274",
+      "title": "Everpure secures contract from \"top five\" hyperscaler for its flash storage offering",
+      "link": "https://www.datacenterdynamics.com/en/news/everpure-secures-contract-from-top-five-hyperscaler-for-its-flash-storage-offering/",
+      "summary": "Company's second contract with a hyperscaler customer",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T10:46:37+00:00"
+    },
+    {
+      "id": "9a25e15b770a5117",
+      "title": "Low latency, high drama",
+      "link": "https://www.datacenterdynamics.com/en/analysis/low-latency-high-drama/",
+      "summary": "The backbone behind cloud gaming, according to Boosteroid\u2019s SVP of infrastructure",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T10:03:47+00:00"
+    },
+    {
+      "id": "af4736d107095bd3",
+      "title": "QTS signs 48MW solar PPA with Engie in Irving, Texas",
+      "link": "https://www.datacenterdynamics.com/en/news/qts-signs-48mw-solar-ppa-with-engie-in-irving-texas/",
+      "summary": "Will support QTS' operations in the region",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T09:30:00+00:00"
+    },
+    {
+      "id": "3f6aba682b723be2",
+      "title": "Sponsored: Castrol ON PG25 cooling fluids validated for NVIDIA AI factory and data center infrastructure",
+      "link": "https://www.datacenterdynamics.com/en/product-news/castrol-on-pg25-cooling-fluids-validated-for-nvidia-ai-factory-and-data-center-infrastructure/",
+      "summary": "The validation involved a review of the products\u2019 technical performance and material compatibility, alongside Castrol\u2019s business and global supply-chain resilience, strengthening Castrol\u2019s position in liquid cooling",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T09:00:00+00:00"
+    },
+    {
+      "id": "f20c71a4b7b1b1cd",
+      "title": "How Qcells\u2019 Georgia factory is surviving US solar policy whiplash",
+      "link": "https://www.canarymedia.com/articles/clean-energy-manufacturing/qcells-georgia-factory-solar-policy-whiplash",
+      "summary": "This story was originally published by Grist . Sign up for Grist's weekly newsletter here.     Inside the vast Qcells factory in Cartersville, Georgia, workers \u2014 and a bevy of robots \u2014 move ultrathin slices of polysilicon through a lengthy series of machines and chemical baths to get what are known as cells.  \u201cThe\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T07:30:00+00:00"
+    },
+    {
+      "id": "bc9465a2e0520416",
+      "title": "PGE Says Holding Co. Would Boost Clean Energy Investments, Help Tackle Demand",
+      "link": "https://www.rtoinsider.com/139235-pge-holding-company-proposal-boost-investments/",
+      "summary": "Portland General Electric says creating a holding company would help the utility compete for capital and tackle increasing energy demand in the Pacific Northwest, but skeptics say the proposal could end up benefitting shareholders to the detriment of customers.\nThe post PGE Says Holding Co. Would Boost Clean Energy Investments, Help Tackle Demand appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T01:08:02+00:00"
+    },
+    {
+      "id": "a83b646369fdd53e",
+      "title": "NERC to Limit 2027 Assessment Increase",
+      "link": "https://www.rtoinsider.com/139564-nerc-to-limit-2027-assessment-increase/",
+      "summary": "NERC's trustees agreed to update the organization's 2027 budget, using the assessment stabilization reserve to reduce the financial burden on registered entities.\nThe post NERC to Limit 2027 Assessment Increase appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T00:35:40+00:00"
+    },
+    {
+      "id": "60a32536d05650da",
+      "title": "Ontario Market Monitor Reviews 1st Year of Locational Pricing",
+      "link": "https://www.rtoinsider.com/139590-ontario-market-monitor-reviews-first-year-locational-pricing/",
+      "summary": "Ontario\u2019s renewed electricity market has been active for more than a year, and a new analysis from the Ontario Energy Board\u2019s Market Surveillance Panel says that locational pricing has made regional congestion more transparent.\nThe post Ontario Market Monitor Reviews 1st Year of Locational Pricing appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T00:26:34+00:00"
+    },
+    {
+      "id": "06b8f15637855dc3",
+      "title": "Report: Calif. Should Simplify Programs to Tap More Flexible Load",
+      "link": "https://www.rtoinsider.com/139582-gridlab-california-flexible-load-demand-report/",
+      "summary": "A new GridLab report urges California electricity policymakers to \u201cconsolidate\u201d and \u201cstandardize\u201d the state\u2019s myriad flexible load programs.\nThe post Report: Calif. Should Simplify Programs to Tap More Flexible Load appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T00:10:02+00:00"
+    },
+    {
+      "id": "7db88db8fb5befee",
+      "title": "ISO-NE Outlines Proposed Treatment of Large Loads",
+      "link": "https://www.rtoinsider.com/139594-iso-ne-outlines-proposed-treatment-large-loads/",
+      "summary": "ISO-NE outlined to NEPOOL members its proposed response to FERC\u2019s show-cause order on large loads , expanding upon its proposal to require new large loads to bring their own new generation.\nThe post ISO-NE Outlines Proposed Treatment of Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T00:06:31+00:00"
+    },
+    {
+      "id": "c76ee39bfe4d3fc0",
+      "title": "N.Y. Moves to Improve Distributed Energy Interconnection",
+      "link": "https://www.rtoinsider.com/139587-new-york-orders-tariff-changes-distributed-energy-interconnection/",
+      "summary": "The Public Service Commission rejected many of the changes requested by an industry group, including a cap on developers\u2019 interconnection cost responsibility in excess of utility cost estimates.\nThe post N.Y. Moves to Improve Distributed Energy Interconnection appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T23:32:22+00:00"
+    },
+    {
+      "id": "a9059523c8f39a93",
+      "title": "CEC Praises Tesla for \u2018Huge\u2019 Semitruck Manufacturing Plans",
+      "link": "https://www.rtoinsider.com/139255-cec-praises-tesla-semitruck-plans/",
+      "summary": "The California Energy Commission had flattering things to say this week about Tesla and the company\u2019s plan to mass produce semi-trucks in the coming years.\nThe post CEC Praises Tesla for \u2018Huge\u2019 Semitruck Manufacturing Plans appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T23:14:21+00:00"
+    },
+    {
+      "id": "9926555b65e73d8f",
+      "title": "Oracle Drops Suit Against Wisconsin PSC over Financial Requirements",
+      "link": "https://www.rtoinsider.com/139566-oracle-drops-suit-against-wisconsin-psc-over-financial-requirements/",
+      "summary": "Tech firm Oracle has voluntarily dismissed its lawsuit against the Public Service Commission of Wisconsin, leaving strict financial safeguards intact on giant data center development.\nThe post Oracle Drops Suit Against Wisconsin PSC over Financial Requirements appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T22:58:04+00:00"
+    },
+    {
+      "id": "4e801ddde32a7339",
+      "title": "The New Economics of AI Infrastructure: Why Tax Strategy Is Now Part of Energy Strategy",
+      "link": "https://www.powermag.com/the-new-economics-of-ai-infrastructure-why-tax-strategy-is-now-part-of-energy-strategy/",
+      "summary": "The conversation around data center development has changed dramatically over the past few years. Earlier, when developers needed to evaluate a new facility, the questions were relatively straightforward. Is the market attractive? Can we secure the land? Can we obtain reliable power? Can we raise the necessary capital? All those questions still matter. But a [\u2026]\nThe post The New Economics of AI In",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-18T22:25:35+00:00"
     },
     {
       "id": "442ad9e470f90dab",
@@ -4531,46 +4791,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-29T20:30:00+00:00"
-    },
-    {
-      "id": "f3cb5a9eba175f6c",
-      "title": "Lower crude oil prices reduced U.S.-Canada energy trade value in 2025",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67904",
-      "summary": "The value of energy trade between the United States and Canada fell by 11% in 2025 to an estimated $137 billion, according to data from the U.S. Census Bureau. Energy trade value is the total value of energy imports and exports between two countries and is driven by commodity volumes and prices. Most of the U.S.-Canada trade value is U.S. energy imports from Canada\u2014$111 billion in 2025\u2014rather than",
-      "source": "EIA Today in Energy",
-      "category": "ISO/RTO",
-      "region": "National",
-      "published": "2026-07-29T09:00:00+00:00"
-    },
-    {
-      "id": "2078a2b0fbea8ab4",
-      "title": "The US clean energy boom will continue to 2030. Then things get hazy.",
-      "link": "https://www.canarymedia.com/articles/clean-energy/us-clean-energy-boom-rhodium",
-      "summary": "So, how\u2019s that clean energy transition going?  It\u2019s the essential inquiry that drives anyone reporting on climate solutions, and it got considerably more difficult to answer after President Donald Trump returned to the White House. He\u2019s done everything in his power (and some things that legally aren\u2019t ) to undercut\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-29T09:00:00+00:00"
-    },
-    {
-      "id": "cb4182e919969492",
-      "title": "EPA proposals to keep Indiana coal going would threaten drinking water",
-      "link": "https://www.canarymedia.com/articles/fossil-fuels/epa-indiana-coal-threaten-drinking-water",
-      "summary": "Indiana \u2014 a state with a long history of coal mining and coal-fired power \u2014 has started undergoing a clean energy transition in recent years. It was among the top three states for solar installation last year, and more than a dozen coal plants have closed since 2010.  But the state government\u2019s eager embrace of data\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-29T07:30:00+00:00"
-    },
-    {
-      "id": "48ccc4a869d9a80c",
-      "title": "The coal industry gave Trump a wish list. He\u2019s checking items off it.",
-      "link": "https://www.canarymedia.com/articles/fossil-fuels/coal-industry-trump-wish-list",
-      "summary": "The Trump administration seems to be doing all it can to give the coal industry everything it wants. Those efforts may not succeed, but they could keep the dying industry on life support, and soak U.S. citizens with the financial and environmental costs of doing so \u2014 unless legal challenges compel it to change\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-29T07:30:00+00:00"
     }
   ]
 }
