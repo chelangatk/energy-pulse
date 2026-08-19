@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T12:42:25.005965+00:00",
-  "count": 479,
+  "generated_at": "2026-08-19T22:21:06.457211+00:00",
+  "count": 503,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-19T12:42:21.823028+00:00"
+      "published": "2026-08-19T22:21:03.759893+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-19T12:42:21.823014+00:00"
+      "published": "2026-08-19T22:21:03.759878+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-19T12:42:21.822996+00:00"
+      "published": "2026-08-19T22:21:03.759857+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-19T12:42:21.822967+00:00"
+      "published": "2026-08-19T22:21:03.759809+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-19T12:42:19.729105+00:00"
+      "published": "2026-08-19T22:21:01.700073+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,257 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-19T12:42:18.821074+00:00"
+      "published": "2026-08-19T22:21:00.832112+00:00"
+    },
+    {
+      "id": "567089615a91262f",
+      "title": "In Michigan, LG opens one of America\u2019s biggest battery cell factories",
+      "link": "https://www.canarymedia.com/articles/batteries/michigan-lg-biggest-battery-cell-factory",
+      "summary": "LANSING, Mich. \u2014 The Trump administration has made clear its disdain for electric vehicles and clean energy. Yet at the grand opening of South Korea\u2013based LG Energy Solution\u2019s latest battery manufacturing facility, Interior Secretary Doug Burgum cheered the factory as a fulfillment of the president\u2019s agenda.  \u201cThat\u2019s\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T21:00:00+00:00"
+    },
+    {
+      "id": "abc300c6a485956f",
+      "title": "VPP value proposition expands to affordability, reliability and resilience",
+      "link": "https://www.utilitydive.com/news/vpp-value-proposition-expands-to-affordability-reliability-and-resilience/828293/",
+      "summary": "Robust compensation and metering, along with strong customer protections, are needed to drive participation in utility virtual power plants programs, according to experts.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T17:31:40+00:00"
+    },
+    {
+      "id": "0c476d648c967b91",
+      "title": "Plans for potential data center in Modesto, California, spark public outcry",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-for-potential-data-center-in-modesto-california-spark-public-outcry/",
+      "summary": "NorthPoint rumored to be developer of 45-acre old chemical plant site",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T16:30:36+00:00"
+    },
+    {
+      "id": "4fa91669dba6c9a2",
+      "title": "FBI puts out call for AI hardware procurement contracts",
+      "link": "https://www.datacenterdynamics.com/en/news/fbi-puts-out-call-for-ai-hardware-procurement-contracts/",
+      "summary": "Department seeks up to $88m in AI hardware",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T16:20:32+00:00"
+    },
+    {
+      "id": "9c35ee350f96ea1e",
+      "title": "Ukraine says Nvidia Jetson gear found in Russian S-71M missile",
+      "link": "https://www.datacenterdynamics.com/en/news/ukraine-says-nvidia-jetson-gear-found-in-russian-s-71m-missile/",
+      "summary": "Calls for stronger sanctions to stop tech reaching Russia",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T16:16:21+00:00"
+    },
+    {
+      "id": "883ed77ded4ec115",
+      "title": "Relativity Networks completes $22m raise, as hollow-core fiber provider secures $40m hyperscaler contract",
+      "link": "https://www.datacenterdynamics.com/en/news/relativity-networks-completes-22m-raise-as-hollow-core-fiber-provider-secures-40m-hyperscaler-contract/",
+      "summary": "Follows the company's recent manufacturing milestone with Prysmian",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T16:08:58+00:00"
+    },
+    {
+      "id": "251c6db2523a9e4d",
+      "title": "Google reveals it is behind 506-acre Project Clydesdale data center in Oklahoma",
+      "link": "https://www.datacenterdynamics.com/en/news/google-reveals-it-is-behind-506-acre-project-clydesdale-data-center-in-oklahoma/",
+      "summary": "Project will be located in Owasso",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T16:04:47+00:00"
+    },
+    {
+      "id": "8669fe3d6e230723",
+      "title": "Pennsylvania Governor signs executive order imposing strict requirements on data center developments",
+      "link": "https://www.datacenterdynamics.com/en/news/pennsylvania-governor-signs-executive-order-imposing-strict-requirements-on-data-center-developments/",
+      "summary": "Mandates that data center projects receive all required local approvals before permits are issued",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T16:04:28+00:00"
+    },
+    {
+      "id": "28e2d659d0b0a754",
+      "title": "Cerebras unveils CS-4 rack scale solution powered by four-trillion transistor WSE-3T chip",
+      "link": "https://www.datacenterdynamics.com/en/news/cerebras-unveils-cs-4-rack-scale-solution-powered-by-four-trillion-transistor-wse-3t-chip/",
+      "summary": "Chip company says CS-4 delivers 750 petaflops of AI compute",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T16:01:32+00:00"
+    },
+    {
+      "id": "0a32d1e6782245af",
+      "title": "Efficiency labels: a new era for data center performance in Europe",
+      "link": "https://www.datacenterdynamics.com/en/opinions/efficiency-labels-a-new-era-for-data-center-performance-in-europe/",
+      "summary": "Europe\u2019s data center industry is facing a pivotal moment.",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T16:00:33+00:00"
+    },
+    {
+      "id": "a32707609e514c02",
+      "title": "Liquid Death and Garage Beer use data center water usage fears to market drink with \"we want your pee\" campaign",
+      "link": "https://www.datacenterdynamics.com/en/news/liquid-death-and-garage-beer-use-data-center-water-usage-fears-to-market-drink-with-we-want-your-pee-campaign/",
+      "summary": "Former NFL star Jason Kelce sings about urinating on computers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T15:39:29+00:00"
+    },
+    {
+      "id": "9e3bafd3067fb37f",
+      "title": "Confessions of a risk matrix advocate",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/confessions-of-a-risk-matrix-advocate/",
+      "summary": "Risk mitigation for data center environments",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T15:34:28+00:00"
+    },
+    {
+      "id": "1c35073ccaa93ff1",
+      "title": "Home buyers want more information on energy usage. Utilities can help.",
+      "link": "https://www.utilitydive.com/news/home-buyers-want-more-information-on-energy-usage-utilities-can-help/827014/",
+      "summary": "By positioning themselves as trusted experts for both buyers and real estate agents, utilities can speed the adoption of efficient grid technologies, say residential energy experts.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T15:00:00+00:00"
+    },
+    {
+      "id": "5536a8defa93b261",
+      "title": "The Western energy market must shift as power flows evolve, say experts",
+      "link": "https://www.utilitydive.com/news/the-western-energy-market-must-shift-as-its-flows-evolve-say-experts/828263/",
+      "summary": "The WECC-1 RAS \u201cdoes not consider south-to-north flows, and frankly, it is something I'm worried about,\u201d said Bonneville Power Administration system dispatcher Chris Sanford during a Western\u00a0Market Seams workshop.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T14:56:51+00:00"
+    },
+    {
+      "id": "6dcbe0a9f1fb75f2",
+      "title": "Pennsylvania dangles permitting carrot for data centers that bring their own power",
+      "link": "https://www.utilitydive.com/news/pennsylvania-executive-order-data-centers/828261/",
+      "summary": "Under a new permitting framework for loads over 25 MW, applicants that commit to abide by the state\u2019s recently introduced infrastructure development standards for data centers will receive preferential treatment.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T14:56:21+00:00"
+    },
+    {
+      "id": "ab43253b6050e928",
+      "title": "Flexential establishes $800m credit facility, upsizing initial target by 60 percent",
+      "link": "https://www.datacenterdynamics.com/en/news/flexential-establishes-800m-credit-facility-upsizing-initial-target-by-60-percent/",
+      "summary": "Plans to expand capacity in key markets",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T14:31:00+00:00"
+    },
+    {
+      "id": "08bef7dab792e9bb",
+      "title": "Nebius seeks to raise $4.5bn in bond offering",
+      "link": "https://www.datacenterdynamics.com/en/news/nebius-seeks-to-raise-45bn-in-bond-offering/",
+      "summary": "Will be split into two series of senior notes",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T14:30:33+00:00"
+    },
+    {
+      "id": "6a1f486feae3c5fa",
+      "title": "eStruxture-occupied data center in Toronto, Canada, sold by landlord",
+      "link": "https://www.datacenterdynamics.com/en/news/estruxture-occupied-data-center-in-toronto-canada-sold-by-landlord/",
+      "summary": "Facility sells for CA$16.5 million, buyer unknown",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T14:10:42+00:00"
+    },
+    {
+      "id": "52f0c7a532f08a84",
+      "title": "Nigeria's Danfodiyo University data center damaged in storm",
+      "link": "https://www.datacenterdynamics.com/en/news/nigerias-danfodiyo-university-data-center-damaged-in-storm/",
+      "summary": "Equipment damaged and network services disrupted",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T13:54:52+00:00"
+    },
+    {
+      "id": "60388a6b8bb92736",
+      "title": "Pilot Fiber snaps up Extenet Systems\u2019 enterprise fiber business",
+      "link": "https://www.datacenterdynamics.com/en/news/pilot-fiber-snaps-up-extenet-systems-enterprise-fiber-business/",
+      "summary": "As company expands footprint into New Jersey",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T13:53:30+00:00"
+    },
+    {
+      "id": "4d420a2f06661fdf",
+      "title": "Rakuten Symphony and Viva sign MoU to modernize Bolivia's digital infrastructure",
+      "link": "https://www.datacenterdynamics.com/en/news/rakuten-and-viva-boost-digital-infrastructure-in-bolivia/",
+      "summary": "The MoU will evaluate technologies such as Open RAN",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T13:52:40+00:00"
+    },
+    {
+      "id": "012e3f52da167daf",
+      "title": "Plans filed for 10-story data center outside Brisbane, Australia",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-filed-for-10-story-data-center-outside-brisbane-australia/",
+      "summary": "Facility to be located close to BESS and substation",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T13:45:08+00:00"
+    },
+    {
+      "id": "22cdf648705ae906",
+      "title": "euNetworks sets out new sustainability-linked loan targets to drive development of lower-carbon network",
+      "link": "https://www.datacenterdynamics.com/en/news/eunetworks-sets-out-new-sustainability-linked-loan-targets-to-drive-development-of-lower-carbon-network/",
+      "summary": "Revised targets will complement existing ones, says the company",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T13:16:01+00:00"
+    },
+    {
+      "id": "309d4413316e2eb6",
+      "title": "Plans filed for 180MW data center development in East London, UK",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-filed-for-180mw-data-center-development-in-east-london-uk/",
+      "summary": "GLi targets former industrial site in Charlton",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T13:10:26+00:00"
+    },
+    {
+      "id": "b6694ef1a0466281",
+      "title": "UAE's Mubadala considers investing in 500MW Bitgrit & S2 data center in Akita, Japan",
+      "link": "https://www.datacenterdynamics.com/en/news/uaes-mubadala-considers-investing-in-500mw-bitgrit-s2-data-center-in-akita-japan/",
+      "summary": "Smaller 1.5MW deployment expected next year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T13:00:54+00:00"
     },
     {
       "id": "90414a8b2ba6d5a8",
@@ -219,6 +469,16 @@
       "summary": "The validation involved a review of the products\u2019 technical performance and material compatibility, alongside Castrol\u2019s business and global supply-chain resilience, strengthening Castrol\u2019s position in liquid cooling",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-19T09:00:00+00:00"
+    },
+    {
+      "id": "f9ecd86d524c2839",
+      "title": "Longer wells boost Permian crude oil and natural gas production",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67984",
+      "summary": "Well operators in the Permian region of western Texas and eastern New Mexico are getting more oil and gas out of the ground by drilling longer, horizontal wells and increasingly incorporating so-called super-lateral wells that exceed 15,000 feet.",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
       "region": "National",
       "published": "2026-08-19T09:00:00+00:00"
     },
@@ -4771,26 +5031,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-30T04:01:00+00:00"
-    },
-    {
-      "id": "f261389130c21efa",
-      "title": "Trump admin bans \u2018new\u2019 foreign-made inverters. What does that mean?",
-      "link": "https://www.canarymedia.com/articles/corporate-procurement/trump-admin-bans-new-foreign-inverters",
-      "summary": "Citing national security concerns, the Trump administration has banned the import and domestic use of new power inverters made outside the United States. The move could throw sand in the gears of gigawatts\u2019 worth of planned solar, wind, and battery installations \u2014 projects that make up the vast majority of new\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-29T21:00:00+00:00"
-    },
-    {
-      "id": "7b846fbf3c1969e9",
-      "title": "Biggest battery east of the Mississippi will help power AI complex",
-      "link": "https://www.canarymedia.com/articles/batteries/eolian-build-pjm-biggest-battery-ai-ohio",
-      "summary": "Just northeast of Columbus, Ohio, the leafy Main Street of New Albany gives way to lush green fields and agrarian ponds \u2014 but soon the countryside transitions into mile after mile of enormous white boxes that emit a low hum. This patch of former farmland has become one of the densest clusters of AI computing in the\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-29T20:30:00+00:00"
     }
   ]
 }
