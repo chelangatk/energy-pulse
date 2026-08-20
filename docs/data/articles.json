@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T22:21:06.457211+00:00",
-  "count": 503,
+  "generated_at": "2026-08-20T12:44:32.831867+00:00",
+  "count": 534,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-19T22:21:03.759893+00:00"
+      "published": "2026-08-20T12:44:30.338694+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-19T22:21:03.759878+00:00"
+      "published": "2026-08-20T12:44:30.338680+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-19T22:21:03.759857+00:00"
+      "published": "2026-08-20T12:44:30.338663+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-19T22:21:03.759809+00:00"
+      "published": "2026-08-20T12:44:30.338633+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-19T22:21:01.700073+00:00"
+      "published": "2026-08-20T12:44:28.133866+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,207 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-19T22:21:00.832112+00:00"
+      "published": "2026-08-20T12:44:26.830962+00:00"
+    },
+    {
+      "id": "49a50619b869c215",
+      "title": "The data center networking imperative",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/the-data-center-networking-imperative-2/",
+      "summary": "Key trends driving the next era of data centers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T12:02:01+00:00"
+    },
+    {
+      "id": "485d55b04262c7d8",
+      "title": "Keel decommissions all US cryptomining sites ahead of AI pivot",
+      "link": "https://www.datacenterdynamics.com/en/news/keel-decommissions-all-us-cryptomining-sites-ahead-of-ai-pivot/",
+      "summary": "All four US Bitcoin mining sites decommissioned",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T12:00:31+00:00"
+    },
+    {
+      "id": "683345343be1591c",
+      "title": "IBM successfully demonstrates connection and cooling of two cryogenic modules",
+      "link": "https://www.datacenterdynamics.com/en/news/ibm-successfully-demonstrates-connection-and-cooling-of-two-cryogenic-modules/",
+      "summary": "Company says demo is important milestone on its path to deploying first fault-tolerant quantum computer",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T11:58:51+00:00"
+    },
+    {
+      "id": "87b098aee3ee3561",
+      "title": "Eight MDA-integrated Globalstar HIBLEO-4 satellites orbited successfully",
+      "link": "https://www.datacenterdynamics.com/en/news/eight-mda-integrated-globalstar-hibleo-4-satellites-orbited-successfully/",
+      "summary": "Apple partner Globalstar expands fleet, intends further D2D expansions",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T11:41:55+00:00"
+    },
+    {
+      "id": "d350e1f0fce518be",
+      "title": "Bitdeer AI deploys Nvidia GB300 NVL72 cluster in Malaysia",
+      "link": "https://www.datacenterdynamics.com/en/news/bitdeer-ai-deploys-nvidia-gb300-nvl72-cluster-in-malaysia/",
+      "summary": "Around half of capacity from Malaysian data center has been contracted",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T10:47:21+00:00"
+    },
+    {
+      "id": "73aa19191274e1cf",
+      "title": "Bloom launches new deployment platform to expedite time-to-power for data center operators",
+      "link": "https://www.datacenterdynamics.com/en/news/bloom-launches-new-deployment-platform-to-expedite-time-to-power-for-data-center-operators/",
+      "summary": "Expected to reduce onsite power installation by more than 40 percent",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T10:40:37+00:00"
+    },
+    {
+      "id": "6fdb60035bd587f3",
+      "title": "I Squared Capital launches data center firm Saragon",
+      "link": "https://www.datacenterdynamics.com/en/news/i-squared-capital-launches-data-center-firm-saragon/",
+      "summary": "New company seeded with facilities acquired from Cogent",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T10:35:56+00:00"
+    },
+    {
+      "id": "3a6771be93a1ecfc",
+      "title": "Openreach plots XGS-PON full fiber expansion in UK",
+      "link": "https://www.datacenterdynamics.com/en/news/openreach-plots-xgs-pon-full-fiber-expansion-in-uk/",
+      "summary": "Claims that this will deliver speeds of up to 8.5Gbps",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T10:11:34+00:00"
+    },
+    {
+      "id": "825aa0dd16841d1e",
+      "title": "State-owned real estate group looking to develop data center in Johor, Malaysia",
+      "link": "https://www.datacenterdynamics.com/en/news/state-owned-real-estate-group-looking-to-develop-data-center-in-johor-malaysia/",
+      "summary": "Unclear whether data center will use 600MW or 1.2GW of capacity",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T10:00:01+00:00"
+    },
+    {
+      "id": "362627b32daa4a31",
+      "title": "Twenty markets account 60 percent of hyperscale data center capacity - Synergy",
+      "link": "https://www.datacenterdynamics.com/en/news/twenty-markets-account-60-percent-of-hyperscale-data-center-capacity-synergy/",
+      "summary": "Northern Virginia, US, and Beijing, China, hold the highest market share",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T09:58:30+00:00"
+    },
+    {
+      "id": "2bfc8521bd2922be",
+      "title": "Norwegian developer withdraws proposal to build 50MW data center in city of Oton, Philippines",
+      "link": "https://www.datacenterdynamics.com/en/news/norwegian-developer-withdraws-proposal-to-build-50mw-data-center-in-city-of-oton-philippines/",
+      "summary": "Tells journalists to \"just, fuck, go away\"",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T09:56:43+00:00"
+    },
+    {
+      "id": "b0d0c67f3c6b0df9",
+      "title": "Plans for five data centers in King of Prussia, Pennsylvania, blocked",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-for-five-data-centers-in-king-of-prussia-pennsylvania-blocked/",
+      "summary": "Developer intends to launch appeal",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T09:18:25+00:00"
+    },
+    {
+      "id": "e1fc5058661cad32",
+      "title": "Duke Energy deals double whammy to its poorest North Carolina customers",
+      "link": "https://www.canarymedia.com/articles/utilities/duke-energy-poorest-nc-customers",
+      "summary": "For the better part of the year, Duke Energy\u2019s bid to jack up electric rates in North Carolina has been hotly contested by politicians, consumer advocates, and the public at large. Under the utility\u2019s latest proposal before state regulators, the average Duke residential customer could pay about $10 more on their\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T07:30:00+00:00"
+    },
+    {
+      "id": "a80242b221f8c228",
+      "title": "US apartment buildings have tipped toward heat pumps",
+      "link": "https://www.canarymedia.com/articles/heat-pumps/most-new-apartment-buildings-have-heat-pumps",
+      "summary": "Heat pumps are a key way to get fossil fuels out of buildings \u2014 and the tech recently notched a win in the U.S. housing market.  2025 marked the first year that over half the apartment buildings constructed nationwide came equipped with the \u00fcberefficient electric appliances , according to U.S. Census Bureau data .\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T07:30:00+00:00"
+    },
+    {
+      "id": "d2e1ba9a82380202",
+      "title": "Sponsored: Connecting the dots of the thermal stack",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/connecting-the-dots-of-the-thermal-stack/",
+      "summary": "A complete data center cooling architecture for the AI era",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T07:00:00+00:00"
+    },
+    {
+      "id": "8649a0f321163fda",
+      "title": "NERC Committee Votes to Shutter Multiple Standards Projects",
+      "link": "https://www.rtoinsider.com/139862-nerc-standards-committee-votes-shutter-projects/",
+      "summary": "NERC's Standards Committee voted to end 12 low- and medium-priority standards projects at its monthly open meeting.\nThe post NERC Committee Votes to Shutter Multiple Standards Projects appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T00:52:37+00:00"
+    },
+    {
+      "id": "d9e2f9a974d49ee8",
+      "title": "Pennsylvania Pushback Against Data Centers Takes 2 New Tacks",
+      "link": "https://www.rtoinsider.com/139859-pennsylvania-pushback-against-data-centers/",
+      "summary": "Gov. Josh Shapiro signed an executive order directing the Department of Environmental Protection to review only permit applications from developers that have made a legally binding commitment to meet the Governor\u2019s Responsible Infrastructure Development requirements and have received local approval.\nThe post Pennsylvania Pushback Against Data Centers Takes 2 New Tacks appeared first on RTO Insider",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T00:39:13+00:00"
+    },
+    {
+      "id": "0aef25b3a4660742",
+      "title": "Traders Challenge IESO Plan to Restrict Import Guarantees",
+      "link": "https://www.rtoinsider.com/139876-traders-warn-ieso-import-guarantee-changes-could-harm-reliability/",
+      "summary": "IESO is proposing to end routine offer price protection for real-time imports, saying the change would reduce unwarranted payments by Ontario ratepayers, much to the dismay of energy traders.\nThe post Traders Challenge IESO Plan to Restrict Import Guarantees appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T00:16:18+00:00"
+    },
+    {
+      "id": "414682528db4ce60",
+      "title": "Canadian Clean Energy Deal Could Boost Exports to U.S.",
+      "link": "https://www.rtoinsider.com/139878-canadian-clean-energy-deal-boost-exports-us/",
+      "summary": "A new agreement between the Canadian federal government, Newfoundland and Labrador, and Qu\u00e9bec to invest about $70 billion in clean energy may provide a boost to Canada\u2019s net exports to New England and New York.\nThe post Canadian Clean Energy Deal Could Boost Exports to U.S. appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T23:18:12+00:00"
+    },
+    {
+      "id": "aa155afd5c809045",
+      "title": "AVEVA CEO: Sustainability Commitments Must Be Backed by Measurable Results",
+      "link": "https://www.powermag.com/aveva-ceo-sustainability-commitments-must-be-backed-by-measurable-results/",
+      "summary": "As artificial intelligence (AI)\u2013driven data center demand strains grid infrastructure across the U.S. and beyond, operators are facing rising scrutiny from utilities, regulators, and the communities where they build. Caspar Herzberg, CEO of industrial software company AVEVA, argues that the industry\u2019s response can\u2019t stop at sustainability commitments\u2014it requires operational transparency and measur",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T22:59:43+00:00"
     },
     {
       "id": "567089615a91262f",
@@ -1023,6 +1223,16 @@
       "published": "2026-08-17T22:33:24+00:00"
     },
     {
+      "id": "62c3ea82e95af80a",
+      "title": "Joseph Coffey",
+      "link": "https://www.tdworld.com/home/contact/55398640/joseph-coffey",
+      "summary": "",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T20:47:14+00:00"
+    },
+    {
       "id": "9177fd00d77a71a6",
       "title": "Energy Dominance Requires Commitments That Last",
       "link": "https://www.powermag.com/energy-dominance-requires-commitments-that-last/",
@@ -1031,6 +1241,36 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-17T20:45:59+00:00"
+    },
+    {
+      "id": "a3b378267bfb9677",
+      "title": "A New Class of Stakeholders on the Grid",
+      "link": "https://www.tdworld.com/utility-business/blog/55394497/a-new-class-of-stakeholders-on-the-grid",
+      "summary": "As electricity demand is projected to rise significantly by 2040, the physical and logistical challenges in expanding and modernizing the grid.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T20:35:21+00:00"
+    },
+    {
+      "id": "a641aa8525a33ad0",
+      "title": "Xcel Energy Breaks Ground on Minnesota Transmission, Generation Projects",
+      "link": "https://www.tdworld.com/overhead-transmission/news/55398612/xcel-energy-breaks-ground-on-minnesota-transmission-generation-projects",
+      "summary": "The Minnesota Energy Connection and Lyon County Generating Station aim to enhance renewable energy delivery and provide dependable power during peak demand, creating economic benefits and jobs in the region.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T20:01:15+00:00"
+    },
+    {
+      "id": "9fa2995a15bb1f7d",
+      "title": "States Get New Framework for Planning Around Large Load Growth",
+      "link": "https://www.tdworld.com/policy/news/55398600/states-get-new-framework-for-planning-around-large-load-growth",
+      "summary": "This new NCEP framework offers practical strategies for states to balance reliability, affordability, and economic growth by fostering early agency collaboration, centralized data sharing, and tailored policies for large electricity consumers.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T19:47:24+00:00"
     },
     {
       "id": "eb63a09b9ec791f3",
@@ -1061,6 +1301,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-17T16:07:27+00:00"
+    },
+    {
+      "id": "54be6680fb7bf9da",
+      "title": "How power utilities can build resilient mission-critical OT networks",
+      "link": "https://www.tdworld.com/sponsored/article/55398446/how-power-utilities-can-build-resilient-mission-critical-ot-networks",
+      "summary": "Exploring how OT networks underpin power grid reliability, and how modern IP/MPLS and optical WAN technologies help utilities overcome legacy infrastructure, cybersecurity, and latency challenges.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T16:05:00+00:00"
     },
     {
       "id": "e28ffb995d761bd8",
@@ -1111,6 +1361,26 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-17T15:21:09+00:00"
+    },
+    {
+      "id": "63f8c83c17cf8e96",
+      "title": "The Iberian Outage: A Unique and Perplexing Event",
+      "link": "https://www.tdworld.com/reliability-and-resiliency/article/55387488/the-iberian-outage-a-unique-and-perplexing-event",
+      "summary": "The final report on the April 28, 2025 Iberian Outage has dropped, and the answer to what caused this blackout is \u2014 it\u2019s complicated.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T15:09:15+00:00"
+    },
+    {
+      "id": "eb6650063e6c06f2",
+      "title": "Utility Business Notes: Duke Executives Quantify Data Center Capex Upside",
+      "link": "https://www.tdworld.com/utility-business/news/55398294/utility-business-notes-duke-executives-quantify-data-center-capex-upside",
+      "summary": "Also: Sempra CEO says Oncor\u2019s outlook has improved in recent months despite tighter Texas scrutiny of data centers. And Algonquin is preparing to move its HQ to Chicago.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-17T15:05:00+00:00"
     },
     {
       "id": "a6b02e3a15894a00",
@@ -1523,6 +1793,46 @@
       "published": "2026-08-15T13:00:33+00:00"
     },
     {
+      "id": "0c5a5c8fb601ac15",
+      "title": "Western Weather Group Showcases Advanced Monitoring Solutions at T&D World Live 2026",
+      "link": "https://www.tdworld.com/wildfire/news/55398293/western-weather-group-showcases-advanced-monitoring-solutions-at-td-world-live-2026",
+      "summary": "Western Weather Group (WWG) will demonstrate its weather sensors at T&D World Live 2026, emphasizing their role in wildfire management, storm preparedness, and grid reliability.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-14T21:05:07+00:00"
+    },
+    {
+      "id": "c1c7f7117c2d98d7",
+      "title": "T&D World Live: Early Fault Detection Technology",
+      "link": "https://www.tdworld.com/overhead-distribution/news/55398287/td-world-live-early-fault-detection-technology",
+      "summary": "EFD can identify a wide range of developing defects and abnormal conditions, including vegetation issues, broken conductor strands, tracking insulators, high-impedance faults, conductor clashing, broken tie wires, tracking fuses, insulator failures, fallen trees on wires, transformers approaching end of life, and defective lightning arrestors.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-14T20:51:14+00:00"
+    },
+    {
+      "id": "c857ca9db963d9c6",
+      "title": "Iberdrola to Buy 80% Stake in Finnish Utility Caruna for $2.3B to Expand Power Network",
+      "link": "https://www.tdworld.com/utility-business/news/55398280/iberdrola-to-buy-80-stake-in-finnish-utility-caruna-for-23b-to-expand-power-network",
+      "summary": "Iberdrola notes that strong industrial activity and growing demand linked to new data centers and residential developments in western and north-eastern Finland heavily influenced the acquisition.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-14T20:44:25+00:00"
+    },
+    {
+      "id": "bd52b7f42082f9a6",
+      "title": "Q&A: Building a Smarter Grid With Asset Intelligence, AI and Digital Twins",
+      "link": "https://www.tdworld.com/smart-utility/article/55398277/qa-building-a-smarter-grid-with-asset-intelligence-ai-and-digital-twins",
+      "summary": "Utilities are using asset intelligence, AI and digital twins to turn data into smarter investment decisions and build a more resilient grid. Ben Lanz of ESARA previews what attendees can expect from the discussion at T&D World Live.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-14T20:39:09+00:00"
+    },
+    {
       "id": "e83ffa11c87b88f8",
       "title": "Data centers are officially shaping election season",
       "link": "https://www.canarymedia.com/articles/data-centers/data-centers-2026-elections",
@@ -1571,6 +1881,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-14T15:43:35+00:00"
+    },
+    {
+      "id": "e878c0da2404b524",
+      "title": "ICYMI: ComEd's Advanced Substation Training and Grid Expansion",
+      "link": "https://www.tdworld.com/safety-and-training/podcast/55398157/icymi-comeds-advanced-substation-training-and-grid-expansion",
+      "summary": "This episode of the Line Life Podcast shares the story of how ComEd launched a new simulated substation control room to train its engineers in a safe and controlled setting.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-14T15:30:00+00:00"
     },
     {
       "id": "24b4946b0020c57d",
@@ -1741,6 +2061,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-14T13:00:28+00:00"
+    },
+    {
+      "id": "bb9b7e83f7e65900",
+      "title": "Inside the New Playbook for Utility Workforce Readiness",
+      "link": "https://www.tdworld.com/safety-and-training/podcast/55394265/inside-the-new-playbook-for-utility-workforce-readiness",
+      "summary": "This episode explores how utilities are adopting multimodal, immersive learning techniques to address workforce shortages, enhance safety and ensure grid reliability amid rapid industry changes.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-14T13:00:00+00:00"
     },
     {
       "id": "f87c9b1dacc28cc6",
@@ -5011,26 +5341,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-30T19:00:00+00:00"
-    },
-    {
-      "id": "e7f62b17cc35faae",
-      "title": "This Texas coal mine will soon be home to a 1.2GW solar farm",
-      "link": "https://www.canarymedia.com/articles/solar/texas-coal-mine-solar-farm",
-      "summary": "Construction is underway on a $1.7 billion solar and battery storage project in Texas that will turn existing coal mining land into a hub of clean energy generation.  Panamint Capital announced last week that it broke ground on the 1.2-gigawatt Big Rooter Power solar farm in Bremond, about halfway between Dallas and\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-30T07:30:00+00:00"
-    },
-    {
-      "id": "15e014d83c26cff5",
-      "title": "\u2018It\u2019ll take more\u2019: CFS nets another $1B to chase nuclear fusion dream",
-      "link": "https://www.canarymedia.com/articles/nuclear/cfs-1billion-nuclear-fusion",
-      "summary": "Almost every station on the factory floor of Commonwealth Fusion Systems\u2019 northeast Massachusetts headquarters was bustling on a steamy Friday morning in June. Hard-hatted workers ferried along the components for the company\u2019s first fusion reactor, including giant slabs of magnets that will eventually be joined\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-30T04:01:00+00:00"
     }
   ]
 }
