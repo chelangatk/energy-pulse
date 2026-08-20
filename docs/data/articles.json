@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T12:44:32.831867+00:00",
-  "count": 534,
+  "generated_at": "2026-08-20T22:25:26.271524+00:00",
+  "count": 559,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-20T12:44:30.338694+00:00"
+      "published": "2026-08-20T22:25:22.302679+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-20T12:44:30.338680+00:00"
+      "published": "2026-08-20T22:25:22.302665+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-20T12:44:30.338663+00:00"
+      "published": "2026-08-20T22:25:22.302645+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-20T12:44:30.338633+00:00"
+      "published": "2026-08-20T22:25:22.302606+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-20T12:44:28.133866+00:00"
+      "published": "2026-08-20T22:23:04.810966+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,257 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-20T12:44:26.830962+00:00"
+      "published": "2026-08-20T22:23:03.667387+00:00"
+    },
+    {
+      "id": "eef90b066c6338ab",
+      "title": "Before Regulators Approve the Grid Buildout, They Need to Know Who Bears the Loss",
+      "link": "https://www.rtoinsider.com/139798-before-regulators-approve-grid-buildout-need-know-who-bears-loss/",
+      "summary": "Before a public utility commission approves major grid investment, it should require an insurance and residual-risk statement, Colton Overcash writes.\nThe post Before Regulators Approve the Grid Buildout, They Need to Know Who Bears the Loss appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T22:01:41+00:00"
+    },
+    {
+      "id": "0e4f3037ef5582a1",
+      "title": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs",
+      "link": "https://www.powermag.com/shapiro-sets-binding-grid-requirements-in-pennsylvania-targets-data-center-power-costs/",
+      "summary": "Pennsylvania Gov. Josh Shapiro signed an executive order on Aug. 18 that raises the bar for large data center development in the state, directing agencies to condition favorable permitting treatment and tax benefits on compliance with new energy, infrastructure, environmental, workforce, and community requirements. Executive Order 2026-05\u00a0applies its central permitting provisions to data centers w",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T21:11:56+00:00"
+    },
+    {
+      "id": "28b914e80c210fd8",
+      "title": "PJM wants data centers to bring their own power. Pennsylvania\u2019s on it.",
+      "link": "https://www.canarymedia.com/articles/data-centers/pjm-data-centers-pennsylvania",
+      "summary": "Last month, grid operator PJM Interconnection unveiled a long-awaited proposal to prevent data centers from spiking power prices \u2014 but the plan largely relies on states to give it teeth .  Pennsylvania, one of the biggest states in PJM\u2019s 13-state territory, is taking up that challenge.  This week, Pennsylvania Gov.\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T21:00:00+00:00"
+    },
+    {
+      "id": "4f8ca1bf2437ca8d",
+      "title": "The Edge of tomorrow",
+      "link": "https://www.datacenterdynamics.com/en/analysis/the-edge-of-tomorrow/",
+      "summary": "Axelera AI founder Fabrizio del Maffeo wants to bring Edge AI hardware to the world",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T18:38:39+00:00"
+    },
+    {
+      "id": "5950bcdecf6fb40b",
+      "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
+      "link": "https://www.powermag.com/the-forgotten-generation-why-cogeneration-is-re-emerging-in-the-age-of-ai/",
+      "summary": "For decades, most large electricity users in the U.S. relied on the grid for the vast majority of their power needs. As long as the grid could deliver reliable, affordable power, there was little reason to think differently. Now, electricity demand is rising faster than new generation, transmission and distribution infrastructure can often be planned, [\u2026]\nThe post The Forgotten Generation: Why Cog",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T18:05:38+00:00"
+    },
+    {
+      "id": "d13ebfce491fc295",
+      "title": "Brazilian Group Supporting Grid With New Gas-Fired Power Plants",
+      "link": "https://www.powermag.com/brazilian-group-supporting-grid-with-new-gas-fired-power-plants/",
+      "summary": "A Brazilian natural gas company has launched a new model for power generation. Eneva, the largest natural gas operator in Brazil, said it started commercial operation of the first asset in its Azul\u00e3o Complex, part of the company\u2019s \u201cReservoir-to-Wire\u201d (R2W) model. Officials on August 19 said the Azul\u00e3o installation, which will feature two gas-fired power [\u2026]\nThe post Brazilian Group Supporting Grid",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T17:42:37+00:00"
+    },
+    {
+      "id": "383c1b477313938f",
+      "title": "PJM Widens Response to Data Center Load as Capacity Shortfalls Deepen",
+      "link": "https://www.powermag.com/pjm-widens-response-to-data-center-load-as-capacity-shortfalls-deepen/",
+      "summary": "PJM Interconnection has proposed a new framework that would allow large data centers and other major electricity users to enter service without first securing enough new capacity to cover their demand\u2014but would make the uncovered portion of that load available for reduction before PJM calls on existing pre-emergency demand-response resources if electricity supplies become dangerously [\u2026]\nThe post ",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T15:53:58+00:00"
+    },
+    {
+      "id": "cbcc0ab6d4a44274",
+      "title": "Duke\u2019s Carolinas resource plan targets 18.5 GW new solar by 2041",
+      "link": "https://www.utilitydive.com/news/dukes-carolinas-resource-plan-solar-gas-nuclear/828402/",
+      "summary": "The utility\u2019s North Carolina and South Carolina\u00a0 territory \u201ccontinues to experience significant growth,\u201d with both states ranked among the fastest-growing, Duke told South Carolina regulators.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T15:16:56+00:00"
+    },
+    {
+      "id": "00f40f0fb65a51e4",
+      "title": "Data center launched by BBT Group at hospital in Bad Mergentheim, Germany",
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-launched-by-bbt-group-at-hospital-in-bad-mergentheim-germany/",
+      "summary": "The 78kW facility at Caritas Hospital will support digital services at several hospitals run by the operator in Baden-W\u00fcrttemberg",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T15:00:35+00:00"
+    },
+    {
+      "id": "208ecc83bb57c7a0",
+      "title": "Sponsored: Why third-party sustainability certification matters for the future of data centers",
+      "link": "https://www.datacenterdynamics.com/en/opinions/why-third-party-sustainability-certification-matters-for-the-future-of-data-centers/",
+      "summary": "The most successful data center developers will not be those making the boldest sustainability claims. They will be the ones willing to have those claims independently measured, tested, and verified",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T15:00:00+00:00"
+    },
+    {
+      "id": "c1ad5c816f9e3db7",
+      "title": "Zayo expands Corning partnership to secure long-term fiber supply for AI expansion",
+      "link": "https://www.datacenterdynamics.com/en/news/zayo-expands-corning-partnership-to-secure-long-term-fiber-supply-for-ai-expansion/",
+      "summary": "As company works toward 15,000 new route miles target by 2030",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T14:59:34+00:00"
+    },
+    {
+      "id": "fbacdd3078dff317",
+      "title": "Hudson River Trading taps CoreWeave for research platform",
+      "link": "https://www.datacenterdynamics.com/en/news/hudson-river-trading-taps-coreweave-for-research-platform/",
+      "summary": "CoreWeave secures another quant trading firm",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T14:55:07+00:00"
+    },
+    {
+      "id": "17ad99586ea63796",
+      "title": "100MW data center proposed in Allentown, Pennsylvania",
+      "link": "https://www.datacenterdynamics.com/en/news/100mw-data-center-proposed-in-allentown-pennsylvania/",
+      "summary": "J.G. Petrucci Company looks to pivot planned warehouse site",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T14:50:31+00:00"
+    },
+    {
+      "id": "78c1b6181889efcf",
+      "title": "EE launches 'Fast Lane' commercial network slicing service in UK",
+      "link": "https://www.datacenterdynamics.com/en/news/ee-launches-fast-lane-commercial-network-slicing-service-in-uk/",
+      "summary": "The service has been introduced to guarantee coverage for those who need it during network's busier moments",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T14:30:27+00:00"
+    },
+    {
+      "id": "d90c04dfac9a2765",
+      "title": "InfraTech to invest $2.7bn to develop data center campus in Carson County, Texas",
+      "link": "https://www.datacenterdynamics.com/en/news/infratech-to-invest-27bn-to-develop-data-center-campus-in-carson-county-texas/",
+      "summary": "Further details are expected to be revealed when the deal is completed",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T14:20:34+00:00"
+    },
+    {
+      "id": "0b4e4ceb1a7f3bcc",
+      "title": "Electric co-ops press for repeal of gas power plant emissions rules",
+      "link": "https://www.utilitydive.com/news/electric-co-ops-repeal-epa-gas-power-plant-emissions-rules/828377/",
+      "summary": "\u201cWe are anxious to see action on this,\u201d said National Rural Electric Cooperative Association CEO Jim Matheson. \u201cWe all understand that natural gas is the go-to for new generation in this country.\u201d",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T14:07:34+00:00"
+    },
+    {
+      "id": "2e360d44f41736ed",
+      "title": "Ukrainian partisan group destroys three Russian comms towers in Kursk region",
+      "link": "https://www.datacenterdynamics.com/en/news/ukrainian-partisan-group-destroys-three-russian-comms-towers-in-kursk-region/",
+      "summary": "The attack was confirmed via social media by Atesh",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T14:00:31+00:00"
+    },
+    {
+      "id": "b677dc42bed135b8",
+      "title": "Data center rumored to be coming to Hofheim in state of Hesse, Germany",
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-rumored-to-be-coming-to-hofheim-in-state-of-hesse-germany/",
+      "summary": "Speculation rampant over the identity of the buyer of a plot sold by property developers Krieger Group",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T13:59:00+00:00"
+    },
+    {
+      "id": "b53466bb92e16f95",
+      "title": "Saudi Arabia\u2019s Neom appoints Naif al Rabeah as head of its digital business subsidiary, Tonomus",
+      "link": "https://www.datacenterdynamics.com/en/news/saudi-arabias-neom-appoints-naif-al-rabeah-as-head-of-its-digital-business-subsidiary-tonomus/",
+      "summary": "The appointment comes months after Neom pivoted toward focusing on data center development",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T13:45:04+00:00"
+    },
+    {
+      "id": "ba07a8e252702913",
+      "title": "Malaysian property developer Mah Sing sells land in Selangor to DayOne",
+      "link": "https://www.datacenterdynamics.com/en/news/malaysian-property-developer-mah-sing-sells-land-in-selangor-to-dayone/",
+      "summary": "DayOne expanding landholdings in Malaysia",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T13:42:23+00:00"
+    },
+    {
+      "id": "8dd188806454305b",
+      "title": "FERC approves SPP \u2018topology optimization\u2019 plan for cutting grid congestion",
+      "link": "https://www.utilitydive.com/news/ferc-spp-topology-optimization-grid-congestion/828366/",
+      "summary": "The Midcontinent Independent System Operator\u2019s power market has saved nearly $100 million this year under a similar approach for topology reconfiguration.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T13:41:48+00:00"
+    },
+    {
+      "id": "57699120b6ffb8a3",
+      "title": "Kyivstar and Ukrtelecom sign infrastructure sharing deal in Ukraine",
+      "link": "https://www.datacenterdynamics.com/en/news/kyivstar-and-ukrtelecom-sign-infrastructure-sharing-deal-in-ukraine/",
+      "summary": "The carriers will use each other's networks to boost fiber coverage rollout",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T13:38:22+00:00"
+    },
+    {
+      "id": "e6ec5ca072b2ddd3",
+      "title": "OVHcloud to raise dedicated server prices by up to 87 percent from September",
+      "link": "https://www.datacenterdynamics.com/en/news/ovhcloud-to-raise-dedicated-server-prices-by-up-to-87-percent-from-september/",
+      "summary": "RAMaggedon sees costs skyrocketing",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T13:38:07+00:00"
+    },
+    {
+      "id": "9171c21d785e2305",
+      "title": "Microsoft expands partnership with solar cell manufacturer Qcells",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-expands-partnership-with-solar-cell-manufacturer-qcells/",
+      "summary": "Will support the development of virtual power plants",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T13:34:09+00:00"
+    },
+    {
+      "id": "e222c0201ccf2e70",
+      "title": "First Nations on Fort Peck Reservation in Montana banned from discussions with data center firms",
+      "link": "https://www.datacenterdynamics.com/en/news/first-nations-on-fort-peck-reservation-in-montana-banned-from-discussions-with-data-center-firms/",
+      "summary": "Leaders raise concerns over environmental impact of building projects",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-20T13:25:15+00:00"
     },
     {
       "id": "49a50619b869c215",
@@ -247,6 +497,16 @@
       "title": "Canadian Clean Energy Deal Could Boost Exports to U.S.",
       "link": "https://www.rtoinsider.com/139878-canadian-clean-energy-deal-boost-exports-us/",
       "summary": "A new agreement between the Canadian federal government, Newfoundland and Labrador, and Qu\u00e9bec to invest about $70 billion in clean energy may provide a boost to Canada\u2019s net exports to New England and New York.\nThe post Canadian Clean Energy Deal Could Boost Exports to U.S. appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T23:18:12+00:00"
+    },
+    {
+      "id": "7fcea3a9840c4ab8",
+      "title": "Canadian Energy Deal Would Boost Quebec Supply, Could Affect U.S. Markets",
+      "link": "https://www.rtoinsider.com/139878-canadian-clean-energy-deal-boost-exports-us/",
+      "summary": "A major new agreement between the Canadian federal government, Newfoundland and Labrador, and Qu\u00e9bec to invest about $70 billion in new hydropower capacity, land-based wind and transmission may indirectly boost Canada\u2019s net exports to New England and New York.\nThe post Canadian Energy Deal Would Boost Quebec Supply, Could Affect U.S. Markets appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
       "region": "National",
@@ -5331,16 +5591,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-31T07:30:00+00:00"
-    },
-    {
-      "id": "2e6c395315d3c871",
-      "title": "Antora snags $550M for heat batteries to run data centers and factories",
-      "link": "https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries",
-      "summary": "The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.  On Thursday, San Jose, California\u2013based Antora said it closed a Series C funding round co-led by climatetech investor G2 Venture Partners and the VC firm\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-30T19:00:00+00:00"
     }
   ]
 }
