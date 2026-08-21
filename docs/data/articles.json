@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T12:42:52.892399+00:00",
-  "count": 583,
+  "generated_at": "2026-08-21T22:21:00.723816+00:00",
+  "count": 597,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-21T12:42:49.891786+00:00"
+      "published": "2026-08-21T22:20:56.786362+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-21T12:42:49.891771+00:00"
+      "published": "2026-08-21T22:20:56.786349+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-21T12:42:49.891753+00:00"
+      "published": "2026-08-21T22:20:56.786332+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-21T12:42:49.891722+00:00"
+      "published": "2026-08-21T22:20:56.786303+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-21T12:42:48.258158+00:00"
+      "published": "2026-08-21T22:20:54.785963+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,137 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-21T12:42:47.426434+00:00"
+      "published": "2026-08-21T22:20:52.885996+00:00"
+    },
+    {
+      "id": "3f43c3e9e1ffd50c",
+      "title": "Trump turns $500M grant for clean steel into funding for coal furnace",
+      "link": "https://www.canarymedia.com/articles/green-steel/trump-clean-steel-grant-coal",
+      "summary": "A $500 million Biden-era grant to decarbonize steelmaking has been refashioned by the Trump administration to upgrade a coal-fueled blast furnace in southern Ohio.  On Friday, Cleveland-Cliffs confirmed that the U.S. Department of Energy had changed the scope of the previously awarded funding for Cliffs\u2019 Middletown\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T19:30:00+00:00"
+    },
+    {
+      "id": "43f4d0764200f39b",
+      "title": "Arevon Brings Nighthawk Energy Storage Project Online in California",
+      "link": "https://www.powermag.com/arevon-brings-nighthawk-energy-storage-project-online-in-california/",
+      "summary": "Arevon Energy said its largest standalone battery energy storage project is now operational. The company on August 13 announced that the 300-MW Nighthawk Energy Storage Project has come online in Poway, California.\nThe post Arevon Brings Nighthawk Energy Storage Project Online in California appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T18:40:34+00:00"
+    },
+    {
+      "id": "a4294c8e2e960067",
+      "title": "Don\u2019t Ask States to Become Nuclear Waste Dumps. Make Them Partners in Solving the Problem",
+      "link": "https://www.powermag.com/dont-ask-states-to-become-nuclear-waste-dumps-make-them-partners-in-solving-the-problem/",
+      "summary": "A new federal effort to develop nuclear \u201clifecycle\u201d campuses has produced something Washington, D.C., has rarely seen: states competing for a role in managing America\u2019s used nuclear fuel.\nThe post Don\u2019t Ask States to Become Nuclear Waste Dumps. Make Them Partners in Solving the Problem appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T18:03:26+00:00"
+    },
+    {
+      "id": "902cdb8577a4f225",
+      "title": "Vapat Enters the data center market with a 160MW project in Valladolid",
+      "link": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
+      "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T16:47:08+00:00"
+    },
+    {
+      "id": "d727c8ac33daebba",
+      "title": "Colombia halts construction of 1,600km fiber network in the Amazon",
+      "link": "https://www.datacenterdynamics.com/en/news/colombia-puts-the-brakes-on-a-1600-km-fiber-optic-network-in-the-amazon/",
+      "summary": "The technical and financial complexity of the deployment has led the government to withdraw the procurement process",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T16:42:53+00:00"
+    },
+    {
+      "id": "9b8cdc9a3971014c",
+      "title": "Nvidia backs data center powered land company Cloverleaf",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
+      "summary": "Will help company bring projects to fruition, based on Nvidia DSX platform",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T16:20:47+00:00"
+    },
+    {
+      "id": "03ae778e24be5185",
+      "title": "Edge data center for AI workloads proposed in Manchester, UK",
+      "link": "https://www.datacenterdynamics.com/en/news/edge-data-center-for-ai-workloads-proposed-in-manchester-uk/",
+      "summary": "Two building scheme is part of planned network of Edge sites",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T15:47:11+00:00"
+    },
+    {
+      "id": "de54baccf462d887",
+      "title": "America\u2019s hydropower challenge goes beyond the West",
+      "link": "https://www.canarymedia.com/articles/hydropower/hydropower-drought-west-lake-mead",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   The U.S. depends on hydroelectric power \u2014 and ever-worsening drought is threatening its supply.  The western half of the country has faced a water crisis for years, and things have only gotten more dire in\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T15:44:00+00:00"
+    },
+    {
+      "id": "234047399926aabc",
+      "title": "Rocket Lab has no plans to enter orbital data center market",
+      "link": "https://www.datacenterdynamics.com/en/news/rocket-lab-has-no-plans-to-enter-orbital-data-center-market/",
+      "summary": "But SpaceX's compute ambitions could give Rocket Lab a launch opening",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T15:30:10+00:00"
+    },
+    {
+      "id": "253537551674ad88",
+      "title": "Sponsored: The \"power-first\" era: A new playbook for data center projects",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-power-first-era-a-new-playbook-for-data-center-projects/",
+      "summary": "How to prioritize power to accelerate your project pipeline",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "id": "4ca238f14dc49e94",
+      "title": "Meta files for subsea cable connecting the US and Denmark",
+      "link": "https://www.datacenterdynamics.com/en/news/meta-files-for-subsea-cable-connecting-the-us-and-denmark/",
+      "summary": "Known as the Aurora system",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T14:04:55+00:00"
+    },
+    {
+      "id": "a7ee2b46068d8ed4",
+      "title": "Charter secures $34.5bn Cox merger, completes Liberty Broadband acquisition",
+      "link": "https://www.datacenterdynamics.com/en/news/ca/",
+      "summary": "The deal creates the biggest cable operator in the US",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T13:55:16+00:00"
+    },
+    {
+      "id": "ab26d2d9ca4a1b5c",
+      "title": "The what, where, and why of high-temperature superconducting feeders in data centers",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-what-where-and-why-of-high-temperature-superconducting-feeders-in-data-centers/",
+      "summary": "Is HTS starting to make sense for data center operators?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T13:30:29+00:00"
     },
     {
       "id": "4d6167459c8da097",
@@ -71,6 +201,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-21T12:35:58+00:00"
+    },
+    {
+      "id": "2e84466359b0c164",
+      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
+      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
+      "summary": "PJM\u2019s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively\u00a0\u2014 mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T12:34:58+00:00"
     },
     {
       "id": "adf340f37a84132b",
@@ -121,6 +261,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-21T11:30:29+00:00"
+    },
+    {
+      "id": "a013840d4193cfe8",
+      "title": "ERCOT aims to complete Texas governor\u2019s data center audit by December",
+      "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+      "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas\u2019 upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T11:12:58+00:00"
     },
     {
       "id": "797d5ce3744c3428",
@@ -396,7 +546,7 @@
       "id": "cbcc0ab6d4a44274",
       "title": "Duke\u2019s Carolinas resource plan targets 18.5 GW new solar by 2041",
       "link": "https://www.utilitydive.com/news/dukes-carolinas-resource-plan-solar-gas-nuclear/828402/",
-      "summary": "The utility\u2019s North Carolina and South Carolina\u00a0 territory \u201ccontinues to experience significant growth,\u201d with both states ranked among the fastest-growing, Duke told South Carolina regulators.",
+      "summary": "The utility\u2019s North Carolina and South Carolina territory \u201ccontinues to experience significant growth,\u201d with both states ranked among the fastest-growing, Duke told South Carolina regulators.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -5821,16 +5971,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-03T07:30:00+00:00"
-    },
-    {
-      "id": "539618b6029e4d64",
-      "title": "New York takes on the myth that solar is swallowing farmland",
-      "link": "https://www.canarymedia.com/articles/solar/new-york-solar-farms",
-      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   In rural areas across the U.S., solar power opponents keep leaning on the argument that utility-scale arrays are gobbling up valuable farmland. But plenty of evidence proves that\u2019s just not true, and now,\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-31T16:20:00+00:00"
     }
   ]
 }
