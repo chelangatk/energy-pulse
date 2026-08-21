@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T22:25:26.271524+00:00",
-  "count": 559,
+  "generated_at": "2026-08-21T12:42:52.892399+00:00",
+  "count": 583,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-20T22:25:22.302679+00:00"
+      "published": "2026-08-21T12:42:49.891786+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-20T22:25:22.302665+00:00"
+      "published": "2026-08-21T12:42:49.891771+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-20T22:25:22.302645+00:00"
+      "published": "2026-08-21T12:42:49.891753+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-20T22:25:22.302606+00:00"
+      "published": "2026-08-21T12:42:49.891722+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-20T22:23:04.810966+00:00"
+      "published": "2026-08-21T12:42:48.258158+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,257 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-20T22:23:03.667387+00:00"
+      "published": "2026-08-21T12:42:47.426434+00:00"
+    },
+    {
+      "id": "4d6167459c8da097",
+      "title": "STT GDC backs out of planned Vietnam data center project",
+      "link": "https://www.datacenterdynamics.com/en/news/stt-gdc-backs-out-of-planned-vietnam-data-center-project/",
+      "summary": "VNG looks to acquire STT GDC's portion of Ho Chi Minh City JV, aims to develop others and other facilities instead",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T12:35:58+00:00"
+    },
+    {
+      "id": "adf340f37a84132b",
+      "title": "Evolution DC secures long-term lease for land in Ho Chi Minh City, Vietnam",
+      "link": "https://www.datacenterdynamics.com/en/news/evolution-dc-secures-long-term-lease-for-land-in-ho-chi-minh-city-vietnam/",
+      "summary": "Company planning 52MW data center on site in Saigon Hi-Tech Park",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T12:31:26+00:00"
+    },
+    {
+      "id": "bf83be6401aebc5a",
+      "title": "Harworth enters exclusivity agreement with unnamed data center provider for powered land site in UK",
+      "link": "https://www.datacenterdynamics.com/en/news/harworth-enters-exclusivity-agreement-with-unnamed-data-center-provider-for-powered-land-site-in-uk/",
+      "summary": "Company targeting several other sites across the UK, eying potential for colo and Edge sites as well",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T12:28:30+00:00"
+    },
+    {
+      "id": "afb0f08e693f97e6",
+      "title": "AWS launches new availability zone for UK cloud region",
+      "link": "https://www.datacenterdynamics.com/en/news/aws-launches-new-availability-zone-for-uk-cloud-region/",
+      "summary": "Also adds AWS Local Zone in Las Vegas, Nevada",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T12:00:39+00:00"
+    },
+    {
+      "id": "18d8bdba283b813f",
+      "title": "Alibaba Cloud plans to lean on its self-developed chips moving forward",
+      "link": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-plans-to-lean-on-its-self-developed-chips-moving-forward/",
+      "summary": "Hopes this will improve its margin and profitability",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T11:52:24+00:00"
+    },
+    {
+      "id": "741f968237992231",
+      "title": "Telia Towers begins construction of satellite Earth station in Pyh\u00e4j\u00e4rvi, Finland",
+      "link": "https://www.datacenterdynamics.com/en/news/telia-towers-begins-construction-of-satellite-earth-station-in-pyh%C3%A4j%C3%A4rvi-finland/",
+      "summary": "Is working with a US space company to build the station",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T11:30:29+00:00"
+    },
+    {
+      "id": "797d5ce3744c3428",
+      "title": "Nvidia and South Korean chip startup Rebellions discussing potential collaboration \u2013 report",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-and-south-korean-chip-startup-rebellions-discussing-potential-collaboration-report/",
+      "summary": "Comes as chip giant denies claims it's been developing China-specific LPU",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T10:36:51+00:00"
+    },
+    {
+      "id": "69aa625a1d6bfe0a",
+      "title": "Prometheus Hyperscale partners with Istmo to develop up to 2.5GW gas powered data center in Reeves County, Texas",
+      "link": "https://www.datacenterdynamics.com/en/news/prometheus-hyperscale-partners-with-istmo-to-develop-up-to-25gw-gas-powered-data-center-in-reeves-county-texas/",
+      "summary": "First power is slated for next year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T10:33:49+00:00"
+    },
+    {
+      "id": "b0d04dc71dc389f1",
+      "title": "Telecom Argentina prepares to offload fiber assets to push through $1.2bn of Telef\u00f3nica Movistar unit in country",
+      "link": "https://www.datacenterdynamics.com/en/news/telecom-argentina-prepares-to-offload-fiber-assets-to-push-through-12bn-of-telef%C3%B3nica-movistar-unit-in-country/",
+      "summary": "The carrier wants to ease fears of anti-competition in the Argentine telecoms market",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T10:29:39+00:00"
+    },
+    {
+      "id": "189a6b31874772e3",
+      "title": "Itochu to begin data center development, plans 10 new facilities by 2030",
+      "link": "https://www.datacenterdynamics.com/en/news/itochu-to-begin-data-center-development-plans-10-new-facilities-by-2030/",
+      "summary": "To invest several hundred billion yen",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T10:26:24+00:00"
+    },
+    {
+      "id": "122022c065cccc6c",
+      "title": "US utility TVA imposes new rates on data center firms",
+      "link": "https://www.datacenterdynamics.com/en/news/us-utility-tva-imposes-new-rates-on-data-center-firms/",
+      "summary": "Will have to pay approximately 10 percent higher charges for power use",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T10:19:17+00:00"
+    },
+    {
+      "id": "ed19710b8e6e9af7",
+      "title": "Macquarie Asset Management divests stakes in Poland\u2019s Fiberhost and INEA",
+      "link": "https://www.datacenterdynamics.com/en/news/macquarie-asset-management-divests-stakes-in-polands-fiberhost-and-inea/",
+      "summary": "The FTTH network provider and telecommunications services firm will become part of T-Mobile Polska",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T09:51:07+00:00"
+    },
+    {
+      "id": "e6b841f8f3082d3f",
+      "title": "Firmus Technologies to acquire Benmax's fabrication, design and projects business",
+      "link": "https://www.datacenterdynamics.com/en/news/firmus-technologies-to-acquire-benmaxs-fabrication-design-and-projects-business/",
+      "summary": "Hoped to strengthen Firmus' AI cloud and data center value chain",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T09:49:51+00:00"
+    },
+    {
+      "id": "cacb1f29689fee66",
+      "title": "AI data center approved for construction in Lazio, Italy",
+      "link": "https://www.datacenterdynamics.com/en/news/ai-data-center-approved-for-construction-in-lazio-italy/",
+      "summary": "The facility in Colleferro will employ up to 220 people, developer claims",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T09:49:17+00:00"
+    },
+    {
+      "id": "8b1600fefc5f934f",
+      "title": "80 percent of Democratic and Republican candidates for governor have expressed a stance on data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/80-percent-of-democratic-and-republican-candidates-for-governor-have-expressed-a-stance-on-data-centers/",
+      "summary": "Data centers are on the ballot \u2013 and people don't like them",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T09:46:51+00:00"
+    },
+    {
+      "id": "937861efa99a752f",
+      "title": "Singapore gov't allocates 200MW of power for four data center developers on Jurong Island",
+      "link": "https://www.datacenterdynamics.com/en/news/singapore-govt-allocates-200mw-of-power-for-four-data-center-developers-on-jurong-island/",
+      "summary": "Digital Realty, Equinix, Keppel Data Centers, and ST Telemedia Global Data Centers will each be allocated 50MW of new capacity",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T09:43:54+00:00"
+    },
+    {
+      "id": "1fe1b557737d2685",
+      "title": "Solar and storage still dominate US power plant construction",
+      "link": "https://www.canarymedia.com/articles/clean-energy/solar-storage-dominate-us-power-construction",
+      "summary": "See more from  Canary Media\u2019s \u200b\u201cChart of the Week\u201d column  .  It\u2019s a tough time to build renewable energy in the U.S.  In 2026 alone, the Trump administration has phased out tax credits , frozen clean-energy permitting , and issued tariffs certain to raise the cost of solar \u2014 while continuing to take lazy and\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T07:30:00+00:00"
+    },
+    {
+      "id": "6527616ed65f1fd1",
+      "title": "Sponsored: Liquid cooling is here. Time to scale it",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/liquid-cooling-is-here-time-to-scale-it/",
+      "summary": "Innovation in cooling performance must go hand in hand with manufacturing systems reliably, repeatedly, and globally at scale",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T07:00:00+00:00"
+    },
+    {
+      "id": "d44e6ac32297af0a",
+      "title": "DCD Talks: Rethinking data center power resilience with Eric Dupont, PowerSecure",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-talks-rethinking-data-center-power-resilience-with-eric-dupont-powersecure/",
+      "summary": "PowerSecure\u2019s SVP of Customer Care, Eric Dupont, speaks to DCD\u2019s Emma Strutton about long-term data center resilience, and the changing role of bridging power within this.",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T06:52:57+00:00"
+    },
+    {
+      "id": "4a1880967d6a3596",
+      "title": "Panelists: Better Tools Needed for Coordinating Multiple Western Markets",
+      "link": "https://www.rtoinsider.com/140055-panelists-better-tools-needed-coordinating-multiple-western-markets/",
+      "summary": "Seams issues can require \"massive coordination\" to resolve, according to stakeholders working on solutions to problems arising from the formation of two day-ahead markets in the West.\nThe post Panelists: Better Tools Needed for Coordinating Multiple Western Markets appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T00:53:14+00:00"
+    },
+    {
+      "id": "cd9d52c804a2a977",
+      "title": "BPA\u2019s RAPID Initiative Aims to Speed up Large Load Interconnections",
+      "link": "https://www.rtoinsider.com/140131-bpa-rapid-initiative-speed-up-large-load-interconnections/",
+      "summary": "The Bonneville Power Administration is designing a new product to fast-track the interconnection of large loads under an initiative aimed at overhauling the agency\u2019s transmission planning processes.\nThe post BPA\u2019s RAPID Initiative Aims to Speed up Large Load Interconnections appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T00:05:07+00:00"
+    },
+    {
+      "id": "56bfa64b7aa815f2",
+      "title": "CAISO Warns of Forecasting Challenges from Large Loads",
+      "link": "https://www.rtoinsider.com/139257-caiso-warns-forecasting-challenges-large-loads/",
+      "summary": "CAISO is looking to ease load forecasting uncertainties as more artificial intelligence data centers come onto the ISO\u2019s system in the coming years.\nThe post CAISO Warns of Forecasting Challenges from Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T23:46:32+00:00"
+    },
+    {
+      "id": "a340f3f1d7e1b590",
+      "title": "Nevada Governor, Congresswoman Spar Over Data Center",
+      "link": "https://www.rtoinsider.com/140128-nevada-governor-congresswoman-spar-over-data-center/",
+      "summary": "A controversial data center project on federal land in Nevada continues to test the resolve of top lawmakers in the face of public opposition, sparking a public spat between the state\u2019s Republican governor and a senior Democratic congresswoman.\nThe post Nevada Governor, Congresswoman Spar Over Data Center appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T23:31:47+00:00"
+    },
+    {
+      "id": "b0119782d13a1b95",
+      "title": "State Utility Regulators Describe Grappling with Data Center Buildout",
+      "link": "https://www.rtoinsider.com/140148-state-utility-regulators-shifting-data-center-regulatory-landscape/",
+      "summary": "As more data center developers seek to plug into the grid, the balance state utility regulators must maintain becomes more challenging.\nThe post State Utility Regulators Describe Grappling with Data Center Buildout appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T23:29:25+00:00"
+    },
+    {
+      "id": "014855c3a3d43195",
+      "title": "Feds Warn of AI Cyber Threat \u2018Evolution\u2019",
+      "link": "https://www.rtoinsider.com/140053-feds-warn-of-ai-cyber-threat-evolution/",
+      "summary": "Federal cybersecurity agencies warned that cyberattacks fueled by artificial intelligence are \"an active threat\" to multiple critical sectors, including energy.\nThe post Feds Warn of AI Cyber Threat \u2018Evolution\u2019 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T22:32:34+00:00"
     },
     {
       "id": "eef90b066c6338ab",
@@ -105,6 +355,16 @@
     {
       "id": "5950bcdecf6fb40b",
       "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
+      "link": "https://www.powermag.com/the-forgotten-generation-why-cogeneration-is-re-emerging-in-the-age-of-ai/",
+      "summary": "For decades, most large electricity users in the U.S. relied on the grid for the vast majority of their power needs. As long as the grid could deliver reliable, affordable power, there was little reason to think differently. Now, electricity demand is rising faster than new generation, transmission and distribution infrastructure can often be planned, [\u2026]\nThe post The Forgotten Generation: Why Cog",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T18:05:38+00:00"
+    },
+    {
+      "id": "8552d699355768a9",
+      "title": "The Forgotten Generation: Why Cogeneration Is Re-Emerging in the Age of AI",
       "link": "https://www.powermag.com/the-forgotten-generation-why-cogeneration-is-re-emerging-in-the-age-of-ai/",
       "summary": "For decades, most large electricity users in the U.S. relied on the grid for the vast majority of their power needs. As long as the grid could deliver reliable, affordable power, there was little reason to think differently. Now, electricity demand is rising faster than new generation, transmission and distribution infrastructure can often be planned, [\u2026]\nThe post The Forgotten Generation: Why Cog",
       "source": "POWER Magazine",
@@ -5571,26 +5831,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-07-31T16:20:00+00:00"
-    },
-    {
-      "id": "7732d756532bee49",
-      "title": "China's crude oil imports fell in the second quarter",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67905",
-      "summary": "China, the world's largest importer of crude oil, imported less crude oil in the second quarter of 2026 (2Q26) following higher crude oil prices that resulted from disrupted flows through the Strait of Hormuz. China's lower imports reduced global demand, softening the upward price effects from the disrupted supply through the strait.",
-      "source": "EIA Today in Energy",
-      "category": "ISO/RTO",
-      "region": "National",
-      "published": "2026-07-31T09:00:00+00:00"
-    },
-    {
-      "id": "366ab9c4fad59306",
-      "title": "California was mostly solar-powered in May \u2014 a global first",
-      "link": "https://www.canarymedia.com/articles/solar/california-solar-power-record-may",
-      "summary": "See more from  Canary Media\u2019s \u200b\u201cChart of the Week\u201d column  .  While the Trump administration is busy pointing out that the sun doesn\u2019t shine at night , solar is breaking records around the world, including in sunny California.  Solar panels produced 51% of California\u2019s electricity in May, the first time the clean\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-07-31T07:30:00+00:00"
     }
   ]
 }
