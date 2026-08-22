@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T12:35:04.267861+00:00",
-  "count": 599,
+  "generated_at": "2026-08-22T22:18:34.943348+00:00",
+  "count": 602,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-22T12:35:01.960393+00:00"
+      "published": "2026-08-22T22:18:30.491912+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-22T12:35:01.960379+00:00"
+      "published": "2026-08-22T22:18:30.491900+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-22T12:35:01.960360+00:00"
+      "published": "2026-08-22T22:18:30.491887+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-22T12:35:01.960315+00:00"
+      "published": "2026-08-22T22:18:30.491857+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-22T12:34:59.766001+00:00"
+      "published": "2026-08-22T22:18:28.638338+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,37 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-22T12:34:57.037439+00:00"
+      "published": "2026-08-22T22:18:27.236388+00:00"
+    },
+    {
+      "id": "945f848747426d38",
+      "title": "Sponsored: What coolant should you use for data center liquid cooling?",
+      "link": "https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/",
+      "summary": "Exploring PG25, dielectric fluids, and ASHRAE recommendations",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-22T15:00:00+00:00"
+    },
+    {
+      "id": "e6abde3c79d8f1dd",
+      "title": "Ignis and Acciona look to build a data center in Segovia, Spain",
+      "link": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
+      "summary": "The joint project also includes the development of a photovoltaic plant",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-22T14:00:33+00:00"
+    },
+    {
+      "id": "872599bd30d5ac09",
+      "title": "Building data centers is getting easier. Building trust is not",
+      "link": "https://www.datacenterdynamics.com/en/opinions/building-data-centers-is-getting-easier-building-trust-is-not/",
+      "summary": "Data centers cannot afford to treat communities as an afterthought",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-22T14:00:31+00:00"
     },
     {
       "id": "abb22f09f7381832",
