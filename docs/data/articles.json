@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T22:18:34.943348+00:00",
-  "count": 602,
+  "generated_at": "2026-08-23T12:36:03.756336+00:00",
+  "count": 604,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-22T22:18:30.491912+00:00"
+      "published": "2026-08-23T12:36:01.246840+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-22T22:18:30.491900+00:00"
+      "published": "2026-08-23T12:36:01.246826+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-22T22:18:30.491887+00:00"
+      "published": "2026-08-23T12:36:01.246809+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-22T22:18:30.491857+00:00"
+      "published": "2026-08-23T12:36:01.246777+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-22T22:18:28.638338+00:00"
+      "published": "2026-08-23T12:35:59.557913+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-22T22:18:27.236388+00:00"
+      "published": "2026-08-23T12:35:58.256984+00:00"
+    },
+    {
+      "id": "99cb7d7c2a43e4ac",
+      "title": "Lithium-ion batteries are reshaping data centers, fire safety must keep pace",
+      "link": "https://www.datacenterdynamics.com/en/opinions/lithium-ion-batteries-are-reshaping-data-centers-fire-safety-must-keep-pace/",
+      "summary": "Managing fire in the AI age",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-23T10:00:26+00:00"
+    },
+    {
+      "id": "ac2aca34303e46f2",
+      "title": "Sponsored: Why speed to power starts before the grid",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/why-speed-to-power-starts-before-the-grid/",
+      "summary": "Rowan Digital Infrastructure's Patrick Dillow explains how smart site selection, flexible planning, and early utility partnerships pave the way to de-risking hyperscale project timelines",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-23T07:00:00+00:00"
     },
     {
       "id": "945f848747426d38",
