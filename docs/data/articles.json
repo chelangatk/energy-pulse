@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T12:36:03.756336+00:00",
-  "count": 604,
+  "generated_at": "2026-08-23T22:18:02.249645+00:00",
+  "count": 613,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-23T12:36:01.246840+00:00"
+      "published": "2026-08-23T22:17:58.158284+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-23T12:36:01.246826+00:00"
+      "published": "2026-08-23T22:17:58.158270+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-23T12:36:01.246809+00:00"
+      "published": "2026-08-23T22:17:58.158252+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-23T12:36:01.246777+00:00"
+      "published": "2026-08-23T22:17:58.158220+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-23T12:35:59.557913+00:00"
+      "published": "2026-08-23T22:17:55.993983+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,97 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-23T12:35:58.256984+00:00"
+      "published": "2026-08-23T22:17:54.364523+00:00"
+    },
+    {
+      "id": "925baffedc06d145",
+      "title": "N.J. Communities Acting to Slow Surge of Data Centers",
+      "link": "https://www.rtoinsider.com/140133-nj-emerging-prohibit-limit-entry-of-data-centers/",
+      "summary": "Jersey City, New Jersey\u2019s second-largest city, has joined a growing wave of municipalities that have moved to stop the development of data centers, despite the commitment of Gov. Mikie Sherrill (D) that she will ensure ratepayers and communities are not affected by the costs of interconnecting the facilities.\nThe post N.J. Communities Acting to Slow Surge of Data Centers appeared first on RTO Insi",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-23T19:14:08+00:00"
+    },
+    {
+      "id": "54bd7ca63e851319",
+      "title": "MISO LMR Unavailability Investigation Triggers Debate on Closed Businesses",
+      "link": "https://www.rtoinsider.com/140290-miso-lmr-unavailability-investigation-triggers-debate-closed-businesses/",
+      "summary": "MISO\u2019s first investigation into load-modifying resources\u2019 unavailability during a winter storm set off a debate between MISO and stakeholders on what happens when businesses signed on for demand response close their doors.\nThe post MISO LMR Unavailability Investigation Triggers Debate on Closed Businesses appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-23T18:06:12+00:00"
+    },
+    {
+      "id": "db99e8b85bb7b08a",
+      "title": "MISO Wants Consequences for Gen Lead Time Extensions in Emergencies",
+      "link": "https://www.rtoinsider.com/140292-miso-wants-rules-cut-back-generators-lead-time-extensions/",
+      "summary": "MISO said it will roll out new rules to discourage its market participants from stretching out their units\u2019 lead times when a grid emergency is on the horizon.\nThe post MISO Wants Consequences for Gen Lead Time Extensions in Emergencies appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-23T17:24:27+00:00"
+    },
+    {
+      "id": "1eeb7ec37902fa9d",
+      "title": "Batch Zero Timing Endangered by Abbott\u2019s Call for Audit",
+      "link": "https://www.rtoinsider.com/140296-batch-zero-timing-endangered-by-abbotts-call-for-audit/",
+      "summary": "ERCOT officials have set a December target to complete Texas Gov. Greg Abbott\u2019s request to verify and audit data centers and crypto miners seeking to interconnect to the grid.\nThe post Batch Zero Timing Endangered by Abbott\u2019s Call for Audit appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-23T17:17:31+00:00"
+    },
+    {
+      "id": "a3fa6ba8938c44df",
+      "title": "MISO Smashes Import Record During Mid-July Emergency",
+      "link": "https://www.rtoinsider.com/140294-miso-smashes-import-record-during-mid-july-emergency/",
+      "summary": "MISO said it tracked its largest-ever import assistance of almost 18 GW during a mid-July emergency declaration.\nThe post MISO Smashes Import Record During Mid-July Emergency appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-23T17:08:14+00:00"
+    },
+    {
+      "id": "5a3d942cfcd725e5",
+      "title": "FERC Denies Maine Public Advocate\u2019s Challenge of Asset Condition Costs",
+      "link": "https://www.rtoinsider.com/140350-ferc-denies-maine-public-advocates-challenge-asset-condition-costs/",
+      "summary": "FERC denied a formal challenge of asset condition spending in New England, finding the Maine Office of the Public Advocate failed to demonstrate serious doubt about the prudency of the disputed projects.\nThe post FERC Denies Maine Public Advocate\u2019s Challenge of Asset Condition Costs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-23T16:11:35+00:00"
+    },
+    {
+      "id": "39579eddbce8c79c",
+      "title": "MISO Accepts 25% Increase for $1.2B Long-range Tx Project in Minn.",
+      "link": "https://www.rtoinsider.com/140288-miso-accepts-increase-for-long-range-tx-project-minn/",
+      "summary": "MISO approved a $240 million cost hike for a long-range transmission project in Minnesota after the developers\u2019 even larger cost increases triggered a reevaluation of the project.\nThe post MISO Accepts 25% Increase for $1.2B Long-range Tx Project in Minn. appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-23T15:44:48+00:00"
+    },
+    {
+      "id": "2e15f2ea2c73d09b",
+      "title": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+      "link": "https://www.powermag.com/nvidia-cloverleaf-partnering-to-advance-data-center-development/",
+      "summary": "Technology giant NVIDIA is furthering its support of artificial intelligence (AI) and data center construction. Cloverleaf Infrastructure, a group that supports the AI buildout by providing power sources and infrastructure for site development, on August 21 said it has entered into a strategic partnership with NVIDIA to advance the development of digital infrastructure across the [\u2026]\nThe post NVID",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-23T15:25:23+00:00"
+    },
+    {
+      "id": "86f007dc2712e3ac",
+      "title": "The hidden infrastructure decisions that impact long-term uptime",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-infrastructure-decisions-that-impact-long-term-uptime/",
+      "summary": "The growing need to future-proof infrastructure",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-23T14:00:30+00:00"
     },
     {
       "id": "99cb7d7c2a43e4ac",
