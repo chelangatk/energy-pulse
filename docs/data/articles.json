@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T22:18:02.249645+00:00",
-  "count": 613,
+  "generated_at": "2026-08-24T12:45:59.978875+00:00",
+  "count": 622,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-23T22:17:58.158284+00:00"
+      "published": "2026-08-24T12:45:56.376839+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-23T22:17:58.158270+00:00"
+      "published": "2026-08-24T12:45:56.376828+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-23T22:17:58.158252+00:00"
+      "published": "2026-08-24T12:45:56.376815+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-23T22:17:58.158220+00:00"
+      "published": "2026-08-24T12:45:56.376784+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-23T22:17:55.993983+00:00"
+      "published": "2026-08-24T12:45:54.993213+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,117 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-23T22:17:54.364523+00:00"
+      "published": "2026-08-24T12:45:53.844466+00:00"
+    },
+    {
+      "id": "f93a6909324cd6ea",
+      "title": "Magnora secures grid connection for H\u00e4meenlinna data center in Finland",
+      "link": "https://www.datacenterdynamics.com/en/news/magnora-secures-grid-connection-for-h%C3%A4meenlinna-data-center-in-finland/",
+      "summary": "Revises the capacity of the data center to more than 120MW",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T12:30:27+00:00"
+    },
+    {
+      "id": "ee9015c2726de404",
+      "title": "Nscale targets $3bn raise in US IPO - report",
+      "link": "https://www.datacenterdynamics.com/en/news/nscale-targets-3bn-raise-in-us-ipo-report/",
+      "summary": "IPO could take place as soon as September",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T11:44:28+00:00"
+    },
+    {
+      "id": "5431f2e1057f1b68",
+      "title": "AT&T to serve up network connectivity for US Open tennis",
+      "link": "https://www.datacenterdynamics.com/en/news/att-to-serve-up-network-connectivity-for-us-open-tennis/",
+      "summary": "The carrier has secured a five-year contract",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T11:41:39+00:00"
+    },
+    {
+      "id": "e6b164b191be354b",
+      "title": "DXN secures AU$12.2m contract to deliver containerized data center to HPC customer",
+      "link": "https://www.datacenterdynamics.com/en/news/dxn-secures-au122m-contract-to-deliver-containerized-data-center-to-hpc-customer/",
+      "summary": "Aus company tapped to deliver 2MW facility to unnamed customer",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T11:26:38+00:00"
+    },
+    {
+      "id": "562954f17863d271",
+      "title": "Healthy Choice Wellness Corp. plans reverse merger with data center company",
+      "link": "https://www.datacenterdynamics.com/en/news/healthy-choice-wellness-corp-plans-reverse-merger-with-data-center-company/",
+      "summary": "Wellness retailer is pivoting to digital infrastructure",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T11:17:32+00:00"
+    },
+    {
+      "id": "800350fded6c1ffe",
+      "title": "Ireland reconsidering nuclear in response to surging data center power demands - report",
+      "link": "https://www.datacenterdynamics.com/en/news/ireland-reconsidering-nuclear-in-response-to-surging-data-center-power-demands-report/",
+      "summary": "Taoiseach said that the country is \"open to [nuclear]\"",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T11:12:51+00:00"
+    },
+    {
+      "id": "b4c2d82423f18b90",
+      "title": "Nvidia-backed FlexSysAI launches AI workload orchestration platform to reduce stress on the grid",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-backed-flexsysai-launches-ai-workload-orchestration-platform-to-reduce-stress-on-the-grid/",
+      "summary": "Will begin deployments in the Australian market",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T11:05:40+00:00"
+    },
+    {
+      "id": "775287c029810a2f",
+      "title": "What makes a customer portal work for employees? These 4 essentials.",
+      "link": "https://www.utilitydive.com/spons/what-makes-a-customer-portal-work-for-employees-these-4-essentials/828226/",
+      "summary": "Utility portals are framed as customer experience tools, but they also improve how frontline work is done.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T09:00:00+00:00"
+    },
+    {
+      "id": "8a43d990d1519630",
+      "title": "People + Vertical AI: The new operating model for energy and utilities",
+      "link": "https://www.utilitydive.com/spons/people-vertical-ai-the-new-operating-model-for-energy-and-utilities/828314/",
+      "summary": "People + Vertical AI is redefining how utilities scale human expertise, intelligence and impact.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T09:00:00+00:00"
+    },
+    {
+      "id": "a02ed15a9d9635bc",
+      "title": "Arizona is having a grid battery growth spurt. Will that last?",
+      "link": "https://www.canarymedia.com/articles/batteries/arizona-grid-battery-growth",
+      "summary": "California and Texas have led the charge on America's grid battery revolution . Now, a third state is racing to catch up: Arizona. The Grand Canyon State installed more battery capacity than every state besides Texas over the first half of 2026, per a Canary Media analysis of U.S. Energy Information Administration\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T07:30:00+00:00"
+    },
+    {
+      "id": "98d3729a34eb029b",
+      "title": "PJM has finally greenlit a lot of new clean power. Can it get built?",
+      "link": "https://www.canarymedia.com/articles/energy-markets/pjm-greenlit-new-clean-power",
+      "summary": "The country\u2019s biggest energy market has a problem: It can\u2019t build enough power plants to keep up with electricity demand.  For PJM Interconnection\u2019s 67 million customers across 13 states, the consequences are ever-higher utility bills. For PJM itself, it\u2019s unrelenting political pressure, from blue-state lawmakers on\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T07:30:00+00:00"
     },
     {
       "id": "925baffedc06d145",
@@ -263,6 +373,16 @@
       "published": "2026-08-21T16:47:08+00:00"
     },
     {
+      "id": "5b58a8e3155c0df5",
+      "title": "Vapat enters the data center market with a 160MW project in Valladolid, Spain",
+      "link": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
+      "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-21T16:47:00+00:00"
+    },
+    {
       "id": "d727c8ac33daebba",
       "title": "Colombia halts construction of 1,600km fiber network in the Amazon",
       "link": "https://www.datacenterdynamics.com/en/news/colombia-puts-the-brakes-on-a-1600-km-fiber-optic-network-in-the-amazon/",
@@ -280,7 +400,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-08-21T16:20:47+00:00"
+      "published": "2026-08-21T16:20:00+00:00"
     },
     {
       "id": "03ae778e24be5185",
@@ -366,7 +486,7 @@
       "id": "2e84466359b0c164",
       "title": "PJM eyes option to jumpstart surplus interconnection pathway",
       "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
-      "summary": "In need of capacity, the PJM\u2019s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+      "summary": "PJM\u2019s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively\u00a0\u2014 mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6101,36 +6221,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-03T15:22:48+00:00"
-    },
-    {
-      "id": "41b22417513a3c1c",
-      "title": "Hourly peak load in ERCOT set a new record, exceeding 91 GW on July 22",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id=67906",
-      "summary": "Hourly peak load in the Electric Reliability Council of Texas (ERCOT), the regional transmission organization serving most of Texas, reached a record 91.1 gigawatts (GW) on July 22, 2026, according to data reported to us for our Hourly Electric Grid Monitor.",
-      "source": "EIA Today in Energy",
-      "category": "ISO/RTO",
-      "region": "National",
-      "published": "2026-08-03T09:00:00+00:00"
-    },
-    {
-      "id": "db2a25c2728e97e4",
-      "title": "Illinois Solar for All is, at last, taking off",
-      "link": "https://www.canarymedia.com/articles/solar/illinois-solar-for-all",
-      "summary": "Any time, day or night, parents experiencing homelessness, domestic violence, or other emergencies can drop their young kids off at the Crisis Nursery in Urbana, Illinois, and know they\u2019ll be safe and cared for.  Funding is a constant challenge for the 45-year-old nonprofit organization. But it was able to create a\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-03T07:30:00+00:00"
-    },
-    {
-      "id": "fea0f7766cf9167f",
-      "title": "Virginia lays groundwork to combine more solar with farming",
-      "link": "https://www.canarymedia.com/articles/food-and-farms/virginia-solar-with-farming",
-      "summary": "As the world\u2019s data center capital, Virginia faces a surge in energy demand that could spike power costs and lead to more polluting fossil fuel plants. At the same time, the state is seeing its farmland disappear at one of the fastest rates in the United States.  The two problems may seem unrelated, but Old Dominion\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-03T07:30:00+00:00"
     }
   ]
 }
