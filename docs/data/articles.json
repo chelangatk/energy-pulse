@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T12:45:59.978875+00:00",
-  "count": 622,
+  "generated_at": "2026-08-24T22:24:15.461959+00:00",
+  "count": 657,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-24T12:45:56.376839+00:00"
+      "published": "2026-08-24T22:24:12.814703+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-24T12:45:56.376828+00:00"
+      "published": "2026-08-24T22:24:12.814689+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-24T12:45:56.376815+00:00"
+      "published": "2026-08-24T22:24:12.814673+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-24T12:45:56.376784+00:00"
+      "published": "2026-08-24T22:24:12.814642+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-24T12:45:54.993213+00:00"
+      "published": "2026-08-24T22:21:57.584246+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,147 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-24T12:45:53.844466+00:00"
+      "published": "2026-08-24T22:21:56.950897+00:00"
+    },
+    {
+      "id": "2f5b60f98ae7680e",
+      "title": "FERC Approves Extension of Brandon Shores, Wagner RMR Through 2031",
+      "link": "https://www.rtoinsider.com/140284-ferc-approves-extension-of-brandon-shores-rmr-through-2031/",
+      "summary": "FERC has approved a two-year extension to the reliability-must-run agreement keeping the Brandon Shores and H.A. Wagner generators, located outside Baltimore, operational past their deactivation dates.\nThe post FERC Approves Extension of Brandon Shores, Wagner RMR Through 2031 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T18:08:18+00:00"
+    },
+    {
+      "id": "752760880cd36b78",
+      "title": "Bills rise when utilities use conflicting forecasts to drive gas and electric investment",
+      "link": "https://www.utilitydive.com/news/how-misaligned-utility-forecasts-drive-higher-bills-and-the-new-york-legi/827025/",
+      "summary": "Integrated planning can lower costs to ratepayers by reducing duplicative spending, and New York could lead the way, write experts at Current Energy Group and Advanced Energy United.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T16:28:11+00:00"
+    },
+    {
+      "id": "9a0c2453dd1234a1",
+      "title": "Raeden claims Michigan moratorium unlawfully stopped its Gibraltar data center development",
+      "link": "https://www.datacenterdynamics.com/en/news/raeden-claims-michigan-moratorium-unlawfully-stopped-its-gibraltar-data-center-development/",
+      "summary": "Imposed moratorium curbed proposals for a 100MW data center in the city",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T16:07:11+00:00"
+    },
+    {
+      "id": "f13637851d06d032",
+      "title": "Beyond power: The search for an AI niche",
+      "link": "https://www.datacenterdynamics.com/en/opinions/beyond-power-the-search-for-an-ai-niche/",
+      "summary": "What makes locations ideal for AI data center needs",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T15:58:48+00:00"
+    },
+    {
+      "id": "d960cb462cf1ce7b",
+      "title": "Deploying 800VDC architectures for large-amperage data centers",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/deploying-800vdc-architectures-for-large-amperage-data-centers/",
+      "summary": "800VDC architectures for the next generation of high-density data centers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T15:41:09+00:00"
+    },
+    {
+      "id": "2f1c63625c19df55",
+      "title": "Commonwealth Fusion Systems aims to complete demonstration reactor with $1B funding round",
+      "link": "https://www.utilitydive.com/news/what-a-billion-dollar-funding-means-for-commonwealth-fusion-systems-and-its/828515/",
+      "summary": "The latest cash infusion will allow the company to complete its demonstration reactor, SPARC, which CEO Bob Mumgaard said is now \u201cabout 80% complete.\u201d",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T15:40:24+00:00"
+    },
+    {
+      "id": "795a6bd35fdde52c",
+      "title": "Sphere 3D plans 50MW data center in Hopkinsville, Kentucky",
+      "link": "https://www.datacenterdynamics.com/en/news/sphere-3d-plans-50mw-data-center-in-hopkinsville-kentucky/",
+      "summary": "Alongside potential conversion of existing 15MW Bitcoin mining facility to AI and HPC",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T15:10:32+00:00"
+    },
+    {
+      "id": "823b160153152782",
+      "title": "Greenidge Generation rebrands as Vulcan Infrastructure and Power, targets AI/HPC",
+      "link": "https://www.datacenterdynamics.com/en/news/greenidge-generation-rebrands-as-vulcan-infrastructure-and-power-targets-aihpc/",
+      "summary": "Moves away from Bitcoin mining to AI and HPC data centers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T14:50:33+00:00"
+    },
+    {
+      "id": "87d9193a712e9a10",
+      "title": "Z Squared agrees to acquire full ownership of Paradox Data",
+      "link": "https://www.datacenterdynamics.com/en/news/z-squared-agrees-to-acquire-full-ownership-of-paradox-data/",
+      "summary": "Cryptomining firm acquires data center company Paradox Data",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T14:29:12+00:00"
+    },
+    {
+      "id": "fc898c63cc44d4cf",
+      "title": "Cell C launches 5G network in South Africa",
+      "link": "https://www.datacenterdynamics.com/en/news/cell-c-launches-5g-network-in-south-africa/",
+      "summary": "The operator has quietly launched its 5G network",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T14:27:06+00:00"
+    },
+    {
+      "id": "d089004cecd3e91c",
+      "title": "Switch files to develop data center on former Pittsburgh race track",
+      "link": "https://www.datacenterdynamics.com/en/news/switch-files-to-develop-data-center-on-former-pittsburgh-race-track/",
+      "summary": "Three buildings planned, with up to 270MW generator capacity",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T14:22:46+00:00"
+    },
+    {
+      "id": "703170f610b697bf",
+      "title": "Zerra DC files plans for large data center campus in Queensland, Australia",
+      "link": "https://www.datacenterdynamics.com/en/news/zerra-dc-files-plans-for-large-data-center-campus-in-queensland-australia/",
+      "summary": "Four-building campus planned next to substation and multiple power plants",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T14:20:00+00:00"
+    },
+    {
+      "id": "75d862d42041619f",
+      "title": "Microsoft, PowerHouse Hillwood in disputes over data center service agreements",
+      "link": "https://www.utilitydive.com/news/microsoft-powerhouse-hillwood-data-center-service-ferc/828566/",
+      "summary": "Data center agreements in Wisconsin fail to protect ratepayers, Microsoft says. Exelon\u2019s ComEd is using monopoly power to quash an agreement for an Illinois data center, per PowerHouse Hillwood.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T13:05:21+00:00"
+    },
+    {
+      "id": "bb644eb0e8931573",
+      "title": "AEP Ohio secures $18m from data center firms for bill assistance program",
+      "link": "https://www.datacenterdynamics.com/en/news/aep-ohio-secures-18m-from-data-center-firms-for-bill-assistance-program/",
+      "summary": "Meta, QTS, Amazon, SoftBank Energy, and Google all commit funds to the program",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T13:00:37+00:00"
     },
     {
       "id": "f93a6909324cd6ea",
@@ -133,6 +273,16 @@
       "published": "2026-08-24T11:05:40+00:00"
     },
     {
+      "id": "de3791fc0e85eb39",
+      "title": "FlexSysAI launches AI workload orchestration platform to reduce stress on the grid",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-backed-flexsysai-launches-ai-workload-orchestration-platform-to-reduce-stress-on-the-grid/",
+      "summary": "Will begin deployments in the Australian market",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T11:05:00+00:00"
+    },
+    {
       "id": "775287c029810a2f",
       "title": "What makes a customer portal work for employees? These 4 essentials.",
       "link": "https://www.utilitydive.com/spons/what-makes-a-customer-portal-work-for-employees-these-4-essentials/828226/",
@@ -149,6 +299,16 @@
       "summary": "People + Vertical AI is redefining how utilities scale human expertise, intelligence and impact.",
       "source": "Utility Dive",
       "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T09:00:00+00:00"
+    },
+    {
+      "id": "2854c6004240abe8",
+      "title": "Dangote refinery drives increase in petroleum shipments from Nigeria",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=68004",
+      "summary": "Seaborne petroleum product exports from Nigeria have grown seven-fold since 2023, playing an increasing role in the international market for petroleum products at a time when supplies from other areas have been constrained.",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
       "region": "National",
       "published": "2026-08-24T09:00:00+00:00"
     },
@@ -333,6 +493,46 @@
       "published": "2026-08-22T07:00:00+00:00"
     },
     {
+      "id": "3cdc89d4511f2bf4",
+      "title": "Tomi Fadipe",
+      "link": "https://www.tdworld.com/home/contact/55400030/tomi-fadipe",
+      "summary": "",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T21:42:47+00:00"
+    },
+    {
+      "id": "9a2c455dc4ea53f6",
+      "title": "Rethinking Substation Protection: Why More Engineers Are Turning to Virtualization",
+      "link": "https://www.tdworld.com/substations/blog/55396329/rethinking-substation-protection-why-more-engineers-are-turning-to-virtualization",
+      "summary": "As energy demands surge and grid modernization accelerates, virtualization enables utilities to deploy scalable, software-driven protection solutions that adapt to evolving requirements without extensive hardware overhauls.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T20:46:34+00:00"
+    },
+    {
+      "id": "88c0bd3cbf5e2d6c",
+      "title": "Safegrid to Showcase Predictive Fault Intelligence Solution for Modern Distribution Networks",
+      "link": "https://www.tdworld.com/overhead-distribution/product/55399975/safegrid-to-showcases-predictive-fault-intelligence-solution-for-modern-distribution-networks",
+      "summary": "The system continuously monitors electrical phenomena like partial discharge and leakage current, providing early warnings of asset deterioration and enabling targeted repairs before failures occur, saving time and costs.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T19:54:58+00:00"
+    },
+    {
+      "id": "7982ee0805d5f645",
+      "title": "R.M. Young Company and Western Weather Group to Give Away Free Wind Monitor at T&D World Live",
+      "link": "https://www.tdworld.com/electric-utility-operations/tools-and-technologies/news/55399973/rm-young-company-and-western-weather-group-to-give-away-free-wind-monitor-at-td-world-live",
+      "summary": "Attendees can visit Booth 419 to see a full weather station display, participate in a fun trivia contest to win a Wind Monitor, and learn about the combined expertise of R.M. Young and Western Weather Group. This event highlights their long-standing collaboration in providing reliable meteorological solutions.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T19:47:08+00:00"
+    },
+    {
       "id": "3f43c3e9e1ffd50c",
       "title": "Trump turns $500M grant for clean steel into funding for coal furnace",
       "link": "https://www.canarymedia.com/articles/green-steel/trump-clean-steel-grant-coal",
@@ -341,6 +541,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-21T19:30:00+00:00"
+    },
+    {
+      "id": "5210b8fc52367f37",
+      "title": "Study: U.S. Electricity Demand Could Jump 32% by 2030 Amid AI Data Center Surge",
+      "link": "https://www.tdworld.com/reliability-and-resiliency/news/55399939/study-us-electricity-demand-could-jump-32-by-2030-amid-ai-data-center-surge",
+      "summary": "The UH Energy team states that while the pace of this demand remains uncertain, natural gas, solar and battery storage are expected to handle much of the near-term load.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T19:19:48+00:00"
     },
     {
       "id": "43f4d0764200f39b",
@@ -353,6 +563,16 @@
       "published": "2026-08-21T18:40:34+00:00"
     },
     {
+      "id": "471aa0e10b7697be",
+      "title": "PA Governor\u2019s Race is Latest to Heat Up Over Data Center Policy, Electricity",
+      "link": "https://www.tdworld.com/policy/article/55399932/pa-governors-race-is-latest-to-heat-up-over-data-center-policy-electricity",
+      "summary": "Shapiro, a Democrat, released an ad calling Garrity \u201cPennsylvania\u2019s #1 fan of data centers.\u201d",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T18:28:21+00:00"
+    },
+    {
       "id": "a4294c8e2e960067",
       "title": "Don\u2019t Ask States to Become Nuclear Waste Dumps. Make Them Partners in Solving the Problem",
       "link": "https://www.powermag.com/dont-ask-states-to-become-nuclear-waste-dumps-make-them-partners-in-solving-the-problem/",
@@ -361,6 +581,26 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-21T18:03:26+00:00"
+    },
+    {
+      "id": "63230ec45c09401d",
+      "title": "Line Life Listens: Rocking the Rodeo, Part 1",
+      "link": "https://www.tdworld.com/electric-utility-operations/article/55399921/line-life-listens-rocking-the-rodeo-part-1",
+      "summary": "Mike Willman, the official voice of the International Lineman's Rodeo, shared some of his favorite songs for Rodeo Week for a series of Line Life Listens playlists.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T17:26:56+00:00"
+    },
+    {
+      "id": "2ddc92e3722b76a4",
+      "title": "Five Grid Innovations. One Winner. You Decide at T&D World Live",
+      "link": "https://www.tdworld.com/grid-innovations/news/55399894/six-grid-innovations-one-winner-you-decide-at-td-world-live",
+      "summary": "Experience the future of electric utilities at T&D World Live 2026's Innovation Shares. This interactive session features presentations on emerging approaches to enhance grid resilience and operational efficiency, with attendees voting to recognize the most innovative solution, fostering industry-wide innovation.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T17:17:44+00:00"
     },
     {
       "id": "902cdb8577a4f225",
@@ -393,6 +633,16 @@
       "published": "2026-08-21T16:42:53+00:00"
     },
     {
+      "id": "9d0bbae07273ba97",
+      "title": "Dynamic Tools Launches 44-Piece Insulated Socket and Tool Set for High-Voltage Professionals",
+      "link": "https://www.tdworld.com/electric-utility-operations/news/55399880/dynamic-tools-launches-44-piece-insulated-socket-and-tool-set-for-high-voltage-professionals",
+      "summary": "This set includes metric sockets, nut drivers, a quick-release ratchet and an adjustable wrench, all housed in a lockable case.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T16:33:42+00:00"
+    },
+    {
       "id": "9b8cdc9a3971014c",
       "title": "Nvidia backs data center powered land company Cloverleaf",
       "link": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
@@ -401,6 +651,26 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-21T16:20:00+00:00"
+    },
+    {
+      "id": "ac2b87c8ae5b62bf",
+      "title": "ComEd Crews Respond to Summer Storms",
+      "link": "https://www.tdworld.com/electric-utility-operations/news/55399874/comed-crews-respond-to-summer-storms",
+      "summary": "Early-morning storms with high winds and possible tornadoes led to 370,000 outages on Aug. 11 in ComEd's service territory.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T16:14:56+00:00"
+    },
+    {
+      "id": "33052c80202267ae",
+      "title": "Putting Safety First in the Line Trade: Featuring Max Fuentes",
+      "link": "https://www.tdworld.com/electric-utility-operations/podcast/55399854/putting-safety-first-in-the-line-trade-featuring-max-fuentes",
+      "summary": "Max Fuentes, who has more than four decades of experience, shares what issues he's seeing with safety in the line trade and how utilities can safeguard their field workforce.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T16:12:05+00:00"
     },
     {
       "id": "03ae778e24be5185",
@@ -421,6 +691,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-21T15:44:00+00:00"
+    },
+    {
+      "id": "322b4f40f03dbc7a",
+      "title": "TVA Creates New Data Center Rate to Protect Consumers, Boost Reliability",
+      "link": "https://www.tdworld.com/utility-business/article/55399847/tva-creates-new-data-center-rate-to-protect-consumers-boost-reliability",
+      "summary": "The board approved updates to TVA\u2019s wholesale rate structure to increase transparency, be more aligned to cost and protect residential and manufacturing customers from subsidizing the expenses associated with the growth of data center load in the area.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-21T15:33:46+00:00"
     },
     {
       "id": "234047399926aabc",
@@ -773,6 +1053,26 @@
       "published": "2026-08-20T21:00:00+00:00"
     },
     {
+      "id": "273d743961e94a3f",
+      "title": "Next-Gen Education: UNC Charlotte's School of Energy to Train Future U.S. Workforce, Tackle Critical Grid Demands",
+      "link": "https://www.tdworld.com/reliability-and-resiliency/news/55399623/next-gen-education-unc-charlottes-school-of-energy-to-train-future-us-workforce-tackle-critical-grid-demands",
+      "summary": "The new school will focus solely on grid modernization and the interdisciplinary hurdles facing the nation's electrical infrastructure. It builds upon a previously announced $160 million 10-year investment in July by the U.S. National Science Foundation to anchor the Carolinas Solar Energy Innovation Engine.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T19:25:28+00:00"
+    },
+    {
+      "id": "0d459115c48921ec",
+      "title": "Line Wives: The Power Behind the Power",
+      "link": "https://www.tdworld.com/electric-utility-operations/article/55393128/line-wives-the-power-behind-the-power",
+      "summary": "They keep things rolling at home when their spouses are away on storm duty or responding to emergencies or middle-of-the-night callouts.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T19:22:10+00:00"
+    },
+    {
       "id": "4f8ca1bf2437ca8d",
       "title": "The Edge of tomorrow",
       "link": "https://www.datacenterdynamics.com/en/analysis/the-edge-of-tomorrow/",
@@ -811,6 +1111,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-20T17:42:37+00:00"
+    },
+    {
+      "id": "8c784bc158ba8d0a",
+      "title": "Survey: Utility Bill Worries Eclipse Housing, Food, Transportation for Some Consumers",
+      "link": "https://www.tdworld.com/utility-business/article/55399530/survey-utility-bill-worries-eclipse-housing-food-transportation-for-some-consumers",
+      "summary": "The burden falls hardest on low-income households, 48% of whom struggled to pay compared with just 18% of medium and higher-income households.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-20T16:13:33+00:00"
     },
     {
       "id": "383c1b477313938f",
@@ -1213,6 +1523,36 @@
       "published": "2026-08-19T22:59:43+00:00"
     },
     {
+      "id": "a7646b5a7451569a",
+      "title": "Grid Monitoring Devices to Receive Protective Glass Coating",
+      "link": "https://www.tdworld.com/overhead-distribution/news/55399322/grid-monitoring-devices-to-receive-protective-glass-coating",
+      "summary": "Gridware\u2019s compact, solar-powered Gridscope devices are mounted directly on utility poles to monitor physical, electrical, structural and environmental conditions affecting power lines and other grid infrastructure.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T21:58:33+00:00"
+    },
+    {
+      "id": "d1bc5de2266a12f8",
+      "title": "Vault Access System Reduces Lifting Force for Heavy Access Doors",
+      "link": "https://www.tdworld.com/intelligent-undergrounding/installation-techniques/product/55399320/ohio-gratings-inc-vault-access-system-reduces-lifting-force-for-heavy-access-doors",
+      "summary": "With the right ergonomic hatch or vault cover system, one crew member can quickly access equipment below the surface and get to the work that matters, safely and securely.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T21:51:41+00:00"
+    },
+    {
+      "id": "b25820e6bc09a5fb",
+      "title": "Sensor and Software Platform Offers Continuous Visibility into T&D Lines",
+      "link": "https://www.tdworld.com/smart-utility/product/55399319/sensor-and-software-platform-offers-continuous-visibility-into-td-lines",
+      "summary": "Line-mounted sensors capture more than 40 electrical, physical, and environmental parameters at each location.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T21:41:32+00:00"
+    },
+    {
       "id": "567089615a91262f",
       "title": "In Michigan, LG opens one of America\u2019s biggest battery cell factories",
       "link": "https://www.canarymedia.com/articles/batteries/michigan-lg-biggest-battery-cell-factory",
@@ -1223,6 +1563,16 @@
       "published": "2026-08-19T21:00:00+00:00"
     },
     {
+      "id": "3ce6fe1ff35ae699",
+      "title": "Xcel Energy\u2019s Wildfire Mitigation Proposal Targets Equipment Safety, Grid Resilience in Extreme Weather Across Texas",
+      "link": "https://www.tdworld.com/wildfire/news/55399211/xcel-energys-wildfire-mitigation-proposal-targets-equipment-safety-grid-resilience-in-extreme-weather-across-texas",
+      "summary": "The plan reportedly awaits approval from the PUCT, with a decision anticipated within 180 days from its initial application.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T18:30:33+00:00"
+    },
+    {
       "id": "abc300c6a485956f",
       "title": "VPP value proposition expands to affordability, reliability and resilience",
       "link": "https://www.utilitydive.com/news/vpp-value-proposition-expands-to-affordability-reliability-and-resilience/828293/",
@@ -1231,6 +1581,46 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-19T17:31:40+00:00"
+    },
+    {
+      "id": "377435618604afde",
+      "title": "Utilities Can Help Close the Public Knowledge Gap on Data Centers",
+      "link": "https://www.tdworld.com/utility-business/blog/55398953/utilities-can-help-close-the-public-knowledge-gap-on-data-centers",
+      "summary": "Despite rising awareness, many consumers lack understanding of data centers' resource use and community impact. Stakeholders must proactively educate the public, emphasizing benefits like job creation while addressing resource concerns to build trust.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T17:22:42+00:00"
+    },
+    {
+      "id": "3f94e7eebc0f1a4e",
+      "title": "ScottishPower to Upgrade 70 Kilometers of 400-kV Transmission Line in Scotland",
+      "link": "https://www.tdworld.com/overhead-transmission/news/55399184/scottishpower-to-upgrade-70-kilometers-of-400-kv-transmission-line-in-scotland",
+      "summary": "SP Energy Networks' significant investment will upgrade Scotland\u2019s transmission network, including replacing aging infrastructure from the 1960s, creating jobs, and enhancing electricity capacity between Glasgow and Edinburgh.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T17:17:02+00:00"
+    },
+    {
+      "id": "58d455041c996109",
+      "title": "Neutron USA",
+      "link": "https://www.tdworld.com/directory/communications-equipment/ethernet/company/55387549/neutron-usa",
+      "summary": "",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T17:04:14+00:00"
+    },
+    {
+      "id": "e2d0ca0f7a11c71c",
+      "title": "All-Tek Industrial",
+      "link": "https://www.tdworld.com/directory/test-equipment/oil-gas/company/55399179/all-tek-industrial",
+      "summary": "",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T16:58:39+00:00"
     },
     {
       "id": "0c476d648c967b91",
@@ -1251,6 +1641,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-19T16:20:32+00:00"
+    },
+    {
+      "id": "1a465348cb5dfcdb",
+      "title": "NC State, NYPA and EPRI Demonstrate Megawatt-Class Solid-State Transformer",
+      "link": "https://www.tdworld.com/overhead-distribution/news/55399148/nc-state-nypa-and-epri-demonstrate-megawatt-class-solid-state-transformer",
+      "summary": "Supported by federal and utility funding, this project demonstrates the transition of university-led research into practical, full-scale utility applications, highlighting the potential for SSTs to improve grid efficiency, reduce operating costs, and support sustainable energy initiatives.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T16:18:31+00:00"
     },
     {
       "id": "9c35ee350f96ea1e",
@@ -1311,6 +1711,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-19T16:00:33+00:00"
+    },
+    {
+      "id": "4edd6345aafbf94e",
+      "title": "Protecting Mount Hood: PGE\u2019s Wildfire Prevention and Power Reliability Initiatives",
+      "link": "https://www.tdworld.com/wildfire/article/55393591/protecting-mount-hood-pges-wildfire-prevention-and-power-reliability-initiatives",
+      "summary": "Focusing on wildfire mitigation, PGE's initiatives include undergrounding power lines and collaborating with local agencies to protect Mount Hood's natural beauty, local economies, and residents from increasing wildfire threats amid climate change and extreme weather.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-19T15:48:05+00:00"
     },
     {
       "id": "a32707609e514c02",
@@ -5243,16 +5653,6 @@
       "published": "2026-08-07T18:56:00+00:00"
     },
     {
-      "id": "58d455041c996109",
-      "title": "Neutron USA",
-      "link": "https://www.tdworld.com/directory/communications-equipment/ethernet/company/55387549/neutron-usa",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-07T17:45:02+00:00"
-    },
-    {
       "id": "2f0ee296a879bec7",
       "title": "MOXA EDR-8010 Industrial Secure Router Series",
       "link": "https://www.tdworld.com/directory/communications-equipment/ethernet/product/55396648/neutron-usa-moxa-edr-8010-industrial-secure-router-series",
@@ -6171,56 +6571,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-04T07:30:00+00:00"
-    },
-    {
-      "id": "76d7b2de9e2fa692",
-      "title": "Exelon Weeds Out Data Center Pipeline",
-      "link": "https://www.tdworld.com/utility-business/news/55395407/exelon-weeds-out-data-center-pipeline",
-      "summary": "Leaders now see 36 gigawatts of work either as high probability or possible down the road, a drop from more than 60 GW three months ago. Said CFO Jeanne Jones: \u201cThis is what you want management to do. You want us to provide real and durable growth.\u201d",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-03T21:47:56+00:00"
-    },
-    {
-      "id": "7b5f7998b4803bed",
-      "title": "Beneath the Surface: Engineering the Future Grid",
-      "link": "https://www.tdworld.com/substations/article/55390551/beneath-the-surface-engineering-the-future-grid",
-      "summary": "From hidden engineering beneath a substation to the interconnected decisions shaping tomorrow's grid, T&D World's August issue explores how utilities are solving complex challenges in unexpected ways.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-03T21:13:46+00:00"
-    },
-    {
-      "id": "54f065db6fb83fa3",
-      "title": "ISO New England Selects Preliminary Preferred Transmission Project for Long-Term Grid Expansion",
-      "link": "https://www.tdworld.com/overhead-transmission/news/55395378/iso-new-england-selects-preliminary-preferred-transmission-project-for-long-term-grid-expansion",
-      "summary": "A key milestone in New England's long-term energy planning, ISO New England has selected a transmission upgrade to connect Maine's wind resources with high-demand areas.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-03T20:23:50+00:00"
-    },
-    {
-      "id": "f629fdc0c1b9b427",
-      "title": "Hitachi Energy Announces Executive Changes for Americas Region",
-      "link": "https://www.tdworld.com/utility-business/news/55395368/hitachi-energy-announces-executive-changes-for-americas-region",
-      "summary": "Before Hitachi,  Andy Goggin held senior positions at Siemens Energy, including senior vice president of new generation sales for the company\u2019s North American division.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-03T20:18:41+00:00"
-    },
-    {
-      "id": "2eb4041cce682063",
-      "title": "Strategic Wildlife Mitigation for Resilient Power Systems",
-      "link": "https://www.tdworld.com/reliability-and-resiliency/article/55394249/strategic-wildlife-mitigation-for-resilient-power-systems",
-      "summary": "Reducing exposed energized surfaces, improving insulation, and applying targeted hardware can significantly lower wildlife-related faults, enhancing grid reliability and safety.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-03T15:22:48+00:00"
     }
   ]
 }
