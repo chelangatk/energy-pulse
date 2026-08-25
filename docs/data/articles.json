@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T12:43:14.049402+00:00",
-  "count": 678,
+  "generated_at": "2026-08-25T22:23:03.864864+00:00",
+  "count": 701,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-25T12:43:09.611762+00:00"
+      "published": "2026-08-25T22:22:59.784222+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-25T12:43:09.611748+00:00"
+      "published": "2026-08-25T22:22:59.784208+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-25T12:43:09.611730+00:00"
+      "published": "2026-08-25T22:22:59.784191+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-25T12:43:09.611700+00:00"
+      "published": "2026-08-25T22:22:59.784159+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-25T12:43:07.170517+00:00"
+      "published": "2026-08-25T22:22:57.860185+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,247 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-25T12:43:04.614623+00:00"
+      "published": "2026-08-25T22:22:56.989963+00:00"
+    },
+    {
+      "id": "556896821fe701be",
+      "title": "MISO Adding Owensboro, Ky., Load-serving Entity",
+      "link": "https://www.rtoinsider.com/140857-miso-adding-north-ky-load-serving-entity-owensboro/",
+      "summary": "MISO will welcome a northern Kentucky municipal power provider to its list of load-serving entities, creating a new local balancing authority in its footprint.\nThe post MISO Adding Owensboro, Ky., Load-serving Entity appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T22:02:37+00:00"
+    },
+    {
+      "id": "bf2d882cf9c26f11",
+      "title": "Is Maine finally about to make wind power happen?",
+      "link": "https://www.canarymedia.com/articles/wind/maine-make-wind-power-happen",
+      "summary": "For nearly two decades, Maine has tried to build utility-scale wind in the northern reaches of the state. On Tuesday morning, utility regulators brought that vision a little closer to reality, choosing an 800-megawatt wind farm proposal and a 1.2-gigawatt transmission line plan from the bids it received earlier this\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T22:00:00+00:00"
+    },
+    {
+      "id": "5ae849de9d370d5b",
+      "title": "Braun Demands Investigation into NIPSCO Storm Prep After 2-week Blackout",
+      "link": "https://www.rtoinsider.com/140855-gov-braun-demands-investigation-nipsco-storm/",
+      "summary": "Indiana Gov. Mike Braun announced that his office is seeking an investigation into Northern Indiana Public Service Co.\u2019s storm readiness and response after a powerful derecho and cluster of tornadoes left residents without power for nearly two weeks and counting.\nThe post Braun Demands Investigation into NIPSCO Storm Prep After 2-week Blackout appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T21:56:43+00:00"
+    },
+    {
+      "id": "a8304999e82f9248",
+      "title": "MISO IMM Tries to Quell Concern About Proposed Line Rating Monitoring",
+      "link": "https://www.rtoinsider.com/140859-miso-imm-tries-to-quell-concerns-around-proposed-tx-ratings-monitoring/",
+      "summary": "MISO\u2019s Independent Market Monitor attempted to allay transmission owners\u2019 concerns that adding the monitoring of transmission facility ratings to its responsibilities would result in the office dictating how much power lines should carry.\nThe post MISO IMM Tries to Quell Concern About Proposed Line Rating Monitoring appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T21:23:42+00:00"
+    },
+    {
+      "id": "9971b5820cd01c67",
+      "title": "Stretching the Possibilities: Where Large-Load Tariffs Fit in the Future of Data Center Flexibility",
+      "link": "https://sepapower.org/knowledge/where-large-load-tariffs-fit-in-the-future-of-data-center-flexibility/",
+      "summary": "To date in 2026, utilities have proposed 25 new large-load tariffs and service rules. In parallel, regional grid operators have developed or proposed solutions to address large-load impacts on interstate transmission and wholesale power markets, including creating options for large loads to operate flexibly in exchange for faster interconnection. This quarterly installment of our 2026 [\u2026]\nThe post",
+      "source": "Smart Electric Power Alliance (SEPA)",
+      "category": "DER & Grid Modernization",
+      "region": "National",
+      "published": "2026-08-25T19:40:37+00:00"
+    },
+    {
+      "id": "bd42789ffec73d57",
+      "title": "The Regulatory Patchwork: Why Alignment and Coordination Matter in Interconnection",
+      "link": "https://sepapower.org/knowledge/why-alignment-and-coordination-matter-in-interconnection/",
+      "summary": "When the grid urgently needs new capacity, paperwork and process misalignment should not be what keeps projects from connecting. For mid-size generation and load projects, faster interconnection depends on more than better software or better policy alone. Utility processes, technology, and regulatory frameworks need to evolve together. In this installment, we explore how regulatory design [\u2026]\nThe ",
+      "source": "Smart Electric Power Alliance (SEPA)",
+      "category": "DER & Grid Modernization",
+      "region": "National",
+      "published": "2026-08-25T19:35:17+00:00"
+    },
+    {
+      "id": "2a31236de3c00940",
+      "title": "Infineon acquires Indian power systems firm C2i Semiconductors",
+      "link": "https://www.datacenterdynamics.com/en/news/infineon-acquires-indian-power-systems-firm-c2i-semiconductors/",
+      "summary": "Transaction expected to close this year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T16:11:51+00:00"
+    },
+    {
+      "id": "67bdcbd5ad02e46b",
+      "title": "Banglalink deploys rooftop solar array on data center in Cumilla, Bangladesh",
+      "link": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
+      "summary": "Has a capacity of 50kW",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T16:09:30+00:00"
+    },
+    {
+      "id": "3b73055cf07fdc50",
+      "title": "Arm's race: Building the AGI CPU",
+      "link": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
+      "summary": "Britain's chip design champion is making its own silicon for AI data centers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T16:00:33+00:00"
+    },
+    {
+      "id": "01774a53595c5ca3",
+      "title": "New Jersey seeks 150 MW of behind-the-meter storage to support VPP",
+      "link": "https://www.utilitydive.com/news/new-jersey-seeks-150-mw-of-behind-the-meter-storage-to-support-vpp/828727/",
+      "summary": "The comparatively modest maximum annual incentive of $200/kW over 10 years reflects the \u201cprivate resilience value of residential energy storage systems,\u201d state regulators said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T15:35:09+00:00"
+    },
+    {
+      "id": "b4903f24b604ca3e",
+      "title": "Residents raise concerns over proposed 50MW data center in Hopkinsville, Kentucky",
+      "link": "https://www.datacenterdynamics.com/en/news/residents-raise-concerns-over-proposed-50mw-data-center-in-hopkinsville-kentucky/",
+      "summary": "North Campbell Land Co. looking to convert its Bitcoin mining facility to AI and HPC",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T15:00:27+00:00"
+    },
+    {
+      "id": "eb95af0a2d7612b5",
+      "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in data centers",
+      "link": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+      "summary": "Why data center leaders should no longer evaluate surveillance and access systems solely as security investments.",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T15:00:25+00:00"
+    },
+    {
+      "id": "d356b7a603214cf8",
+      "title": "Data centers can vanish from the grid in seconds; reliability rules need to catch up",
+      "link": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
+      "summary": "The loss of more than 3 GW of data center demand in Virginia shows why policy must address operational behavior, not just costs, writes\u00a0AIxEnergy.io founder Brandon Owens.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T15:00:00+00:00"
+    },
+    {
+      "id": "203f8d8021206613",
+      "title": "APAC data center asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
+      "link": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+      "summary": "Will require $280 billion in capital expenditure",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T14:50:31+00:00"
+    },
+    {
+      "id": "6b0fca897ff869c4",
+      "title": "O2 expands Westminster coverage with deployment of 24 small cells",
+      "link": "https://www.datacenterdynamics.com/en/news/o2-expands-westminster-coverage-with-deployment-of-24-small-cells/",
+      "summary": "To bolster coverage in some of the capital's most congested areas",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T14:41:01+00:00"
+    },
+    {
+      "id": "89570f487aeff36f",
+      "title": "Nvidia\u2019s ultra-low-latency AI inference LPX racks hit full production",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidias-ultra-low-latency-ai-inference-lpx-racks-hit-full-production/",
+      "summary": "Neocloud Nebius among early adopters of platform promising 4x faster responsiveness for AI agents",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T14:30:27+00:00"
+    },
+    {
+      "id": "60aefd63a1157498",
+      "title": "OpenAI details Jalape\u00f1o AI chip, with 700W TDP",
+      "link": "https://www.datacenterdynamics.com/en/news/openai-details-jalape%C3%B1o-ai-chip-with-700w-tdp/",
+      "summary": "At Hot Chips, company touts its first foray into hardware",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T14:22:00+00:00"
+    },
+    {
+      "id": "50da199b21f1acf8",
+      "title": "Echelon partners with new data center liquid cooling company Trinovium",
+      "link": "https://www.datacenterdynamics.com/en/news/echelon-partners-with-new-data-center-liquid-cooling-company-trinovium/",
+      "summary": "Early win for Trinovium after being launched by biotech firm Trinity earlier this year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T14:19:25+00:00"
+    },
+    {
+      "id": "ceebb9278455f5ad",
+      "title": "Nano Nuclear partners with Tillman Digital to deploy micro nuclear reactors at US AI data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/nano-nuclear-partners-with-tillman-digital-to-deploy-micro-nuclear-reactors-at-us-ai-data-centers/",
+      "summary": "Non-binding deal envisions up to 6GW of nuclear capacity by 2040",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T14:13:11+00:00"
+    },
+    {
+      "id": "3e62146638e7459a",
+      "title": "Nebius secures $5.75bn in senior notes offering",
+      "link": "https://www.datacenterdynamics.com/en/news/nebius-secures-575bn-in-senior-notes-offering/",
+      "summary": "Company to use cash to expand data center and GPU footprint",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T14:11:00+00:00"
+    },
+    {
+      "id": "3b10d2ecd1c31b02",
+      "title": "MobileX confirms strategic investment from Charlie Ergen's CONX",
+      "link": "https://www.datacenterdynamics.com/en/news/mobilex-confirms-strategic-investment-from-charlie-ergens-conx/",
+      "summary": "Ergen joins MobileX board of directors as part of investment",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T13:56:37+00:00"
+    },
+    {
+      "id": "507a6585cf0f84f4",
+      "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-talks-natural-gas-as-a-bridge-to-ai-scale-with-stiven-smith-cummins/",
+      "summary": "Stiven Smith, Vice President, Power Generation at Cummins, speaks with James Raddings about natural gas, grid constraints and flexible power strategies for AI-scale data centers.",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T13:00:27+00:00"
+    },
+    {
+      "id": "cc68ac8e14f9e378",
+      "title": "Sponsored: Join the green computing: Ablecom unveils AbleCool RDHx portfolio",
+      "link": "https://www.datacenterdynamics.com/en/product-news/join-the-green-computing-ablecom-unveils-ablecool-rdhx-portfolio/",
+      "summary": "Delivering comprehensive cooling solutions from zero-water airflow boosters to 100kW flagship AI supercomputing racks",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T13:00:00+00:00"
+    },
+    {
+      "id": "c3ae2378317c1a88",
+      "title": "US-Canada trade war threatens electricity imports, prices",
+      "link": "https://www.utilitydive.com/news/us-canada-trade-war-threatens-electricity-imports-prices/828689/",
+      "summary": "If Canada opts\u00a0to reduce or eliminate electricity\u00a0exports to New England, the impact would be largely financial \u2014 at least under typical weather conditions, according to the region's grid operator. A previous 25% tariff in 2025 lasted only a day.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T12:55:23+00:00"
     },
     {
       "id": "a5cebb0b290928e4",
@@ -70,7 +310,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-08-25T12:30:38+00:00"
+      "published": "2026-08-25T12:30:00+00:00"
     },
     {
       "id": "6250d168a37dd83d",
@@ -80,7 +320,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-08-25T12:05:23+00:00"
+      "published": "2026-08-25T12:05:00+00:00"
     },
     {
       "id": "d4ab22a2a5acb4f7",
@@ -203,6 +443,36 @@
       "published": "2026-08-25T08:14:41+00:00"
     },
     {
+      "id": "7da07a11863a6794",
+      "title": "State Briefs",
+      "link": "https://www.rtoinsider.com/27982-state-briefs/",
+      "summary": "News briefs from the states within the footprint of RTOs.\nThe post State Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T08:00:00+00:00"
+    },
+    {
+      "id": "f4d1ed8d3c2b0df7",
+      "title": "Federal Briefs",
+      "link": "https://www.rtoinsider.com/27981-federal-briefs/",
+      "summary": "News briefs on FERC and the federal agencies that impact RTOs.\nThe post Federal Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T08:00:00+00:00"
+    },
+    {
+      "id": "bf2d64a6386cebe6",
+      "title": "Company Briefs",
+      "link": "https://www.rtoinsider.com/27979-company-briefs/",
+      "summary": "News briefs on companies and firms doing business with RTOs.\nThe post Company Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T08:00:00+00:00"
+    },
+    {
       "id": "6ec2677961121e24",
       "title": "As Ohio grapples with fake comments on clean energy, some want crackdown",
       "link": "https://www.canarymedia.com/articles/clean-energy/ohio-fake-comments-clean-energy",
@@ -283,6 +553,66 @@
       "published": "2026-08-24T22:30:00+00:00"
     },
     {
+      "id": "fadc9efa8a126d52",
+      "title": "Hitachi Energy Expands SF6-Free Switchgear Portfolio at CIGRE 2026",
+      "link": "https://www.tdworld.com/substations/news/55400445/hitachi-energy-expands-sf6-free-switchgear-portfolio-at-cigre-2026",
+      "summary": "The new EconiQ lineup addresses the global push to phase out SF6 gas by offering environmentally friendly high-voltage equipment with increased voltage and current ratings, supporting the modernization of transmission infrastructure across North America and Europe.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T20:54:30+00:00"
+    },
+    {
+      "id": "20c4f7bd2a09a1c7",
+      "title": "U.S. Delegation to Explore Grid Modernization Partnerships in Southern Africa",
+      "link": "https://www.tdworld.com/overhead-distribution/news/55400438/us-delegation-to-explore-grid-modernization-partnerships-in-southern-africa",
+      "summary": "A U.S. trip for Southern African power officials aims to foster partnerships, showcase innovative grid control solutions, and explore commercial opportunities to enhance regional power infrastructure amid growing demand and urbanization.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T20:48:07+00:00"
+    },
+    {
+      "id": "bebf0230773898e7",
+      "title": "Win a Starlink Mini at T&D World Live 2026: Stay Connected in Remote Locations",
+      "link": "https://www.tdworld.com/electric-utility-operations/news/55400419/win-a-starlink-mini-at-td-world-live-2026-stay-connected-in-remote-locations",
+      "summary": "Detect is giving away a Starlink Mini at T&D World Live 2026, a compact satellite internet device perfect for field teams working in hard-to-reach locations.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T20:26:13+00:00"
+    },
+    {
+      "id": "d472a0bcd070258d",
+      "title": "Detect Launches Enhanced DetectOS Platform at T&D World Live",
+      "link": "https://www.tdworld.com/smart-utility/data-analytics/news/55400414/detect-launches-enhanced-detectos-platform-at-td-world-live",
+      "summary": "The new DetectOS platform offers a fast, customizable interface supported by a robust data quality program, enabling utility teams to manage the entire asset lifecycle\u2014from defect detection to structural health tracking\u2014more efficiently.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T20:20:31+00:00"
+    },
+    {
+      "id": "36034ea58e0f0ff8",
+      "title": "Boston Firm ArcLight Commits $1B in Equity to Launch New Independent Transmission Company",
+      "link": "https://www.tdworld.com/utility-business/news/55400387/boston-firm-arclight-commits-1b-in-equity-to-launch-new-independent-transmission-company",
+      "summary": "Anchor Point states it aims to partner with utilities to help accelerate the development of high-voltage transmission infrastructure needed to support this targeted growth in the U.S. to meet rising electrification demand.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T20:03:16+00:00"
+    },
+    {
+      "id": "af37f9f9f02f5c9b",
+      "title": "Join Saluting Branches in Making a Difference: Volunteer for the 12th Annual Day of Service",
+      "link": "https://www.tdworld.com/vegetation-management/news/55400337/saluting-branches-prepares-for-day-of-service",
+      "summary": "Saluting Branches is organizing its 12th annual Day of Service on Sept. 16, engaging communities nationwide to volunteer in caring for veteran-dedicated properties through tree and landscape maintenance.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T18:49:29+00:00"
+    },
+    {
       "id": "2f5b60f98ae7680e",
       "title": "FERC Approves Extension of Brandon Shores, Wagner RMR Through 2031",
       "link": "https://www.rtoinsider.com/140284-ferc-approves-extension-of-brandon-shores-rmr-through-2031/",
@@ -313,6 +643,16 @@
       "published": "2026-08-24T16:22:00+00:00"
     },
     {
+      "id": "0331336dcdab54c8",
+      "title": "ComEd and Openlands Award Grants to Restore and Expand Green Spaces in Illinois",
+      "link": "https://www.tdworld.com/vegetation-management/news/55400224/comed-and-openlands-award-grants-to-restore-and-expand-green-spaces-in-illinois",
+      "summary": "The 2026 Green Region Grant Program awards $150,000 to 21 projects across northern Illinois, focusing on habitat restoration, pollinator support and climate resilience.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T16:19:40+00:00"
+    },
+    {
       "id": "9a0c2453dd1234a1",
       "title": "Raeden claims Michigan moratorium unlawfully stopped its Gibraltar data center development",
       "link": "https://www.datacenterdynamics.com/en/news/raeden-claims-michigan-moratorium-unlawfully-stopped-its-gibraltar-data-center-development/",
@@ -331,6 +671,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-24T15:58:48+00:00"
+    },
+    {
+      "id": "c3c243acbe619473",
+      "title": "Long Power Outages Plague Indiana, Governor Calls for Investigation",
+      "link": "https://www.tdworld.com/disaster-response/article/55400206/long-power-outages-plague-indiana-governor-calls-for-investigation",
+      "summary": "Indiana Governor Mike Braun is directing his office to investigate electric utility NIPSCO following power outages that began with severe storms that struck August 11 and have continued to affect northwest Indiana.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T15:50:21+00:00"
     },
     {
       "id": "d960cb462cf1ce7b",
@@ -361,6 +711,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-24T15:10:32+00:00"
+    },
+    {
+      "id": "a926f360fcf54bb0",
+      "title": "Risk-Based Vegetation Prioritization: A Strategic Approach for Utilities",
+      "link": "https://www.tdworld.com/vegetation-management/article/55373159/not-all-trees-are-equal",
+      "summary": "By applying risk-based prioritization, BGE is improving vegetation reliability outcomes.",
+      "source": "T&D World",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T14:53:41+00:00"
     },
     {
       "id": "823b160153152782",
@@ -2701,36 +3061,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-18T09:00:00+00:00"
-    },
-    {
-      "id": "7da07a11863a6794",
-      "title": "State Briefs",
-      "link": "https://www.rtoinsider.com/27982-state-briefs/",
-      "summary": "News briefs from the states within the footprint of RTOs.\nThe post State Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T08:00:00+00:00"
-    },
-    {
-      "id": "f4d1ed8d3c2b0df7",
-      "title": "Federal Briefs",
-      "link": "https://www.rtoinsider.com/27981-federal-briefs/",
-      "summary": "News briefs on FERC and the federal agencies that impact RTOs.\nThe post Federal Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T08:00:00+00:00"
-    },
-    {
-      "id": "bf2d64a6386cebe6",
-      "title": "Company Briefs",
-      "link": "https://www.rtoinsider.com/27979-company-briefs/",
-      "summary": "News briefs on companies and firms doing business with RTOs.\nThe post Company Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T08:00:00+00:00"
     },
     {
       "id": "e90185c6b0dccce9",
@@ -6681,106 +7011,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-04T23:37:00+00:00"
-    },
-    {
-      "id": "d6e2397d345faa53",
-      "title": "Microreactor startup Valar Atomics raises $1B",
-      "link": "https://www.canarymedia.com/articles/nuclear/microreactor-startup-valar-atomics-raises-1b",
-      "summary": "Valar Atomics, the three-year-old microreactor developer that has a forged a close relationship with the Trump administration, has raised $1 billion in its Series B funding round as investors increasingly bet that the White House\u2019s overhaul of nuclear regulations will clear the way for the country\u2019s first big atomic\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T22:00:00+00:00"
-    },
-    {
-      "id": "8fcb8b9a41fe44b6",
-      "title": "Nebraska Public Power District Breaks Ground on 694-MW Princeton Road Station",
-      "link": "https://www.powermag.com/nebraska-public-power-district-breaks-ground-on-694-mw-princeton-road-station/",
-      "summary": "Nebraska Public Power District (NPPD) marked the start of construction on Princeton Road Station with a groundbreaking ceremony the morning of July 17, drawing state and local officials, community stakeholders, and NPPD staff to the site just north of Hallam, Nebraska. The 694-MW dual-fuel facility will be the largest natural gas generation plant in NPPD\u2019s [\u2026]\nThe post Nebraska Public Power Distri",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T21:26:19+00:00"
-    },
-    {
-      "id": "c803ee0497263f1c",
-      "title": "Abbott Orders Full Audit of Texas Data Center Interconnection Queue, Threatens to Deny Grid Access",
-      "link": "https://www.powermag.com/abbott-orders-full-audit-of-texas-data-center-interconnection-queue-threatens-to-deny-grid-access/",
-      "summary": "Texas Governor Greg Abbott has directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to conduct a comprehensive audit of every data center advancing through the state\u2019s interconnection queue, warning that projects that fail to disclose ownership, financial, water, and community-impact information could be denied grid access. The [\u2026]\nThe post A",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T21:05:52+00:00"
-    },
-    {
-      "id": "96400ceafb784948",
-      "title": "DOE Selects ASU to Lead Genesis Mission Project for Grid Resilience Initiative",
-      "link": "https://www.tdworld.com/reliability-and-resiliency/news/55395738/doe-selects-asu-to-lead-genesis-mission-project-for-grid-resilience-initiative",
-      "summary": "Arizona State University's School of Sustainability will head this project alongside partners from Berkeley, PNNL, Penn State and UCSD to engineer solutions that benefit grid operators across the U.S.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T21:03:15+00:00"
-    },
-    {
-      "id": "eb83d6036e77bfc4",
-      "title": "CMS Getting Out of Non-Utility Renewables",
-      "link": "https://www.tdworld.com/utility-business/news/55395683/cms-getting-out-of-non-utility-renewables",
-      "summary": "Executives at the parent of Consumers Energy plan to sell assets in seven states and expect that their streamlining plan will lower CMS\u2019 funding needs by $500 million in the next four years.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T21:02:35+00:00"
-    },
-    {
-      "id": "3c5801e16298a389",
-      "title": "Battery-eligible New Jersey VPP program begins to take shape",
-      "link": "https://www.utilitydive.com/news/battery-eligible-new-jersey-vpp-program-begins-to-take-shape/826969/",
-      "summary": "Utility-owned storage could help mitigate grid congestion, a utility manager said at a July stakeholder meeting. Another said customer-centric program design is crucial to reducing attrition.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T16:50:30+00:00"
-    },
-    {
-      "id": "26ebce65908c264d",
-      "title": "Huskie Tools",
-      "link": "https://www.tdworld.com/directory/tools/battery-powered/company/21115231/huskie-tools",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T16:26:39+00:00"
-    },
-    {
-      "id": "ffc91a162f13077f",
-      "title": "Grid Modernization is Everywhere. Why Aren\u2019t All Utilities Seeing the Benefits?",
-      "link": "https://www.tdworld.com/utility-business/blog/55393860/grid-modernization-is-everywhere-why-arent-all-utilities-seeing-the-benefits",
-      "summary": "While grid modernization adoption is widespread, the realization of measurable benefits is far from universal. The difference is not simply what utilities are investing in \u2014 but how those investments are planned, executed and measured.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T16:00:08+00:00"
-    },
-    {
-      "id": "3f5b318dbf80da6d",
-      "title": "CenterPoint Energy Achieves Milestone in Houston Resiliency Initiative",
-      "link": "https://www.tdworld.com/intelligent-undergrounding/news/55395532/centerpoint-energy-achieves-milestone-in-houston-resiliency-initiative",
-      "summary": "The utility's multi-year GHRI includes upgrading infrastructure, undergrounding lines, vegetation management, and deploying automation to reduce outages and enhance grid resilience against severe weather.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T14:56:46+00:00"
-    },
-    {
-      "id": "b91e0adfcb5cbfa9",
-      "title": "Data Center Frontier Trends Summit to Relocate to Arizona, Co-Locate With Microgrid Knowledge in 2027",
-      "link": "https://www.tdworld.com/distributed-energy-resources/demand-side-management/news/55394494/data-center-frontier-trends-summit-to-relocate-to-arizona-co-locate-with-microgrid-knowledge-in-2027",
-      "summary": "Scheduled for May 5-7, 2027, the summit will focus on AI-driven infrastructure, power reliability, and energy microgrids, emphasizing the intersection of digital and energy infrastructure in North America's burgeoning data center market.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T14:33:00+00:00"
     }
   ]
 }
