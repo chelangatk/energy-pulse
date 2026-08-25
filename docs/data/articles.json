@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T22:24:15.461959+00:00",
-  "count": 657,
+  "generated_at": "2026-08-25T12:43:14.049402+00:00",
+  "count": 678,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-24T22:24:12.814703+00:00"
+      "published": "2026-08-25T12:43:09.611762+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-24T22:24:12.814689+00:00"
+      "published": "2026-08-25T12:43:09.611748+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-24T22:24:12.814673+00:00"
+      "published": "2026-08-25T12:43:09.611730+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-24T22:24:12.814642+00:00"
+      "published": "2026-08-25T12:43:09.611700+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-24T22:21:57.584246+00:00"
+      "published": "2026-08-25T12:43:07.170517+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,227 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-24T22:21:56.950897+00:00"
+      "published": "2026-08-25T12:43:04.614623+00:00"
+    },
+    {
+      "id": "a5cebb0b290928e4",
+      "title": "Starcloud closes $250m Series A extension at $2.3bn valuation to scale AI on orbital data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/starcloud-closes-250m-series-a-extension-at-23bn-valuation-to-scale-ai-on-orbital-data-centers/",
+      "summary": "ODC pioneer secures nearly half a billion dollars of investment to prove out space computing",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T12:30:38+00:00"
+    },
+    {
+      "id": "6250d168a37dd83d",
+      "title": "Nvidia invests in data center powered land company Lancium",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-invests-in-data-center-powered-land-company-lancium/",
+      "summary": "Deal will see Nvidia customers gain access to \"large-scale, power-ready capacity\u201d for AI workloads",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T12:05:23+00:00"
+    },
+    {
+      "id": "d4ab22a2a5acb4f7",
+      "title": "TeraWulf secures 482MW electrical service agreement for planned data center campus in Kentucky",
+      "link": "https://www.datacenterdynamics.com/en/news/terawulf-secures-482mw-electrical-service-agreement-for-planned-data-center-campus-in-kentucky/",
+      "summary": "Data centers' first phase is expected to come online next year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T11:59:45+00:00"
+    },
+    {
+      "id": "deda8095f164fb96",
+      "title": "Crop duster plane crashes into radio tower in Oregon, pilot in critical condition",
+      "link": "https://www.datacenterdynamics.com/en/news/crop-duster-plane-crashes-into-radio-tower-in-oregon-pilot-in-critical-condition/",
+      "summary": "A witness pulled the pilot out of the wreckage",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T11:58:34+00:00"
+    },
+    {
+      "id": "b4bc00dedebcf2c4",
+      "title": "Orange Slovakia signs ten-year solar PPA with Enery",
+      "link": "https://www.datacenterdynamics.com/en/news/orange-slovakia-signs-ten-year-solar-ppa-with-enery/",
+      "summary": "Contracted to receive 125,030MWh of power over the agreement's duration",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T11:57:28+00:00"
+    },
+    {
+      "id": "46c72632ef95b77b",
+      "title": "NRIC Adds 13 Projects to Nuclear Energy Launch Pad, Expanding Advanced Reactor and Fuel-Cycle Pipeline",
+      "link": "https://www.powermag.com/nric-adds-13-projects-to-nuclear-energy-launch-pad-expanding-advanced-reactor-and-fuel-cycle-pipeline/",
+      "summary": "The Department of Energy\u2019s (DOE\u2019s) National Reactor Innovation Center (NRIC) has selected 13 new projects across 12 companies for its Nuclear Energy Launch Pad initiative in a significant expansion of the DOE-authorization pathway that channels advanced reactor and fuel-cycle developers toward demonstration on federal and non-federal sites. The selections\u2014spanning microreactor developers, enrichme",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T11:09:05+00:00"
+    },
+    {
+      "id": "be699454a1525f24",
+      "title": "Vandals attack Openreach network in Bedminster and Chippenham, UK",
+      "link": "https://www.datacenterdynamics.com/en/news/vandals-attack-openreach-network-in-bedminster-and-chippenham-uk/",
+      "summary": "The UK fiber provider said the two incidents were separate attacks",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T10:39:39+00:00"
+    },
+    {
+      "id": "618f78b762003227",
+      "title": "IBM mainframe chip to run Arm and Z workloads on the same cores",
+      "link": "https://www.datacenterdynamics.com/en/news/ibm-mainframe-chip-to-run-arm-and-z-workloads-on-the-same-cores/",
+      "summary": "Two worlds on one chip",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T10:38:36+00:00"
+    },
+    {
+      "id": "7bf79f6dd8d77bd7",
+      "title": "Molex invests in liquid cooling vendor CAEPlus",
+      "link": "https://www.datacenterdynamics.com/en/news/molex-invests-in-liquid-cooling-vendor-caeplus/",
+      "summary": "Will aid development of BoundaryCool direct-to-chip cooling system",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T10:36:33+00:00"
+    },
+    {
+      "id": "ec63ed7b5fe7bfc4",
+      "title": "Pre-construction works start on Microsoft data center in Vaasa, Finland",
+      "link": "https://www.datacenterdynamics.com/en/news/pre-constructino/",
+      "summary": "Company is waiting on permits to commence building",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T09:50:33+00:00"
+    },
+    {
+      "id": "c03f5c01b0d45724",
+      "title": "Soluna acquires 397-acre plot in Briscoe County, Texas, for Project Dorothy 3 data center",
+      "link": "https://www.datacenterdynamics.com/en/news/soluna-acquires-397-acre-plot-in-briscoe-county-texas-for-project-dorothy-3-data-center/",
+      "summary": "Expected to have a capacity of 300MW",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T08:50:34+00:00"
+    },
+    {
+      "id": "548437b2ed2f1c9d",
+      "title": "Swiss duo Salt, Sunrise plan to share network infrastructure to bolster rural coverage",
+      "link": "https://www.datacenterdynamics.com/en/news/swiss-duo-salt-sunrise-plan-to-share-network-infrastructure-to-bolster-rural-coverage/",
+      "summary": "The MoU is part of plans to assess a broader MOCN model",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T08:30:37+00:00"
+    },
+    {
+      "id": "e78bf4fe3d059585",
+      "title": "Alibaba raises $10.2bn in Hong Kong share sale",
+      "link": "https://www.datacenterdynamics.com/en/news/alibaba-raises-102bn-in-hong-kong-share-sale/",
+      "summary": "Company selling 710 million shares in an equity placement",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T08:22:30+00:00"
+    },
+    {
+      "id": "e16aad170d1d20f6",
+      "title": "Could a tiny \u2018rainbow\u2019 chip be the key to faster 6G communications?",
+      "link": "https://www.datacenterdynamics.com/en/news/could-a-tiny-rainbow-chip-be-the-key-to-faster-6g-communications/",
+      "summary": "Scientists develop rice-sized chip for next-gen millimeter-wave connectivity",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-25T08:14:41+00:00"
+    },
+    {
+      "id": "6ec2677961121e24",
+      "title": "As Ohio grapples with fake comments on clean energy, some want crackdown",
+      "link": "https://www.canarymedia.com/articles/clean-energy/ohio-fake-comments-clean-energy",
+      "summary": "A troubling trend has shown up in some communities around the U.S.: Public officials are being inundated with seemingly fake public feedback that aims to block renewable energy and promote fossil fuels.  In Ohio, one of the states grappling with this issue, regulators have done little to crack down on the problem,\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T07:30:00+00:00"
+    },
+    {
+      "id": "d022ffbac1881247",
+      "title": "Solar delivers as Europe\u2019s power plants struggle amid heat and drought",
+      "link": "https://www.canarymedia.com/articles/solar/solar-delivers-europe-heat-drought",
+      "summary": "This story was originally published by Grist .  Sign up for Grist\u2019s newsletter.     Repeated record-breaking heat waves cooked the European continent this summer, delivering the region\u2019s hottest June on record. A simultaneous, though possibly related , drought shriveled rivers to record lows. In addition to their\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T07:30:00+00:00"
+    },
+    {
+      "id": "baf152d14be82bbc",
+      "title": "Stakeholders Question National Grid Upgrade Costs in NYISO Cluster Study",
+      "link": "https://www.rtoinsider.com/140373-stakeholders-question-national-grid-upgrade-costs-nyiso-cluster-study/",
+      "summary": "Generators and environmental interests challenged the transparency of the upgrade cost studies conducted by National Grid before the NYISO Operating Committee voted to approve the 2024 Interconnection Cluster Study.\nThe post Stakeholders Question National Grid Upgrade Costs in NYISO Cluster Study appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T00:18:09+00:00"
+    },
+    {
+      "id": "38c40d9b9fa592c0",
+      "title": "Alabama Power Sketches Plan for Data Center Law Compliance",
+      "link": "https://www.rtoinsider.com/140798-alabama-power-sketches-plan-data-center-law-compliance/",
+      "summary": "Alabama Power is offering a cursory broad-brush response to a recently enacted state law requiring data centers seeking at least 150 MW to fully cover the expense of providing service, according to a new filing with the Alabama Public Service Commission.\nThe post Alabama Power Sketches Plan for Data Center Law Compliance appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T00:01:48+00:00"
+    },
+    {
+      "id": "23c7efe79e856405",
+      "title": "PJM Considering Merging Generation, Large Load Interconnection Analysis",
+      "link": "https://www.rtoinsider.com/140286-pjm-considering-merging-generation-large-load-interconnection-analysis/",
+      "summary": "PJM is considering reworking its resource interconnection process to include large load service requests as part of its response to FERC\u2019s show-cause order on co-located load.\nThe post PJM Considering Merging Generation, Large Load Interconnection Analysis appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T23:35:24+00:00"
+    },
+    {
+      "id": "01804fce06c30425",
+      "title": "IESO Proposes Fix for Combined-cycle Make-whole Overpayments",
+      "link": "https://www.rtoinsider.com/140805-ieso-proposes-fix-combined-cycle-make-whole-overpayments/",
+      "summary": "IESO proposes a market-rule amendment to prevent inaccurate real-time make-whole payments involving derates at combined-cycle plants that use pseudo-unit models.\nThe post IESO Proposes Fix for Combined-cycle Make-whole Overpayments appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T23:25:21+00:00"
+    },
+    {
+      "id": "e77b89de1d7d23fa",
+      "title": "NERC Releases Large Load ROP Revisions for Comment",
+      "link": "https://www.rtoinsider.com/140793-nerc-large-load-rop-revisions-for-comment/",
+      "summary": "NERC is seeking comment on proposed changes to its Rules of Procedure meant to address the reliability risks of data centers and other computational large loads.\nThe post NERC Releases Large Load ROP Revisions for Comment appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T23:20:24+00:00"
+    },
+    {
+      "id": "df5daa90422ed90a",
+      "title": "Tesla ditches solar roof \u2014 and embraces regular solar panels",
+      "link": "https://www.canarymedia.com/articles/solar/tesla-pulls-plug-on-solar-roof-as-it-chases-wild-new-solar-dreams",
+      "summary": "A thousand solar roofs per week. That was the pace Elon Musk predicted Tesla would install its electricity-generating roof tiles in 2020, more than three years after he unveiled the product to great fanfare on the set of the TV show Desperate Housewives.  That estimate fell flat. Tesla managed to install a total of\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T22:30:00+00:00"
     },
     {
       "id": "2f5b60f98ae7680e",
@@ -81,6 +301,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-24T16:28:11+00:00"
+    },
+    {
+      "id": "a6e7a8670789e40e",
+      "title": "Verizon touts latest Google Cloud AI stack use",
+      "link": "https://www.datacenterdynamics.com/en/news/verizon-touts-latest-google-cloud-ai-stack-use/",
+      "summary": "More AI for customer interactions and network control",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-24T16:22:00+00:00"
     },
     {
       "id": "9a0c2453dd1234a1",
@@ -116,7 +346,7 @@
       "id": "2f1c63625c19df55",
       "title": "Commonwealth Fusion Systems aims to complete demonstration reactor with $1B funding round",
       "link": "https://www.utilitydive.com/news/what-a-billion-dollar-funding-means-for-commonwealth-fusion-systems-and-its/828515/",
-      "summary": "The latest cash infusion will allow the company to complete its demonstration reactor, SPARC, which CEO Bob Mumgaard said is now \u201cabout 80% complete.\u201d",
+      "summary": "CEO Bob Mumgaard said the reactor, SPARC, is now \u201cabout 80% complete.\u201d Experts remain divided over how soon they believe fusion technology could be commercialized.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -187,6 +417,16 @@
       "title": "Microsoft, PowerHouse Hillwood in disputes over data center service agreements",
       "link": "https://www.utilitydive.com/news/microsoft-powerhouse-hillwood-data-center-service-ferc/828566/",
       "summary": "Data center agreements in Wisconsin fail to protect ratepayers, Microsoft says. Exelon\u2019s ComEd is using monopoly power to quash an agreement for an Illinois data center, per PowerHouse Hillwood.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-24T13:05:21+00:00"
+    },
+    {
+      "id": "7fab1b6f0de28b6f",
+      "title": "Microsoft, PowerHouse Hillwood dispute data center service agreements",
+      "link": "https://www.utilitydive.com/news/microsoft-powerhouse-hillwood-data-center-service-ferc/828566/",
+      "summary": "Data center agreements in Wisconsin fail to protect ratepayers, Microsoft says. Separately, PowerHouse Hillwood has accused Exelon\u2019s ComEd of using monopoly power to quash an agreement for an Illinois data center.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6541,36 +6781,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-04T14:33:00+00:00"
-    },
-    {
-      "id": "cd3dc578b9fbf230",
-      "title": "Data centers take center stage in Wisconsin governor\u2019s race",
-      "link": "https://www.canarymedia.com/articles/data-centers/wisconsin-governors-race",
-      "summary": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists.  But today, the computing facilities \u2014 and where they get their energy \u2014 are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor.  At a lively town hall last week in\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T07:30:00+00:00"
-    },
-    {
-      "id": "5e5d68f0e832c677",
-      "title": "Massachusetts embraces backyard homes as housing and climate solution",
-      "link": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-embraces-backyard-homes",
-      "summary": "When Marsha Gleason and her husband decided it was time to downsize from the 2,000-square-foot bungalow where they\u2019d lived for the past 40 years, they didn\u2019t head to Florida or research local retirement communities. Instead, they looked to their own backyard.  The pair sold their house in Northborough, Massachusetts,\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T07:30:00+00:00"
-    },
-    {
-      "id": "732d30a7ae87cb04",
-      "title": "How to bring a geothermal well back from the dead",
-      "link": "https://www.canarymedia.com/articles/geothermal/zanskar-brings-geothermal-well-back",
-      "summary": "This story was originally published by  Wired  and is reproduced here as part of the  Climate Desk  collaboration.   Geothermal company Zanskar bought a New Mexico power plant in 2024 that appeared from the outside to be failing. The shallow wells had been rapidly losing heat, and the plant was having trouble\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T07:30:00+00:00"
     }
   ]
 }
