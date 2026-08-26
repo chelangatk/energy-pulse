@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T22:23:03.864864+00:00",
-  "count": 701,
+  "generated_at": "2026-08-26T12:48:16.267261+00:00",
+  "count": 715,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-25T22:22:59.784222+00:00"
+      "published": "2026-08-26T12:48:12.166054+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-25T22:22:59.784208+00:00"
+      "published": "2026-08-26T12:48:12.166035+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-25T22:22:59.784191+00:00"
+      "published": "2026-08-26T12:48:12.166018+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-25T22:22:59.784159+00:00"
+      "published": "2026-08-26T12:48:12.165987+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-25T22:22:57.860185+00:00"
+      "published": "2026-08-26T12:48:09.996288+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,207 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-25T22:22:56.989963+00:00"
+      "published": "2026-08-26T12:48:08.464115+00:00"
+    },
+    {
+      "id": "2d5937ab46204087",
+      "title": "OpenAI's head of data centers, Chris Malone, latest to depart",
+      "link": "https://www.datacenterdynamics.com/en/news/openais-head-of-data-centers-chris-malone-latest-to-depart/",
+      "summary": "Stargate crew has seen key figures leave",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T12:09:25+00:00"
+    },
+    {
+      "id": "b5ab0575271778f1",
+      "title": "Optics startup Quintessent secures $40m to revolutionize interconnects for AI",
+      "link": "https://www.datacenterdynamics.com/en/news/optics-startup-quintessent-secures-40m-to-revolutionize-interconnects-for-ai/",
+      "summary": "Ciena among backers of DWDM link player using gallium arsenide over supply-chain-constrained indium phosphide",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T11:18:22+00:00"
+    },
+    {
+      "id": "a6cd011e118919ec",
+      "title": "AI cloud Lambda seeks $3bn funding round ahead of IPO plans - report",
+      "link": "https://www.datacenterdynamics.com/en/news/ai-cloud-lambda-seeks-3bn-funding-round-ahead-of-ipo-plans-report/",
+      "summary": "Could look to go public next year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T11:13:10+00:00"
+    },
+    {
+      "id": "0db566e959253ac0",
+      "title": "AI data center and sovereign cloud launched in Papua New Guinea",
+      "link": "https://www.datacenterdynamics.com/en/news/ai-data-center-and-sovereign-cloud-launched-in-papua-new-guinea/",
+      "summary": "And other sovereign cloud news",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T11:11:31+00:00"
+    },
+    {
+      "id": "3f6b76f9496fcadb",
+      "title": "Canada's CityWest to construct new fiber route along Highway 37 in effort to boost network resiliency",
+      "link": "https://www.datacenterdynamics.com/en/news/canadas-citywest-to-construct-new-fiber-route-along-highway-37-in-effort-to-boost-network-resiliency/",
+      "summary": "It comes after recent disruption to Internet services in the region",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T11:10:06+00:00"
+    },
+    {
+      "id": "d4ccbfaf4e50fd6f",
+      "title": "GE Vernova announces medium-voltage UPS for data center sector",
+      "link": "https://www.datacenterdynamics.com/en/news/ge-vernova-announces-medium-voltage-ups-for-data-center-sector/",
+      "summary": "Expects to begin shipping units by mid-2027",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T10:53:29+00:00"
+    },
+    {
+      "id": "4d94e2b61c91b0dc",
+      "title": "Navitas Semiconductor acquires power management firm Claros for $232.8m",
+      "link": "https://www.datacenterdynamics.com/en/news/navitas-semiconductor-acquires-power-management-firm-claros-for-2328m/",
+      "summary": "Claros develops tech designed to power high-speed AI chipsets",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T10:48:10+00:00"
+    },
+    {
+      "id": "d68a3b139f68be23",
+      "title": "Emerald AI raises $150m in Series A funding to scale commercial deployments",
+      "link": "https://www.datacenterdynamics.com/en/news/emerald-ai-raises-150m-in-series-a-funding-to-scale-commercial-deployments/",
+      "summary": "Follows the completion of its fifth demonstration project",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T10:37:01+00:00"
+    },
+    {
+      "id": "53b056c82d6bb7ff",
+      "title": "Application filed for 200MW data center in Melbourne, Australia",
+      "link": "https://www.datacenterdynamics.com/en/news/application-filed-for-200mw-data-center-in-melbourne-australia/",
+      "summary": "DoverDC targets second project near South Morang Terminal Station",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T09:42:37+00:00"
+    },
+    {
+      "id": "144d83055a1224ec",
+      "title": "Geothermal needs better tools for superhot drilling. Hephae can help.",
+      "link": "https://www.canarymedia.com/articles/geothermal/geothermal-needs-better-tools-hephae",
+      "summary": "Thousands of feet beneath the desert valley of southwest Utah, a slender tool tucked inside a drill pipe is barreling through hot granite. The rod-shaped device, built by the startup Hephae Energy Technology , is a tracker of sorts, wirelessly sending data to help operators above steer the drill below and to measure\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T07:30:00+00:00"
+    },
+    {
+      "id": "82cf1c9590e06630",
+      "title": "California virtual power plant bills clear key legislative hurdle",
+      "link": "https://www.canarymedia.com/articles/virtual-power-plants/california-virtual-power-plant-bills-clear-key-legislative-hurdle",
+      "summary": "Last year, California Gov. Gavin Newsom vetoed a slate of bills meant to expand virtual power plants that could offset the state\u2019s fast-rising electricity costs. Will he do the same this year?  Earlier this month, two virtual power plant bills made it through a key legislative hurdle. Lawmakers must vote on the bills\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T07:30:00+00:00"
+    },
+    {
+      "id": "39bbe0445121b429",
+      "title": "Sponsored: How AI is reshaping data center power testing and commissioning",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-reshaping-data-center-power-testing-and-commissioning/",
+      "summary": "As AI transforms power architecture, testing and commissioning, operational services are becoming just as important as the electrical equipment itself",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "id": "2ec2d7f8b95bdcb5",
+      "title": "Transmission, Wind Projects Selected in Northern Maine Procurement",
+      "link": "https://www.rtoinsider.com/140969-maine-procurement-tx-wind-projects/",
+      "summary": "Maine has preliminarily selected a 1,200-MW transmission line and an 800-MW onshore wind project in its Northern Maine power procurement, which it has conducted in coordination with four other New England states.\nThe post Transmission, Wind Projects Selected in Northern Maine Procurement appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T01:04:59+00:00"
+    },
+    {
+      "id": "97606dbc948a3eae",
+      "title": "U.S. Data Center Gas Power Proposals Double in 6 Months",
+      "link": "https://www.rtoinsider.com/140931-gas-generation-planned-us-data-centers-doubles-six-months/",
+      "summary": "Global Energy Monitor reported the amount of gas-fired power generation proposed for direct connection to U.S. data centers jumped from 97 GW to 189 GW in the first half of 2026.\nThe post U.S. Data Center Gas Power Proposals Double in 6 Months appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T00:47:53+00:00"
+    },
+    {
+      "id": "51708b6f78deeca2",
+      "title": "FERC Approves SPP Economic Topology Reconfigs",
+      "link": "https://www.rtoinsider.com/140957-ferc-approves-spp-economic-topology-reconfigs/",
+      "summary": "FERC approved an SPP tariff revision to use economic topology reconfigurations, saying it will help to reduce market production costs and improve the grid's efficiency by relieving congestion and displacing higher-cost generation.\nThe post FERC Approves SPP Economic Topology Reconfigs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T00:07:20+00:00"
+    },
+    {
+      "id": "5a96415327ac72fd",
+      "title": "FERC Technical Conference Comments Delve into PJM Governance",
+      "link": "https://www.rtoinsider.com/140930-ferc-technical-conference-comments-delve-into-pjm-governance/",
+      "summary": "Dozens of comments recommend FERC enact sweeping changes to PJM\u2019s Board of Managers and stakeholder process as part of a technical conference on the RTO\u2019s governance.\nThe post FERC Technical Conference Comments Delve into PJM Governance appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T00:04:43+00:00"
+    },
+    {
+      "id": "7c0cf5e6f3438741",
+      "title": "Demand Response Shortfalls Shape IESO 2027 Capacity Auction Changes",
+      "link": "https://www.rtoinsider.com/140945-demand-response-shortfalls-drive-ieso-2027-capacity-auction-changes/",
+      "summary": "Ontario\u2019s hourly demand response resources delivered only about 64% of their capacity obligations during summer 2025 activations and rarely updated their bids to reflect what they could actually provide, according to IESO.\nThe post Demand Response Shortfalls Shape IESO 2027 Capacity Auction Changes appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T23:47:18+00:00"
+    },
+    {
+      "id": "5b8e2d8d58f2782c",
+      "title": "BPA Considers Changes to Transmission Queue Processing",
+      "link": "https://www.rtoinsider.com/140804-bpa-considers-changes-transmission-queue-proessing/",
+      "summary": "The Bonneville Power Administration could reorient its first-come, first-served transmission queue order and impose stricter requirements to speed up processing of transmission service requests.\nThe post BPA Considers Changes to Transmission Queue Processing appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T23:00:16+00:00"
+    },
+    {
+      "id": "f3cc7e2fe64641a8",
+      "title": "FERC\u2019s Grid-enhancing Technology Push is Missing a Data Standard",
+      "link": "https://www.rtoinsider.com/140838-fercs-grid-enhancing-technology-push-is-missing-a-data-standard/",
+      "summary": "FERC's grid-enhancing technology push is missing a requirement for better data, Delta Energy CTO Everardo Camacho argues.\nThe post FERC\u2019s Grid-enhancing Technology Push is Missing a Data Standard appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T22:44:01+00:00"
+    },
+    {
+      "id": "bf19bac43b09783b",
+      "title": "NRDC Quantifies Effect of Trump Campaign Against Renewables",
+      "link": "https://www.rtoinsider.com/140934-nrdc-report-blames-trump-power-cost-rise-renewables-slide/",
+      "summary": "The NRDC estimates as much as $700 billion in lost clean energy development, hundreds of dollars in annual rate hikes and lost chances to reduce emissions.\nThe post NRDC Quantifies Effect of Trump Campaign Against Renewables appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T22:40:40+00:00"
     },
     {
       "id": "556896821fe701be",
@@ -180,7 +380,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-08-25T15:00:25+00:00"
+      "published": "2026-08-25T15:00:00+00:00"
     },
     {
       "id": "d356b7a603214cf8",
@@ -6951,66 +7151,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-05T13:53:27+00:00"
-    },
-    {
-      "id": "1b28c0e7b6e17cf9",
-      "title": "PSEG offers large load supply proposals in PJM\u2019s bilateral contracting process",
-      "link": "https://www.utilitydive.com/news/pseg-data-center-pjm-bilateral-contract-reliability/827045/",
-      "summary": "Also, Public Service Enterprise Group is \u201cencouraged\u201d by potential changes to the utility business model in New Jersey, CEO Ralph LaRossa said.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T12:38:51+00:00"
-    },
-    {
-      "id": "a0e22ff3ea99051d",
-      "title": "Facing an estimated 474 GW of interconnection requests, Texas hits pause on data centers",
-      "link": "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
-      "summary": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T12:23:45+00:00"
-    },
-    {
-      "id": "5786cba34bb4459d",
-      "title": "The U.S.-Canada natural gas and electricity trade value rose in 2025",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id=",
-      "summary": "Although the total value of energy trade between the United States and Canada fell by 11% in 2025 to an estimated $137 billion, according to data from the U.S. Census Bureau, the trade value of natural gas and electricity between the two countries increased slightly primarily because of increased natural gas prices and trade volume.",
-      "source": "EIA Today in Energy",
-      "category": "ISO/RTO",
-      "region": "National",
-      "published": "2026-08-05T09:00:00+00:00"
-    },
-    {
-      "id": "ab5fdaf4f795acd6",
-      "title": "PJM\u2019s big new data center plan: Make the states figure it out",
-      "link": "https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan",
-      "summary": "PJM Interconnection, the biggest grid operator in the U.S., has finally settled on a plan to prevent data centers from causing other customers\u2019 utility bills to soar further in its 13-state territory.  That plan relies heavily on states themselves, and the utilities they regulate, to force data centers to secure\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T07:30:00+00:00"
-    },
-    {
-      "id": "30222890b0feb642",
-      "title": "Base Power raises $1B to get big batteries into more homes",
-      "link": "https://www.canarymedia.com/articles/batteries/base-power-raises-1b-to-get-big-batteries-into-more-homes",
-      "summary": "Home battery startup Base Power seems constitutionally incapable of standing still. After raising $1 billion last October, the Texas company has raised another $1 billion, and upped its valuation from $4 billion to $13 billion.  The latest investment, led by Ribbit, Addition, Valor Equity Partners, and\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T01:27:00+00:00"
-    },
-    {
-      "id": "841456b621f12b64",
-      "title": "Court rules against Trump EPA\u2019s freeze of $20B in \u2018green bank\u2019 funds",
-      "link": "https://www.canarymedia.com/articles/climatetech-finance/court-rules-against-trump-epas-freeze-of-20b-in-green-bank-funds",
-      "summary": "A federal appeals court has ruled that the Environmental Protection Agency acted improperly in terminating billions of dollars of \u201cgreen bank\u201d financing last year, setting up a potential showdown before the U.S. Supreme Court over one of the Trump administration's earliest attacks on a key Biden-era climate program.\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-04T23:37:00+00:00"
     }
   ]
 }
