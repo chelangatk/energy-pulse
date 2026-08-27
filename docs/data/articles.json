@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T12:48:16.267261+00:00",
-  "count": 715,
+  "generated_at": "2026-08-27T02:52:37.533820+00:00",
+  "count": 737,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-26T12:48:12.166054+00:00"
+      "published": "2026-08-27T02:52:33.925018+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-26T12:48:12.166035+00:00"
+      "published": "2026-08-27T02:52:33.925004+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-26T12:48:12.166018+00:00"
+      "published": "2026-08-27T02:52:33.924986+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-26T12:48:12.165987+00:00"
+      "published": "2026-08-27T02:52:33.924959+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-26T12:48:09.996288+00:00"
+      "published": "2026-08-27T02:52:31.318970+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,327 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-26T12:48:08.464115+00:00"
+      "published": "2026-08-27T02:52:30.389053+00:00"
+    },
+    {
+      "id": "c8c8500c51c98abd",
+      "title": "IESO Weighs Capacity Treatment of Storage, Gas in LT2",
+      "link": "https://www.rtoinsider.com/141223-ieso-weighs-capacity-treatment-storage-gas-in-lt2/",
+      "summary": "IESO is reconsidering whether battery storage and natural gas should continue competing under a single capacity target in the second window of Ontario\u2019s Long-Term 2 (LT2) procurement.\nThe post IESO Weighs Capacity Treatment of Storage, Gas in LT2 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-27T01:24:04+00:00"
+    },
+    {
+      "id": "5af91b1db6019ff6",
+      "title": "CISA Red Team Test Finds Key Weaknesses",
+      "link": "https://www.rtoinsider.com/141184-cisa-red-team-exercise-reports-finds-weaknesses/",
+      "summary": "Simulated cyberattacks at two critical infrastructure organizations revealed important weaknesses that security personnel need to take seriously, CISA wrote.\nThe post CISA Red Team Test Finds Key Weaknesses appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-27T00:48:47+00:00"
+    },
+    {
+      "id": "ae6a4870ceb2f93d",
+      "title": "Legislatures Consider Many Clean Energy Restrictions, Enact Few",
+      "link": "https://www.rtoinsider.com/141194-legislatures-consider-many-clean-energy-restrictions-enact-few/",
+      "summary": "Election-year strategizing may be a factor in the diminished activity of state-level clean energy siting legislation, an advocacy group said.\nThe post Legislatures Consider Many Clean Energy Restrictions, Enact Few appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-27T00:25:37+00:00"
+    },
+    {
+      "id": "960b2e3f4f41438d",
+      "title": "State Advocates in PJM Ask FERC to Squelch Reliability Backstop Plan",
+      "link": "https://www.rtoinsider.com/141197-state-advocates-pjm-ask-ferc-squelch-reliability-backstop-plan/",
+      "summary": "Ratepayer advocates in a half-dozen PJM states and the District of Columbia are urging FERC to reject the RTO\u2019s proposed reliability backstop procurement, saying it will unfairly burden the public with expenses tied to serving power-hungry data centers.\nThe post State Advocates in PJM Ask FERC to Squelch Reliability Backstop Plan appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-27T00:00:19+00:00"
+    },
+    {
+      "id": "2d51967234b3ec05",
+      "title": "National Grid Proposes $1.2B Line Rebuild in Mass. and Vermont",
+      "link": "https://www.rtoinsider.com/141228-national-grid-proposes-line-rebuild-mass-vermont/",
+      "summary": "National Grid has proposed a $1.2 billion project to rebuild\u00a0to 345-kV specifications a 230-kV line running across northern Massachusetts and through southern Vermont to the New York border.\nThe post National Grid Proposes $1.2B Line Rebuild in Mass. and Vermont appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T23:57:02+00:00"
+    },
+    {
+      "id": "9f4997170d86ff26",
+      "title": "Xcel\u2019s \u2018Speed to Market\u2019 for Large Loads Criticized",
+      "link": "https://www.rtoinsider.com/141182-xcels-speed-to-market-for-large-loads-criticized/",
+      "summary": "Elected officials in Colorado and members of the public are slamming Xcel Energy\u2019s proposed \u201cspeed-to-market\u201d pathway for large load customers that would bypass a large load tariff that is under review.\nThe post Xcel\u2019s \u2018Speed to Market\u2019 for Large Loads Criticized appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T23:10:45+00:00"
+    },
+    {
+      "id": "6a6382e1b015734e",
+      "title": "BPA Seeks to Modernize Public Involvement Policy",
+      "link": "https://www.rtoinsider.com/141190-bpa-updates-public-involvement-policy/",
+      "summary": "The Bonneville Power Administration provided more information on its initiative to modernize the agency\u2019s 40-year-old public involvement policy, saying stakeholders can expect push notifications for announcements and updated commenting guidelines.\nThe post BPA Seeks to Modernize Public Involvement Policy appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T22:55:45+00:00"
+    },
+    {
+      "id": "9e348c52e29a60e8",
+      "title": "Texas Should Supercharge Private Grids",
+      "link": "https://www.rtoinsider.com/140937-texas-should-supercharge-private-grids/",
+      "summary": "Texas can give large load developers the \u201cspeed to power\u201d they need while keeping the grid affordable and reliable for existing customers. All they have to do is remove barriers to private grids, says Travis Fisher of the Cato Institute.\nThe post Texas Should Supercharge Private Grids appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T22:49:58+00:00"
+    },
+    {
+      "id": "88fac59c1d116fb2",
+      "title": "Washington State Lawmakers Eye New Data Center Regs",
+      "link": "https://www.rtoinsider.com/141216-washington-state-lawmakers-eye-new-data-center-regs/",
+      "summary": "Washington state lawmakers are likely to impose new rules and regulations on data centers in 2027 amid growing backlash over a surge in proposed projects that will test the state\u2019s power grid.\nThe post Washington State Lawmakers Eye New Data Center Regs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T22:46:11+00:00"
+    },
+    {
+      "id": "b1972c8482163266",
+      "title": "PGE on Track to Join EDAM as Settlement Errors Linger",
+      "link": "https://www.rtoinsider.com/140378-pge-on-track-join-edam-despite-settlement-errors/",
+      "summary": "Portland General Electric is on schedule to join CAISO\u2019s Extended Day-Ahead market on Oct. 1 as the ISO works on correcting settlement errors in the new day-ahead market.\nThe post PGE on Track to Join EDAM as Settlement Errors Linger appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T22:17:32+00:00"
+    },
+    {
+      "id": "3d69fbaf50be39ac",
+      "title": "U.S. Army Mobilizes $2.2B Janus Program to Deploy More Than 20 Commercial Microreactors",
+      "link": "https://www.powermag.com/u-s-army-mobilizes-2-2b-janus-program-to-deploy-more-than-20-commercial-microreactors/",
+      "summary": "The U.S. Army has mobilized up to $2.2 billion for a five-year effort to build and operate more than 20 commercial nuclear microreactors across military installations, selecting five reactor developers and five initial sites for a program designed to push advanced nuclear systems beyond federal test programs and into sustained operation. On Aug. 26, the [\u2026]\nThe post U.S. Army Mobilizes $2.2B Janus",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T20:32:59+00:00"
+    },
+    {
+      "id": "8e9e924e69fd2742",
+      "title": "Hull Street Acquires Two PJM-Based Power Stations from Rockland Capital",
+      "link": "https://www.powermag.com/hull-street-acquires-two-pjm-based-power-stations-from-rockland-capital/",
+      "summary": "Maryland-based investment firm Hull Street Energy announced it has completed its acquisition of two Midwestern power plants that provide electricity in the PJM Interconnection.\nThe post Hull Street Acquires Two PJM-Based Power Stations from Rockland Capital appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T19:07:29+00:00"
+    },
+    {
+      "id": "bf7cea0b347cb37a",
+      "title": "Eurofiber secures \u20ac2.2bn sustainability-linked debt financing",
+      "link": "https://www.datacenterdynamics.com/en/news/eurofiber-secures-22bn-sustainability-linked-debt-financing/",
+      "summary": "Will support Eurofiber's European expansion plans",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T17:01:03+00:00"
+    },
+    {
+      "id": "357e1ba5aacaa253",
+      "title": "Sweden's EcoDataCenter acquires land in Dalarna for 150MW campus",
+      "link": "https://www.datacenterdynamics.com/en/news/swedens-ecodatacenter-acquires-land-in-dalarna-for-150mw-campus/",
+      "summary": "Company's third project in Dalarna County",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T16:54:37+00:00"
+    },
+    {
+      "id": "1133e341bf9d809f",
+      "title": "Dimension Energy Secures $857 Million to Support Distributed Solar",
+      "link": "https://www.powermag.com/dimension-energy-secures-857-million-to-support-distributed-solar/",
+      "summary": "A U.S. developer, owner, and operator of distributed energy infrastructure announced it has received an $857-million capital infusion to accelerate growth of its distributed solar energy program.\nThe post Dimension Energy Secures $857 Million to Support Distributed Solar appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T16:54:20+00:00"
+    },
+    {
+      "id": "e0adaf68d11ba362",
+      "title": "The POWER Interview: How Is Rising Scrutiny Changing the Way Data Centers Secure Power?",
+      "link": "https://www.powermag.com/the-power-interview-how-is-rising-scrutiny-changing-the-way-data-centers-secure-power/",
+      "summary": "A recent flurry of state and federal action points to a marked pivot from treating data center growth as a grid-planning challenge to requiring large-load customers to show who pays for grid upgrades, what capacity supports the load, and how projects will operate during system stress. Morgan Lewis partner Arjun P. Ramadevanahalli spoke with POWER [\u2026]\nThe post The POWER Interview: How Is Rising Scr",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T16:28:58+00:00"
+    },
+    {
+      "id": "cb8a5e278cafacb3",
+      "title": "Leaf Space deploys ground station in Nova Scotia, Canada",
+      "link": "https://www.datacenterdynamics.com/en/news/leaf-space-deploys-ground-station-in-nova-scotia-canada/",
+      "summary": "Company's first Canadian deployment",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T16:07:04+00:00"
+    },
+    {
+      "id": "442fa3a876edb3bb",
+      "title": "Empyrion closes financing for Taipei, Taiwan data center with E.Sun Bank",
+      "link": "https://www.datacenterdynamics.com/en/news/empyrion-closes-financing-for-taipei-taiwan-data-center-with-esun-bank/",
+      "summary": "APAC operator closes financing for 7MW data center in Neihu, Taipei",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T16:00:42+00:00"
+    },
+    {
+      "id": "b013cf9987cf5606",
+      "title": "Administrative Office of the U.S. Courts seeks vendor for two colocation data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/administrative-office-of-the-us-courts-seeks-vendor-for-two-colocation-data-centers/",
+      "summary": "Currently uses Digital Realty and Csquare through a third-party vendor",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T15:45:41+00:00"
+    },
+    {
+      "id": "39aba7b03a711845",
+      "title": "Case Study: How Kirby equipped their engineering teams across Europe with advanced, specialist expertise",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/case-study-how-kirby-equipped-their-engineering-teams-across-europe/",
+      "summary": "Discover how Kirby implemented a structured, scalable upskilling program to keep pace with sector demands",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T15:38:00+00:00"
+    },
+    {
+      "id": "441cd38e3c018ef1",
+      "title": "Mistral and Humain team up for sovereign AI in Saudi Arabia",
+      "link": "https://www.datacenterdynamics.com/en/news/mistral-and-humain-team-up-for-sovereign-ai-in-saudi-arabia/",
+      "summary": "Will also bring services to wider Middle East region",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T15:13:37+00:00"
+    },
+    {
+      "id": "ceccfe22d73e3f8f",
+      "title": "Nevada \u2018misses an opportunity\u2019 in performance-based DER tariffs: advocate",
+      "link": "https://www.utilitydive.com/news/nevada-misses-an-opportunity-in-performance-based-der-tariffs-advocate/828836/",
+      "summary": "The new demand response frameworks bring the state in line with other pay-for-performance virtual power plants while keeping NV Energy in the driver\u2019s seat.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T15:07:56+00:00"
+    },
+    {
+      "id": "b5a7c07b13c97af5",
+      "title": "Rum Group signs up to $13.7bn lease agreement with unnamed US cloud customer",
+      "link": "https://www.datacenterdynamics.com/en/news/rum-group-signs-up-to-137bn-lease-agreement-with-unnamed-us-cloud-customer/",
+      "summary": "Unnamed customer to lease capacity from Rum's data center in Maysville, Georgia",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T15:01:46+00:00"
+    },
+    {
+      "id": "4d9429ab9ddcfd38",
+      "title": "Sponsored: The AI buildout has hit a labor wall",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-ai-buildout-has-hit-a-labor-wall/",
+      "summary": "Everyone's fighting over GPUs and megawatts, but often, what actually stalls a build is finding people to wire it. Here's why the labor problem is the real ceiling",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T15:00:00+00:00"
+    },
+    {
+      "id": "1a4f23cdb6a357cc",
+      "title": "Grid connection of data centers in France",
+      "link": "https://www.datacenterdynamics.com/en/opinions/grid-connection-of-data-centers-in-france/",
+      "summary": "A closer look at the legal framework and practical issues",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T14:58:00+00:00"
+    },
+    {
+      "id": "6d5af3c955fed8f6",
+      "title": "Governing physical access at hyperscale",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/governing-physical-access-at-hyperscale/",
+      "summary": "Access governance across 300+ sites and millions of identities",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T14:53:01+00:00"
+    },
+    {
+      "id": "92566dce5c59cd90",
+      "title": "Trump\u2019s energy policy could cost US 540 GW of renewables, says NRDC",
+      "link": "https://www.utilitydive.com/news/trumps-energy-policy-could-cost-us-540-gw-of-renewables-says-nrdc/828826/",
+      "summary": "\u201cWe lose more than half of everything that we expected to be able to build with the combination of market forces and proactive policy,\u201d\u00a0said Amanda Levin, NRDC\u2019s director of policy analysis.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T14:01:37+00:00"
+    },
+    {
+      "id": "b1f979f5d3080e50",
+      "title": "Westinghouse eVinci Reaches Criticality Milestone at Nevada Test Site",
+      "link": "https://www.powermag.com/westinghouse-evinci-reaches-criticality-milestone-at-nevada-test-site/",
+      "summary": "Westinghouse\u2019s eVinci microreactor has completed zero-power criticality testing at the National Criticality Experiments Research Center (NCERC), a National Nuclear Security Administration (NNSA) facility at the Nevada National Security Site (NNSS). The company said the milestone, achieved at 10:39 a.m. PT on Aug. 24 in partnership with Los Alamos National Laboratory (LANL) and Idaho National Labor",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-26T13:58:01+00:00"
+    },
+    {
+      "id": "9a631a68c74cfbaa",
+      "title": "Exa Infrastructure adds Barcelona-Bilbao route to European network",
+      "link": "https://www.datacenterdynamics.com/en/news/exa-infrastructure-adds-barcelona-bilbao-route-to-european-network/",
+      "summary": "A new terrestrial link connects the two cities",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T13:21:41+00:00"
+    },
+    {
+      "id": "571a45c558d38f07",
+      "title": "MTN forms data center partnership with unnamed investor",
+      "link": "https://www.datacenterdynamics.com/en/news/mtn-forms-data-center-partnership-with-unnamed-investor/",
+      "summary": "Pan-African telco said to be targeting more than 150MW of new capacity in first phase",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T13:19:31+00:00"
+    },
+    {
+      "id": "f0b71529f56d5a64",
+      "title": "Spain drafts rules requiring data centers to source 80% of power from new renewables - report",
+      "link": "https://www.datacenterdynamics.com/en/news/spain-drafts-rules-requiring-data-centers-to-source-80-of-power-from-new-renewables-report/",
+      "summary": "Draft decree would apply to data centers with a capacity of 1MW or more",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T13:15:54+00:00"
+    },
+    {
+      "id": "4902ba8dc88a351d",
+      "title": "Armada launches 10MW modular data center, Orion",
+      "link": "https://www.datacenterdynamics.com/en/news/armada-launches-10mw-modular-data-center-orion/",
+      "summary": "The largest iteration of Armada's Galleon family",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-26T13:10:00+00:00"
     },
     {
       "id": "2d5937ab46204087",
@@ -151,6 +471,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-26T09:42:37+00:00"
+    },
+    {
+      "id": "47efca5144af9f13",
+      "title": "Eight petroleum liquids pipeline projects have been completed since the start of 2025",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=68024",
+      "summary": "In the 2026 release of our Liquids Pipeline Projects Database, we tracked the completion of 8 liquid fuels pipeline projects since the start of 2025, and an additional 14 new projects have been announced.",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
+      "region": "National",
+      "published": "2026-08-26T09:00:00+00:00"
     },
     {
       "id": "144d83055a1224ec",
@@ -361,6 +691,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-25T15:35:09+00:00"
+    },
+    {
+      "id": "d234fa8585161f84",
+      "title": "PacifiCorp to suspend California energy efficiency programs under proposed settlement",
+      "link": "https://www.utilitydive.com/news/pacificorp-suspend-california-energy-efficiency-programs/828721/",
+      "summary": "The programs have \u201chistorically not provided cost-effectiveness benefits to ratepayers and, indeed, show a decline in performance in recent years,\u201d said the\u00a0California Public Utilities Commission\u2019s\u00a0Public Advocates Office.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-25T15:14:15+00:00"
     },
     {
       "id": "b4903f24b604ca3e",
@@ -7031,126 +7371,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-06T07:00:00+00:00"
-    },
-    {
-      "id": "97862ce2c4dfac57",
-      "title": "Prysmian Acquires Scottish Training Academy for High-Voltage Cable Jointers",
-      "link": "https://www.tdworld.com/safety-and-training/news/55396088/prysmian-acquires-scottish-training-academy-for-high-voltage-cable-jointers",
-      "summary": "The acquisition of the training academy strengthens Prysmian\u2019s capabilities in underground and subsea high-voltage cable installation, supporting UK and European energy infrastructure development.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T21:36:25+00:00"
-    },
-    {
-      "id": "00b8476a91ca92bc",
-      "title": "IFS Copperleaf Launches New Asset Investment Planning Platform",
-      "link": "https://www.tdworld.com/smart-utility/news/55396075/ifs-copperleaf-launches-new-asset-investment-planning-platform",
-      "summary": "The new platform expands Copperleaf's Value Framework, integrating regulatory intelligence, no-code AI tools, and business case automation to streamline investment processes, reduce manual effort, and support rapid, informed decision-making in critical infrastructure sectors.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T21:04:17+00:00"
-    },
-    {
-      "id": "59d6bbc31574562f",
-      "title": "PJM Fast-Tracks 700+ Energy Projects into First Reformed Grid Review",
-      "link": "https://www.tdworld.com/reliability-and-resiliency/news/55396064/pjm-fast-tracks-700-energy-projects-into-first-reformed-grid-review",
-      "summary": "This reformed process aims to improve the predictability and safely fast-track large-scale infrastructure online as hyperscalers increasingly struggle to secure enough grid access.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T20:57:59+00:00"
-    },
-    {
-      "id": "eb706d6e716b396e",
-      "title": "Hossein Tabrizi",
-      "link": "https://www.tdworld.com/home/contact/55396021/hossein-tabrizi",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T19:20:05+00:00"
-    },
-    {
-      "id": "8cb28033ad27a8ca",
-      "title": "Nick Ingolfsland",
-      "link": "https://www.tdworld.com/home/contact/55396020/nick-ingolfsland",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T19:19:30+00:00"
-    },
-    {
-      "id": "ba047651a94f1a14",
-      "title": "Resilient Restoration: Rethinking Layered Endpoint Security at the Grid\u2019s Edge",
-      "link": "https://www.tdworld.com/electric-utility-operations/article/55395620/resilient-restoration-rethinking-layered-endpoint-security-at-the-grids-edge",
-      "summary": "Utility companies are adopting rugged mobile devices and comprehensive security strategies to protect field operations against sophisticated cyberattacks, maintaining operational continuity in challenging environments.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T19:05:57+00:00"
-    },
-    {
-      "id": "79eecb1d52138c9f",
-      "title": "State-by-State Shifts in Data Center Regulations and Their Impact on Electricity and Communities",
-      "link": "https://www.tdworld.com/policy/article/55393446/the-data-center-policy-shift",
-      "summary": "As public opinion shifts and politicians reverse course, states explore new ways to regulate data centers in an attempt to keep electricity affordable.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T18:07:29+00:00"
-    },
-    {
-      "id": "220399c4835b1f9e",
-      "title": "California DER wholesale market participation could grow 2+ GW from CAISO \u2018accounting change\u2019: advocate",
-      "link": "https://www.utilitydive.com/news/california-der-wholesale-market-participation-could-grow-2-gw-from-caiso/827122/",
-      "summary": "Behind-the-meter batteries and other aggregated DERs could get another lift from a related rulemaking at the California Public Utilities Commission, but a final ruling is unlikely before next year, a regulatory expert told Utility Dive.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T17:43:20+00:00"
-    },
-    {
-      "id": "6370a9aec3744586",
-      "title": "DOE Finalizes $489 Million Loan for Puerto Rico Battery Storage Projects",
-      "link": "https://www.tdworld.com/distributed-energy-resources/energy-storage/news/55395936/doe-finalizes-489-million-loan-for-puerto-rico-battery-storage-projects",
-      "summary": "Funding will deploy battery systems in Arecibo and Santa Isabel, providing backup power for over 100,000 customers, reducing outages, and supporting domestic manufacturing, with long-term savings estimated at $312.5 million over 25 years.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T17:24:27+00:00"
-    },
-    {
-      "id": "7a8b2f3cf0c40e74",
-      "title": "The POWER Interview: NRG\u2019s Case for Bring Your Own Power\u2014and the Labor to Build It",
-      "link": "https://www.powermag.com/the-power-interview-nrgs-case-for-bring-your-own-power-and-the-labor-to-build-it/",
-      "summary": "NRG Energy on Aug. 4 unveiled its first Bring Your Own Power (BYOP) project, a 1.2-GW combined-cycle plant in Texas supported by a 15-year contract with an investment-grade \u201cleading global cloud and artificial-intelligence hyperscaler.\u201d The $3.2 billion facility, backed by a customer parent guarantee, is targeted for commercial operation in late 2029 and could be [\u2026]\nThe post The POWER Interview: ",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T15:07:15+00:00"
-    },
-    {
-      "id": "242503f3c0da7acb",
-      "title": "$20B in federal climate grants unblocked by appeals court",
-      "link": "https://www.utilitydive.com/news/20b-federal-climate-grants-unblocked-appeals-court/827097/",
-      "summary": "A divided court rejected the U.S. Environmental Protection Agency\u2019s attempt to reclaim Greenhouse Gas Reduction Fund grants \u201cbased solely on a policy disagreement\u201d with the Inflation Reduction Act.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T14:49:00+00:00"
-    },
-    {
-      "id": "7c7220c522800081",
-      "title": "AI\u2019s Obstacle: Why the Grid Can\u2019t Keep Pace With the Data Center Boom",
-      "link": "https://www.powermag.com/ais-obstacle-why-the-grid-cant-keep-pace-with-the-data-center-boom/",
-      "summary": "Growth in artificial intelligence (AI) is outpacing the world\u2019s ability to generate enough power to sustain it. As AI adoption accelerates worldwide, it\u2019s colliding with a power system that wasn\u2019t built for its level of demand. Vittorio Pierangeli, senior vice president PowerGen at Rolls-Royce Power Systems (Figure 1), explains why electricity, not chips or algorithms, [\u2026]\nThe post AI\u2019s Obstacle: ",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-05T13:53:27+00:00"
     }
   ]
 }
