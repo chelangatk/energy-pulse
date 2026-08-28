@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T21:47:29.757123+00:00",
-  "count": 749,
+  "generated_at": "2026-08-28T05:56:25.191204+00:00",
+  "count": 748,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-27T21:47:26.393972+00:00"
+      "published": "2026-08-28T05:56:22.968231+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-27T21:47:26.393959+00:00"
+      "published": "2026-08-28T05:56:22.968217+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-27T21:47:26.393942+00:00"
+      "published": "2026-08-28T05:56:22.968200+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-27T21:47:26.393904+00:00"
+      "published": "2026-08-28T05:56:22.968169+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-27T21:47:24.501536+00:00"
+      "published": "2026-08-28T05:56:21.288013+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,97 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-27T21:47:22.837867+00:00"
+      "published": "2026-08-28T05:56:20.077642+00:00"
+    },
+    {
+      "id": "06a5fda8905093f4",
+      "title": "SPP Stakeholders Endorse Interim Solution for West BAA",
+      "link": "https://www.rtoinsider.com/141372-spp-stakeholders-endorse-interim-solution-west-baa/",
+      "summary": "SPP stakeholders have endorsed a priority tariff change to address tight capacity margins that have resulted in three energy emergency alerts this summer in the RTO\u2019s new Western balancing authority area.\nThe post SPP Stakeholders Endorse Interim Solution for West BAA appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-28T01:51:33+00:00"
+    },
+    {
+      "id": "2126ceee335bb594",
+      "title": "Ariz. Regulators Urged to Oversee Utilities\u2019 Day-ahead Market Choices",
+      "link": "https://www.rtoinsider.com/141378-arizona-regulators-urged-get-involved-utilities-day-ahead-market-choices/",
+      "summary": "Calling Arizona electric utilities\u2019 choice of a day-ahead market \u201cmassive operational decisions,\u201d advocacy groups are asking state regulators to step in to bring more transparency to the selection process.\nThe post Ariz. Regulators Urged to Oversee Utilities\u2019 Day-ahead Market Choices appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-28T01:08:14+00:00"
+    },
+    {
+      "id": "4a28a6387b1cccdb",
+      "title": "Toronto Third Line Developer Could Bear More Cost Risk Under IESO Framework",
+      "link": "https://www.rtoinsider.com/141351-toronto-third-line-developers-could-bear-more-risk-ieso-framework/",
+      "summary": "IESO is developing a framework that would place more of the Toronto Third Line\u2019s risk on the winning developer for factors it can reasonably control, while potentially allowing adjustments for factors outside its control.\nThe post Toronto Third Line Developer Could Bear More Cost Risk Under IESO Framework appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-28T01:04:37+00:00"
+    },
+    {
+      "id": "a2c2e81eba388281",
+      "title": "New England Transmission Owners Detail 5-year Rate Forecast",
+      "link": "https://www.rtoinsider.com/141350-new-england-transmission-owners-detail-5-year-rate-forecast/",
+      "summary": "Based on forecast capital investments, the New England transmission owners expect ISO-NE\u2019s Regional Network Service rate to grow from $177.63/kW-year in 2026 to about $237/kW-year in 2031, an increase of about 33%.\nThe post New England Transmission Owners Detail 5-year Rate Forecast appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-28T00:23:08+00:00"
+    },
+    {
+      "id": "a143e17d950b3df5",
+      "title": "BPA to Issue Further Clarification on Day-ahead Market Options",
+      "link": "https://www.rtoinsider.com/141344-bpa-to-issue-further-guidance-market-choice/",
+      "summary": "As speculation swirls around the Bonneville Power Administration\u2019s day-ahead market choice, the agency\u2019s new Administrator Travis Kavulla is expected to further clarify how he weighs market options, industry sources told RTO Insider.\nThe post BPA to Issue Further Clarification on Day-ahead Market Options appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-27T23:47:50+00:00"
+    },
+    {
+      "id": "dcd420fef95882fa",
+      "title": "Georgia Power Gets PSC Approval for Massive Data Center Contract",
+      "link": "https://www.rtoinsider.com/141368-georgia-power-gets-go-ahead-massive-data-center-contract/",
+      "summary": "Georgia Power can move forward with a 3.2-GW contract to power an OpenAI data center after satisfying state regulators\u2019 concerns about the potential impacts on the utility\u2019s existing ratepayers.\nThe post Georgia Power Gets PSC Approval for Massive Data Center Contract appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-27T23:31:05+00:00"
+    },
+    {
+      "id": "0a968b4eddcf87bf",
+      "title": "MISO Finds Higher Load Loss Risks as it Launches South Long-range Tx Plan",
+      "link": "https://www.rtoinsider.com/141365-miso-higher-load-loss-risks-as-launches-south-long-range-tx-plan/",
+      "summary": "MISO South\u2019s network of load pockets has not been operating to the one-day-in-10-years reliability standard and could face more capacity shortcomings by 2030, despite utilities\u2019 generation additions and transmission upgrades.\nThe post MISO Finds Higher Load Loss Risks as it Launches South Long-range Tx Plan appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-27T22:46:58+00:00"
+    },
+    {
+      "id": "5d6dcc1ca21ad6cc",
+      "title": "The New Baseload: Firming Variable Generation with Battery Storage",
+      "link": "https://www.rtoinsider.com/141186-new-baseload-firming-variable-generation-battery-storage/",
+      "summary": "Paired with battery energy storage, renewable generation offers a viable alternative capable of mitigating resource variability and enhancing grid reliability by providing dependable capacity.\nThe post The New Baseload: Firming Variable Generation with Battery Storage appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-27T22:04:15+00:00"
+    },
+    {
+      "id": "a3c79e09557a2693",
+      "title": "Feds Seize Alleged China Hacking Platforms",
+      "link": "https://www.rtoinsider.com/141331-feds-seize-alleged-china-hacking-platforms/",
+      "summary": "Federal agents have seized domain names used in extensive hacking operations supported by the Chinese government, the Department of Justice said.\nThe post Feds Seize Alleged China Hacking Platforms appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-27T22:01:53+00:00"
     },
     {
       "id": "bfdecc254e3204c5",
@@ -7391,106 +7481,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-07T07:30:00+00:00"
-    },
-    {
-      "id": "14bb42e693e862ea",
-      "title": "BPA has not Made Legal Commitment to Markets+, Agency Tells 9th Circ.",
-      "link": "https://www.rtoinsider.com/138540-ninth-circ-hears-argument-suit-over-bpa-dam-choice/",
-      "summary": "Judges on the 9th U.S. Circuit Court of Appeals questioned whether a group of nonprofits suing the Bonneville Power Administration over its day-ahead market choice have standing, while targeting the agency\u2019s argument that it has yet to make a final decision.\nThe post BPA has not Made Legal Commitment to Markets+, Agency Tells 9th Circ. appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-07T01:27:10+00:00"
-    },
-    {
-      "id": "9f7f7694cf0e5c00",
-      "title": "Board Grants SPP \u2018Urgent\u2019 Status for West BAA Tariff Change",
-      "link": "https://www.rtoinsider.com/138557-board-grants-spp-urgent-status-west-baa-tariff-change/",
-      "summary": "SPP staff and stakeholders are moving quickly to respond to two energy emergency alerts and nearly a third in July that have exposed resource adequacy issues in SPP\u2019s Western Interconnection balancing area authority.\nThe post Board Grants SPP \u2018Urgent\u2019 Status for West BAA Tariff Change appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-07T01:05:49+00:00"
-    },
-    {
-      "id": "ab6320d19de42d31",
-      "title": "NERC Taking Comments on NIST Mapping, RSDP",
-      "link": "https://www.rtoinsider.com/138530-nerc-taking-comments-nist-mapping-rsdp/",
-      "summary": "NERC is seeking stakeholder feedback on two draft documents with implications for its standards projects.\nThe post NERC Taking Comments on NIST Mapping, RSDP appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-07T00:50:26+00:00"
-    },
-    {
-      "id": "c86ce4b0dcc78677",
-      "title": "IESO Plans Higher Connection Deposits, Earlier Invoicing",
-      "link": "https://www.rtoinsider.com/138470-ieso-plans-higher-connection-deposits-earlier-invoicing/",
-      "summary": "IESO intends to replace its decades-old connection deposit structure, based on project type, with capacity-based tiers ranging from $50,000 to $250,000.\nThe post IESO Plans Higher Connection Deposits, Earlier Invoicing appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-07T00:46:36+00:00"
-    },
-    {
-      "id": "53a83c97c7e047a1",
-      "title": "Judge Orders DOD to Lift Onshore Wind Review Freeze",
-      "link": "https://www.rtoinsider.com/138551-judge-orders-dod-lift-onshore-wind-review-freeze/",
-      "summary": "A judge has directed the Department of Defense to lift its freeze on review of proposed onshore wind farms and to provide updates every 30 days on its resumption of the review process.\nThe post Judge Orders DOD to Lift Onshore Wind Review Freeze appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-06T23:54:57+00:00"
-    },
-    {
-      "id": "b377e94fefe52c15",
-      "title": "FERC OKs CAISO Interconnection Payment and Schedule Revisions",
-      "link": "https://www.rtoinsider.com/138532-ferc-oks-caiso-interconnection-payment-schedule-revisions/",
-      "summary": "FERC approved a group of changes to CAISO\u2019s interconnection processes, including unifying shared payment and authorization schedules among certain customers.\nThe post FERC OKs CAISO Interconnection Payment and Schedule Revisions appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-06T23:11:36+00:00"
-    },
-    {
-      "id": "afd77139f8833092",
-      "title": "NEPOOL Participants Support Proposed Asset Condition Reviewer",
-      "link": "https://www.rtoinsider.com/138528-nepool-pc-support-proposed-asset-condition-reviewer/",
-      "summary": "The NEPOOL Participants Committee has voted to support the creation of an asset condition reviewer role within ISO-NE intended to increase scrutiny into spending on local transmission upgrades.\nThe post NEPOOL Participants Support Proposed Asset Condition Reviewer appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-06T23:05:20+00:00"
-    },
-    {
-      "id": "d282d1fb3467aabf",
-      "title": "FERC Approves Vistra-Cogentrix Merger Despite Market Monitors\u2019 Concerns",
-      "link": "https://www.rtoinsider.com/138538-ferc-approves-vistra-cogentrix-merger-despite-monitor-concerns/",
-      "summary": "FERC approved Vistra's purchase of Cogentrix, which will give the IPP larger footprints in PJM and New England.\nThe post FERC Approves Vistra-Cogentrix Merger Despite Market Monitors\u2019 Concerns appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-06T23:02:06+00:00"
-    },
-    {
-      "id": "adfe4077283a9275",
-      "title": "Virginia Gov. Spanberger Intervenes in Dominion Merger Case at SCC",
-      "link": "https://www.rtoinsider.com/138536-virginia-gov-spanberger-intervenes-in-dominion-merger/",
-      "summary": "Virginia Gov. Abigail Spanberger (D) announced she was intervening in the SCC's review of NextEra Energy and Dominion Energy's merger, with an op-ed listing her office's goals for the case.\nThe post Virginia Gov. Spanberger Intervenes in Dominion Merger Case at SCC appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-06T22:29:29+00:00"
-    },
-    {
-      "id": "5f338dc9da6e2821",
-      "title": "The Pentagon's wind farm blockade is over \u2014 for now",
-      "link": "https://www.canarymedia.com/articles/wind/pentagon-wind-farm-blockade-over",
-      "summary": "The U.S. Department of Defense has for months refused to conduct routine military evaluations of proposed onshore wind farms, creating a de facto moratorium on the clean energy source at a time of exploding electricity demand.  On Thursday, a federal judge appointed by President Donald Trump ordered the agency to\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-06T21:53:00+00:00"
     }
   ]
 }
