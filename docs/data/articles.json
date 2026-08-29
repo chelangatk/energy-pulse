@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T03:28:21.034743+00:00",
-  "count": 737,
+  "generated_at": "2026-08-29T16:13:52.205779+00:00",
+  "count": 738,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-29T03:28:18.463077+00:00"
+      "published": "2026-08-29T16:13:49.602493+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-29T03:28:18.463062+00:00"
+      "published": "2026-08-29T16:13:49.602479+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-29T03:28:18.463045+00:00"
+      "published": "2026-08-29T16:13:49.602461+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-29T03:28:18.463012+00:00"
+      "published": "2026-08-29T16:13:49.602430+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-29T03:28:17.043910+00:00"
+      "published": "2026-08-29T16:13:47.984155+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-29T03:28:16.063707+00:00"
+      "published": "2026-08-29T16:13:46.915941+00:00"
+    },
+    {
+      "id": "3f5b920e1892838f",
+      "title": "From pressure to proof: Leading through constraint in the data center era",
+      "link": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+      "summary": "And the mindset shift the team needed",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-29T11:00:31+00:00"
+    },
+    {
+      "id": "2e758ab03226679c",
+      "title": "Sponsored: The fiber connectivity challenge behind AI at scale",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/the-fiber-connectivity-challenge-behind-ai-at-scale/",
+      "summary": "CommScope\u2019s experts explain how fiber infrastructure can support faster deployment, greater resilience, and future flexibility",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-08-29T07:00:00+00:00"
     },
     {
       "id": "5a7a60f8b28e1b99",
@@ -7361,16 +7381,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-09T13:00:24+00:00"
-    },
-    {
-      "id": "a686a11021895d16",
-      "title": "Sponsored: How high-performance coatings accelerate AI data center construction",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/how-high-performance-coatings-accelerate-ai-data-center-construction/",
-      "summary": "As modular construction accelerates, coatings are helping improve speed, reliability, safety, and sustainability across the data center lifecycle",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-08T07:00:00+00:00"
     }
   ]
 }
