@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T21:44:10.189205+00:00",
-  "count": 738,
+  "generated_at": "2026-08-29T03:28:21.034743+00:00",
+  "count": 737,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-28T21:44:06.440936+00:00"
+      "published": "2026-08-29T03:28:18.463077+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-28T21:44:06.440925+00:00"
+      "published": "2026-08-29T03:28:18.463062+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-28T21:44:06.440912+00:00"
+      "published": "2026-08-29T03:28:18.463045+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-28T21:44:06.440885+00:00"
+      "published": "2026-08-29T03:28:18.463012+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-28T21:44:04.466926+00:00"
+      "published": "2026-08-29T03:28:17.043910+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-28T21:44:03.626903+00:00"
+      "published": "2026-08-29T03:28:16.063707+00:00"
     },
     {
       "id": "5a7a60f8b28e1b99",
@@ -7371,16 +7371,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-08T07:00:00+00:00"
-    },
-    {
-      "id": "b9c8c1d74a92711d",
-      "title": "Trump launched big new solar tariffs. Here's what it means.",
-      "link": "https://www.canarymedia.com/articles/solar/trump-new-solar-tariffs",
-      "summary": "A far-reaching new tariff on solar imports promises to both raise the cost of installing the clean energy source and strengthen efforts to reshore solar manufacturing.  The White House announced the new tariffs Thursday on imported polysilicon and related products, including silicon-based solar panels and their\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-07T22:30:00+00:00"
     }
   ]
 }
