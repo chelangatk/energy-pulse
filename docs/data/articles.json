@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T23:51:58.060413+00:00",
-  "count": 739,
+  "generated_at": "2026-08-30T16:04:47.535051+00:00",
+  "count": 738,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-29T23:51:55.414679+00:00"
+      "published": "2026-08-30T16:04:44.301969+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-29T23:51:55.414665+00:00"
+      "published": "2026-08-30T16:04:44.301955+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-29T23:51:55.414648+00:00"
+      "published": "2026-08-30T16:04:44.301937+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-29T23:51:55.414614+00:00"
+      "published": "2026-08-30T16:04:44.301905+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-29T23:51:53.812144+00:00"
+      "published": "2026-08-30T16:04:42.026783+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-29T23:51:53.117730+00:00"
+      "published": "2026-08-30T16:04:40.667870+00:00"
     },
     {
       "id": "3f5b920e1892838f",
@@ -7381,16 +7381,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-09T16:51:52+00:00"
-    },
-    {
-      "id": "e86f73bca41744bd",
-      "title": "Community benefit agreements are essential to data center success",
-      "link": "https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/",
-      "summary": "The roadmap to being a good neighbor",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-09T13:00:24+00:00"
     }
   ]
 }
