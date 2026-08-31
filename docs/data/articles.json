@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T16:04:47.535051+00:00",
-  "count": 738,
+  "generated_at": "2026-08-31T00:11:13.790009+00:00",
+  "count": 739,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-30T16:04:44.301969+00:00"
+      "published": "2026-08-31T00:11:09.861590+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-30T16:04:44.301955+00:00"
+      "published": "2026-08-31T00:11:09.861580+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-30T16:04:44.301937+00:00"
+      "published": "2026-08-31T00:11:09.861567+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-30T16:04:44.301905+00:00"
+      "published": "2026-08-31T00:11:09.861538+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-30T16:04:42.026783+00:00"
+      "published": "2026-08-31T00:11:07.739824+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,107 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-30T16:04:40.667870+00:00"
+      "published": "2026-08-31T00:11:06.896035+00:00"
+    },
+    {
+      "id": "31efaee277b9c0d4",
+      "title": "PJM Stakeholders Endorse 2029/30 Capacity Auction Parameters",
+      "link": "https://www.rtoinsider.com/141675-pjm-stakeholders-endorse-2029-30-capacity-auction-parameters/",
+      "summary": "The PJM Markets and Reliability Committee endorsed the RTO\u2019s recommended installed reserve margin and forecast pool requirement values for the 2029/30 Base Residual Auction.\nThe post PJM Stakeholders Endorse 2029/30 Capacity Auction Parameters appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T21:01:37+00:00"
+    },
+    {
+      "id": "a3784fdb9e3e7775",
+      "title": "PJM MRC/MC Briefs: Aug. 19, 2026",
+      "link": "https://www.rtoinsider.com/141680-pjm-mrc-mc-081926/",
+      "summary": "PJM's Markets and Reliability Committee endorsed a suite of changes to push back some of the deadlines for the RTO to post capacity auction planning parameters.\nThe post PJM MRC/MC Briefs: Aug. 19, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T20:26:08+00:00"
+    },
+    {
+      "id": "84050ec0c0b175d1",
+      "title": "NYISO Considering New Demand Curve Shape; Maintaining Status Quo for Proxy Unit",
+      "link": "https://www.rtoinsider.com/140370-nyiso-considering-new-demand-curve-shape-maintaining-status-quo-proxy-unit/",
+      "summary": "NYISO staff unveiled their recommendations for where the ISO should focus its efforts in revising the Demand Curve Reset process.\nThe post NYISO Considering New Demand Curve Shape; Maintaining Status Quo for Proxy Unit appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T19:31:57+00:00"
+    },
+    {
+      "id": "cb7d45e24626ad30",
+      "title": "PJM Stakeholders Considering 3 Proposals to Rework Reserve Market",
+      "link": "https://www.rtoinsider.com/141677-pjm-stakeholders-considering-3-proposals-rework-reserve-market/",
+      "summary": "PJM, American Municipal Power and the Independent Market Monitor each presented proposals to the Markets and Reliability Committee to rework the reserve market to address poor performance among some resources and growing forecast uncertainty from the growth of wind and solar generation.\nThe post PJM Stakeholders Considering 3 Proposals to Rework Reserve Market appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T19:27:55+00:00"
+    },
+    {
+      "id": "5a0847560f877a37",
+      "title": "Stakeholders Urge MISO to Go Beyond FERC Order to Prevent Spillover Costs from Large Loads",
+      "link": "https://www.rtoinsider.com/141640-stakeholders-urge-miso-go-beyond-ferc-order-prevent-spillover-costs-large-loads/",
+      "summary": "MISO is concentrating on creating customer protections to ensure that the transmission projects needed to interconnect large loads aren\u2019t involuntarily paid for by other transmission customers.\nThe post Stakeholders Urge MISO to Go Beyond FERC Order to Prevent Spillover Costs from Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T19:25:53+00:00"
+    },
+    {
+      "id": "0e6b5e6603eeda7d",
+      "title": "Texas PUC Approves State\u2019s First 765-kV Lines",
+      "link": "https://www.rtoinsider.com/141670-texas-puc-approves-first-765-kv-lines/",
+      "summary": "Texas regulators approved the state's first 765-kV transmission lines, accepting and modifying proposed decisions for a pair of Oncor applications. The two segments make up one of three import paths into the oil-rich Permian Basin.\nThe post Texas PUC Approves State\u2019s First 765-kV Lines appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T18:30:25+00:00"
+    },
+    {
+      "id": "86998543001887f7",
+      "title": "The Mad Scramble for Turbines and Implications for the Grid",
+      "link": "https://www.rtoinsider.com/141659-mad-scramble-turbines-implications-for-the-grid/",
+      "summary": "Turbines dedicated to data centers from the three primary manufacturers would total somewhere around 65 GW either delivered in 2026 or to be commissioned over the next few years. That\u2019s nowhere close to the 189 GW of announced projects.\nThe post The Mad Scramble for Turbines and Implications for the Grid appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T18:28:07+00:00"
+    },
+    {
+      "id": "46dfd9ff265ea9de",
+      "title": "Delaware Enacts Strict Clean Power Requirements for Data Centers",
+      "link": "https://www.rtoinsider.com/141493-delaware-enacts-strict-clean-power-requirements-data-centers/",
+      "summary": "Delaware and New Jersey governors both claim data center regulation crown for their states.\nThe post Delaware Enacts Strict Clean Power Requirements for Data Centers appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T18:25:12+00:00"
+    },
+    {
+      "id": "8baa8d692ca36364",
+      "title": "Stakeholders Call for Earlier MISO Evals on Tx Project Cost Overruns",
+      "link": "https://www.rtoinsider.com/141652-stakeholders-call-earlier-miso-evals-tx-project-cost-overruns/",
+      "summary": "Some stakeholders asked MISO to intervene earlier with re-evaluations when transmission projects significantly exceed their budgets and to give more serious thought to canceling projects that become too overpriced.\nThe post Stakeholders Call for Earlier MISO Evals on Tx Project Cost Overruns appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T18:20:43+00:00"
+    },
+    {
+      "id": "87d965945ad89dac",
+      "title": "CAISO Board Lifts Hold on Silicon Valley Transmission Projects",
+      "link": "https://www.rtoinsider.com/140375-caiso-board-lifts-hold-silicon-valley-transmission-projects/",
+      "summary": "Two transmission projects in Silicon Valley can move forward to serve large loads and other increasing demand in the area, the CAISO Board of Governors decided.\nThe post CAISO Board Lifts Hold on Silicon Valley Transmission Projects appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-30T18:17:19+00:00"
     },
     {
       "id": "3f5b920e1892838f",
@@ -7291,96 +7391,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-10T07:30:00+00:00"
-    },
-    {
-      "id": "0de955c7ad395753",
-      "title": "Stakeholders Weigh in on Hurdles to N.J.\u2019s VPP Plans",
-      "link": "https://www.rtoinsider.com/138724-stakeholders-voice-support-hurdles-new-jersey-vpp-plans/",
-      "summary": "Stakeholders at a meeting hosted by the New Jersey Board of Public Utilities weighed in on the state's proposal to create a virtual power plant.\nThe post Stakeholders Weigh in on Hurdles to N.J.\u2019s VPP Plans appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-09T20:43:53+00:00"
-    },
-    {
-      "id": "1aef6bd881ad4bad",
-      "title": "Groups Warn that La. Ratepayers Could be Saddled with Buildout for Meta\u2019s Hyperion",
-      "link": "https://www.rtoinsider.com/138696-nonprofits-denounce-louisiana-meta-buildout-warn-cost-spillover/",
-      "summary": "Earthjustice, the Union of Concerned Scientists and the Alliance for Affordable Energy argued that Louisiana ratepayers could end up footing some of the power bill for Meta\u2019s \u201cHyperion\u201d data center complex.\nThe post Groups Warn that La. Ratepayers Could be Saddled with Buildout for Meta\u2019s Hyperion appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-09T20:28:24+00:00"
-    },
-    {
-      "id": "31ba64c67e3478f6",
-      "title": "SPP: BPA Decision Expected Within Months",
-      "link": "https://www.rtoinsider.com/138721-spp-bpa-decision-expected-within-months/",
-      "summary": "SPP staff told stakeholders they expect a decision within the next two months from the Bonneville Power Administration on whether it will follow through on its commitment to join the RTO\u2019s day-ahead Markets+.\nThe post SPP: BPA Decision Expected Within Months appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-09T18:38:24+00:00"
-    },
-    {
-      "id": "5c9ce0dbc4b4a597",
-      "title": "Texas PUC Special Session Tackles 765-kV, Data Center Issues",
-      "link": "https://www.rtoinsider.com/138601-texas-puc-special-session-tackles-765-kv-data-center-issues/",
-      "summary": "The Texas Public Utility Commission has scheduled a special open meeting to discuss 765-kV transmission lines and data centers, both of which have faced increasing public opposition.\nThe post Texas PUC Special Session Tackles 765-kV, Data Center Issues appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-09T18:22:40+00:00"
-    },
-    {
-      "id": "945b2a6ac98435d8",
-      "title": "Constellation Secures More Buyers for its Nuclear Power",
-      "link": "https://www.rtoinsider.com/138524-constellation-secures-more-buyers-nuclear-power/",
-      "summary": "Constellation Energy reported solid second-quarter financials, including nearly a gigawatt of new long-term purchase agreements for power from its nuclear reactors.\nThe post Constellation Secures More Buyers for its Nuclear Power appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-09T18:21:16+00:00"
-    },
-    {
-      "id": "d42859c497393bcd",
-      "title": "A Faster Interconnection Queue Still Ends at a Construction Site",
-      "link": "https://www.rtoinsider.com/138449-a-faster-interconnection-queue-still-ends-at-a-construction-site/",
-      "summary": "Regulators are setting the terms for connecting data centers and other large loads to the grid. Whatever those terms end up saying, they will move only as fast as transmission gets built.\nThe post A Faster Interconnection Queue Still Ends at a Construction Site appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-09T18:18:12+00:00"
-    },
-    {
-      "id": "0d539fd28acd5cbe",
-      "title": "Members Say MISO on Right Path to Cutting DR Fraud",
-      "link": "https://www.rtoinsider.com/138693-members-say-miso-on-right-path-to-cutting-dr-fraud/",
-      "summary": "MISO members said the RTO\u2019s more stringent performance rules should win back trust in its demand-side resource fleet, though it should take care to be meticulous when registering new demand response entities.\nThe post Members Say MISO on Right Path to Cutting DR Fraud appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-09T17:42:27+00:00"
-    },
-    {
-      "id": "6b19470058adc5d8",
-      "title": "Alabama Proceeding Reveal Split Over Data Center Regulation",
-      "link": "https://www.rtoinsider.com/138689-alabama-power-argues-existing-tariff-serve-large-loads/",
-      "summary": "After data center divisions roiled the Alabama governor\u2019s race, stark tensions have emerged over how best to address the computing hubs\u2019 impact on the state\u2019s electric grid.\nThe post Alabama Proceeding Reveal Split Over Data Center Regulation appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-09T16:51:52+00:00"
-    },
-    {
-      "id": "3edfe5e0c8ee380d",
-      "title": "Alabama Proceeding Reveals Split Over Data Center Regulation",
-      "link": "https://www.rtoinsider.com/138689-alabama-power-argues-existing-tariff-serve-large-loads/",
-      "summary": "After data center divisions roiled the Alabama governor\u2019s race, stark tensions have emerged over how best to address the computing hubs\u2019 impact on the state\u2019s electric grid.\nThe post Alabama Proceeding Reveals Split Over Data Center Regulation appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-09T16:51:52+00:00"
     }
   ]
 }
