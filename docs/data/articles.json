@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T16:05:30.955307+00:00",
-  "count": 732,
+  "generated_at": "2026-09-01T23:46:15.829694+00:00",
+  "count": 728,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-01T16:04:49.641268+00:00"
+      "published": "2026-09-01T23:46:12.509759+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-01T16:04:49.641254+00:00"
+      "published": "2026-09-01T23:46:12.509750+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-01T16:04:49.641236+00:00"
+      "published": "2026-09-01T23:46:12.509738+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-01T16:04:49.641201+00:00"
+      "published": "2026-09-01T23:46:12.509709+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-01T16:04:47.965602+00:00"
+      "published": "2026-09-01T23:46:10.503722+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-01T16:04:46.825427+00:00"
+      "published": "2026-09-01T23:46:07.407614+00:00"
+    },
+    {
+      "id": "55170a03bac14759",
+      "title": "FERC Accepts ISO-NE Pay-for-Performance Rate Reduction",
+      "link": "https://www.rtoinsider.com/142056-ferc-accepts-iso-ne-pay-for-performance-rate-reduction/",
+      "summary": "FERC accepted a reduction of the ISO-NE pay-for-performance rate from $9,337/MWh to $3,500/MWh, finding that the lower rate would still provide adequate performance inventive.\nThe post FERC Accepts ISO-NE Pay-for-Performance Rate Reduction appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T23:06:30+00:00"
+    },
+    {
+      "id": "910a0ec79904c1b6",
+      "title": "Oklo Files FERC Complaint After PJM Removes Project from Interconnection Queue",
+      "link": "https://www.rtoinsider.com/142018-oklo-files-complaint-after-pjm-removes-project-interconnection-queue/",
+      "summary": "Oklo has filed a complaint at FERC alleging PJM violated its tariff by removing a 750-MW generation project from the Cycle 1 interconnection queue.\nThe post Oklo Files FERC Complaint After PJM Removes Project from Interconnection Queue appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T23:03:23+00:00"
+    },
+    {
+      "id": "64f21414ad3aa076",
+      "title": "NYISO Restores 2 Projects to 2027 Budget",
+      "link": "https://www.rtoinsider.com/141329-nyiso-restores-projects-2027-prioritization-process/",
+      "summary": "NYISO has restored two projects to the 2027 budget following stakeholder pushback, staff told the Budget and Priorities Working Group.\nThe post NYISO Restores 2 Projects to 2027 Budget appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T23:00:19+00:00"
+    },
+    {
+      "id": "cf0d19c3d3df880d",
+      "title": "Judge Blocks New York\u2019s Climate Superfund Act",
+      "link": "https://www.rtoinsider.com/142058-judge-blocks-enforcement-ny-climate-superfund-act/",
+      "summary": "A federal judge has blocked New York\u2019s attempt to collect $75 billion in compensation from the fossil fuel industry for climate damage.\nThe post Judge Blocks New York\u2019s Climate Superfund Act appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T22:22:48+00:00"
+    },
+    {
+      "id": "310481c5305f9c34",
+      "title": "The Real Price of Nuclear Power That Lasts a Century",
+      "link": "https://www.rtoinsider.com/141899-the-real-price-of-nuclear-power-that-lasts-a-century/",
+      "summary": "Amortized over a century of reliable, dispatchable, carbon-free generation, nuclear is not expensive. It is one of the most cost-effective generation resources, writes Nick Myers.\nThe post The Real Price of Nuclear Power That Lasts a Century appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T22:09:55+00:00"
+    },
+    {
+      "id": "159ef0865b1608cf",
+      "title": "The US built more grid batteries last quarter than ever before",
+      "link": "https://www.canarymedia.com/articles/batteries/us-built-more-grid-batteries",
+      "summary": "There\u2019s never been a better time to build energy storage in the U.S. than right now.  Grid batteries \u2014 which sop up power when it\u2019s abundant and discharge that energy when it\u2019s needed \u2014 have been ascendant for a decade, as the price of the underlying lithium-ion cells fell precipitously . Bolstered by plummeting\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T21:30:00+00:00"
+    },
+    {
+      "id": "5558ce7313ac5b7d",
+      "title": "Fervo and Google sign world\u2019s largest deal for next-gen geothermal power",
+      "link": "https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal",
+      "summary": "Fervo Energy inked a landmark deal to supply Google with nearly 400 megawatts of clean electricity from the startup\u2019s geothermal project in southwest Utah.  The agreement is the largest of its kind for a next-generation geothermal system \u2014 an emerging technology that involves drilling deep into hot, dry rock to use\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T19:00:00+00:00"
+    },
+    {
+      "id": "4cb4d8a1833e97f1",
+      "title": "Four of Vietnam's subsea cables suffer faults, leading to fresh connectivity outages for country",
+      "link": "https://www.datacenterdynamics.com/en/news/four-of-vietnams-subsea-cables-suffer-faults-leading-to-fresh-connectivity-outages-for-country/",
+      "summary": "Not for the first time in recent years",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-01T16:40:00+00:00"
     },
     {
       "id": "9564eb9e9e2d0c34",
@@ -190,7 +270,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-09-01T13:09:10+00:00"
+      "published": "2026-09-01T13:09:00+00:00"
     },
     {
       "id": "64188afa47690be3",
@@ -373,6 +453,36 @@
       "published": "2026-09-01T08:14:26+00:00"
     },
     {
+      "id": "7da07a11863a6794",
+      "title": "State Briefs",
+      "link": "https://www.rtoinsider.com/27982-state-briefs/",
+      "summary": "News briefs from the states within the footprint of RTOs.\nThe post State Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T08:00:00+00:00"
+    },
+    {
+      "id": "f4d1ed8d3c2b0df7",
+      "title": "Federal Briefs",
+      "link": "https://www.rtoinsider.com/27981-federal-briefs/",
+      "summary": "News briefs on FERC and the federal agencies that impact RTOs.\nThe post Federal Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T08:00:00+00:00"
+    },
+    {
+      "id": "bf2d64a6386cebe6",
+      "title": "Company Briefs",
+      "link": "https://www.rtoinsider.com/27979-company-briefs/",
+      "summary": "News briefs on companies and firms doing business with RTOs.\nThe post Company Briefs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T08:00:00+00:00"
+    },
+    {
       "id": "1dbc5624474132ea",
       "title": "Meet the super PAC working to crush clean energy's political foes",
       "link": "https://www.canarymedia.com/articles/politics/super-pac-crushing-clean-energy-foes",
@@ -397,6 +507,16 @@
       "title": "Can the Obama Presidential Center help Chicago embrace community solar?",
       "link": "https://www.canarymedia.com/articles/solar/obama-presidential-center-community-solar",
       "summary": "The Obama Presidential Center , which opened on Chicago\u2019s South Side in June, features a museum full of mementos to democracy and the famous family, native prairie landscaping, an indoor basketball court, and other amenities. It will also be powered entirely by clean energy. Solar panels sit on the roof and on a\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T07:30:00+00:00"
+    },
+    {
+      "id": "668cdecf58ef81cb",
+      "title": "Trump\u2019s DOE keeps forcing coal plants to stay open. Here\u2019s the latest.",
+      "link": "https://www.canarymedia.com/articles/fossil-fuels/trump-coal-plant-orders-retiring-map",
+      "summary": "See more from  Canary Media\u2019s \u200b\u201cChart of the Week\u201d column . This story and map will be regularly updated with the latest on the Trump administration\u2019s orders forcing coal plants to stay open.  It was shocking back in May 2025 when the Trump administration took the unprecedented step of forcing an old coal plant to\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
       "region": "National",
@@ -2531,36 +2651,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-25T08:14:41+00:00"
-    },
-    {
-      "id": "7da07a11863a6794",
-      "title": "State Briefs",
-      "link": "https://www.rtoinsider.com/27982-state-briefs/",
-      "summary": "News briefs from the states within the footprint of RTOs.\nThe post State Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-25T08:00:00+00:00"
-    },
-    {
-      "id": "f4d1ed8d3c2b0df7",
-      "title": "Federal Briefs",
-      "link": "https://www.rtoinsider.com/27981-federal-briefs/",
-      "summary": "News briefs on FERC and the federal agencies that impact RTOs.\nThe post Federal Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-25T08:00:00+00:00"
-    },
-    {
-      "id": "bf2d64a6386cebe6",
-      "title": "Company Briefs",
-      "link": "https://www.rtoinsider.com/27979-company-briefs/",
-      "summary": "News briefs on companies and firms doing business with RTOs.\nThe post Company Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-25T08:00:00+00:00"
     },
     {
       "id": "6ec2677961121e24",
@@ -7191,136 +7281,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-11T23:47:00+00:00"
-    },
-    {
-      "id": "28b60e1cc61fad61",
-      "title": "Atlantic Shores Offshore Wind Approval to be Reviewed",
-      "link": "https://www.rtoinsider.com/138874-atlantic-shores-offshore-wind-approval-to-be-reviewed/",
-      "summary": "A judge has granted the Trump administration\u2019s request to reconsider approval granted by the Biden administration for construction and operation for the wind farm off the New Jersey coast.\nThe post Atlantic Shores Offshore Wind Approval to be Reviewed appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T23:43:51+00:00"
-    },
-    {
-      "id": "5c7ac3f2acf5e56f",
-      "title": "U.S. Clean Energy, Transportation Investments Increase",
-      "link": "https://www.rtoinsider.com/138872-clean-investment-monitor-2q-update/",
-      "summary": "The Clean Investment Monitor tallied $75 billion of clean-tech investments in the second quarter, the second-highest three-month total since the database began in 2018.\nThe post U.S. Clean Energy, Transportation Investments Increase appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T23:41:23+00:00"
-    },
-    {
-      "id": "c95d81a9bac58324",
-      "title": "N.C. Offers Playbook for Treating Grid Reliability as Homeland Security Issue",
-      "link": "https://www.rtoinsider.com/137940-north-carolina-playbook-treating-grid-reliability-homeland-security-issue/",
-      "summary": "Electricity is what the rest of modern life runs on, which means a large grid disruption is not only a utility problem. It is a homeland security problem, writes energy consultant Colton Overcash.\nThe post N.C. Offers Playbook for Treating Grid Reliability as Homeland Security Issue appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T22:32:10+00:00"
-    },
-    {
-      "id": "a00ad3244a8ca4dc",
-      "title": "FERC Approves CAISO Start-up Funding Plan for ROWE",
-      "link": "https://www.rtoinsider.com/138878-ferc-approves-caiso-start-up-funding-plan-for-rowe/",
-      "summary": "FERC approved CAISO\u2019s plan to back a commercial loan of up to $8.5 million to fund start-up costs for the Regional Organization for Western Energy \u2014 the new entity established to provide independent governance for the ISO\u2019s Western markets.\nThe post FERC Approves CAISO Start-up Funding Plan for ROWE appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T22:29:50+00:00"
-    },
-    {
-      "id": "6ca7ec5b2a18ba5f",
-      "title": "NIPSCO Requests to Recover $38M in Losses from DOE-Mandated Schahfer Coal Plant",
-      "link": "https://www.rtoinsider.com/138784-nipsco-requests-recover-38m-doe-mandated-schahfer-coal-plant/",
-      "summary": "Northern Indiana Public Service Co. told FERC it needs to recover $38 million from MISO Midwest customers after it spent $116.7 million from January through March attempting to make its R.M. Schahfer coal plant available because of a DOE order.\nThe post NIPSCO Requests to Recover $38M in Losses from DOE-Mandated Schahfer Coal Plant appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T21:44:40+00:00"
-    },
-    {
-      "id": "a8cae3687a9c083f",
-      "title": "S&C Electric Expands Argonne Lab Partnership to Strengthen Power Grid Solutions",
-      "link": "https://www.tdworld.com/overhead-distribution/news/55397386/sc-electric-expands-argonne-lab-partnership-to-strengthen-power-grid-solutions",
-      "summary": "The two entities aim to accelerate solutions for the electric power industry amid the growing challenges from large-scale load customers and AI data centers.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T20:53:52+00:00"
-    },
-    {
-      "id": "44d9f53d02c8aa53",
-      "title": "In Michigan, Electricity Rates Take Center Stage in Contested Senate Race",
-      "link": "https://www.tdworld.com/policy/article/55397274/in-michigan-electricity-rates-take-center-stage-in-contested-senate-race",
-      "summary": "Utility bills, data centers and politicians\u2019 relationships with utilities have become top issues.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T17:18:00+00:00"
-    },
-    {
-      "id": "b366fc8984257308",
-      "title": "The US infrastructure buildout needs more than capital",
-      "link": "https://www.utilitydive.com/news/the-us-infrastructure-buildout-needs-more-than-capital/826167/",
-      "summary": "The country is not short on infrastructure ambition; what it risks running short on is orchestration, writes\u00a0Daryl Walcroft, PwC's capital projects and infrastructure leader.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T17:09:59+00:00"
-    },
-    {
-      "id": "5d863e2106c17e0b",
-      "title": "Avista's Wildfire Recovery: Restoring Power and Removing Fire-Damaged Trees",
-      "link": "https://www.tdworld.com/wildfire/news/55397234/avistas-wildfire-recovery-restoring-power-and-removing-fire-damaged-trees",
-      "summary": "Following recent wildfires in Spokane County, Avista's crews are repairing infrastructure, restoring power and focusing on vegetation management.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T16:36:15+00:00"
-    },
-    {
-      "id": "6fe104c284718b9e",
-      "title": "Arista smashes revenue records with $3bn+; CEO bullish on supply chain overhaul",
-      "link": "https://www.datacenterdynamics.com/en/news/arista-smashes-revenue-records-with-3bn-ceo-bullish-on-supply-chain-overhaul/",
-      "summary": "Multi-year purchase commitments triple as Arista tightens supply to push further into non-Nvidia accelerator networking",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-11T16:30:28+00:00"
-    },
-    {
-      "id": "275a754de3597a84",
-      "title": "Nvidia AI interconnect darling Point2 bags $136m funding from Arm, others",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-ai-interconnect-darling-point2-bags-136m-funding-from-arm-others/",
-      "summary": "Data center interconnect disruptor Point2 Technology celebrates Series B success",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-11T16:16:12+00:00"
-    },
-    {
-      "id": "8d5dd568a68258f8",
-      "title": "Iraq's CMC pushes to shut down Korek Telecom's mobile network",
-      "link": "https://www.datacenterdynamics.com/en/news/iraqs-cmc-pushes-to-shut-down-korek-telecoms-mobile-network/",
-      "summary": "Korek hits back, says the CMC doesn't have the authority do so",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-11T16:10:39+00:00"
-    },
-    {
-      "id": "88807c0039469832",
-      "title": "Pay-as-you-go batteries: \u2018One weird trick\u2019 for the distribution grid?",
-      "link": "https://www.utilitydive.com/news/residential-batteries-solar-base-power-palmetto/827579/",
-      "summary": "Battery leases with low or no up-front costs are attractive in markets with well-developed virtual power plant programs and persistent grid congestion, but experts see them taking off elsewhere, too.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T16:06:41+00:00"
     }
   ]
 }
