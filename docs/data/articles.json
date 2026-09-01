@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T18:47:15.320178+00:00",
-  "count": 706,
+  "generated_at": "2026-09-01T00:58:18.354130+00:00",
+  "count": 703,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-31T18:47:12.653744+00:00"
+      "published": "2026-09-01T00:58:14.574966+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-31T18:47:12.653733+00:00"
+      "published": "2026-09-01T00:58:14.574959+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-31T18:47:12.653720+00:00"
+      "published": "2026-09-01T00:58:14.574950+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-08-31T18:47:12.653694+00:00"
+      "published": "2026-09-01T00:58:14.574934+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-08-31T18:47:10.705198+00:00"
+      "published": "2026-09-01T00:58:12.343306+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,57 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-08-31T18:47:09.415690+00:00"
+      "published": "2026-09-01T00:58:11.305232+00:00"
+    },
+    {
+      "id": "30595802242103a5",
+      "title": "North Dakota Special Session Includes Possible Ban on Data Center NDAs",
+      "link": "https://www.rtoinsider.com/141940-north-dakota-special-session-possible-ban-data-center-ndas/",
+      "summary": "North Dakota lawmakers will consider a temporary statewide ban on all nondisclosure agreements between data center developers and government regulators during a special legislative session.\nThe post North Dakota Special Session Includes Possible Ban on Data Center NDAs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T00:45:44+00:00"
+    },
+    {
+      "id": "77fa4314ac2dffed",
+      "title": "Ohio Ratepayer Advocate Presses FERC for Decision in Transmission Case",
+      "link": "https://www.rtoinsider.com/141934-ohio-ratepayer-advocate-presses-ferc-decision-transmission-case/",
+      "summary": "Ohio ratepayers are at mounting risk from a gap in oversight over huge amounts of spending on local transmission projects even as FERC has failed to act on a complaint filed almost three years ago, the Ohio Consumers' Counsel alleges.\nThe post Ohio Ratepayer Advocate Presses FERC for Decision in Transmission Case appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-01T00:02:39+00:00"
+    },
+    {
+      "id": "e7c8e1d36f9578b1",
+      "title": "ISO-NE Tx Owners, Consumers Debate ROE Inputs and Methodology",
+      "link": "https://www.rtoinsider.com/141927-iso-ne-tx-owners-consumers-debate-roe-inputs-methodology/",
+      "summary": "New England transmission owners, state agencies and consumer groups debated the methodology and inputs used to determine the base return on equity rate set to take effect on Nov. 30 in ISO-NE.\nThe post ISO-NE Tx Owners, Consumers Debate ROE Inputs and Methodology appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-31T23:43:41+00:00"
+    },
+    {
+      "id": "f097e844aa9b7e5f",
+      "title": "Who\u2019s Responsible for Conducting a Frank National Dialogue About AI?",
+      "link": "https://www.rtoinsider.com/141662-whos-responsible-conducting-national-dialogue-about-ai/",
+      "summary": "A key takeaway from the data center debate is the impossibility of accurately predicting the harm-benefit tradeoffs from data centers and AI, or the related demands on a strained power grid, columnist Peter Behr writes.\nThe post Who\u2019s Responsible for Conducting a Frank National Dialogue About AI? appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-31T22:49:40+00:00"
+    },
+    {
+      "id": "ee82c64cf3b6beac",
+      "title": "FERC Denies Activists\u2019 EMP Complaint",
+      "link": "https://www.rtoinsider.com/141929-ferc-rejects-activists-emp-complaint/",
+      "summary": "FERC turned down a request by activists to improve the grid's resilience against electromagnetic pulse attacks, saying the activists who filed it didn't follow proper procedure.\nThe post FERC Denies Activists\u2019 EMP Complaint appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-08-31T22:16:58+00:00"
     },
     {
       "id": "845ce0cfd10d2831",
@@ -6981,86 +7031,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-11T07:00:00+00:00"
-    },
-    {
-      "id": "9fe7cd254d937105",
-      "title": "Finally in Service, NECEC\u2019s Effects Still Hotly Contested in New England",
-      "link": "https://www.rtoinsider.com/138788-finally-in-service-necec-effects-hotly-contested-new-england/",
-      "summary": "NECEC appears to have led to, or at least coincided with, several notable changes, including shifting flow patterns between New England and Qu\u00e9bec, increased congestion within ISO-NE, and price suppression during periods of increased imports.\nThe post Finally in Service, NECEC\u2019s Effects Still Hotly Contested in New England appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-11T00:56:47+00:00"
-    },
-    {
-      "id": "1502ec8033ad9d81",
-      "title": "Gunra Ransomware Targeting Utilities, Agencies Warn",
-      "link": "https://www.rtoinsider.com/138792-agencies-warn-gunra-ransomware-targeting-utilities/",
-      "summary": "Multiple law enforcement agencies warned that a ransomware gang known to target utilities is selling its services to other criminal actors.\nThe post Gunra Ransomware Targeting Utilities, Agencies Warn appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-10T23:33:44+00:00"
-    },
-    {
-      "id": "f40d81d1ce26dffc",
-      "title": "BHE Montana Commits to Join EDAM in 2028",
-      "link": "https://www.rtoinsider.com/138800-bhe-montana-commits-to-join-edam-in-2028/",
-      "summary": "BHE Montana said it will join CAISO\u2019s Extended Day-Ahead Market in 2028, increasing to eight the number of participants committed to the new market.\nThe post BHE Montana Commits to Join EDAM in 2028 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-10T22:59:08+00:00"
-    },
-    {
-      "id": "3c8f65c85badb782",
-      "title": "The True Vulnerability in SPP\u2019s July Emergency Wasn\u2019t the Coal Plant",
-      "link": "https://www.rtoinsider.com/138565-the-true-vulnerability-spp-july-emergency-wasnt-coal-plant/",
-      "summary": "SPP's newest Western territory was pushed to its highest emergency tier. The generator that went offline got the attention, but the weather forecasting gap behind it is the real story, writes Chris Goode.\nThe post The True Vulnerability in SPP\u2019s July Emergency Wasn\u2019t the Coal Plant appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-10T22:37:12+00:00"
-    },
-    {
-      "id": "5bf79aa87c5c6c2c",
-      "title": "Kotek Supports Local Pauses on Data Center Development in Oregon",
-      "link": "https://www.rtoinsider.com/138786-oregon-gov-kotek-supports-local-pauses-data-center-development/",
-      "summary": "Oregon Gov. Tina Kotek (D) is backing efforts by local governments to halt data center development, saying more needs to be done to prevent Oregonians from footing the bill.\nThe post Kotek Supports Local Pauses on Data Center Development in Oregon appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-10T21:35:17+00:00"
-    },
-    {
-      "id": "176a136544461ed9",
-      "title": "Why Proactive Customer Engagement is Critical to Grid Reliability",
-      "link": "https://www.tdworld.com/utility-business/blog/55396358/why-proactive-customer-engagement-is-critical-to-grid-reliability",
-      "summary": "As energy demand rises and the grid becomes more complex, utilities must treat transparent customer engagement as a core part of reliability.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-10T21:26:21+00:00"
-    },
-    {
-      "id": "338cc9d7eb859fac",
-      "title": "Southwire Invests $256M for 380,000-Square-Foot Starkville Plant Expansion",
-      "link": "https://www.tdworld.com/utility-business/article/55397059/southwire-invests-256m-for-380000-square-foot-starkville-plant-expansion",
-      "summary": "Following an initial expansion in 2010, this latest announcement marks the second expansion on the Starkville campus, creating 128 new jobs through the addition of an onsite distribution center.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-10T20:30:23+00:00"
-    },
-    {
-      "id": "e1a191de0b405f33",
-      "title": "Lineworkers Around the World",
-      "link": "https://www.tdworld.com/electric-utility-operations/article/55393164/lineworkers-around-the-world",
-      "summary": "Around the globe, lineworkers are working on the line to power their communities.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-10T20:17:21+00:00"
     }
   ]
 }
