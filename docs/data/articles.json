@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T15:59:20.700987+00:00",
-  "count": 724,
+  "generated_at": "2026-09-02T23:50:05.222920+00:00",
+  "count": 728,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-02T15:59:18.338164+00:00"
+      "published": "2026-09-02T23:50:00.155846+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-02T15:59:18.338150+00:00"
+      "published": "2026-09-02T23:50:00.155834+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-02T15:59:18.338134+00:00"
+      "published": "2026-09-02T23:50:00.155821+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-02T15:59:18.338107+00:00"
+      "published": "2026-09-02T23:50:00.155794+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-02T15:59:16.727623+00:00"
+      "published": "2026-09-02T23:49:57.642118+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,147 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-02T15:59:15.769629+00:00"
+      "published": "2026-09-02T23:49:55.941166+00:00"
+    },
+    {
+      "id": "335e058b403693fd",
+      "title": "Calif. Wholesale Electricity Costs down, but Residential Bills Still Rising",
+      "link": "https://www.rtoinsider.com/141948-california-wholesale-electrcity-costs-down-residential-rising/",
+      "summary": "California residents continue to pay more for electricity, despite a dramatic decrease in the wholesale cost of electricity over recent years in the region.\nThe post Calif. Wholesale Electricity Costs down, but Residential Bills Still Rising appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-02T23:22:23+00:00"
+    },
+    {
+      "id": "8b69a41a9f8de9a3",
+      "title": "Indiana Regulators to Reconsider $71M AES Rate Hike",
+      "link": "https://www.rtoinsider.com/142174-indiana-regulators-to-reconsider-aes-rate-hike/",
+      "summary": "The Indiana Utility Regulatory Commission voted to reopen AES Indiana\u2019s $71 million rate hike over concerns about its impending acquisition by a BlackRock-led consortium and plans for a Google data center.\nThe post Indiana Regulators to Reconsider $71M AES Rate Hike appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-02T23:05:29+00:00"
+    },
+    {
+      "id": "f9db430ebe9c4f82",
+      "title": "Environmental Groups Challenge Halt to Florida Coal Plant Shutdown",
+      "link": "https://www.rtoinsider.com/142170-enviros-sue-doe-over-order-keeping-florida-coal-plant-running/",
+      "summary": "Energy Secretary Chris Wright has renewed his order to keep a Florida coal-fired generator operational, days after environmental advocates filed a federal court challenge to the original order.\nThe post Environmental Groups Challenge Halt to Florida Coal Plant Shutdown appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-02T22:53:27+00:00"
+    },
+    {
+      "id": "01b982a08e9c9897",
+      "title": "For BPA, the Biggest Electricity Market May Not be the Best Market",
+      "link": "https://www.rtoinsider.com/142160-for-bpa-biggest-electricity-market-may-not-be-the-best-market/",
+      "summary": "For years, BPA has studied one of the most consequential decisions facing the Northwest electric system: which organized day-ahead market should BPA join? The time to decide is now, write Scott Simms and Chris Robinson.\nThe post For BPA, the Biggest Electricity Market May Not be the Best Market appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-02T20:57:53+00:00"
+    },
+    {
+      "id": "8569fc62a47ece3d",
+      "title": "Clean energy super PAC looks to take down a Democratic governor",
+      "link": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-looks-to-take-down-a-democratic-governor",
+      "summary": "The troubled reelection campaign of Rhode Island Gov. Dan McKee is facing a new obstacle: a super PAC determined to take down foes of clean energy.  The Invest in Tomorrow Coalition has declared McKee its first Democratic target, following campaigns against three Republican primary candidates, all of whom lost their\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-02T20:02:00+00:00"
+    },
+    {
+      "id": "60c580fbc46182bb",
+      "title": "One Nuclear Signs Deal for 2.88-GW Gas-Fired Plant, Large BESS for Louisiana Data Center Campus",
+      "link": "https://www.powermag.com/one-nuclear-signs-deal-for-2-88-gw-gas-fired-plant-large-bess-for-louisiana-data-center-campus/",
+      "summary": "Florida-headquartered ONE Nuclear Energy said the company has executed a binding letter of intent (LOI) that would provide site control for development of Project Cayman, a 2.88-GW gas-fired power plant and 700-MW/2.88 GWh battery energy storage system (BESS) sited alongside a data center complex.\nThe post One Nuclear Signs Deal for 2.88-GW Gas-Fired Plant, Large BESS for Louisiana Data Center Cam",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-02T18:38:26+00:00"
+    },
+    {
+      "id": "f7191c5dcc946097",
+      "title": "Iren secures contract from \"leading frontier lab,\" on track to exit crypto business by end of year",
+      "link": "https://www.datacenterdynamics.com/en/news/iren-secures-contract-from-leading-frontier-lab-on-track-to-exit-crypto-business-by-end-of-year/",
+      "summary": "Neocloud releases results for fiscal year 2026",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-02T17:30:28+00:00"
+    },
+    {
+      "id": "ae84813a70140d5f",
+      "title": "Haffner Energy launches biomass power-cooling system for data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/haffner-energy-launches-biomass-power-cooling-system-for-data-centers/",
+      "summary": "System powered by residual biomass",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-02T17:20:31+00:00"
+    },
+    {
+      "id": "1cb56077ff729b5d",
+      "title": "Amazon plots new subsea cable linking US and Japan",
+      "link": "https://www.datacenterdynamics.com/en/news/amazon-plots-new-subsea-cable-linking-us-and-japan/",
+      "summary": "First cable to land in Washington since the new millennium",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-02T17:10:29+00:00"
+    },
+    {
+      "id": "82edc011c421ffa8",
+      "title": "Matt Clifford, man behind UK's AI Growth Zones plan, joins Anthropic",
+      "link": "https://www.datacenterdynamics.com/en/news/matt-clifford-man-behind-uks-ai-growth-zones-plan-joins-anthropic/",
+      "summary": "Plans to stay on at ARIA is \"a clear conflict of interest,\" MP says",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-02T17:07:13+00:00"
+    },
+    {
+      "id": "5b0acd2cbc541aaa",
+      "title": "Telehouse adds new building to Frankfurt data center campus",
+      "link": "https://www.datacenterdynamics.com/en/news/telehouse-adds-new-building-to-frankfurt-data-center-campus/",
+      "summary": "Building N adds 5.4MW to campus",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-02T17:00:26+00:00"
+    },
+    {
+      "id": "5dc85d86ebe8ed46",
+      "title": "Infineon, Skeleton Technologies partner on AI data center power systems",
+      "link": "https://www.datacenterdynamics.com/en/news/infineon-skeleton-technologies-partner-on-ai-data-center-power-systems/",
+      "summary": "Expected to combine Infineon\u2019s CoolSiC power semiconductors with Skeleton\u2019s expertise in power conversion systems",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-02T16:38:10+00:00"
+    },
+    {
+      "id": "7e3c13be5099bb77",
+      "title": "Former OpenAI Stargate exec Shamez Hemani joins Anthropic after brief Meta Compute stint",
+      "link": "https://www.datacenterdynamics.com/en/news/former-openai-stargate-exec-shamez-hemani-joins-anthropic-after-brief-meta-compute-stint/",
+      "summary": "Was one of a group of departures to Meta's compute team",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-02T16:15:42+00:00"
+    },
+    {
+      "id": "2beb526ec7651a1f",
+      "title": "PG&E sees rising interest in \u2018customer-driven\u2019 flexible interconnection pilot",
+      "link": "https://www.utilitydive.com/news/pge-sees-rising-interest-in-customer-driven-flexible-interconnection-pil/829447/",
+      "summary": "The Flex Connect program allows larger distribution-connected loads to energize in months instead of waiting \u201cseveral years\u201d for firm interconnection, the Northern California utility says.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-02T15:40:23+00:00"
     },
     {
       "id": "25577579c84b7ae8",
@@ -135,6 +275,16 @@
     {
       "id": "9b8aefce1c2f92e7",
       "title": "Analysts say Fervo-Google geothermal deal underscores baseload power scarcity",
+      "link": "https://www.utilitydive.com/news/analysts-say-fervo-google-geothermal-deal-underscores-baseload-power-scarci/829419/",
+      "summary": "Key risks remain, however, including \u201cfirst-of-a-kind execution,\u201d interconnection bottlenecks, capital intensity and competing technology paths, according to a\u00a0research note from financial services company William Blair.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-02T13:54:09+00:00"
+    },
+    {
+      "id": "bb33560dfccc5aa1",
+      "title": "Fervo-Google geothermal deal underscores baseload power scarcity, analysts say",
       "link": "https://www.utilitydive.com/news/analysts-say-fervo-google-geothermal-deal-underscores-baseload-power-scarci/829419/",
       "summary": "Key risks remain, however, including \u201cfirst-of-a-kind execution,\u201d interconnection bottlenecks, capital intensity and competing technology paths, according to a\u00a0research note from financial services company William Blair.",
       "source": "Utility Dive",
@@ -446,7 +596,7 @@
       "id": "5e189c3a8c95abdb",
       "title": "Trump grid order likely to cause energy storage delays, cancellations: BloombergNEF",
       "link": "https://www.utilitydive.com/news/trump-grid-order-likely-to-cause-energy-storage-delays-cancellations-bloo/829306/",
-      "summary": "The Aug. 26 executive order, previous executive actions and the Treasury Department\u2019s Foreign Entity of Concern guidance are likely to hit battery and inverter supply chains particularly hard, an industry analyst tells Utility Dive.",
+      "summary": "The Aug. 26 executive order, previous executive actions and the Treasury Department\u2019s foreign entity of concern guidance are likely to hit battery and inverter supply chains particularly hard, an industry analyst told Utility Dive.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -7131,116 +7281,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-12T23:51:33+00:00"
-    },
-    {
-      "id": "6f4d4ad3d6df1b56",
-      "title": "FERC Allows MISO to Correct $280M Capacity Auction Error",
-      "link": "https://www.rtoinsider.com/139001-ferc-rules-miso-correct-280m-capacity-auction-error/",
-      "summary": "FERC determined MISO acted within its rights to make $280 million worth of backdated pricing changes to its 2025/26 capacity auction after it repeated an auction input mistake for eight years.\nThe post FERC Allows MISO to Correct $280M Capacity Auction Error appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-12T23:31:24+00:00"
-    },
-    {
-      "id": "6af7513df842d9d5",
-      "title": "D.C. Circuit Sides with FERC in SPP Dispute over Cost Allocation",
-      "link": "https://www.rtoinsider.com/138962-appeals-court-sides-with-spp-over-cost-shifts/",
-      "summary": "The D.C. Circuit Court of Appeals denied a request by SPP utilities, transmission owners and a state regulator representing affected ratepayers to review a FERC decision shifting some transmission costs from a local zone across the RTO\u2019s broader region\nThe post D.C. Circuit Sides with FERC in SPP Dispute over Cost Allocation appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-12T23:27:25+00:00"
-    },
-    {
-      "id": "e7b0773592b523e5",
-      "title": "Stakeholders Balk at NYISO\u2019s Proposed Project Cuts for 2027",
-      "link": "https://www.rtoinsider.com/139003-stakeholders-balk-nyiso-proposed-project-cuts-2027/",
-      "summary": "NYISO has proposed cutting 28 of the 40 projects considered for inclusion in the 2027 budget to shift resources to complying with FERC's show-cause order on large load interconnections.\nThe post Stakeholders Balk at NYISO\u2019s Proposed Project Cuts for 2027 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-12T23:01:59+00:00"
-    },
-    {
-      "id": "238415b5156b1d03",
-      "title": "MentorAPM Deploys AI-Data Tracking to Boost Northern Marianas Grid Preparedness",
-      "link": "https://www.tdworld.com/reliability-and-resiliency/news/55397730/mentorapm-deploys-ai-data-tracking-to-boost-northern-marianas-grid-preparedness",
-      "summary": "The expanded MentorAPM partnership aims to provide the Commonwealth Utilities Corporation with greater visibility into asset conditions, helping them prioritize maintenance and reduce operational risk of critical utility infrastructure.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-12T21:25:31+00:00"
-    },
-    {
-      "id": "233279ef38da9c52",
-      "title": "PJM OC Briefs Aug. 6, 2026",
-      "link": "https://www.rtoinsider.com/138978-pjm-oc-080626/",
-      "summary": "PJM saw a preliminary hourly peak load of 159,021 MW on July 15 as a heatwave brought heat indexes above 100 degrees across the footprint between July 14 and July 17, according to a presentation delivered to the Operating Committee.\nThe post PJM OC Briefs Aug. 6, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-12T21:16:48+00:00"
-    },
-    {
-      "id": "e8c7d76b011f50a7",
-      "title": "Jason Zielke",
-      "link": "https://www.tdworld.com/home/contact/55397659/jason-zielke",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-12T18:50:35+00:00"
-    },
-    {
-      "id": "f61902b06dce4c0c",
-      "title": "ATC Advances Central Wisconsin Transmission Project to Enhance Grid Reliability",
-      "link": "https://www.tdworld.com/overhead-transmission/news/55397617/atc-advances-central-wisconsin-transmission-project-to-enhance-grid-reliability",
-      "summary": "The project, approved by MISO, involves rebuilding and expanding 345-kV transmission infrastructure in Wisconsin, with recent milestones including the installation of the first transmission structure and ongoing engineering activities.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-12T17:41:49+00:00"
-    },
-    {
-      "id": "06e195bf9b400c24",
-      "title": "Telkom Indonesia finalizes spin-off of $4.8bn InfraCo",
-      "link": "https://www.datacenterdynamics.com/en/news/telkom-indonesia-finalizes-spin-off-of-48bn-infraco/",
-      "summary": "Company completes transfer of network infrastructure assets to InfraNexia",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-12T17:30:32+00:00"
-    },
-    {
-      "id": "90025191b0b4b430",
-      "title": "Google launches $6m R&D intiative for carbon removal, superpollutant abatement",
-      "link": "https://www.datacenterdynamics.com/en/news/google-launches-6m-rd-intiative-for-carbon-removal-superpollutant-abatement/",
-      "summary": "Will offer funding to a range of carbon removal technologies",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-12T17:04:52+00:00"
-    },
-    {
-      "id": "4ef1c93f9c0cccb5",
-      "title": "Texas hits new peak demand record, but supply constraints will limit growth",
-      "link": "https://www.utilitydive.com/news/supply-constraints-will-limit-ercot-peak-demand-growth-report/827677/",
-      "summary": "Ascend Analytics says more than 80% of new large loads seeking interconnection will not have matching generation online by 2030, even as data centers and industrial demand continue to surge.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-12T17:00:00+00:00"
-    },
-    {
-      "id": "354c59860b634ed8",
-      "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW data center",
-      "link": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-      "summary": "Behring looks to turn vacant site back into live data center",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-12T16:00:31+00:00"
     }
   ]
 }
