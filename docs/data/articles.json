@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T15:47:08.939929+00:00",
-  "count": 727,
+  "generated_at": "2026-09-04T23:41:35.286807+00:00",
+  "count": 731,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-04T15:47:06.403122+00:00"
+      "published": "2026-09-04T23:41:31.804099+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-04T15:47:06.403110+00:00"
+      "published": "2026-09-04T23:41:31.804088+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-04T15:47:06.403097+00:00"
+      "published": "2026-09-04T23:41:31.804074+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-04T15:47:06.403070+00:00"
+      "published": "2026-09-04T23:41:31.804047+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-04T15:47:04.459261+00:00"
+      "published": "2026-09-04T23:41:29.971727+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,107 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-04T15:47:03.460558+00:00"
+      "published": "2026-09-04T23:41:28.404166+00:00"
+    },
+    {
+      "id": "2193155fbc3baf92",
+      "title": "T5 spins out construction arm, sells operations biz to Salute",
+      "link": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/",
+      "summary": "T5 Construction now EverOn Data Center Services",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T16:40:25+00:00"
+    },
+    {
+      "id": "1a44c321eb58380d",
+      "title": "Telstra confirms July outage was caused by network timing system failure",
+      "link": "https://www.datacenterdynamics.com/en/news/telstra-confirms-july-outage-was-caused-by-network-timing-system-failure/",
+      "summary": "As independent report finds that the Australian carrier failed to react to previous warnings after 2020 network upgrade",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T16:35:13+00:00"
+    },
+    {
+      "id": "74acbad0775b19fd",
+      "title": "Pure starts work on second building at Brent Cross campus in London, UK",
+      "link": "https://www.datacenterdynamics.com/en/news/pure-starts-work-on-second-building-at-brent-cross-campus-in-london-uk/",
+      "summary": "B2 to offer 70MW",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T16:30:28+00:00"
+    },
+    {
+      "id": "7d365abd7fd1bf9c",
+      "title": "The virtualization dividend: Why net-zero starts at the infrastructure layer",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-virtualization-dividend-why-net-zero-starts-at-the-infrastructure-layer/",
+      "summary": "And why it can be a very useful tool for sustainability",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T16:22:33+00:00"
+    },
+    {
+      "id": "a5544b79e34ccdf9",
+      "title": "Man sentenced to prison for operating rogue telecoms infrastructure in Lancashire, UK",
+      "link": "https://www.datacenterdynamics.com/en/news/man-sentenced-to-prison-for-operating-rogue-telecoms-infrastructure-in-lancashire-uk/",
+      "summary": "The man created rogue mobile antenna to send out fraudulent texts",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T16:20:32+00:00"
+    },
+    {
+      "id": "ac8c55434470821e",
+      "title": "PLDT's Vitro REIT signs SG.GS as colocation customer in the Philippines",
+      "link": "https://www.datacenterdynamics.com/en/news/pldts-vitro-reit-signs-sggs-as-colocation-customer-in-the-philippines/",
+      "summary": "SG.GS will deploy networking systems across Vitro\u2019s carrier-neutral facilities",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T16:00:25+00:00"
+    },
+    {
+      "id": "670ff022052a6184",
+      "title": "WIOCC secures $300m to fuel pan-African infrastructure build-out",
+      "link": "https://www.datacenterdynamics.com/en/news/wiocc-secures-300m-to-fuel-pan-african-infrastructure-build-out/",
+      "summary": "Secures funds from Africa Finance Corporation and Vision Invest",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T15:54:25+00:00"
+    },
+    {
+      "id": "d3d6689489897a95",
+      "title": "Microsoft reveals Azure earnings for the first time, adjusts financial reporting practices",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-reveals-azure-earnings-for-the-first-time-adjusts-financial-reporting-practices/",
+      "summary": "Previously Azure was included under \"intelligent cloud\" segment",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T15:53:00+00:00"
+    },
+    {
+      "id": "a1fec68067be81da",
+      "title": "Santee Cooper partners with Google Cloud to roll out AI-driven load forecasting and financial planning tools",
+      "link": "https://www.datacenterdynamics.com/en/news/santee-cooper-partners-with-google-cloud-to-roll-out-ai-driven-load-forecasting-and-financial-planning-tools/",
+      "summary": "Will deploy both WeatherNext2 and Gemini Enterprise",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T15:52:11+00:00"
+    },
+    {
+      "id": "86ca0be68a506724",
+      "title": "Flex acquires data center power conversion manufacturer EPC Power in $4.4bn deal",
+      "link": "https://www.datacenterdynamics.com/en/news/flex-acquires-data-center-power-conversion-manufacturer-epc-power-in-44bn-deal/",
+      "summary": "EPC is a developer of 800V data center power architectures",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-04T15:50:27+00:00"
     },
     {
       "id": "9aea300c06f848aa",
@@ -151,6 +251,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-04T13:00:34+00:00"
+    },
+    {
+      "id": "8efb93b599cca558",
+      "title": "Supporters hopeful as DOE, EPA finalize Energy Star transition plan",
+      "link": "https://www.utilitydive.com/news/supporters-hopeful-as-doe-and-epa-finalize-energy-star-transition-plan/829701/",
+      "summary": "The U.S. Department of Energy\u2019s success with its Better Buildings Initiative shows that the agency knows how to make a public-private partnership like Energy Star work, an efficiency stakeholder said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-04T12:46:21+00:00"
     },
     {
       "id": "1cc12f1a683225c3",
@@ -7201,76 +7311,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-15T13:00:33+00:00"
-    },
-    {
-      "id": "0c5a5c8fb601ac15",
-      "title": "Western Weather Group Showcases Advanced Monitoring Solutions at T&D World Live 2026",
-      "link": "https://www.tdworld.com/wildfire/news/55398293/western-weather-group-showcases-advanced-monitoring-solutions-at-td-world-live-2026",
-      "summary": "Western Weather Group (WWG) will demonstrate its weather sensors at T&D World Live 2026, emphasizing their role in wildfire management, storm preparedness, and grid reliability.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-14T21:05:07+00:00"
-    },
-    {
-      "id": "c1c7f7117c2d98d7",
-      "title": "T&D World Live: Early Fault Detection Technology",
-      "link": "https://www.tdworld.com/overhead-distribution/news/55398287/td-world-live-early-fault-detection-technology",
-      "summary": "EFD can identify a wide range of developing defects and abnormal conditions, including vegetation issues, broken conductor strands, tracking insulators, high-impedance faults, conductor clashing, broken tie wires, tracking fuses, insulator failures, fallen trees on wires, transformers approaching end of life, and defective lightning arrestors.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-14T20:51:14+00:00"
-    },
-    {
-      "id": "c857ca9db963d9c6",
-      "title": "Iberdrola to Buy 80% Stake in Finnish Utility Caruna for $2.3B to Expand Power Network",
-      "link": "https://www.tdworld.com/utility-business/news/55398280/iberdrola-to-buy-80-stake-in-finnish-utility-caruna-for-23b-to-expand-power-network",
-      "summary": "Iberdrola notes that strong industrial activity and growing demand linked to new data centers and residential developments in western and north-eastern Finland heavily influenced the acquisition.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-14T20:44:25+00:00"
-    },
-    {
-      "id": "bd52b7f42082f9a6",
-      "title": "Q&A: Building a Smarter Grid With Asset Intelligence, AI and Digital Twins",
-      "link": "https://www.tdworld.com/smart-utility/article/55398277/qa-building-a-smarter-grid-with-asset-intelligence-ai-and-digital-twins",
-      "summary": "Utilities are using asset intelligence, AI and digital twins to turn data into smarter investment decisions and build a more resilient grid. Ben Lanz of ESARA previews what attendees can expect from the discussion at T&D World Live.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-14T20:39:09+00:00"
-    },
-    {
-      "id": "e83ffa11c87b88f8",
-      "title": "Data centers are officially shaping election season",
-      "link": "https://www.canarymedia.com/articles/data-centers/data-centers-2026-elections",
-      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   The data center elections are officially upon us.  Public frustration with data centers has been simmering, and in recent months it has become increasingly clear that the topic would reshape the 2026\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-14T16:20:00+00:00"
-    },
-    {
-      "id": "5b8bf2bd33515297",
-      "title": "Data center planned for suburb in Warsaw, Poland, sparks protests",
-      "link": "https://www.datacenterdynamics.com/en/news/data-center-planned-for-suburb-in-warsaw-poland-sparks-protests/",
-      "summary": "Residents fear the facility on the border of towns of Piaseczno and J\u00f3zefos\u0142aw will spark water shortages",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-14T16:00:00+00:00"
-    },
-    {
-      "id": "c25bb2cdf14223dd",
-      "title": "The Billion-Dollar Blind Spot in Wind Turbine Maintenance",
-      "link": "https://www.powermag.com/the-billion-dollar-blind-spot-in-wind-turbine-maintenance/",
-      "summary": "Wind turbine blade health strategies must get smarter to adequately support rapid advancements in turbine engineering. Over the last decade, global wind capacity has almost tripled. One of the keys to this growth story has been the sector\u2019s ability to manufacture and deploy ever-larger wind turbines at pace. Today\u2019s onshore models are, on average, three [\u2026]\nThe post The Billion-Dollar Blind Spot i",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-14T15:56:18+00:00"
     }
   ]
 }
