@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T23:41:35.286807+00:00",
-  "count": 731,
+  "generated_at": "2026-09-05T14:37:20.171617+00:00",
+  "count": 732,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-04T23:41:31.804099+00:00"
+      "published": "2026-09-05T14:37:16.210210+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-04T23:41:31.804088+00:00"
+      "published": "2026-09-05T14:37:16.210195+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-04T23:41:31.804074+00:00"
+      "published": "2026-09-05T14:37:16.210179+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-04T23:41:31.804047+00:00"
+      "published": "2026-09-05T14:37:16.210149+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-04T23:41:29.971727+00:00"
+      "published": "2026-09-05T14:37:13.702774+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-04T23:41:28.404166+00:00"
+      "published": "2026-09-05T14:37:12.344128+00:00"
+    },
+    {
+      "id": "1644ce95472a3817",
+      "title": "The role of manufacturing in tomorrow\u2019s data center buildouts",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-role-of-manufacturing-in-tomorrows-data-center-buildouts/",
+      "summary": "Procurement infrastructure that hasn't scaled alongside the investment driving it",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-05T10:00:34+00:00"
+    },
+    {
+      "id": "8b3d61d0e8f6a64a",
+      "title": "Sponsored: Planning power and cooling for high-density AI",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/planning-power-and-cooling-for-high-density-ai/",
+      "summary": "As rack densities rise and hardware roadmaps accelerate, Legrand\u2019s experts explain why electrical and thermal infrastructure must be planned together",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-05T07:00:00+00:00"
     },
     {
       "id": "2193155fbc3baf92",
@@ -7301,16 +7321,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-15T15:00:00+00:00"
-    },
-    {
-      "id": "ce30346305a9991b",
-      "title": "Are orbital AI data centers the next frontier for compute infrastructure?",
-      "link": "https://www.datacenterdynamics.com/en/opinions/are-orbital-ai-data-centers-the-next-frontier-for-compute-infrastructure/",
-      "summary": "Data centers in space shift from concept to early operational demonstrations",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-15T13:00:33+00:00"
     }
   ]
 }
