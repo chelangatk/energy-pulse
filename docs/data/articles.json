@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T14:37:20.171617+00:00",
-  "count": 732,
+  "generated_at": "2026-09-05T23:32:59.801725+00:00",
+  "count": 731,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-05T14:37:16.210210+00:00"
+      "published": "2026-09-05T23:32:35.042122+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-05T14:37:16.210195+00:00"
+      "published": "2026-09-05T23:32:35.042113+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-05T14:37:16.210179+00:00"
+      "published": "2026-09-05T23:32:35.042102+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-05T14:37:16.210149+00:00"
+      "published": "2026-09-05T23:32:35.042078+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-05T14:37:13.702774+00:00"
+      "published": "2026-09-05T23:32:33.005284+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-05T14:37:12.344128+00:00"
+      "published": "2026-09-05T23:32:31.859468+00:00"
     },
     {
       "id": "1644ce95472a3817",
@@ -7311,16 +7311,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-16T10:00:33+00:00"
-    },
-    {
-      "id": "02b1379583d11085",
-      "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of data center development",
-      "link": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
-      "summary": "The next decade of digital infrastructure will be shaped by how quickly power can reach the right place, at the right time, at an acceptable cost",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-15T15:00:00+00:00"
     }
   ]
 }
