@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:32:59.801725+00:00",
+  "generated_at": "2026-09-06T14:57:13.893432+00:00",
   "count": 731,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-05T23:32:35.042122+00:00"
+      "published": "2026-09-06T14:57:09.455248+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-05T23:32:35.042113+00:00"
+      "published": "2026-09-06T14:57:09.455235+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-05T23:32:35.042102+00:00"
+      "published": "2026-09-06T14:57:09.455220+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-05T23:32:35.042078+00:00"
+      "published": "2026-09-06T14:57:09.455192+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-05T23:32:33.005284+00:00"
+      "published": "2026-09-06T14:57:07.465486+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-05T23:32:31.859468+00:00"
+      "published": "2026-09-06T14:57:06.383686+00:00"
+    },
+    {
+      "id": "a6b64f3eec49281a",
+      "title": "Why data center cooling is now business-critical",
+      "link": "https://www.datacenterdynamics.com/en/opinions/why-data-center-cooling-is-now-business-critical/",
+      "summary": "Rapid growth of data centers forces operators to rethink thermal fluid management",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-06T14:00:35+00:00"
+    },
+    {
+      "id": "ea2b8f8b9448cac1",
+      "title": "The electrical power problem that will decide the AI race",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-electrical-power-problem-that-will-decide-the-ai-race/",
+      "summary": "America\u2019s data centers are about to draw power on the scale of entire nations",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-06T10:00:35+00:00"
     },
     {
       "id": "1644ce95472a3817",
@@ -7291,26 +7311,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-16T16:53:18+00:00"
-    },
-    {
-      "id": "7c61fbffa2e951ba",
-      "title": "When a grid signal becomes a production change",
-      "link": "https://www.datacenterdynamics.com/en/opinions/when-a-grid-signal-becomes-a-production-change/",
-      "summary": "Grid flexibility depends on who can change a live system, when they can do it, and how the site recovers.",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-16T14:00:31+00:00"
-    },
-    {
-      "id": "d4fb413a9c72143e",
-      "title": "When AI hoards flash: the storage playbook that protects budget and performance in turbulent times",
-      "link": "https://www.datacenterdynamics.com/en/opinions/when-ai-hoards-flash-the-storage-playbook-that-protects-budget-and-performance-in-turbulent-times/",
-      "summary": "Storage for the future",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-16T10:00:33+00:00"
     }
   ]
 }
