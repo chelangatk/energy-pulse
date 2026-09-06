@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T14:57:13.893432+00:00",
-  "count": 731,
+  "generated_at": "2026-09-06T23:27:29.293400+00:00",
+  "count": 724,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-06T14:57:09.455248+00:00"
+      "published": "2026-09-06T23:27:24.700444+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-06T14:57:09.455235+00:00"
+      "published": "2026-09-06T23:27:24.700429+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-06T14:57:09.455220+00:00"
+      "published": "2026-09-06T23:27:24.700411+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-06T14:57:09.455192+00:00"
+      "published": "2026-09-06T23:27:24.700379+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-06T14:57:07.465486+00:00"
+      "published": "2026-09-06T23:27:22.470576+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-06T14:57:06.383686+00:00"
+      "published": "2026-09-06T23:27:21.150566+00:00"
     },
     {
       "id": "a6b64f3eec49281a",
@@ -7241,76 +7241,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "id": "19be1a591a1983cd",
-      "title": "Christie: Don\u2019t Settle for Cosmetic Half Measures in PJM",
-      "link": "https://www.rtoinsider.com/139339-christie-dont-settle-for-cosmetic-half-measures-pjm-reform/",
-      "summary": "Former FERC Chair Mark Christie has strong words of advice for current commissioners considering changes to PJM governance.\nThe post Christie: Don\u2019t Settle for Cosmetic Half Measures in PJM appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-16T20:12:46+00:00"
-    },
-    {
-      "id": "04f23595e54bb531",
-      "title": "Big Wall Street Move into Data Centers May Bring Money, Problems for AI",
-      "link": "https://www.rtoinsider.com/139289-big-wall-street-data-centers-bring-money-problems-for-ai/",
-      "summary": "As political demands grow to slow down AI\u2019s surge, technology and finance leaders parlaying the bulging muscle of Silicon Valley and Wall Street are saying \u201cfaster,\" writes Energy Futures columnist Peter Behr.\nThe post Big Wall Street Move into Data Centers May Bring Money, Problems for AI appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-16T19:57:40+00:00"
-    },
-    {
-      "id": "fadf2adc4fff1d61",
-      "title": "N.J. Approves 1st Batch of Dual-use Solar Projects",
-      "link": "https://www.rtoinsider.com/139292-nj-approves-first-batch-dual-solar-projects/",
-      "summary": "The New Jersey Board of Public Utilities approved 16 dual-use solar projects with a combined capacity of 52 MW as the state seeks to ramp up solar power production to meet a looming supply shortage.\nThe post N.J. Approves 1st Batch of Dual-use Solar Projects appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-16T19:55:12+00:00"
-    },
-    {
-      "id": "f55f2b663cc5d4a0",
-      "title": "PJM MRC/MC Preview: Aug. 19, 2026",
-      "link": "https://www.rtoinsider.com/139323-pjm-mrc-mc-preview-081926/",
-      "summary": "Included is a summary of items scheduled to be brought to a vote at the PJM Markets and Reliability Committee and Members Committee meetings.\nThe post PJM MRC/MC Preview: Aug. 19, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-16T19:16:59+00:00"
-    },
-    {
-      "id": "614ddc1cbe6b6bc3",
-      "title": "ERCOT Asks for Exceptions to Batch Study Process",
-      "link": "https://www.rtoinsider.com/139319-ercot-asks-for-exceptions-batch-study-process/",
-      "summary": "ERCOT says it will need to file good-cause exceptions with the Texas PUC to respond to Gov. Greg Abbott\u2019s request that the organizations conduct a \u201ccomprehensive\u201d verification and audit of all data centers.\nThe post ERCOT Asks for Exceptions to Batch Study Process appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-16T19:09:41+00:00"
-    },
-    {
-      "id": "73a07749161c7d14",
-      "title": "Exelon has $1B in TSAs, but Debate over Data Centers Continues",
-      "link": "https://www.rtoinsider.com/139238-exelon-1b-tsas-but-debate-over-data-centers-continues/",
-      "summary": "Exelon recently reported it has signed data centers to $1 billion in customer protections through transmission security agreements, but the political backlash against data center development has not quieted.\nThe post Exelon has $1B in TSAs, but Debate over Data Centers Continues appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-16T17:55:28+00:00"
-    },
-    {
-      "id": "40e09c1cec2227a4",
-      "title": "Affordability Wars: Why Chris Wright is Obsessed with Killing Energy-efficient Building Codes",
-      "link": "https://www.rtoinsider.com/139259-doe-opposition-residential-building-decarb-codes/",
-      "summary": "Data centers have been grabbing the headlines, but the definitions and public understandings of energy efficiency and what building codes should and shouldn't include also have become fiercely contested territory.\nThe post Affordability Wars: Why Chris Wright is Obsessed with Killing Energy-efficient Building Codes appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-16T16:53:18+00:00"
     }
   ]
 }
