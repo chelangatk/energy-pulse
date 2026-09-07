@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T17:16:44.894662+00:00",
-  "count": 707,
+  "generated_at": "2026-09-07T23:57:44.421835+00:00",
+  "count": 705,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-07T17:16:40.328383+00:00"
+      "published": "2026-09-07T23:57:40.472166+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-07T17:16:40.328373+00:00"
+      "published": "2026-09-07T23:57:40.472152+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-07T17:16:40.328358+00:00"
+      "published": "2026-09-07T23:57:40.472135+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-07T17:16:40.328333+00:00"
+      "published": "2026-09-07T23:57:40.472104+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-07T17:16:38.302057+00:00"
+      "published": "2026-09-07T23:57:38.306088+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,67 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-07T17:16:37.327248+00:00"
+      "published": "2026-09-07T23:57:37.370644+00:00"
+    },
+    {
+      "id": "74b1a38e0d88a252",
+      "title": "Can U.S. High-Voltage Grid Equipment Supply Keep Pace With 765-kV Expansion and Data Center Demand?",
+      "link": "https://www.powermag.com/can-u-s-high-voltage-grid-equipment-supply-keep-pace-with-765-kv-expansion-and-data-center-demand/",
+      "summary": "From two-year bushing lead times and hyperscaler demand to U.S. manufacturing expansion and the emerging 765-kV build-out, Trench Group CEO Bahadir Basdere explains where high-voltage equipment supply is under the most pressure. High-voltage grid components are becoming a critical constraint as utilities, transmission developers, original equipment manufacturers (OEMs), and hyperscalers compete fo",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-07T22:53:07+00:00"
+    },
+    {
+      "id": "503785559df09ca7",
+      "title": "Stakeholders Amplify Call to Hit Brakes on 2026 MISO Interconnection Queue Cycle",
+      "link": "https://www.rtoinsider.com/142501-stakeholders-amplify-call-hit-brakes-2026-miso-interconnection-queue-cycle/",
+      "summary": "Emphasizing that MISO has a long way to go to complete studies on generation projects that lined up as early as 2020, stakeholders again appealed to the grid operator to pause acceptance of a new, 2026 queue cycle.\nThe post Stakeholders Amplify Call to Hit Brakes on 2026 MISO Interconnection Queue Cycle appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-07T20:18:48+00:00"
+    },
+    {
+      "id": "bd3ae7c288853136",
+      "title": "Summary of FERC Meeting Agenda for September 2026",
+      "link": "https://www.rtoinsider.com/142357-summary-ferc-meeting-agenda-sept-2026/",
+      "summary": "In its monthly meeting, FERC is expected to take up proposed revisions to the ISO-NE Markets and Services Tariff and a NERC proposal on protecting transmission assets, among other items on the agenda.\nThe post Summary of FERC Meeting Agenda for September 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-07T19:42:18+00:00"
+    },
+    {
+      "id": "b35674c4a944ea66",
+      "title": "CIRCIA and Organized Electric Markets: It\u2019s Not Really About the 72-Hour Report",
+      "link": "https://www.rtoinsider.com/142048-circia-organized-electric-markets-its-not-really-about-72-hour-report/",
+      "summary": "CIRCIA, a new CISA cyber incident reporting requirement, means yet another form of documentation for companies operating in organized electric markets.\nThe post CIRCIA and Organized Electric Markets: It\u2019s Not Really About the 72-Hour Report appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-07T17:48:38+00:00"
+    },
+    {
+      "id": "0956f028df23aaa3",
+      "title": "AUC Rejects 1.4-GW Gas Plant for Alberta Data Center",
+      "link": "https://www.rtoinsider.com/142478-auc-rejects-gas-plant-for-alberta-data-center/",
+      "summary": "The Alberta Utilities Commission rejected a proposed 1,400-MW combined-cycle natural gas-fired plant, which would have powered a co-located data center in Olds, a town north of Calgary.\nThe post AUC Rejects 1.4-GW Gas Plant for Alberta Data Center appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-07T17:44:38+00:00"
+    },
+    {
+      "id": "5c3d396a3b76ffbe",
+      "title": "Ohio, PJM to Use State Agreement Approach for 10-GW Data Center, Gas Plant",
+      "link": "https://www.rtoinsider.com/142390-ohio-pjm-state-agreement-approach-data-center-gas-generator/",
+      "summary": "The Public Utilities Commission of Ohio has requested PJM initiate the State Agreement Approach under FERC Order 1000 to facilitate the interconnection of the PORTS-Pike Technology Campus, a 10-GW data center and co-located gas generator.\nThe post Ohio, PJM to Use State Agreement Approach for 10-GW Data Center, Gas Plant appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-07T17:40:13+00:00"
     },
     {
       "id": "9193611056a0f81d",
@@ -6991,86 +7051,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-18T00:01:30+00:00"
-    },
-    {
-      "id": "f226a71207972ac1",
-      "title": "N.J. Lists Priorities for Changes to PJM Markets",
-      "link": "https://www.rtoinsider.com/139452-new-jersey-bpu-urges-pjm-market-reforms/",
-      "summary": "The New Jersey Board of Public Utilities has issued a report suggesting changes to the rules of the PJM capacity market to address the high cost of electricity in the state.\nThe post N.J. Lists Priorities for Changes to PJM Markets appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-17T23:36:11+00:00"
-    },
-    {
-      "id": "f1aeb10bef6ac03a",
-      "title": "Alberta Market Surveillance Administrator Briefs",
-      "link": "https://www.rtoinsider.com/139460-alberta-market-surveillance-administrator-briefs/",
-      "summary": "Alberta\u2019s second-quarter average pool price fell 27% year over year and 8% from the preceding quarter to $29.47/MWh, according to the Market Surveillance Administrator\u2019s Wholesale Market Report.\nThe post Alberta Market Surveillance Administrator Briefs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-17T23:33:55+00:00"
-    },
-    {
-      "id": "bce4a70ee94926bf",
-      "title": "Mesa Power Solutions Expands With $70 Million Wyoming Manufacturing Campus",
-      "link": "https://www.powermag.com/mesa-power-solutions-expands-with-70-million-wyoming-manufacturing-campus/",
-      "summary": "Mesa Power Solutions has opened a new $70 million manufacturing and administrative campus in Evansville, Wyoming, consolidating 300 employees and expanding the company\u2019s capacity to produce natural gas power generation equipment for utilities, data centers, and other commercial and industrial customers. The 220,000-square-foot facility at One Mesa Way (Figure 1) will serve as a hub [\u2026]\nThe post Me",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-17T22:33:24+00:00"
-    },
-    {
-      "id": "62c3ea82e95af80a",
-      "title": "Joseph Coffey",
-      "link": "https://www.tdworld.com/home/contact/55398640/joseph-coffey",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-17T20:47:14+00:00"
-    },
-    {
-      "id": "9177fd00d77a71a6",
-      "title": "Energy Dominance Requires Commitments That Last",
-      "link": "https://www.powermag.com/energy-dominance-requires-commitments-that-last/",
-      "summary": "The Trump administration\u2019s decision to unwind offshore wind leases through negotiated buybacks has predictably reignited the debate over renewable energy. Many welcome the move as a correction to policies that heavily favored offshore wind during the previous administration. That debate is perfectly legitimate. However, the recent\u00a0agreements\u00a0involving TotalEnergies, Bluepoint Wind, Golden State Wi",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-17T20:45:59+00:00"
-    },
-    {
-      "id": "a3b378267bfb9677",
-      "title": "A New Class of Stakeholders on the Grid",
-      "link": "https://www.tdworld.com/utility-business/blog/55394497/a-new-class-of-stakeholders-on-the-grid",
-      "summary": "As electricity demand is projected to rise significantly by 2040, the physical and logistical challenges in expanding and modernizing the grid.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-17T20:35:21+00:00"
-    },
-    {
-      "id": "a641aa8525a33ad0",
-      "title": "Xcel Energy Breaks Ground on Minnesota Transmission, Generation Projects",
-      "link": "https://www.tdworld.com/overhead-transmission/news/55398612/xcel-energy-breaks-ground-on-minnesota-transmission-generation-projects",
-      "summary": "The Minnesota Energy Connection and Lyon County Generating Station aim to enhance renewable energy delivery and provide dependable power during peak demand, creating economic benefits and jobs in the region.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-17T20:01:15+00:00"
-    },
-    {
-      "id": "9fa2995a15bb1f7d",
-      "title": "States Get New Framework for Planning Around Large Load Growth",
-      "link": "https://www.tdworld.com/policy/news/55398600/states-get-new-framework-for-planning-around-large-load-growth",
-      "summary": "This new NCEP framework offers practical strategies for states to balance reliability, affordability, and economic growth by fostering early agency collaboration, centralized data sharing, and tailored policies for large electricity consumers.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-17T19:47:24+00:00"
     }
   ]
 }
