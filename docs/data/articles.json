@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T16:00:58.339333+00:00",
-  "count": 720,
+  "generated_at": "2026-09-08T23:48:40.718893+00:00",
+  "count": 721,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-08T16:00:54.815154+00:00"
+      "published": "2026-09-08T23:48:37.070729+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-08T16:00:54.815124+00:00"
+      "published": "2026-09-08T23:48:37.070714+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-08T16:00:54.815107+00:00"
+      "published": "2026-09-08T23:48:37.070696+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-08T16:00:54.815079+00:00"
+      "published": "2026-09-08T23:48:37.070663+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-08T16:00:52.790474+00:00"
+      "published": "2026-09-08T23:48:34.930831+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,13 +60,143 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-08T16:00:51.767871+00:00"
+      "published": "2026-09-08T23:48:33.793527+00:00"
+    },
+    {
+      "id": "eeb2ebbfd58c563a",
+      "title": "CLEAR Act Aims to Speed up Litigation for Federally Coordinated Tx",
+      "link": "https://www.rtoinsider.com/142853-clear-act-aims-speed-up-litigation-federally-coordinated-tx/",
+      "summary": "A bipartisan bill would apply the Federal Power Act's litigation rules to transmission lines for which environmental reviews are coordinated by DOE under FPA Section 216(h), slashing the statute of limitations from 6 years to 120 days.\nThe post CLEAR Act Aims to Speed up Litigation for Federally Coordinated Tx appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-08T23:36:19+00:00"
+    },
+    {
+      "id": "62e07072cd0abb04",
+      "title": "Oregon Gov. Pauses Data Center Requests on State Land",
+      "link": "https://www.rtoinsider.com/142865-oregon-gov-pauses-data-center-requests-state-land/",
+      "summary": "Oregon Gov. Tina Kotek is pausing the processing of requests to build data centers on state land, in what she said is the state\u2019s latest action to restrict new development until more is understood about the centers\u2019 demand on infrastructure and the environment.\nThe post Oregon Gov. Pauses Data Center Requests on State Land appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-08T22:27:16+00:00"
+    },
+    {
+      "id": "9b2766c50784f7af",
+      "title": "The New Superfund: How Hyperscalers Became the Fall Guy for Energy Policy",
+      "link": "https://www.rtoinsider.com/142075-new-superfund-how-hyperscalers-became-the-fall-guy-energy-policy/",
+      "summary": "Big Tech companies didn\u2019t create the problem of increased electricity bills, but they are being blamed for it nonetheless and are being positioned to pay for it, says consultant Doug Sheridan.\nThe post The New Superfund: How Hyperscalers Became the Fall Guy for Energy Policy appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-08T22:11:04+00:00"
+    },
+    {
+      "id": "6615deb826332cd8",
+      "title": "Major Leap for Solid-State Transformers: Megawatt-Class Unit Demonstrated on Live Feeder",
+      "link": "https://www.powermag.com/major-leap-for-solid-state-transformers-megawatt-class-unit-demonstrated-on-live-feeder/",
+      "summary": "North Carolina State University, the New York Power Authority (NYPA), and EPRI have demonstrated a megawatt-class solid-state transformer (SST) on a live 13.2-kV utility distribution feeder, marking what the partners describe as the first independent validation of a megawatt-class SST under real-world distribution conditions. The NC State-built prototype was connected at EPRI\u2019s power delivery labo",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-08T21:22:28+00:00"
+    },
+    {
+      "id": "960e4eb7d9b94aa9",
+      "title": "Shuttered nuclear plant in Iowa gets $1.9B federal loan to restart",
+      "link": "https://www.canarymedia.com/articles/nuclear/shuttered-nuclear-plant-in-iowa-gets-1-9b-federal-loan-to-restart",
+      "summary": "A third shuttered U.S. nuclear power plant is set to attempt a comeback with hefty support from the federal government.  On Tuesday, the U.S. Department of Energy said it closed a loan of up to $1.9 billion to NextEra Energy to help finance the restart of the Duane Arnold Energy Center in Iowa, which shut down six\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-08T19:20:00+00:00"
+    },
+    {
+      "id": "5aba014fecbb4ebf",
+      "title": "NEC signs MoU with UNDP to support conservation, climate action through use of AI",
+      "link": "https://www.datacenterdynamics.com/en/news/nec-signs-mou-with-undp-to-support-conservation-climate-action-through-use-of-ai/",
+      "summary": "Will also carry out assessments and studies aimed at improving the resilience of AI and digital infrastructure",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-08T16:30:26+00:00"
+    },
+    {
+      "id": "26f53f75c1e20437",
+      "title": "Palantir selects Nebius as sovereign AI infrastructure provider",
+      "link": "https://www.datacenterdynamics.com/en/news/palantir-selects-nebius-as-sovereign-ai-infrastructure-provider/",
+      "summary": "Palantir's commercial customers will have access to Nebius' cloud platform",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-08T16:22:28+00:00"
+    },
+    {
+      "id": "873f3c1784c5be7e",
+      "title": "GSMA urges regulators to back upper 6GHz spectrum for next-gen networks",
+      "link": "https://www.datacenterdynamics.com/en/news/gsma-urges-regulators-to-back-upper-6ghz-spectrum-for-next-gen-networks/",
+      "summary": "With more than 60 operators and equipment vendors united, trade body presses for prioritization for wide-scale deployments",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-08T16:12:17+00:00"
+    },
+    {
+      "id": "a5d107eafacb4bdc",
+      "title": "Google's European energy and infrastructure principle joins Mistral Compute",
+      "link": "https://www.datacenterdynamics.com/en/news/googles-european-energy-infrastructure-principle-joins-mistral-compute/",
+      "summary": "Marc Oman joins as AI firm looks to deploy 1GW",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-08T16:06:00+00:00"
+    },
+    {
+      "id": "e25177785deac291",
+      "title": "Google backs solar-storage project at former West Virginia coal mine",
+      "link": "https://www.utilitydive.com/news/google-backs-solar-storage-project-at-former-west-virginia-coal-mine/829812/",
+      "summary": "The project is being developed by MN8 and will include 100 MWh of long-duration Eos Energy Enterprises zinc-based storage alongside lithium-ion batteries.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-08T16:00:38+00:00"
+    },
+    {
+      "id": "ce33e7cd927f9605",
+      "title": "Retail colo in the age of AI: One size does not fit all",
+      "link": "https://www.datacenterdynamics.com/en/analysis/retail-colo-in-the-age-of-ai-one-size-does-not-fit-all/",
+      "summary": "Insights from a small-scale Edge retail colocation facility in East London",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-08T16:00:36+00:00"
+    },
+    {
+      "id": "cccf30ba4cfd11b1",
+      "title": "Qualcomm and AWS partner on custom silicon for large-scale AI data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/qualcomm-and-aws-partner-on-custom-silicon-for-large-scale-ai-data-centers/",
+      "summary": "Will also work on optical connectivity solution with up to 1.6T",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-08T16:00:07+00:00"
+    },
+    {
+      "id": "fe09e8349257d1a0",
+      "title": "ERCOT load continues to reach record highs",
+      "link": "https://www.utilitydive.com/news/load-ercot-record-highs-eia/829801/",
+      "summary": "Over six weeks since late July, the Electric Reliability Council of Texas\u2019 weekly average peak loads all exceeded a record set in 2023,\u00a0the Energy Information Administration said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-08T15:10:42+00:00"
     },
     {
       "id": "534f74cb789d177c",
       "title": "Large-load tariffs increasingly rely on upfront payments, exit fees, ramp schedules",
       "link": "https://www.utilitydive.com/news/large-load-tariffs-lbnl-brattle/829796/",
-      "summary": "Active and proposed large-load tariffs have increased sharply since early 2025, as has the average qualifying demand threshold for covered customers.",
+      "summary": "Active and proposed large-load tariffs have increased sharply since early 2025, as has the average qualifying demand threshold for covered customers, according to research from\u00a0Lawrence Berkeley National Laboratory.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -81,6 +211,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-08T14:50:44+00:00"
+    },
+    {
+      "id": "1e1dc060a6cc7b83",
+      "title": "Bonneville eyes switch to CAISO\u2019s EDAM from Southwest Power Pool\u2019s Markets+",
+      "link": "https://www.utilitydive.com/news/bpa-bonneville-markets-plus-caiso-edam-kavulla/829789/",
+      "summary": "BPA\u2019s Travis Kavulla outlined governance-related criteria that need to be met for the federal power marketer to join the Extended Day-Ahead Market run by California\u2019s grid operator.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-08T14:23:56+00:00"
     },
     {
       "id": "0b7c03ff988c513d",
@@ -826,7 +966,7 @@
       "id": "fb7041a1cc179297",
       "title": "Utilities eye small modular nuclear reactors for reliability as hyperscalers drive demand",
       "link": "https://www.utilitydive.com/news/utilities-eye-small-modular-nuclear-reactors-for-reliability-as-hyperscaler/829681/",
-      "summary": "Deep-pocketed tech companies and mission\u2011critical defense customers are emerging as the earliest adopters of advanced reactors, but utilities see potential if siting and cost recovery issues can be resolved.",
+      "summary": "Deep-pocketed tech companies and mission\u2011critical defense customers are emerging as the earliest adopters of SMRs, but utilities see potential if siting and cost recovery issues can be resolved.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -7071,136 +7211,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-19T00:06:31+00:00"
-    },
-    {
-      "id": "c76ee39bfe4d3fc0",
-      "title": "N.Y. Moves to Improve Distributed Energy Interconnection",
-      "link": "https://www.rtoinsider.com/139587-new-york-orders-tariff-changes-distributed-energy-interconnection/",
-      "summary": "The Public Service Commission rejected many of the changes requested by an industry group, including a cap on developers\u2019 interconnection cost responsibility in excess of utility cost estimates.\nThe post N.Y. Moves to Improve Distributed Energy Interconnection appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T23:32:22+00:00"
-    },
-    {
-      "id": "a9059523c8f39a93",
-      "title": "CEC Praises Tesla for \u2018Huge\u2019 Semitruck Manufacturing Plans",
-      "link": "https://www.rtoinsider.com/139255-cec-praises-tesla-semitruck-plans/",
-      "summary": "The California Energy Commission had flattering things to say this week about Tesla and the company\u2019s plan to mass produce semi-trucks in the coming years.\nThe post CEC Praises Tesla for \u2018Huge\u2019 Semitruck Manufacturing Plans appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T23:14:21+00:00"
-    },
-    {
-      "id": "9926555b65e73d8f",
-      "title": "Oracle Drops Suit Against Wisconsin PSC over Financial Requirements",
-      "link": "https://www.rtoinsider.com/139566-oracle-drops-suit-against-wisconsin-psc-over-financial-requirements/",
-      "summary": "Tech firm Oracle has voluntarily dismissed its lawsuit against the Public Service Commission of Wisconsin, leaving strict financial safeguards intact on giant data center development.\nThe post Oracle Drops Suit Against Wisconsin PSC over Financial Requirements appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T22:58:04+00:00"
-    },
-    {
-      "id": "4e801ddde32a7339",
-      "title": "The New Economics of AI Infrastructure: Why Tax Strategy Is Now Part of Energy Strategy",
-      "link": "https://www.powermag.com/the-new-economics-of-ai-infrastructure-why-tax-strategy-is-now-part-of-energy-strategy/",
-      "summary": "The conversation around data center development has changed dramatically over the past few years. Earlier, when developers needed to evaluate a new facility, the questions were relatively straightforward. Is the market attractive? Can we secure the land? Can we obtain reliable power? Can we raise the necessary capital? All those questions still matter. But a [\u2026]\nThe post The New Economics of AI In",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T22:25:35+00:00"
-    },
-    {
-      "id": "442ad9e470f90dab",
-      "title": "FERC Greenlights MISO Assignment of Some Long-range Tx Projects to PJM TOs",
-      "link": "https://www.rtoinsider.com/139547-ferc-greenlights-miso-assignment-long-range-tx-projects-pjm-tos/",
-      "summary": "FERC ruled MISO can circumvent a competitive bidding process when it taps PJM transmission owners to build parts of its long-range transmission projects that cross into the neighboring RTO.\nThe post FERC Greenlights MISO Assignment of Some Long-range Tx Projects to PJM TOs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T21:43:18+00:00"
-    },
-    {
-      "id": "c32d5bdb3a8a411f",
-      "title": "MISO, SPP Find 1 Joint Study Project that Shows Promise",
-      "link": "https://www.rtoinsider.com/139450-miso-spp-ipsac-discuss-joint-system-study/",
-      "summary": "MISO and SPP staffs have asked stakeholders to provide feedback on their \u201cnear-final\u201d 2024-2025 Coordinated System Plan\u2019s Core and Core+ 500-kV portfolios.\nThe post MISO, SPP Find 1 Joint Study Project that Shows Promise appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T20:58:34+00:00"
-    },
-    {
-      "id": "a14c3666a66f5945",
-      "title": "Tencent Cloud plans cloud region in Malaysia",
-      "link": "https://www.datacenterdynamics.com/en/news/tencent-cloud-plans-cloud-region-in-malaysia/",
-      "summary": "Will offer three availability zones",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-18T16:50:20+00:00"
-    },
-    {
-      "id": "180922597222911d",
-      "title": "Contested 5-GW Ridgeline Gas, Solar, and Data-Center Complex in West Virginia Clears Site-Control Question",
-      "link": "https://www.powermag.com/contested-5-gw-ridgeline-gas-solar-and-data-center-complex-in-west-virginia-clears-site-control-question/",
-      "summary": "The West Virginia Department of Environmental Protection\u2019s (WVDEP) Division of Air Quality (DAQ) has determined that Purcellville, Virginia-based Fundamental Data satisfied the site-control requirements associated with its August 2025 air quality permit for the Ridgeline Facility\u2014a gas turbine power plant that Fundamental Data is planning as the first phase of a project intended to include [\u2026]\nThe",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T16:45:19+00:00"
-    },
-    {
-      "id": "404831355505c9b6",
-      "title": "Application filed for data center campus near QTS' site in Northumberland, UK",
-      "link": "https://www.datacenterdynamics.com/en/news/application-filed-for-data-center-campus-near-qts-site-in-northumberland-uk/",
-      "summary": "UK family office plans campus in Cambois on former GSK manufacturing site",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-18T16:30:25+00:00"
-    },
-    {
-      "id": "05538d54470b799d",
-      "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
-      "link": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
-      "summary": "Will combine its ultracapacitor energy storage system with grid-forming power conversion",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-18T16:20:21+00:00"
-    },
-    {
-      "id": "2201440ad87ddca1",
-      "title": "Globalinx buys land in Virginia Beach to expand CLS campus",
-      "link": "https://www.datacenterdynamics.com/en/news/globalinx-buys-land-in-virginia-beach-to-expand-cls-campus/",
-      "summary": "As Virginia Beach officials look to bring in data center moratorium",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-18T16:19:36+00:00"
-    },
-    {
-      "id": "d9acc80c1dd2a9b1",
-      "title": "Northwest council proposes 11 GW of new generation, 5 GW storage by 2032",
-      "link": "https://www.utilitydive.com/news/northwest-council-proposes-11-gw-of-new-generation-5-gw-storage-by-2032/828171/",
-      "summary": "The Northwest Power and Conservation Council estimates the portfolio for its Ninth Power Plan would have a fixed cost of $2.3 billion in 2032.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-18T16:08:52+00:00"
-    },
-    {
-      "id": "629daaa6e421a779",
-      "title": "Nigerian gov't prepares to deploy 3,700 cell towers from October",
-      "link": "https://www.datacenterdynamics.com/en/news/nigerian-govt-prepares-to-deploy-3700-cell-towers-from-october/",
-      "summary": "Aims to improve connectivity for more than 20 million Nigerians",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-18T16:01:51+00:00"
     }
   ]
 }
