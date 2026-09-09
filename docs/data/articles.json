@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:56:46.544185+00:00",
-  "count": 711,
+  "generated_at": "2026-09-09T23:48:37.102742+00:00",
+  "count": 698,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-09T15:56:43.985425+00:00"
+      "published": "2026-09-09T23:48:34.120892+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-09T15:56:43.985411+00:00"
+      "published": "2026-09-09T23:48:34.120878+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-09T15:56:43.985392+00:00"
+      "published": "2026-09-09T23:48:34.120860+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-09T15:56:43.985341+00:00"
+      "published": "2026-09-09T23:48:34.120831+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-09T15:56:42.585210+00:00"
+      "published": "2026-09-09T23:48:31.780176+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-09T15:56:41.652905+00:00"
+      "published": "2026-09-09T23:48:30.505299+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-09T15:56:41.652201+00:00"
+      "published": "2026-09-09T23:48:30.504597+00:00"
+    },
+    {
+      "id": "2bd28689001410b3",
+      "title": "From Demand Response to Orchestration: Data Centers are Becoming Flexible Grid Assets",
+      "link": "https://www.rtoinsider.com/142814-from-demand-response-to-orchestration-data-centers/",
+      "summary": "Data centers can flex \u2014 and it's no longer hypothetical. Inside the \"orchestration\" era of grid flexibility from columnist K Kaufmann.\nThe post From Demand Response to Orchestration: Data Centers are Becoming Flexible Grid Assets appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-09T23:15:21+00:00"
+    },
+    {
+      "id": "f3f4e9cb0db989b9",
+      "title": "Mass. Data Center Proposals Must Secure Clean Energy or Pay into Fund",
+      "link": "https://www.rtoinsider.com/142955-massachusetts-governor-tight-guidelines-data-center-development/",
+      "summary": "The Sept. 8 order builds on a framework she announced June 25 to specifically address some of environmental, economic and other negative effects that can result from data center development.\nThe post Mass. Data Center Proposals Must Secure Clean Energy or Pay into Fund appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-09T23:01:23+00:00"
+    },
+    {
+      "id": "0e5052c3cb40fd53",
+      "title": "Maine Requests Termination of RTO Participation Adder for TOs",
+      "link": "https://www.rtoinsider.com/142863-maine-requests-termination-rto-participation-adder-tos/",
+      "summary": "A group of state agencies from Maine have asked FERC to terminate the return on equity adder received by the Maine transmission owners for participation in ISO-NE.\nThe post Maine Requests Termination of RTO Participation Adder for TOs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-09T22:33:47+00:00"
+    },
+    {
+      "id": "31ee9cac66ff4845",
+      "title": "Court Strikes Down TVA Decision to Build $2B Gas Plant",
+      "link": "https://www.rtoinsider.com/142974-court-strikes-down-tva-decision-build-gas-plant/",
+      "summary": "A federal court has voided the Tennessee Valley Authority\u2019s decision to construct a gas plant in eastern Tennessee, citing a deficient environmental review.\nThe post Court Strikes Down TVA Decision to Build $2B Gas Plant appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-09T22:14:23+00:00"
+    },
+    {
+      "id": "e7d92ba9d4b93e1d",
+      "title": "ENGIE Withdraws Application for 250-MW Calif. Battery Project",
+      "link": "https://www.rtoinsider.com/142859-engie-withdraws-application-250mw-battery-storage-project-calif/",
+      "summary": "ENGIE North America has cancelled its application to build a large battery storage project near Laguna Beach, Calif., after some local officials and residents came out in opposition due to safety and aesthetic concerns.\nThe post ENGIE Withdraws Application for 250-MW Calif. Battery Project appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-09T21:04:31+00:00"
+    },
+    {
+      "id": "b28760df2aaa6269",
+      "title": "FlexSysAI launches grid-flexibility pilot with ResetData, CSIRO, University of Queensland",
+      "link": "https://www.datacenterdynamics.com/en/news/flexsysai-launches-grid-flexibility-pilot-with-resetdata-csiro-university-of-queensland/",
+      "summary": "Will test AI orchestration platform at ResetData data center",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-09T21:00:28+00:00"
+    },
+    {
+      "id": "09efbf26865a5891",
+      "title": "JD Cloud and Moore Threads team up on cluster of 100,000 GPUs",
+      "link": "https://www.datacenterdynamics.com/en/news/jd-cloud-and-moore-threads-team-up-on-cluster-of-100000-gpus/",
+      "summary": "Will use Chinese hardware",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-09T16:10:47+00:00"
+    },
+    {
+      "id": "bb4d74e74fa5e08f",
+      "title": "Front-of-meter solar, storage could serve 32% of California\u2019s 2032 peak load: study",
+      "link": "https://www.utilitydive.com/news/front-of-meter-solar-storage-could-serve-32-of-californias-2032-peak-loa/829935/",
+      "summary": "An analysis commissioned by the Coalition for Community Solar Access found untapped opportunity for 3,100 distribution-connected projects in the state\u2019s three investor-owned utility territories.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-09T16:10:20+00:00"
     },
     {
       "id": "7f510eb18a0a1430",
@@ -103,6 +183,16 @@
       "published": "2026-09-09T14:40:32+00:00"
     },
     {
+      "id": "a1610bf912fa5cfc",
+      "title": "Google, Xcel, others back MISO\u2019s \u2018zero injection\u2019 large-load proposal",
+      "link": "https://www.utilitydive.com/news/google-xcel-miso-zero-injection-large-load-ferc/829912/",
+      "summary": "The Midcontinent Independent System Operator's proposal would fast-track reviews for generating projects that supply large loads that are served by the same substation, including colocated loads.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-09T14:40:32+00:00"
+    },
+    {
       "id": "1e5dd55040040a35",
       "title": "Hscale secures $1bn contract with hyperscaler for Spanish data centers",
       "link": "https://www.datacenterdynamics.com/en/news/hscale-secures-1bn-contract-with-hyperscaler-for-spanish-data-centers/",
@@ -120,13 +210,13 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-09-09T14:06:27+00:00"
+      "published": "2026-09-09T14:06:00+00:00"
     },
     {
       "id": "f176d0e82a01e781",
       "title": "West Virginia regulators reject delay in review of NextEra\u2019s MARL project",
       "link": "https://www.utilitydive.com/news/west-virginia-regulators-reject-delay-marl-proceedings-nextera/829906/",
-      "summary": "The MidAtlantic Resiliency Link was selected by PJM Interconnection in 2023 as part of its regional\u00a0expansion plan, but there are questions about the need for the project and its route.",
+      "summary": "The PJM Interconnection selected the MidAtlantic Resiliency Link in 2023 as part of its regional expansion plan, but there are questions about the need for the project and its route.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -180,7 +270,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-09-09T11:00:33+00:00"
+      "published": "2026-09-09T11:00:00+00:00"
     },
     {
       "id": "bfb432a5dc0770f4",
@@ -210,7 +300,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-09-09T10:20:26+00:00"
+      "published": "2026-09-09T10:20:00+00:00"
     },
     {
       "id": "0f7ab3e0c66b5b4d",
@@ -446,7 +536,7 @@
       "id": "e25177785deac291",
       "title": "Google backs solar-storage project at former West Virginia coal mine",
       "link": "https://www.utilitydive.com/news/google-backs-solar-storage-project-at-former-west-virginia-coal-mine/829812/",
-      "summary": "The project is being developed by MN8 and will include 100 MWh of long-duration Eos Energy Enterprises zinc-based storage alongside lithium-ion batteries.",
+      "summary": "The project MN8 is developing will include 100 MWh of long-duration Eos Energy Enterprises zinc-based storage alongside lithium-ion batteries.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6891,226 +6981,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-20T00:16:18+00:00"
-    },
-    {
-      "id": "414682528db4ce60",
-      "title": "Canadian Clean Energy Deal Could Boost Exports to U.S.",
-      "link": "https://www.rtoinsider.com/139878-canadian-clean-energy-deal-boost-exports-us/",
-      "summary": "A new agreement between the Canadian federal government, Newfoundland and Labrador, and Qu\u00e9bec to invest about $70 billion in clean energy may provide a boost to Canada\u2019s net exports to New England and New York.\nThe post Canadian Clean Energy Deal Could Boost Exports to U.S. appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T23:18:12+00:00"
-    },
-    {
-      "id": "7fcea3a9840c4ab8",
-      "title": "Canadian Energy Deal Would Boost Quebec Supply, Could Affect U.S. Markets",
-      "link": "https://www.rtoinsider.com/139878-canadian-clean-energy-deal-boost-exports-us/",
-      "summary": "A major new agreement between the Canadian federal government, Newfoundland and Labrador, and Qu\u00e9bec to invest about $70 billion in new hydropower capacity, land-based wind and transmission may indirectly boost Canada\u2019s net exports to New England and New York.\nThe post Canadian Energy Deal Would Boost Quebec Supply, Could Affect U.S. Markets appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T23:18:12+00:00"
-    },
-    {
-      "id": "aa155afd5c809045",
-      "title": "AVEVA CEO: Sustainability Commitments Must Be Backed by Measurable Results",
-      "link": "https://www.powermag.com/aveva-ceo-sustainability-commitments-must-be-backed-by-measurable-results/",
-      "summary": "As artificial intelligence (AI)\u2013driven data center demand strains grid infrastructure across the U.S. and beyond, operators are facing rising scrutiny from utilities, regulators, and the communities where they build. Caspar Herzberg, CEO of industrial software company AVEVA, argues that the industry\u2019s response can\u2019t stop at sustainability commitments\u2014it requires operational transparency and measur",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T22:59:43+00:00"
-    },
-    {
-      "id": "a7646b5a7451569a",
-      "title": "Grid Monitoring Devices to Receive Protective Glass Coating",
-      "link": "https://www.tdworld.com/overhead-distribution/news/55399322/grid-monitoring-devices-to-receive-protective-glass-coating",
-      "summary": "Gridware\u2019s compact, solar-powered Gridscope devices are mounted directly on utility poles to monitor physical, electrical, structural and environmental conditions affecting power lines and other grid infrastructure.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T21:58:33+00:00"
-    },
-    {
-      "id": "d1bc5de2266a12f8",
-      "title": "Vault Access System Reduces Lifting Force for Heavy Access Doors",
-      "link": "https://www.tdworld.com/intelligent-undergrounding/installation-techniques/product/55399320/ohio-gratings-inc-vault-access-system-reduces-lifting-force-for-heavy-access-doors",
-      "summary": "With the right ergonomic hatch or vault cover system, one crew member can quickly access equipment below the surface and get to the work that matters, safely and securely.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T21:51:41+00:00"
-    },
-    {
-      "id": "b25820e6bc09a5fb",
-      "title": "Sensor and Software Platform Offers Continuous Visibility into T&D Lines",
-      "link": "https://www.tdworld.com/smart-utility/product/55399319/sensor-and-software-platform-offers-continuous-visibility-into-td-lines",
-      "summary": "Line-mounted sensors capture more than 40 electrical, physical, and environmental parameters at each location.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T21:41:32+00:00"
-    },
-    {
-      "id": "567089615a91262f",
-      "title": "In Michigan, LG opens one of America\u2019s biggest battery cell factories",
-      "link": "https://www.canarymedia.com/articles/batteries/michigan-lg-biggest-battery-cell-factory",
-      "summary": "LANSING, Mich. \u2014 The Trump administration has made clear its disdain for electric vehicles and clean energy. Yet at the grand opening of South Korea\u2013based LG Energy Solution\u2019s latest battery manufacturing facility, Interior Secretary Doug Burgum cheered the factory as a fulfillment of the president\u2019s agenda.  \u201cThat\u2019s\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T21:00:00+00:00"
-    },
-    {
-      "id": "3ce6fe1ff35ae699",
-      "title": "Xcel Energy\u2019s Wildfire Mitigation Proposal Targets Equipment Safety, Grid Resilience in Extreme Weather Across Texas",
-      "link": "https://www.tdworld.com/wildfire/news/55399211/xcel-energys-wildfire-mitigation-proposal-targets-equipment-safety-grid-resilience-in-extreme-weather-across-texas",
-      "summary": "The plan reportedly awaits approval from the PUCT, with a decision anticipated within 180 days from its initial application.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T18:30:33+00:00"
-    },
-    {
-      "id": "abc300c6a485956f",
-      "title": "VPP value proposition expands to affordability, reliability and resilience",
-      "link": "https://www.utilitydive.com/news/vpp-value-proposition-expands-to-affordability-reliability-and-resilience/828293/",
-      "summary": "Robust compensation and metering, along with strong customer protections, are needed to drive participation in utility virtual power plants programs, according to experts.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T17:31:40+00:00"
-    },
-    {
-      "id": "377435618604afde",
-      "title": "Utilities Can Help Close the Public Knowledge Gap on Data Centers",
-      "link": "https://www.tdworld.com/utility-business/blog/55398953/utilities-can-help-close-the-public-knowledge-gap-on-data-centers",
-      "summary": "Despite rising awareness, many consumers lack understanding of data centers' resource use and community impact. Stakeholders must proactively educate the public, emphasizing benefits like job creation while addressing resource concerns to build trust.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T17:22:42+00:00"
-    },
-    {
-      "id": "3f94e7eebc0f1a4e",
-      "title": "ScottishPower to Upgrade 70 Kilometers of 400-kV Transmission Line in Scotland",
-      "link": "https://www.tdworld.com/overhead-transmission/news/55399184/scottishpower-to-upgrade-70-kilometers-of-400-kv-transmission-line-in-scotland",
-      "summary": "SP Energy Networks' significant investment will upgrade Scotland\u2019s transmission network, including replacing aging infrastructure from the 1960s, creating jobs, and enhancing electricity capacity between Glasgow and Edinburgh.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T17:17:02+00:00"
-    },
-    {
-      "id": "58d455041c996109",
-      "title": "Neutron USA",
-      "link": "https://www.tdworld.com/directory/communications-equipment/ethernet/company/55387549/neutron-usa",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T17:04:14+00:00"
-    },
-    {
-      "id": "e2d0ca0f7a11c71c",
-      "title": "All-Tek Industrial",
-      "link": "https://www.tdworld.com/directory/test-equipment/oil-gas/company/55399179/all-tek-industrial",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T16:58:39+00:00"
-    },
-    {
-      "id": "0c476d648c967b91",
-      "title": "Plans for potential data center in Modesto, California, spark public outcry",
-      "link": "https://www.datacenterdynamics.com/en/news/plans-for-potential-data-center-in-modesto-california-spark-public-outcry/",
-      "summary": "NorthPoint rumored to be developer of 45-acre old chemical plant site",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-19T16:30:36+00:00"
-    },
-    {
-      "id": "4fa91669dba6c9a2",
-      "title": "FBI puts out call for AI hardware procurement contracts",
-      "link": "https://www.datacenterdynamics.com/en/news/fbi-puts-out-call-for-ai-hardware-procurement-contracts/",
-      "summary": "Department seeks up to $88m in AI hardware",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-19T16:20:32+00:00"
-    },
-    {
-      "id": "1a465348cb5dfcdb",
-      "title": "NC State, NYPA and EPRI Demonstrate Megawatt-Class Solid-State Transformer",
-      "link": "https://www.tdworld.com/overhead-distribution/news/55399148/nc-state-nypa-and-epri-demonstrate-megawatt-class-solid-state-transformer",
-      "summary": "Supported by federal and utility funding, this project demonstrates the transition of university-led research into practical, full-scale utility applications, highlighting the potential for SSTs to improve grid efficiency, reduce operating costs, and support sustainable energy initiatives.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-19T16:18:31+00:00"
-    },
-    {
-      "id": "9c35ee350f96ea1e",
-      "title": "Ukraine says Nvidia Jetson gear found in Russian S-71M missile",
-      "link": "https://www.datacenterdynamics.com/en/news/ukraine-says-nvidia-jetson-gear-found-in-russian-s-71m-missile/",
-      "summary": "Calls for stronger sanctions to stop tech reaching Russia",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-19T16:16:21+00:00"
-    },
-    {
-      "id": "883ed77ded4ec115",
-      "title": "Relativity Networks completes $22m raise, as hollow-core fiber provider secures $40m hyperscaler contract",
-      "link": "https://www.datacenterdynamics.com/en/news/relativity-networks-completes-22m-raise-as-hollow-core-fiber-provider-secures-40m-hyperscaler-contract/",
-      "summary": "Follows the company's recent manufacturing milestone with Prysmian",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-19T16:08:58+00:00"
-    },
-    {
-      "id": "251c6db2523a9e4d",
-      "title": "Google reveals it is behind 506-acre Project Clydesdale data center in Oklahoma",
-      "link": "https://www.datacenterdynamics.com/en/news/google-reveals-it-is-behind-506-acre-project-clydesdale-data-center-in-oklahoma/",
-      "summary": "Project will be located in Owasso",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-19T16:04:47+00:00"
-    },
-    {
-      "id": "8669fe3d6e230723",
-      "title": "Pennsylvania Governor signs executive order imposing strict requirements on data center developments",
-      "link": "https://www.datacenterdynamics.com/en/news/pennsylvania-governor-signs-executive-order-imposing-strict-requirements-on-data-center-developments/",
-      "summary": "Mandates that data center projects receive all required local approvals before permits are issued",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-19T16:04:28+00:00"
-    },
-    {
-      "id": "28e2d659d0b0a754",
-      "title": "Cerebras unveils CS-4 rack scale solution powered by four-trillion transistor WSE-3T chip",
-      "link": "https://www.datacenterdynamics.com/en/news/cerebras-unveils-cs-4-rack-scale-solution-powered-by-four-trillion-transistor-wse-3t-chip/",
-      "summary": "Chip company says CS-4 delivers 750 petaflops of AI compute",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-19T16:01:32+00:00"
-    },
-    {
-      "id": "0a32d1e6782245af",
-      "title": "Efficiency labels: a new era for data center performance in Europe",
-      "link": "https://www.datacenterdynamics.com/en/opinions/efficiency-labels-a-new-era-for-data-center-performance-in-europe/",
-      "summary": "Europe\u2019s data center industry is facing a pivotal moment.",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-19T16:00:33+00:00"
     }
   ]
 }
