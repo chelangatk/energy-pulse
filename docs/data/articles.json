@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:51:43.873172+00:00",
-  "count": 689,
+  "generated_at": "2026-09-10T23:41:24.178560+00:00",
+  "count": 690,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-10T15:51:34.707331+00:00"
+      "published": "2026-09-10T23:41:20.505966+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-10T15:51:34.707320+00:00"
+      "published": "2026-09-10T23:41:20.505952+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-10T15:51:34.707306+00:00"
+      "published": "2026-09-10T23:41:20.505936+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-10T15:51:34.707277+00:00"
+      "published": "2026-09-10T23:41:20.505905+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-10T15:51:32.556517+00:00"
+      "published": "2026-09-10T23:41:17.988885+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-10T15:51:30.847754+00:00"
+      "published": "2026-09-10T23:41:16.859957+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,137 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-10T15:51:30.847184+00:00"
+      "published": "2026-09-10T23:41:16.859236+00:00"
+    },
+    {
+      "id": "d4433d765592e9dc",
+      "title": "CPUC to Vote on Rulemaking for CAISO Market Governance Transition",
+      "link": "https://www.rtoinsider.com/143102-cpuc-initiate-rulemaking-caiso-market-governance-transition/",
+      "summary": "The California Public Utilities Commission is poised to begin work on implementing the 2025 state law that authorizes CAISO and the state\u2019s utilities to participate in an independent body to oversee the ISO\u2019s wholesale electricity markets.\nThe post CPUC to Vote on Rulemaking for CAISO Market Governance Transition appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T23:10:07+00:00"
+    },
+    {
+      "id": "02ff5d4f714e6470",
+      "title": "FERC Approves New NERC Physical Security Standard",
+      "link": "https://www.rtoinsider.com/143079-ferc-approves-nerc-physical-security-standard/",
+      "summary": "FERC approved a new NERC physical security standard developed in response to multiple attacks on electric grid facilities.\nThe post FERC Approves New NERC Physical Security Standard appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T23:05:01+00:00"
+    },
+    {
+      "id": "dde9ba708e5fb0a9",
+      "title": "Mass. Utilities, Hydro-Quebec Exchange Suits over NECEC Winter Curtailments",
+      "link": "https://www.rtoinsider.com/143072-mass-utilities-hydro-quebec-exchange-suits-over-necec-curtailments/",
+      "summary": "Massachusetts utilities and Hydro-Quebec have exchanged lawsuits in a dispute over the curtailment of deliveries over the New England Clean Energy Connect transmission line during a stretch of extreme winter weather.\nThe post Mass. Utilities, Hydro-Quebec Exchange Suits over NECEC Winter Curtailments appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T21:50:42+00:00"
+    },
+    {
+      "id": "e9da15730f181ede",
+      "title": "Solar Power Continues to Proliferate in Second Quarter",
+      "link": "https://www.rtoinsider.com/143076-solar-power-continues-to-proliferate-second-quarter/",
+      "summary": "Utility-scale solar generation continued to come online at an accelerated rate and distributed solar at a diminished pace in the second quarter of 2026, thanks in both cases to changes in tax policy.\nThe post Solar Power Continues to Proliferate in Second Quarter appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T21:47:06+00:00"
+    },
+    {
+      "id": "e3051e20493bb5df",
+      "title": "A Phased Framework for Adaptive Protection Migration in DER-Heavy Transmission Substations",
+      "link": "https://www.powermag.com/a-phased-framework-for-adaptive-protection-migration-in-der-heavy-transmission-substations/",
+      "summary": "This article presents a practical four-phase engineering methodology for migrating legacy transmission substations toward adaptive protection architectures in power systems with high distributed energy resource (DER) penetration. Increasing DER integration introduces significant challenges to conventional protection schemes, including bidirectional power flow, dynamic fault current behavior, relay",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T21:23:07+00:00"
+    },
+    {
+      "id": "c46d389604378f66",
+      "title": "Mass. utilities and Hydro-Quebec sue each other over missing hydropower",
+      "link": "https://www.canarymedia.com/articles/hydropower/massachusetts-utilities-hydro-quebec-sue-each-other",
+      "summary": "Three Massachusetts utilities are suing Canadian energy giant Hydro-Qu\u00e9bec after it failed to deliver promised hydropower for several days during a cold snap this winter. Hydro-Qu\u00e9bec, in turn, is suing the utilities for withholding payment for power that was delivered.  The dispute is the latest in a string of\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T21:00:00+00:00"
+    },
+    {
+      "id": "3dd3ae15eb799563",
+      "title": "Battery Energy Storage Group Receives Millions in Funding",
+      "link": "https://www.powermag.com/battery-energy-storage-group-receives-millions-in-funding/",
+      "summary": "Horizon Technology Finance Corp., an affiliate of Monroe Capital, on September 10 said that the RoHo Capital Opportunity Fund LLC, a joint venture formed by Horizon and CR Financial Holdings, Inc., the holding company for Roth Capital Partners, LLC, has provided a $20-million senior credit facility to NeoVolta, Inc., with the ability to increase the facility to $30 million upon mutual agreement. A",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T18:55:25+00:00"
+    },
+    {
+      "id": "4313945d4d0bd8f8",
+      "title": "Google bankrolls PG&E virtual power plant",
+      "link": "https://www.utilitydive.com/news/google-virtual-power-plant-vpp-pge/830036/",
+      "summary": "The SHARE program is a proof of concept for privately-funded distributed energy capacity and could eventually expand to include commercial, industrial and utility-scale resources, Pacific Gas & Electric said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T16:43:17+00:00"
+    },
+    {
+      "id": "b75a3c77409a28f6",
+      "title": "Hexagon, Weyerhaeuser Ink Geothermal Development Deal for Pacific Northwest",
+      "link": "https://www.powermag.com/hexagon-weyerhaeuser-ink-geothermal-development-deal-for-pacific-northwest/",
+      "summary": "An independent energy development company and a long-time manufacturer of wood products have signed an agreement to develop geothermal projects in Washington and Oregon.\nThe post Hexagon, Weyerhaeuser Ink Geothermal Development Deal for Pacific Northwest appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T16:29:57+00:00"
+    },
+    {
+      "id": "13c1b9d7ea1b813c",
+      "title": "Nvidia\u2019s Groq deal facing DOJ probe amid regulator scrutiny into acqui-hires: report",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidias-groq-deal-facing-doj-probe-amid-regulator-scrutiny-into-acqui-hires-report/",
+      "summary": "Justice Department investigation joins FTC inquiry into potential de facto big tech mergers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-10T16:23:58+00:00"
+    },
+    {
+      "id": "b9f3f9546e0374ad",
+      "title": "Loft Orbital, Marlan Space, and Mistral sign $1bn deal to put compute in space",
+      "link": "https://www.datacenterdynamics.com/en/news/loft-orbital-marlan-space-and-mistral-sign-1bn-deal-to-put-compute-in-space/",
+      "summary": "Will launch constellation of 50 satellites",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-10T16:16:21+00:00"
+    },
+    {
+      "id": "7bc2d3526468adc4",
+      "title": "Forget about TDP",
+      "link": "https://www.datacenterdynamics.com/en/analysis/forget-about-tdp/",
+      "summary": "CoolIT\u2019s CTO argues thermal design power is a solved challenge, and that there are more pressing concerns",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-10T16:00:34+00:00"
+    },
+    {
+      "id": "a14ac039bd8186a4",
+      "title": "Beyond Category 5: What extreme hurricanes mean for electric utilities",
+      "link": "https://www.utilitydive.com/news/beyond-category-5-what-extreme-hurricanes-mean-for-the-grid/828906/",
+      "summary": "As storm behavior changes, grid planning frameworks need to keep pace with evolving risk profiles,\u00a0write Michael Levy and Sarah Pearl\u00a0of\u00a0management consulting firm Baringa.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T15:58:16+00:00"
     },
     {
       "id": "e0d1f5137ea04659",
@@ -101,6 +231,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-10T14:30:42+00:00"
+    },
+    {
+      "id": "3962acdfe8dea8dc",
+      "title": "California PUC to revise general rate case plan around transparency goals",
+      "link": "https://www.utilitydive.com/news/california-puc-to-revise-general-rate-case-plan-around-transparency-goals/830042/",
+      "summary": "Commissioner Darcie Houck suggested taking \u201ca closer look at the correlation between utility performance and compensation.\u201d The plan has not been comprehensively updated since 2007.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T14:27:21+00:00"
     },
     {
       "id": "98fe2e77a18a4d16",
@@ -141,6 +281,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-10T12:45:58+00:00"
+    },
+    {
+      "id": "21b66f5c74e21996",
+      "title": "Why Crankcase Ventilation Matters in Engine-Based Power",
+      "link": "https://www.powermag.com/why-crankcase-ventilation-matters-in-engine-based-power/",
+      "summary": "As reciprocating engines/gensets assume a larger role in distributed generation, data center infrastructure, and other critical duty applications, crankcase ventilation and the resulting emissions warrant increased attention and mitigation. When power generation professionals discuss engine emissions, the conversation typically focuses on the exhaust stack. While this emphasis is justified, it und",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-10T12:44:02+00:00"
     },
     {
       "id": "7bca25ac21668e0a",
@@ -240,7 +390,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-09-10T09:35:18+00:00"
+      "published": "2026-09-10T09:35:00+00:00"
     },
     {
       "id": "9a6c7431ac40e4aa",
@@ -456,7 +606,7 @@
       "id": "a1610bf912fa5cfc",
       "title": "Google, Xcel, others back MISO\u2019s \u2018zero injection\u2019 large-load proposal",
       "link": "https://www.utilitydive.com/news/google-xcel-miso-zero-injection-large-load-ferc/829912/",
-      "summary": "The Midcontinent Independent System Operator's proposal would fast-track reviews for generating projects that supply large loads that are served by the same substation, including colocated loads.",
+      "summary": "The Midcontinent Independent System Operator's proposal would fast-track reviews for generating projects that supply large loads served by the same substation, including colocated loads.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6751,146 +6901,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-20T23:46:32+00:00"
-    },
-    {
-      "id": "a340f3f1d7e1b590",
-      "title": "Nevada Governor, Congresswoman Spar Over Data Center",
-      "link": "https://www.rtoinsider.com/140128-nevada-governor-congresswoman-spar-over-data-center/",
-      "summary": "A controversial data center project on federal land in Nevada continues to test the resolve of top lawmakers in the face of public opposition, sparking a public spat between the state\u2019s Republican governor and a senior Democratic congresswoman.\nThe post Nevada Governor, Congresswoman Spar Over Data Center appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T23:31:47+00:00"
-    },
-    {
-      "id": "b0119782d13a1b95",
-      "title": "State Utility Regulators Describe Grappling with Data Center Buildout",
-      "link": "https://www.rtoinsider.com/140148-state-utility-regulators-shifting-data-center-regulatory-landscape/",
-      "summary": "As more data center developers seek to plug into the grid, the balance state utility regulators must maintain becomes more challenging.\nThe post State Utility Regulators Describe Grappling with Data Center Buildout appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T23:29:25+00:00"
-    },
-    {
-      "id": "014855c3a3d43195",
-      "title": "Feds Warn of AI Cyber Threat \u2018Evolution\u2019",
-      "link": "https://www.rtoinsider.com/140053-feds-warn-of-ai-cyber-threat-evolution/",
-      "summary": "Federal cybersecurity agencies warned that cyberattacks fueled by artificial intelligence are \"an active threat\" to multiple critical sectors, including energy.\nThe post Feds Warn of AI Cyber Threat \u2018Evolution\u2019 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T22:32:34+00:00"
-    },
-    {
-      "id": "eef90b066c6338ab",
-      "title": "Before Regulators Approve the Grid Buildout, They Need to Know Who Bears the Loss",
-      "link": "https://www.rtoinsider.com/139798-before-regulators-approve-grid-buildout-need-know-who-bears-loss/",
-      "summary": "Before a public utility commission approves major grid investment, it should require an insurance and residual-risk statement, Colton Overcash writes.\nThe post Before Regulators Approve the Grid Buildout, They Need to Know Who Bears the Loss appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T22:01:41+00:00"
-    },
-    {
-      "id": "0e4f3037ef5582a1",
-      "title": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs",
-      "link": "https://www.powermag.com/shapiro-sets-binding-grid-requirements-in-pennsylvania-targets-data-center-power-costs/",
-      "summary": "Pennsylvania Gov. Josh Shapiro signed an executive order on Aug. 18 that raises the bar for large data center development in the state, directing agencies to condition favorable permitting treatment and tax benefits on compliance with new energy, infrastructure, environmental, workforce, and community requirements. Executive Order 2026-05\u00a0applies its central permitting provisions to data centers w",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T21:11:56+00:00"
-    },
-    {
-      "id": "28b914e80c210fd8",
-      "title": "PJM wants data centers to bring their own power. Pennsylvania\u2019s on it.",
-      "link": "https://www.canarymedia.com/articles/data-centers/pjm-data-centers-pennsylvania",
-      "summary": "Last month, grid operator PJM Interconnection unveiled a long-awaited proposal to prevent data centers from spiking power prices \u2014 but the plan largely relies on states to give it teeth .  Pennsylvania, one of the biggest states in PJM\u2019s 13-state territory, is taking up that challenge.  This week, Pennsylvania Gov.\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T21:00:00+00:00"
-    },
-    {
-      "id": "273d743961e94a3f",
-      "title": "Next-Gen Education: UNC Charlotte's School of Energy to Train Future U.S. Workforce, Tackle Critical Grid Demands",
-      "link": "https://www.tdworld.com/reliability-and-resiliency/news/55399623/next-gen-education-unc-charlottes-school-of-energy-to-train-future-us-workforce-tackle-critical-grid-demands",
-      "summary": "The new school will focus solely on grid modernization and the interdisciplinary hurdles facing the nation's electrical infrastructure. It builds upon a previously announced $160 million 10-year investment in July by the U.S. National Science Foundation to anchor the Carolinas Solar Energy Innovation Engine.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T19:25:28+00:00"
-    },
-    {
-      "id": "0d459115c48921ec",
-      "title": "Line Wives: The Power Behind the Power",
-      "link": "https://www.tdworld.com/electric-utility-operations/article/55393128/line-wives-the-power-behind-the-power",
-      "summary": "They keep things rolling at home when their spouses are away on storm duty or responding to emergencies or middle-of-the-night callouts.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T19:22:10+00:00"
-    },
-    {
-      "id": "4f8ca1bf2437ca8d",
-      "title": "The Edge of tomorrow",
-      "link": "https://www.datacenterdynamics.com/en/analysis/the-edge-of-tomorrow/",
-      "summary": "Axelera AI founder Fabrizio del Maffeo wants to bring Edge AI hardware to the world",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-20T18:38:39+00:00"
-    },
-    {
-      "id": "5950bcdecf6fb40b",
-      "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
-      "link": "https://www.powermag.com/the-forgotten-generation-why-cogeneration-is-re-emerging-in-the-age-of-ai/",
-      "summary": "For decades, most large electricity users in the U.S. relied on the grid for the vast majority of their power needs. As long as the grid could deliver reliable, affordable power, there was little reason to think differently. Now, electricity demand is rising faster than new generation, transmission and distribution infrastructure can often be planned, [\u2026]\nThe post The Forgotten Generation: Why Cog",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T18:05:38+00:00"
-    },
-    {
-      "id": "8552d699355768a9",
-      "title": "The Forgotten Generation: Why Cogeneration Is Re-Emerging in the Age of AI",
-      "link": "https://www.powermag.com/the-forgotten-generation-why-cogeneration-is-re-emerging-in-the-age-of-ai/",
-      "summary": "For decades, most large electricity users in the U.S. relied on the grid for the vast majority of their power needs. As long as the grid could deliver reliable, affordable power, there was little reason to think differently. Now, electricity demand is rising faster than new generation, transmission and distribution infrastructure can often be planned, [\u2026]\nThe post The Forgotten Generation: Why Cog",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T18:05:38+00:00"
-    },
-    {
-      "id": "d13ebfce491fc295",
-      "title": "Brazilian Group Supporting Grid With New Gas-Fired Power Plants",
-      "link": "https://www.powermag.com/brazilian-group-supporting-grid-with-new-gas-fired-power-plants/",
-      "summary": "A Brazilian natural gas company has launched a new model for power generation. Eneva, the largest natural gas operator in Brazil, said it started commercial operation of the first asset in its Azul\u00e3o Complex, part of the company\u2019s \u201cReservoir-to-Wire\u201d (R2W) model. Officials on August 19 said the Azul\u00e3o installation, which will feature two gas-fired power [\u2026]\nThe post Brazilian Group Supporting Grid",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T17:42:37+00:00"
-    },
-    {
-      "id": "8c784bc158ba8d0a",
-      "title": "Survey: Utility Bill Worries Eclipse Housing, Food, Transportation for Some Consumers",
-      "link": "https://www.tdworld.com/utility-business/article/55399530/survey-utility-bill-worries-eclipse-housing-food-transportation-for-some-consumers",
-      "summary": "The burden falls hardest on low-income households, 48% of whom struggled to pay compared with just 18% of medium and higher-income households.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T16:13:33+00:00"
-    },
-    {
-      "id": "383c1b477313938f",
-      "title": "PJM Widens Response to Data Center Load as Capacity Shortfalls Deepen",
-      "link": "https://www.powermag.com/pjm-widens-response-to-data-center-load-as-capacity-shortfalls-deepen/",
-      "summary": "PJM Interconnection has proposed a new framework that would allow large data centers and other major electricity users to enter service without first securing enough new capacity to cover their demand\u2014but would make the uncovered portion of that load available for reduction before PJM calls on existing pre-emergency demand-response resources if electricity supplies become dangerously [\u2026]\nThe post ",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-20T15:53:58+00:00"
     }
   ]
 }
