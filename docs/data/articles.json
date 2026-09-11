@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:54:04.277898+00:00",
-  "count": 685,
+  "generated_at": "2026-09-11T23:52:01.343890+00:00",
+  "count": 679,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-11T15:53:59.844359+00:00"
+      "published": "2026-09-11T23:51:57.096337+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-11T15:53:59.844344+00:00"
+      "published": "2026-09-11T23:51:57.096322+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-11T15:53:59.844315+00:00"
+      "published": "2026-09-11T23:51:57.096305+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-11T15:53:59.844279+00:00"
+      "published": "2026-09-11T23:51:57.096272+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-11T15:53:57.341842+00:00"
+      "published": "2026-09-11T23:51:55.236696+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-11T15:53:56.293160+00:00"
+      "published": "2026-09-11T23:51:53.827006+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,97 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-11T15:53:56.292516+00:00"
+      "published": "2026-09-11T23:51:53.826299+00:00"
+    },
+    {
+      "id": "0b2be1a1822cf4be",
+      "title": "xAI has quietly built a massive battery at its Memphis data center hub",
+      "link": "https://www.canarymedia.com/articles/batteries/xai-massive-battery-memphis-data-center",
+      "summary": "Elon Musk\u2019s SpaceXAI has built what may be the biggest battery in the U.S. at its controversial Memphis AI computing hub.  The exact size of the battery is unclear. Canary Media counted 720 Tesla Megapack battery containers visible on the grounds of the Colossus 2 data center in satellite imagery dated July 11. That\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-11T22:00:00+00:00"
+    },
+    {
+      "id": "91f18d2da08ec09b",
+      "title": "Court rules that Trump can\u2019t force a Michigan coal plant to keep running",
+      "link": "https://www.canarymedia.com/articles/fossil-fuels/court-rules-against-trump-michigan-coal-plant",
+      "summary": "A federal court has ruled that the Department of Energy acted outside the bounds of its legal authority when it forced a coal plant in Michigan to keep running last year \u2014 a decision that could undermine the Trump administration\u2019s push to prevent aging and costly fossil-fueled power plants from closing down.  Under\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-11T17:19:00+00:00"
+    },
+    {
+      "id": "532badab6bf52ca5",
+      "title": "Court Rules Against Trump Order to Keep Michigan Coal-Fired Plant Operating",
+      "link": "https://www.powermag.com/court-rules-against-trump-order-to-keep-michigan-coal-fired-plant-operating/",
+      "summary": "The D.C. Circuit Court of Appeals has ruled against the Trump administration's order to keep the J.H. Campbell coal-fired power plant in Michigan operating. The decision that could impact other orders that have been issued to keep U.S. coal-fired power plants operating past their scheduled retirement dates.\nThe post Court Rules Against Trump Order to Keep Michigan Coal-Fired Plant Operating appear",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-11T16:53:49+00:00"
+    },
+    {
+      "id": "032d96f9df66c00d",
+      "title": "D.C. Circuit Vacates DOE\u2019s Order Keeping the Campbell Coal Plant Open",
+      "link": "https://www.rtoinsider.com/143205-dc-circuit-vacates-does-order-keeping-campbell-plant-open/",
+      "summary": "In the first appeal of a wave of recent orders from DOE stopping power plants from retiring, the DC Circuit found the agency overstepped its bounds as states have primary authority over generation and resource adequacy.\nThe post D.C. Circuit Vacates DOE\u2019s Order Keeping the Campbell Coal Plant Open appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-11T16:44:05+00:00"
+    },
+    {
+      "id": "6bf9a33855eba3a2",
+      "title": "Court rejects DOE \u2018emergency\u2019 order delaying coal plant retirement as overstep",
+      "link": "https://www.utilitydive.com/news/appeals-court-vacates-doe-emergency-order-michigan-power-plant/830189/",
+      "summary": "\u201cThe Department\u2019s reading of 'emergency' invites frequent federal interventions that are unsupported by the statute and threaten the stability of the energy market,\u201d\u00a0the U.S. Appeals Court for the District of Columbia Circuit said in its ruling.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-11T16:41:56+00:00"
+    },
+    {
+      "id": "d46967527146c84a",
+      "title": "Satellite Internet coming to UK rail network as part of \u00a37.8bn space strategy",
+      "link": "https://www.datacenterdynamics.com/en/news/satellite-internet-coming-to-uk-rail-network-as-part-of-78bn-space-strategy/",
+      "summary": "British rail policymakers plan to enable seamless broadband on trains by 2030 after promising to do it by 2025",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-11T16:25:00+00:00"
+    },
+    {
+      "id": "3e1ea9712ecefeac",
+      "title": "UK telcos lament planning rules, says 5G coverage is being stifled",
+      "link": "https://www.datacenterdynamics.com/en/news/uk-telcos-lament-planning-rules-says-5g-coverage-is-being-stifled/",
+      "summary": "More flexibility on regulations could drive 5G forward",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-11T16:16:53+00:00"
+    },
+    {
+      "id": "b1cc4f8258604a44",
+      "title": "Plans for 120MW data center withdrawn in Lombardy, Italy",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy/",
+      "summary": "Mayor says municipality never received data needed for the grid connection",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-11T16:12:18+00:00"
+    },
+    {
+      "id": "382c91690ce9a1d8",
+      "title": "SpaceX signs compute contract valued at $13.3bn annually",
+      "link": "https://www.datacenterdynamics.com/en/news/spacex-signs-compute-contract-valued-at-133bn-annually/",
+      "summary": "Brings total annual income from compute leases to $41.1bn",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-11T16:02:26+00:00"
     },
     {
       "id": "6c9ae52d80ce4c61",
@@ -83,6 +173,16 @@
       "published": "2026-09-11T15:48:36+00:00"
     },
     {
+      "id": "d4c57472793b552d",
+      "title": "Balcony solar is this year\u2019s clean energy superstar in the US",
+      "link": "https://www.canarymedia.com/articles/balcony-solar/clean-energy-plug-in-solar-panels",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   Summer is only just coming to a close, but this year\u2019s top clean energy trendsetter is already clear.  At the start of 2026, you may never have even heard of balcony solar. The panels have long been staples\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-11T15:47:00+00:00"
+    },
+    {
       "id": "04a0aedf360a7908",
       "title": "Sponsored: Fluid strategy in the era of high-density computing",
       "link": "https://www.datacenterdynamics.com/en/opinions/fluid-strategy-in-the-era-of-high-density-computing/",
@@ -91,6 +191,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-11T15:00:00+00:00"
+    },
+    {
+      "id": "8366d136ff9c4008",
+      "title": "Pennsylvania PUC to consider ratemaking, ROE and curtailment as data center load grows",
+      "link": "https://www.utilitydive.com/news/pennsylvania-puc-to-consider-rates-and-curtailment-as-data-centers-grow/830174/",
+      "summary": "The decisions come \u201camid growing concern about the balance between rapidly increasing electricity demand and the resources available to serve that demand\u201d in PJM territory, the\u00a0Pennsylvania PUC said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-11T14:57:52+00:00"
     },
     {
       "id": "ff34973de912dec8",
@@ -115,6 +225,16 @@
     {
       "id": "c2653f6a84800c46",
       "title": "Unplanned power plant outages fall sharply during 2025/26 winter storms: FERC-NERC report",
+      "link": "https://www.utilitydive.com/news/unplanned-power-plant-outages-winter-weather-ferc-nerc/830141/",
+      "summary": "Improved preparations and interregional power transfers played key roles in avoiding planned blackouts during bitter cold in early 2026, according to the agency and grid watchdog.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-11T12:48:14+00:00"
+    },
+    {
+      "id": "751e8fed16cf7781",
+      "title": "Unplanned power plant outages fell sharply during 2025/26 winter storms: FERC-NERC report",
       "link": "https://www.utilitydive.com/news/unplanned-power-plant-outages-winter-weather-ferc-nerc/830141/",
       "summary": "Improved preparations and interregional power transfers played key roles in avoiding planned blackouts during bitter cold in early 2026, according to the agency and grid watchdog.",
       "source": "Utility Dive",
@@ -6671,186 +6791,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-22T07:00:00+00:00"
-    },
-    {
-      "id": "3cdc89d4511f2bf4",
-      "title": "Tomi Fadipe",
-      "link": "https://www.tdworld.com/home/contact/55400030/tomi-fadipe",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T21:42:47+00:00"
-    },
-    {
-      "id": "9a2c455dc4ea53f6",
-      "title": "Rethinking Substation Protection: Why More Engineers Are Turning to Virtualization",
-      "link": "https://www.tdworld.com/substations/blog/55396329/rethinking-substation-protection-why-more-engineers-are-turning-to-virtualization",
-      "summary": "As energy demands surge and grid modernization accelerates, virtualization enables utilities to deploy scalable, software-driven protection solutions that adapt to evolving requirements without extensive hardware overhauls.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T20:46:34+00:00"
-    },
-    {
-      "id": "88c0bd3cbf5e2d6c",
-      "title": "Safegrid to Showcase Predictive Fault Intelligence Solution for Modern Distribution Networks",
-      "link": "https://www.tdworld.com/overhead-distribution/product/55399975/safegrid-to-showcases-predictive-fault-intelligence-solution-for-modern-distribution-networks",
-      "summary": "The system continuously monitors electrical phenomena like partial discharge and leakage current, providing early warnings of asset deterioration and enabling targeted repairs before failures occur, saving time and costs.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T19:54:58+00:00"
-    },
-    {
-      "id": "7982ee0805d5f645",
-      "title": "R.M. Young Company and Western Weather Group to Give Away Free Wind Monitor at T&D World Live",
-      "link": "https://www.tdworld.com/electric-utility-operations/tools-and-technologies/news/55399973/rm-young-company-and-western-weather-group-to-give-away-free-wind-monitor-at-td-world-live",
-      "summary": "Attendees can visit Booth 419 to see a full weather station display, participate in a fun trivia contest to win a Wind Monitor, and learn about the combined expertise of R.M. Young and Western Weather Group. This event highlights their long-standing collaboration in providing reliable meteorological solutions.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T19:47:08+00:00"
-    },
-    {
-      "id": "3f43c3e9e1ffd50c",
-      "title": "Trump turns $500M grant for clean steel into funding for coal furnace",
-      "link": "https://www.canarymedia.com/articles/green-steel/trump-clean-steel-grant-coal",
-      "summary": "A $500 million Biden-era grant to decarbonize steelmaking has been refashioned by the Trump administration to upgrade a coal-fueled blast furnace in southern Ohio.  On Friday, Cleveland-Cliffs confirmed that the U.S. Department of Energy had changed the scope of the previously awarded funding for Cliffs\u2019 Middletown\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T19:30:00+00:00"
-    },
-    {
-      "id": "5210b8fc52367f37",
-      "title": "Study: U.S. Electricity Demand Could Jump 32% by 2030 Amid AI Data Center Surge",
-      "link": "https://www.tdworld.com/reliability-and-resiliency/news/55399939/study-us-electricity-demand-could-jump-32-by-2030-amid-ai-data-center-surge",
-      "summary": "The UH Energy team states that while the pace of this demand remains uncertain, natural gas, solar and battery storage are expected to handle much of the near-term load.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T19:19:48+00:00"
-    },
-    {
-      "id": "43f4d0764200f39b",
-      "title": "Arevon Brings Nighthawk Energy Storage Project Online in California",
-      "link": "https://www.powermag.com/arevon-brings-nighthawk-energy-storage-project-online-in-california/",
-      "summary": "Arevon Energy said its largest standalone battery energy storage project is now operational. The company on August 13 announced that the 300-MW Nighthawk Energy Storage Project has come online in Poway, California.\nThe post Arevon Brings Nighthawk Energy Storage Project Online in California appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T18:40:34+00:00"
-    },
-    {
-      "id": "471aa0e10b7697be",
-      "title": "PA Governor\u2019s Race is Latest to Heat Up Over Data Center Policy, Electricity",
-      "link": "https://www.tdworld.com/policy/article/55399932/pa-governors-race-is-latest-to-heat-up-over-data-center-policy-electricity",
-      "summary": "Shapiro, a Democrat, released an ad calling Garrity \u201cPennsylvania\u2019s #1 fan of data centers.\u201d",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T18:28:21+00:00"
-    },
-    {
-      "id": "a4294c8e2e960067",
-      "title": "Don\u2019t Ask States to Become Nuclear Waste Dumps. Make Them Partners in Solving the Problem",
-      "link": "https://www.powermag.com/dont-ask-states-to-become-nuclear-waste-dumps-make-them-partners-in-solving-the-problem/",
-      "summary": "A new federal effort to develop nuclear \u201clifecycle\u201d campuses has produced something Washington, D.C., has rarely seen: states competing for a role in managing America\u2019s used nuclear fuel.\nThe post Don\u2019t Ask States to Become Nuclear Waste Dumps. Make Them Partners in Solving the Problem appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T18:03:26+00:00"
-    },
-    {
-      "id": "63230ec45c09401d",
-      "title": "Line Life Listens: Rocking the Rodeo, Part 1",
-      "link": "https://www.tdworld.com/electric-utility-operations/article/55399921/line-life-listens-rocking-the-rodeo-part-1",
-      "summary": "Mike Willman, the official voice of the International Lineman's Rodeo, shared some of his favorite songs for Rodeo Week for a series of Line Life Listens playlists.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T17:26:56+00:00"
-    },
-    {
-      "id": "2ddc92e3722b76a4",
-      "title": "Five Grid Innovations. One Winner. You Decide at T&D World Live",
-      "link": "https://www.tdworld.com/grid-innovations/news/55399894/six-grid-innovations-one-winner-you-decide-at-td-world-live",
-      "summary": "Experience the future of electric utilities at T&D World Live 2026's Innovation Shares. This interactive session features presentations on emerging approaches to enhance grid resilience and operational efficiency, with attendees voting to recognize the most innovative solution, fostering industry-wide innovation.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T17:17:44+00:00"
-    },
-    {
-      "id": "902cdb8577a4f225",
-      "title": "Vapat Enters the data center market with a 160MW project in Valladolid",
-      "link": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
-      "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-21T16:47:08+00:00"
-    },
-    {
-      "id": "5b58a8e3155c0df5",
-      "title": "Vapat enters the data center market with a 160MW project in Valladolid, Spain",
-      "link": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
-      "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-21T16:47:00+00:00"
-    },
-    {
-      "id": "d727c8ac33daebba",
-      "title": "Colombia halts construction of 1,600km fiber network in the Amazon",
-      "link": "https://www.datacenterdynamics.com/en/news/colombia-puts-the-brakes-on-a-1600-km-fiber-optic-network-in-the-amazon/",
-      "summary": "The technical and financial complexity of the deployment has led the government to withdraw the procurement process",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-21T16:42:53+00:00"
-    },
-    {
-      "id": "9d0bbae07273ba97",
-      "title": "Dynamic Tools Launches 44-Piece Insulated Socket and Tool Set for High-Voltage Professionals",
-      "link": "https://www.tdworld.com/electric-utility-operations/news/55399880/dynamic-tools-launches-44-piece-insulated-socket-and-tool-set-for-high-voltage-professionals",
-      "summary": "This set includes metric sockets, nut drivers, a quick-release ratchet and an adjustable wrench, all housed in a lockable case.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T16:33:42+00:00"
-    },
-    {
-      "id": "9b8cdc9a3971014c",
-      "title": "Nvidia backs data center powered land company Cloverleaf",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
-      "summary": "Will help company bring projects to fruition, based on Nvidia DSX platform",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-21T16:20:00+00:00"
-    },
-    {
-      "id": "ac2b87c8ae5b62bf",
-      "title": "ComEd Crews Respond to Summer Storms",
-      "link": "https://www.tdworld.com/electric-utility-operations/news/55399874/comed-crews-respond-to-summer-storms",
-      "summary": "Early-morning storms with high winds and possible tornadoes led to 370,000 outages on Aug. 11 in ComEd's service territory.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T16:14:56+00:00"
-    },
-    {
-      "id": "33052c80202267ae",
-      "title": "Putting Safety First in the Line Trade: Featuring Max Fuentes",
-      "link": "https://www.tdworld.com/electric-utility-operations/podcast/55399854/putting-safety-first-in-the-line-trade-featuring-max-fuentes",
-      "summary": "Max Fuentes, who has more than four decades of experience, shares what issues he's seeing with safety in the line trade and how utilities can safeguard their field workforce.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-21T16:12:05+00:00"
     }
   ]
 }
