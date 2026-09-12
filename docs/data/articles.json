@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T23:52:01.343890+00:00",
-  "count": 679,
+  "generated_at": "2026-09-12T15:00:48.570385+00:00",
+  "count": 675,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-11T23:51:57.096337+00:00"
+      "published": "2026-09-12T15:00:43.891689+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-11T23:51:57.096322+00:00"
+      "published": "2026-09-12T15:00:43.891676+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-11T23:51:57.096305+00:00"
+      "published": "2026-09-12T15:00:43.891661+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-11T23:51:57.096272+00:00"
+      "published": "2026-09-12T15:00:43.891628+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-11T23:51:55.236696+00:00"
+      "published": "2026-09-12T15:00:41.705726+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-11T23:51:53.827006+00:00"
+      "published": "2026-09-12T15:00:40.269923+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-11T23:51:53.826299+00:00"
+      "published": "2026-09-12T15:00:40.269226+00:00"
     },
     {
       "id": "0b2be1a1822cf4be",
@@ -195,6 +195,16 @@
     {
       "id": "8366d136ff9c4008",
       "title": "Pennsylvania PUC to consider ratemaking, ROE and curtailment as data center load grows",
+      "link": "https://www.utilitydive.com/news/pennsylvania-puc-to-consider-rates-and-curtailment-as-data-centers-grow/830174/",
+      "summary": "The decisions come \u201camid growing concern about the balance between rapidly increasing electricity demand and the resources available to serve that demand\u201d in PJM territory, the\u00a0Pennsylvania PUC said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-11T14:57:52+00:00"
+    },
+    {
+      "id": "3300871ca77cf3d7",
+      "title": "Pennsylvania PUC to consider ratemaking, ROE and curtailment as data centers grow",
       "link": "https://www.utilitydive.com/news/pennsylvania-puc-to-consider-rates-and-curtailment-as-data-centers-grow/830174/",
       "summary": "The decisions come \u201camid growing concern about the balance between rapidly increasing electricity demand and the resources available to serve that demand\u201d in PJM territory, the\u00a0Pennsylvania PUC said.",
       "source": "Utility Dive",
@@ -6741,56 +6751,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-23T07:00:00+00:00"
-    },
-    {
-      "id": "945f848747426d38",
-      "title": "Sponsored: What coolant should you use for data center liquid cooling?",
-      "link": "https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/",
-      "summary": "Exploring PG25, dielectric fluids, and ASHRAE recommendations",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-22T15:00:00+00:00"
-    },
-    {
-      "id": "e6abde3c79d8f1dd",
-      "title": "Ignis and Acciona look to build a data center in Segovia, Spain",
-      "link": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
-      "summary": "The joint project also includes the development of a photovoltaic plant",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-22T14:00:33+00:00"
-    },
-    {
-      "id": "872599bd30d5ac09",
-      "title": "Building data centers is getting easier. Building trust is not",
-      "link": "https://www.datacenterdynamics.com/en/opinions/building-data-centers-is-getting-easier-building-trust-is-not/",
-      "summary": "Data centers cannot afford to treat communities as an afterthought",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-22T14:00:31+00:00"
-    },
-    {
-      "id": "abb22f09f7381832",
-      "title": "Terronova starts work on 300MW data center campus outside S\u00e3o Paulo, Brazil",
-      "link": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
-      "summary": "Site could eventually exceed 1GW",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-22T11:00:30+00:00"
-    },
-    {
-      "id": "46b5ed96dd9630fb",
-      "title": "Sponsored: Powering data centers is no longer a simple matter of supply and demand",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/powering-data-centers-is-no-longer-a-simple-matter-of-supply-and-demand/",
-      "summary": "Ramboll\u2019s Michael Bergstrom unpacks how unprecedented load growth, changing grid standards, and shifting utility requirements are transforming the data center lifecycle",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-22T07:00:00+00:00"
     }
   ]
 }
