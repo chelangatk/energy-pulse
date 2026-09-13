@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:38:52.392719+00:00",
+  "generated_at": "2026-09-13T23:52:15.885992+00:00",
   "count": 676,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-13T15:38:47.937602+00:00"
+      "published": "2026-09-13T23:52:13.289352+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-13T15:38:47.937587+00:00"
+      "published": "2026-09-13T23:52:13.289341+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-13T15:38:47.937568+00:00"
+      "published": "2026-09-13T23:52:13.289327+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-13T15:38:47.937524+00:00"
+      "published": "2026-09-13T23:52:13.289303+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-13T15:38:46.076499+00:00"
+      "published": "2026-09-13T23:52:11.490888+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-13T15:38:44.778810+00:00"
+      "published": "2026-09-13T23:52:10.409607+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,77 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-13T15:38:44.778088+00:00"
+      "published": "2026-09-13T23:52:10.409042+00:00"
+    },
+    {
+      "id": "4be40d897b9edf1d",
+      "title": "California \u2018Affordability Crisis\u2019 Needs Attention, Report Says",
+      "link": "https://www.rtoinsider.com/142857-california-affordability-crisis-needs-attention-report-says/",
+      "summary": "While California electricity rates are about twice those in much of the rest of the U.S., many solutions are available to address the state\u2019s growing energy affordability problem \u2014 and some within months, according to a new report.\n\nThe post California \u2018Affordability Crisis\u2019 Needs Attention, Report Says appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-13T22:50:21+00:00"
+    },
+    {
+      "id": "4a0301e3c1b0b28a",
+      "title": "MISO South States Want Removal of Majority/Minority Labels in OMS Docs",
+      "link": "https://www.rtoinsider.com/143128-miso-south-states-want-removal-of-majority-minority-labels-in-oms-docs/",
+      "summary": "MISO South states are pushing for a change in the Organization of MISO States bylaws that would eradicate the organization\u2019s longstanding practice of recognizing majority and minority opinions among state regulators.\nThe post MISO South States Want Removal of Majority/Minority Labels in OMS Docs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-13T22:49:12+00:00"
+    },
+    {
+      "id": "6d632bb34755948e",
+      "title": "MISO Stakeholders Demand Better Cost Allocation for Transmission Spurred by Large Loads",
+      "link": "https://www.rtoinsider.com/143136-stakeholders-demand-better-miso-allocation-plan-for-large-loads-spawning-costly-reliability-tx-projects/",
+      "summary": "Stakeholders told MISO that cost-shifting among transmission customers to bring large loads online seems to already be taking place in the form of expensive reliability-based transmission projects that wouldn\u2019t be necessary but for data centers and their ilk.\nThe post MISO Stakeholders Demand Better Cost Allocation for Transmission Spurred by Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-13T22:48:13+00:00"
+    },
+    {
+      "id": "993b0bad7b67e6b7",
+      "title": "Longer-duration Energy Storage Faces Obstacles Entering Ripe Market",
+      "link": "https://www.rtoinsider.com/143159-longer-duration-energy-storage-faces-obstacles-entering-ripe-market/",
+      "summary": "Longer-duration energy storage technologies are advancing faster than market designs that can support its use, analysts say.\nThe post Longer-duration Energy Storage Faces Obstacles Entering Ripe Market appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-13T22:45:40+00:00"
+    },
+    {
+      "id": "6389112dc4e8849e",
+      "title": "Constellation Buying Shell Plant to Boost ISO-NE Position",
+      "link": "https://www.rtoinsider.com/143197-constellation-buying-shell-plant-to-boost-iso-ne-position/",
+      "summary": "Shell Energy North America is selling natural gas-fired generation in Rhode Island and buying it in Pennsylvania.\nThe post Constellation Buying Shell Plant to Boost ISO-NE Position appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-13T22:44:56+00:00"
+    },
+    {
+      "id": "3e852902c4fa9484",
+      "title": "NEPOOL Debates Changes to ISO-NE Accreditation Proposal",
+      "link": "https://www.rtoinsider.com/143203-nepool-debates-changes-to-iso-ne-accreditation-proposal/",
+      "summary": "The NEPOOL Markets Committee debated CAR-SA amendments that would affect energy storage capacity accreditation, gas contracting requirements and other auction parameters.\nThe post NEPOOL Debates Changes to ISO-NE Accreditation Proposal appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-13T22:43:54+00:00"
+    },
+    {
+      "id": "78e5ce2a2e60ce34",
+      "title": "How retrofitting can help win the AI infrastructure race",
+      "link": "https://www.datacenterdynamics.com/en/opinions/how-retrofitting-can-help-win-the-ai-infrastructure-race/",
+      "summary": "Stop building, start upgrading",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-13T16:00:27+00:00"
     },
     {
       "id": "42bcbe2c4b8de7aa",
@@ -156,7 +226,7 @@
       "id": "032d96f9df66c00d",
       "title": "D.C. Circuit Vacates DOE\u2019s Order Keeping the Campbell Coal Plant Open",
       "link": "https://www.rtoinsider.com/143205-dc-circuit-vacates-does-order-keeping-campbell-plant-open/",
-      "summary": "In the first appeal of a wave of recent orders from DOE stopping power plants from retiring, the DC Circuit found the agency overstepped its bounds as states have primary authority over generation and resource adequacy.\nThe post D.C. Circuit Vacates DOE\u2019s Order Keeping the Campbell Coal Plant Open appeared first on RTO Insider.",
+      "summary": "In the first appeal of a wave of recent orders from DOE stopping power plants from retiring, the D.C. Circuit found the agency overstepped its bounds as states have primary authority over generation and resource adequacy.\nThe post D.C. Circuit Vacates DOE\u2019s Order Keeping the Campbell Coal Plant Open appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
       "region": "National",
@@ -6691,76 +6761,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-24T07:30:00+00:00"
-    },
-    {
-      "id": "925baffedc06d145",
-      "title": "N.J. Communities Acting to Slow Surge of Data Centers",
-      "link": "https://www.rtoinsider.com/140133-nj-emerging-prohibit-limit-entry-of-data-centers/",
-      "summary": "Jersey City, New Jersey\u2019s second-largest city, has joined a growing wave of municipalities that have moved to stop the development of data centers, despite the commitment of Gov. Mikie Sherrill (D) that she will ensure ratepayers and communities are not affected by the costs of interconnecting the facilities.\nThe post N.J. Communities Acting to Slow Surge of Data Centers appeared first on RTO Insi",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-23T19:14:08+00:00"
-    },
-    {
-      "id": "54bd7ca63e851319",
-      "title": "MISO LMR Unavailability Investigation Triggers Debate on Closed Businesses",
-      "link": "https://www.rtoinsider.com/140290-miso-lmr-unavailability-investigation-triggers-debate-closed-businesses/",
-      "summary": "MISO\u2019s first investigation into load-modifying resources\u2019 unavailability during a winter storm set off a debate between MISO and stakeholders on what happens when businesses signed on for demand response close their doors.\nThe post MISO LMR Unavailability Investigation Triggers Debate on Closed Businesses appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-23T18:06:12+00:00"
-    },
-    {
-      "id": "db99e8b85bb7b08a",
-      "title": "MISO Wants Consequences for Gen Lead Time Extensions in Emergencies",
-      "link": "https://www.rtoinsider.com/140292-miso-wants-rules-cut-back-generators-lead-time-extensions/",
-      "summary": "MISO said it will roll out new rules to discourage its market participants from stretching out their units\u2019 lead times when a grid emergency is on the horizon.\nThe post MISO Wants Consequences for Gen Lead Time Extensions in Emergencies appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-23T17:24:27+00:00"
-    },
-    {
-      "id": "1eeb7ec37902fa9d",
-      "title": "Batch Zero Timing Endangered by Abbott\u2019s Call for Audit",
-      "link": "https://www.rtoinsider.com/140296-batch-zero-timing-endangered-by-abbotts-call-for-audit/",
-      "summary": "ERCOT officials have set a December target to complete Texas Gov. Greg Abbott\u2019s request to verify and audit data centers and crypto miners seeking to interconnect to the grid.\nThe post Batch Zero Timing Endangered by Abbott\u2019s Call for Audit appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-23T17:17:31+00:00"
-    },
-    {
-      "id": "a3fa6ba8938c44df",
-      "title": "MISO Smashes Import Record During Mid-July Emergency",
-      "link": "https://www.rtoinsider.com/140294-miso-smashes-import-record-during-mid-july-emergency/",
-      "summary": "MISO said it tracked its largest-ever import assistance of almost 18 GW during a mid-July emergency declaration.\nThe post MISO Smashes Import Record During Mid-July Emergency appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-23T17:08:14+00:00"
-    },
-    {
-      "id": "5a3d942cfcd725e5",
-      "title": "FERC Denies Maine Public Advocate\u2019s Challenge of Asset Condition Costs",
-      "link": "https://www.rtoinsider.com/140350-ferc-denies-maine-public-advocates-challenge-asset-condition-costs/",
-      "summary": "FERC denied a formal challenge of asset condition spending in New England, finding the Maine Office of the Public Advocate failed to demonstrate serious doubt about the prudency of the disputed projects.\nThe post FERC Denies Maine Public Advocate\u2019s Challenge of Asset Condition Costs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-23T16:11:35+00:00"
-    },
-    {
-      "id": "39579eddbce8c79c",
-      "title": "MISO Accepts 25% Increase for $1.2B Long-range Tx Project in Minn.",
-      "link": "https://www.rtoinsider.com/140288-miso-accepts-increase-for-long-range-tx-project-minn/",
-      "summary": "MISO approved a $240 million cost hike for a long-range transmission project in Minnesota after the developers\u2019 even larger cost increases triggered a reevaluation of the project.\nThe post MISO Accepts 25% Increase for $1.2B Long-range Tx Project in Minn. appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-23T15:44:48+00:00"
     }
   ]
 }
