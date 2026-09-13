@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:42:28.467845+00:00",
+  "generated_at": "2026-09-13T15:38:52.392719+00:00",
   "count": 676,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-12T23:42:24.426277+00:00"
+      "published": "2026-09-13T15:38:47.937602+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-12T23:42:24.426265+00:00"
+      "published": "2026-09-13T15:38:47.937587+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-12T23:42:24.426248+00:00"
+      "published": "2026-09-13T15:38:47.937568+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-12T23:42:24.426214+00:00"
+      "published": "2026-09-13T15:38:47.937524+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-12T23:42:22.327930+00:00"
+      "published": "2026-09-13T15:38:46.076499+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-12T23:42:21.034416+00:00"
+      "published": "2026-09-13T15:38:44.778810+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,37 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-12T23:42:21.033765+00:00"
+      "published": "2026-09-13T15:38:44.778088+00:00"
+    },
+    {
+      "id": "42bcbe2c4b8de7aa",
+      "title": "Attackers already understand your software supply chain better than you do",
+      "link": "https://www.datacenterdynamics.com/en/opinions/attackers-already-understand-your-software-supply-chain-better-than-you-do/",
+      "summary": "And AI is only making these attackers smarter",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-13T14:00:31+00:00"
+    },
+    {
+      "id": "6686e9df417e7fbb",
+      "title": "From grid constraint to grid asset: Rethinking the path to data center power",
+      "link": "https://www.datacenterdynamics.com/en/opinions/from-grid-constraint-to-grid-asset-rethinking-the-path-to-data-center-power/",
+      "summary": "Stop asking for permission and start offering solutions",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-13T11:00:30+00:00"
+    },
+    {
+      "id": "f9ad86a74cf7d446",
+      "title": "Sponsored: From pilot to production: Direct liquid cooling deployment risks in AI data center cooling",
+      "link": "https://www.datacenterdynamics.com/en/opinions/from-pilot-to-production-direct-liquid-cooling-deployment-risks-in-ai-data-center-cooling/",
+      "summary": "Examining the top eight challenges of direct liquid cooling vs air cooling data centers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-13T07:00:00+00:00"
     },
     {
       "id": "9dcf10ea67c633f7",
@@ -81,6 +111,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-12T15:00:00+00:00"
+    },
+    {
+      "id": "f9f6dc162c0d2b08",
+      "title": "AI has changed the data center's job description",
+      "link": "https://www.datacenterdynamics.com/en/opinions/ai-has-changed-the-data-centers-job-description/",
+      "summary": "AI rewrites the rules yet again",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-12T10:00:00+00:00"
     },
     {
       "id": "0b2be1a1822cf4be",
@@ -6721,46 +6761,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-23T15:44:48+00:00"
-    },
-    {
-      "id": "2e15f2ea2c73d09b",
-      "title": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
-      "link": "https://www.powermag.com/nvidia-cloverleaf-partnering-to-advance-data-center-development/",
-      "summary": "Technology giant NVIDIA is furthering its support of artificial intelligence (AI) and data center construction. Cloverleaf Infrastructure, a group that supports the AI buildout by providing power sources and infrastructure for site development, on August 21 said it has entered into a strategic partnership with NVIDIA to advance the development of digital infrastructure across the [\u2026]\nThe post NVID",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-23T15:25:23+00:00"
-    },
-    {
-      "id": "86f007dc2712e3ac",
-      "title": "The hidden infrastructure decisions that impact long-term uptime",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-infrastructure-decisions-that-impact-long-term-uptime/",
-      "summary": "The growing need to future-proof infrastructure",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-23T14:00:30+00:00"
-    },
-    {
-      "id": "99cb7d7c2a43e4ac",
-      "title": "Lithium-ion batteries are reshaping data centers, fire safety must keep pace",
-      "link": "https://www.datacenterdynamics.com/en/opinions/lithium-ion-batteries-are-reshaping-data-centers-fire-safety-must-keep-pace/",
-      "summary": "Managing fire in the AI age",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-23T10:00:26+00:00"
-    },
-    {
-      "id": "ac2aca34303e46f2",
-      "title": "Sponsored: Why speed to power starts before the grid",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/why-speed-to-power-starts-before-the-grid/",
-      "summary": "Rowan Digital Infrastructure's Patrick Dillow explains how smart site selection, flexible planning, and early utility partnerships pave the way to de-risking hyperscale project timelines",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-23T07:00:00+00:00"
     }
   ]
 }
