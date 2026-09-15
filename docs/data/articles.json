@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T17:44:09.927355+00:00",
-  "count": 672,
+  "generated_at": "2026-09-15T00:15:18.571918+00:00",
+  "count": 671,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-14T17:44:05.722153+00:00"
+      "published": "2026-09-15T00:15:14.712750+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-14T17:44:05.722141+00:00"
+      "published": "2026-09-15T00:15:14.712735+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-14T17:44:05.722125+00:00"
+      "published": "2026-09-15T00:15:14.712717+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-14T17:44:05.722093+00:00"
+      "published": "2026-09-15T00:15:14.712684+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-14T17:44:03.013081+00:00"
+      "published": "2026-09-15T00:15:13.192972+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-14T17:44:02.034079+00:00"
+      "published": "2026-09-15T00:15:11.991681+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,117 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-14T17:44:02.033426+00:00"
+      "published": "2026-09-15T00:15:11.990943+00:00"
+    },
+    {
+      "id": "1d047091e18c2729",
+      "title": "EPA Stops Short of Eliminating All GHG Standards \u2014 for Now",
+      "link": "https://www.rtoinsider.com/143528-epa-stops-short-eliminating-all-ghg-standards-for-now/",
+      "summary": "EPA Administrator Lee Zeldin says the agency seeks to repeal all remaining standards for greenhouse gas emissions from the power sector under Section 111 of the Clean Air Act.\nThe post EPA Stops Short of Eliminating All GHG Standards \u2014 for Now appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-15T00:10:29+00:00"
+    },
+    {
+      "id": "e73885f80ed39a1f",
+      "title": "PJM Proposes Large Load Ride-through Requirements",
+      "link": "https://www.rtoinsider.com/143564-pjm-proposes-large-load-ride-through-requirements/",
+      "summary": "PJM has proposed requirements for how large loads are expected to respond during voltage and frequency disturbances in the wake of nearly 4 GW of data centers abruptly dropping off the grid when a nearby transmission line tripped in July.\nThe post PJM Proposes Large Load Ride-through Requirements appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T23:29:19+00:00"
+    },
+    {
+      "id": "680f01a4eae43ed6",
+      "title": "Pennsylvania PUC to Revamp Key Policies Linked to Large Loads",
+      "link": "https://www.rtoinsider.com/143511-pennsylvania-puc-revamp-key-policies-large-loads/",
+      "summary": "The Pennsylvania Public Utility Commission will swiftly relook at its cost allocation and emergency load control procedures in a direct response to Democratic Gov. Josh Shapiro\u2019s hardening stance on data center development.\nThe post Pennsylvania PUC to Revamp Key Policies Linked to Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T23:08:21+00:00"
+    },
+    {
+      "id": "fd1ebeadf95531c5",
+      "title": "CISA Adds AI, Remote Work to Insider Threat Guide",
+      "link": "https://www.rtoinsider.com/143349-cisa-adds-ai-remote-work-insider-threat-guide/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency updated its insider threat guidance to account for technological developments since 2020.\nThe post CISA Adds AI, Remote Work to Insider Threat Guide appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T22:49:05+00:00"
+    },
+    {
+      "id": "d8ec288a31030b40",
+      "title": "Energy Storage Canada Proposes New Track for Ontario BTM Batteries",
+      "link": "https://www.rtoinsider.com/143286-energy-storage-canada-proposes-new-track-ontario-btm-batteries/",
+      "summary": "Ontario has built a large utility-scale battery market, but Energy Storage Canada, a trade association that promotes the advancement of Canada\u2019s storage sector, says the province still lacks a comparable way to procure batteries behind commercial and industrial meters as dependable capacity.\nThe post Energy Storage Canada Proposes New Track for Ontario BTM Batteries appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T22:31:39+00:00"
+    },
+    {
+      "id": "69a25397dba565c6",
+      "title": "NYISO Finds Reliability Deficiencies in RNA Base Case Results",
+      "link": "https://www.rtoinsider.com/143282-nyiso-finds-reliability-deficiencies-rna-base-case-results/",
+      "summary": "The base case results of NYISO\u2019s 2026 Reliability Needs Assessment show the state will be 200 MW short by 2033, increasing to 1,800 MW by 2036.\nThe post NYISO Finds Reliability Deficiencies in RNA Base Case Results appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T21:59:22+00:00"
+    },
+    {
+      "id": "cc432a707f2f431e",
+      "title": "NextEra, Dominion Expand Merger Commitments for Virginia",
+      "link": "https://www.rtoinsider.com/143357-nextera-dominion-expand-merger-commitments-for-virginia/",
+      "summary": "NextEra and Dominion doubled proposed residential credits, promised to add jobs to Virginia, and committed to data centers paying their fair share after getting feedback on their merger proposal.\nThe post NextEra, Dominion Expand Merger Commitments for Virginia appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T21:46:08+00:00"
+    },
+    {
+      "id": "0b4cf00b96bae2dc",
+      "title": "Why More Generation for PJM Doesn\u2019t Require a Return to Utility Ownership",
+      "link": "https://www.rtoinsider.com/143199-why-more-generation-pjm-doesnt-require-return-to-utility-ownership/",
+      "summary": "Policymakers are hearing arguments that vertically integrated utilities once again should build generation in states that deliberately separated monopoly electricity delivery from competitive power generation three decades ago. This would be a bad idea, EPSA CEO Todd Snitchler writes.\nThe post Why More Generation for PJM Doesn\u2019t Require a Return to Utility Ownership appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T21:44:20+00:00"
+    },
+    {
+      "id": "c571877d3ca6c9cf",
+      "title": "CPUC Asks CAISO to Prevent Gaming Behavior in Large Loads Proposal",
+      "link": "https://www.rtoinsider.com/143220-cpuc-asks-caiso-prevent-gaming-behavior-large-loads-proposal/",
+      "summary": "The California Public Utilities Commission is asking CAISO to prevent gaming tactics under the new large loads straw proposal.\nThe post CPUC Asks CAISO to Prevent Gaming Behavior in Large Loads Proposal appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T21:16:36+00:00"
+    },
+    {
+      "id": "731f6e465ba2ef18",
+      "title": "NYISO to Large Loads: Please Bring Your Own Generation",
+      "link": "https://www.rtoinsider.com/142329-nyiso-to-large-loads-please-bring-generation/",
+      "summary": "NYISO\u2019s new large load integration process would involve increased readiness obligations for such projects, a new Bulk Electric Large Load study process and a new \u201cnon-firm withdrawal\u201d service for loads that do not bring new generation to the grid.\nThe post NYISO to Large Loads: Please Bring Your Own Generation appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T21:12:17+00:00"
+    },
+    {
+      "id": "e169aa06119dfcfe",
+      "title": "California moves to cut red tape for heat pumps, solar, and more",
+      "link": "https://www.canarymedia.com/articles/heat-pumps/california-to-cut-red-tape-heat-pumps-solar",
+      "summary": "Californians could soon find it easier and cheaper to install rooftop solar, home batteries, and energy-saving heat pumps and heat-pump water heaters.  Late last month, the state Legislature passed two first-in-the-nation bills that would streamline permitting and inspections for these clean energy home projects.\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-14T20:00:00+00:00"
     },
     {
       "id": "0b5a96a97d476f90",
@@ -250,7 +360,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-09-14T14:06:32+00:00"
+      "published": "2026-09-14T14:06:00+00:00"
     },
     {
       "id": "5ca3498c01d75400",
@@ -6601,126 +6711,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-25T00:18:09+00:00"
-    },
-    {
-      "id": "38c40d9b9fa592c0",
-      "title": "Alabama Power Sketches Plan for Data Center Law Compliance",
-      "link": "https://www.rtoinsider.com/140798-alabama-power-sketches-plan-data-center-law-compliance/",
-      "summary": "Alabama Power is offering a cursory broad-brush response to a recently enacted state law requiring data centers seeking at least 150 MW to fully cover the expense of providing service, according to a new filing with the Alabama Public Service Commission.\nThe post Alabama Power Sketches Plan for Data Center Law Compliance appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-25T00:01:48+00:00"
-    },
-    {
-      "id": "23c7efe79e856405",
-      "title": "PJM Considering Merging Generation, Large Load Interconnection Analysis",
-      "link": "https://www.rtoinsider.com/140286-pjm-considering-merging-generation-large-load-interconnection-analysis/",
-      "summary": "PJM is considering reworking its resource interconnection process to include large load service requests as part of its response to FERC\u2019s show-cause order on co-located load.\nThe post PJM Considering Merging Generation, Large Load Interconnection Analysis appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T23:35:24+00:00"
-    },
-    {
-      "id": "01804fce06c30425",
-      "title": "IESO Proposes Fix for Combined-cycle Make-whole Overpayments",
-      "link": "https://www.rtoinsider.com/140805-ieso-proposes-fix-combined-cycle-make-whole-overpayments/",
-      "summary": "IESO proposes a market-rule amendment to prevent inaccurate real-time make-whole payments involving derates at combined-cycle plants that use pseudo-unit models.\nThe post IESO Proposes Fix for Combined-cycle Make-whole Overpayments appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T23:25:21+00:00"
-    },
-    {
-      "id": "e77b89de1d7d23fa",
-      "title": "NERC Releases Large Load ROP Revisions for Comment",
-      "link": "https://www.rtoinsider.com/140793-nerc-large-load-rop-revisions-for-comment/",
-      "summary": "NERC is seeking comment on proposed changes to its Rules of Procedure meant to address the reliability risks of data centers and other computational large loads.\nThe post NERC Releases Large Load ROP Revisions for Comment appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T23:20:24+00:00"
-    },
-    {
-      "id": "df5daa90422ed90a",
-      "title": "Tesla ditches solar roof \u2014 and embraces regular solar panels",
-      "link": "https://www.canarymedia.com/articles/solar/tesla-pulls-plug-on-solar-roof-as-it-chases-wild-new-solar-dreams",
-      "summary": "A thousand solar roofs per week. That was the pace Elon Musk predicted Tesla would install its electricity-generating roof tiles in 2020, more than three years after he unveiled the product to great fanfare on the set of the TV show Desperate Housewives.  That estimate fell flat. Tesla managed to install a total of\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T22:30:00+00:00"
-    },
-    {
-      "id": "fadc9efa8a126d52",
-      "title": "Hitachi Energy Expands SF6-Free Switchgear Portfolio at CIGRE 2026",
-      "link": "https://www.tdworld.com/substations/news/55400445/hitachi-energy-expands-sf6-free-switchgear-portfolio-at-cigre-2026",
-      "summary": "The new EconiQ lineup addresses the global push to phase out SF6 gas by offering environmentally friendly high-voltage equipment with increased voltage and current ratings, supporting the modernization of transmission infrastructure across North America and Europe.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T20:54:30+00:00"
-    },
-    {
-      "id": "20c4f7bd2a09a1c7",
-      "title": "U.S. Delegation to Explore Grid Modernization Partnerships in Southern Africa",
-      "link": "https://www.tdworld.com/overhead-distribution/news/55400438/us-delegation-to-explore-grid-modernization-partnerships-in-southern-africa",
-      "summary": "A U.S. trip for Southern African power officials aims to foster partnerships, showcase innovative grid control solutions, and explore commercial opportunities to enhance regional power infrastructure amid growing demand and urbanization.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T20:48:07+00:00"
-    },
-    {
-      "id": "bebf0230773898e7",
-      "title": "Win a Starlink Mini at T&D World Live 2026: Stay Connected in Remote Locations",
-      "link": "https://www.tdworld.com/electric-utility-operations/news/55400419/win-a-starlink-mini-at-td-world-live-2026-stay-connected-in-remote-locations",
-      "summary": "Detect is giving away a Starlink Mini at T&D World Live 2026, a compact satellite internet device perfect for field teams working in hard-to-reach locations.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T20:26:13+00:00"
-    },
-    {
-      "id": "d472a0bcd070258d",
-      "title": "Detect Launches Enhanced DetectOS Platform at T&D World Live",
-      "link": "https://www.tdworld.com/smart-utility/data-analytics/news/55400414/detect-launches-enhanced-detectos-platform-at-td-world-live",
-      "summary": "The new DetectOS platform offers a fast, customizable interface supported by a robust data quality program, enabling utility teams to manage the entire asset lifecycle\u2014from defect detection to structural health tracking\u2014more efficiently.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T20:20:31+00:00"
-    },
-    {
-      "id": "36034ea58e0f0ff8",
-      "title": "Boston Firm ArcLight Commits $1B in Equity to Launch New Independent Transmission Company",
-      "link": "https://www.tdworld.com/utility-business/news/55400387/boston-firm-arclight-commits-1b-in-equity-to-launch-new-independent-transmission-company",
-      "summary": "Anchor Point states it aims to partner with utilities to help accelerate the development of high-voltage transmission infrastructure needed to support this targeted growth in the U.S. to meet rising electrification demand.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T20:03:16+00:00"
-    },
-    {
-      "id": "af37f9f9f02f5c9b",
-      "title": "Join Saluting Branches in Making a Difference: Volunteer for the 12th Annual Day of Service",
-      "link": "https://www.tdworld.com/vegetation-management/news/55400337/saluting-branches-prepares-for-day-of-service",
-      "summary": "Saluting Branches is organizing its 12th annual Day of Service on Sept. 16, engaging communities nationwide to volunteer in caring for veteran-dedicated properties through tree and landscape maintenance.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T18:49:29+00:00"
-    },
-    {
-      "id": "2f5b60f98ae7680e",
-      "title": "FERC Approves Extension of Brandon Shores, Wagner RMR Through 2031",
-      "link": "https://www.rtoinsider.com/140284-ferc-approves-extension-of-brandon-shores-rmr-through-2031/",
-      "summary": "FERC has approved a two-year extension to the reliability-must-run agreement keeping the Brandon Shores and H.A. Wagner generators, located outside Baltimore, operational past their deactivation dates.\nThe post FERC Approves Extension of Brandon Shores, Wagner RMR Through 2031 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-24T18:08:18+00:00"
     }
   ]
 }
