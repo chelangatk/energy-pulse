@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T16:16:33.839230+00:00",
-  "count": 648,
+  "generated_at": "2026-09-17T23:53:32.544452+00:00",
+  "count": 652,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-17T16:16:29.528830+00:00"
+      "published": "2026-09-17T23:53:29.482509+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-17T16:16:29.528819+00:00"
+      "published": "2026-09-17T23:53:29.482494+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-17T16:16:29.528805+00:00"
+      "published": "2026-09-17T23:53:29.482472+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-17T16:16:29.528780+00:00"
+      "published": "2026-09-17T23:53:29.482438+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-17T16:16:26.899240+00:00"
+      "published": "2026-09-17T23:53:27.947547+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-17T16:16:26.088623+00:00"
+      "published": "2026-09-17T23:53:25.932509+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,117 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-17T16:16:26.088006+00:00"
+      "published": "2026-09-17T23:53:25.931729+00:00"
+    },
+    {
+      "id": "34476721d4d984c2",
+      "title": "PowerLines Releases Utility Affordability Guidebook for Governors",
+      "link": "https://www.rtoinsider.com/144154-powerlines-releases-playbook-governors-electricity-affordability/",
+      "summary": "PowerLines has released a policy guide for governors ahead of November\u2019s elections that offers strategic levers, pathways and communications strategies to make electricity more affordable.\nThe post PowerLines Releases Utility Affordability Guidebook for Governors appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T23:31:26+00:00"
+    },
+    {
+      "id": "c6551d9f89b3f555",
+      "title": "Regulators Confront AI Data Center Threats to Grid Operations",
+      "link": "https://www.rtoinsider.com/144052-regulators-confront-ai-data-center-threats-to-grid-operations/",
+      "summary": "People who run much of the nation's power grid are urgently plying human intelligence the risk that AI data factories reacting to relatively small grid disturbances could cause potentially fatal wide-area blackouts.\nThe post Regulators Confront AI Data Center Threats to Grid Operations appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T22:43:51+00:00"
+    },
+    {
+      "id": "86ba4548993c3343",
+      "title": "MISO Lowers Customer Experience Survey Goals, Cites On-edge Industry",
+      "link": "https://www.rtoinsider.com/144183-miso-lowers-customer-experience-survey-goals/",
+      "summary": "MISO is moving the goalposts and creating a new definition of \u201cexcellent\u201d in its customer experience survey as it\u2019s forced to implement more drastic measures to maintain reliability that could be unpopular with certain stakeholders.\nThe post MISO Lowers Customer Experience Survey Goals, Cites On-edge Industry appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T22:34:21+00:00"
+    },
+    {
+      "id": "eab746e568c6e038",
+      "title": "America Doesn\u2019t Have a Data Center Problem: It\u2019s an Electricity Architecture Problem",
+      "link": "https://www.rtoinsider.com/143245-america-doesnt-have-data-center-problem-its-electricity-architecture-problem/",
+      "summary": "America is building a new industrial economy with an electricity system designed for an earlier age. Some new customers are so different from traditional customers, that treating them as merely \u201cbig small loads\u201d no longer makes sense.\nThe post America Doesn\u2019t Have a Data Center Problem: It\u2019s an Electricity Architecture Problem appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T22:16:24+00:00"
+    },
+    {
+      "id": "a23ab6c2035d0b1c",
+      "title": "How Realistic are Statewide Data Center Bans in the West?",
+      "link": "https://www.rtoinsider.com/144069-how-realistic-statewide-data-center-bans-in-the-west/",
+      "summary": "State lawmakers and gubernatorial candidates across the West are vowing to approve statewide data center bans in upcoming legislative sessions starting in January 2027.\nThe post How Realistic are Statewide Data Center Bans in the West? appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T22:11:31+00:00"
+    },
+    {
+      "id": "c5767100d206a167",
+      "title": "Mazama Energy raises $135M for superhot geothermal at Oregon volcano",
+      "link": "https://www.canarymedia.com/articles/geothermal/mazama-energy-raises-135m-oregon-geothermal",
+      "summary": "The startup Mazama Energy just nabbed $135 million to accelerate its next-generation geothermal activities near Oregon\u2019s Newberry Volcano.  Mazama is seeking to generate clean electricity from superhot rocks \u2014 an emerging and largely unproven approach that could have an enormous payoff for the power sector. That\u2019s\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "id": "c634ddc553d61726",
+      "title": "Bringing a Power Plant\u2019s Worth of Load Onto the Grid: NERC\u2019s Interconnection Reckoning",
+      "link": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/",
+      "summary": "Data centers are connecting to the transmission system faster than the reliability rules were built to handle and behaving nothing like the passive load those rules assumed. Here\u2019s what the North American Electric Reliability Corp.\u2019s (NERC\u2019s) Large Loads Action Plan, a new class of registered entity, and a hard 2026 deadline mean for anyone planning, [\u2026]\nThe post Bringing a Power Plant\u2019s Worth of ",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T20:19:30+00:00"
+    },
+    {
+      "id": "e27181b20644a3c1",
+      "title": "What the DOE\u2019s Quantum Computing Competition Could Mean for Fusion and Battery Materials",
+      "link": "https://www.powermag.com/what-the-does-quantum-computing-competition-could-mean-for-fusion-and-battery-materials/",
+      "summary": "The Department of Energy (DOE) on Sept. 17 announced the Quantum Genesis Q Competition, a $215 million initiative to fund private-sector teams racing to build the world\u2019s first fault-tolerant, scientifically relevant quantum computer. Structured as a milestone-based competition rather than a conventional grant, it will pay out fixed awards of up to $1.5 million per [\u2026]\nThe post What the DOE\u2019s Quan",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T20:14:42+00:00"
+    },
+    {
+      "id": "4726bc70451dd217",
+      "title": "NV Energy Commits to Join EDAM in 2028",
+      "link": "https://www.rtoinsider.com/144161-nv-energy-commits-edam-2028/",
+      "summary": "NV Energy will be the ninth entity to join CAISO\u2019s Extended Day-Ahead Market as the utility tries to continue to benefit from a Western regional market.\nThe post NV Energy Commits to Join EDAM in 2028 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T19:06:18+00:00"
+    },
+    {
+      "id": "998f6e809fffb427",
+      "title": "NERC Standards Committee Prepares for Elections",
+      "link": "https://www.rtoinsider.com/143743-nerc-standards-committee-prepares-elections/",
+      "summary": "NERC\u2019s Standards Committee will hold its planned membership elections and keep its regular meeting schedule as plans proceed for its replacement, NERC staff told members at their monthly open meeting.\nThe post NERC Standards Committee Prepares for Elections appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T18:22:05+00:00"
+    },
+    {
+      "id": "3ec50439a9aff005",
+      "title": "House Passes Ratepayer Protection Act ahead of Midterm Elections",
+      "link": "https://www.rtoinsider.com/143739-house-passes-ratepayer-protection-act-other-energy-bills/",
+      "summary": "The House passed the Ratepayer Protection Act to encourage state adoption of large load tariffs for data centers and a few other pieces of electric legislation ahead of a long-break that runs through the midterm elections this November.\nThe post House Passes Ratepayer Protection Act ahead of Midterm Elections appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T17:52:13+00:00"
     },
     {
       "id": "e055b69047d83037",
@@ -93,12 +203,32 @@
       "published": "2026-09-17T16:00:40+00:00"
     },
     {
+      "id": "f1f2ddb0e6628766",
+      "title": "Meta, Apex Clean Energy agree to 144-MW Texas solar PPA",
+      "link": "https://www.utilitydive.com/news/meta-apex-clean-energy-144-mw-texas-solar-ppa/830675/",
+      "summary": "Meta will receive \u201cexclusive rights to all environmental attributes associated with energy\u201d from the project, including all renewable energy credits, according to Apex.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T15:42:04+00:00"
+    },
+    {
       "id": "017b33d9aee0bc21",
       "title": "Sponsored: What end users are asking for today vs. five years ago \u2013 lessons from Luke Skywalker",
       "link": "https://www.datacenterdynamics.com/en/opinions/what-end-users-are-asking-for-today-vs-five-years-ago-lessons-from-luke-skywalker/",
       "summary": "\u201cA long time ago in a galaxy far, far away\u2026\u201d",
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-17T15:00:00+00:00"
+    },
+    {
+      "id": "04aa76ed1e8934b6",
+      "title": "Burlington advances on-site solar strategy across distribution network",
+      "link": "https://www.utilitydive.com/news/burlington-advances-on-site-solar-strategy-across-distribution-network/830650/",
+      "summary": "The off-price retailer is planning installations at upcoming facilities in Arizona and California, as well as an existing warehouse in Georgia.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
       "region": "National",
       "published": "2026-09-17T15:00:00+00:00"
     },
@@ -111,6 +241,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-17T14:39:28+00:00"
+    },
+    {
+      "id": "046640a0f480fb33",
+      "title": "House passes ratepayer protection bill to limit data center cost shifts",
+      "link": "https://www.utilitydive.com/news/house-passes-ratepayer-protection-bill-data-centers/830658/",
+      "summary": "The bill would \u201clargely reinforce\u201d a transition that is already underway as more states adopt large-load tariffs and is\u00a0unlikely to pass the Senate before the midterm elections, according to ClearView Energy Partners.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-17T14:31:21+00:00"
     },
     {
       "id": "94a4421a7ff20d65",
@@ -6381,106 +6521,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-28T00:23:08+00:00"
-    },
-    {
-      "id": "a143e17d950b3df5",
-      "title": "BPA to Issue Further Clarification on Day-ahead Market Options",
-      "link": "https://www.rtoinsider.com/141344-bpa-to-issue-further-guidance-market-choice/",
-      "summary": "As speculation swirls around the Bonneville Power Administration\u2019s day-ahead market choice, the agency\u2019s new Administrator Travis Kavulla is expected to further clarify how he weighs market options, industry sources told RTO Insider.\nThe post BPA to Issue Further Clarification on Day-ahead Market Options appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T23:47:50+00:00"
-    },
-    {
-      "id": "dcd420fef95882fa",
-      "title": "Georgia Power Gets PSC Approval for Massive Data Center Contract",
-      "link": "https://www.rtoinsider.com/141368-georgia-power-gets-go-ahead-massive-data-center-contract/",
-      "summary": "Georgia Power can move forward with a 3.2-GW contract to power an OpenAI data center after satisfying state regulators\u2019 concerns about the potential impacts on the utility\u2019s existing ratepayers.\nThe post Georgia Power Gets PSC Approval for Massive Data Center Contract appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T23:31:05+00:00"
-    },
-    {
-      "id": "0a968b4eddcf87bf",
-      "title": "MISO Finds Higher Load Loss Risks as it Launches South Long-range Tx Plan",
-      "link": "https://www.rtoinsider.com/141365-miso-higher-load-loss-risks-as-launches-south-long-range-tx-plan/",
-      "summary": "MISO South\u2019s network of load pockets has not been operating to the one-day-in-10-years reliability standard and could face more capacity shortcomings by 2030, despite utilities\u2019 generation additions and transmission upgrades.\nThe post MISO Finds Higher Load Loss Risks as it Launches South Long-range Tx Plan appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T22:46:58+00:00"
-    },
-    {
-      "id": "5d6dcc1ca21ad6cc",
-      "title": "The New Baseload: Firming Variable Generation with Battery Storage",
-      "link": "https://www.rtoinsider.com/141186-new-baseload-firming-variable-generation-battery-storage/",
-      "summary": "Paired with battery energy storage, renewable generation offers a viable alternative capable of mitigating resource variability and enhancing grid reliability by providing dependable capacity.\nThe post The New Baseload: Firming Variable Generation with Battery Storage appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T22:04:15+00:00"
-    },
-    {
-      "id": "a3c79e09557a2693",
-      "title": "Feds Seize Alleged China Hacking Platforms",
-      "link": "https://www.rtoinsider.com/141331-feds-seize-alleged-china-hacking-platforms/",
-      "summary": "Federal agents have seized domain names used in extensive hacking operations supported by the Chinese government, the Department of Justice said.\nThe post Feds Seize Alleged China Hacking Platforms appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T22:01:53+00:00"
-    },
-    {
-      "id": "bfdecc254e3204c5",
-      "title": "How much of a threat do heat waves pose to nuclear plants?",
-      "link": "https://www.canarymedia.com/articles/nuclear/heat-waves-nuclear-plants",
-      "summary": "Europe\u2019s increasingly hot summers come with a worrying trend. The air conditioning that the continent long eschewed as an American indulgence is becoming a necessity, and some of the nuclear reactors needed to run those cooling units are tapping out right as thermometers spike. This summer was especially bad: The\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T21:00:00+00:00"
-    },
-    {
-      "id": "bce0fd93adaf6493",
-      "title": "Schwarz Group commits \u20ac5.6bn investment in data center in Mecklenburg-Vorpommern, Germany",
-      "link": "https://www.datacenterdynamics.com/en/news/schwarz-group-commits-56bn-investment-in-data-center-in-mecklenburg-vorpommern-germany/",
-      "summary": "Data center will be fully powered by renewable energy",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-27T17:32:30+00:00"
-    },
-    {
-      "id": "11d302832055f86f",
-      "title": "Long-term enhanced geothermal test begins in Utah",
-      "link": "https://www.utilitydive.com/news/testing-of-long-term-enhanced-geothermal-production-begins-in-utah/828975/",
-      "summary": "The test will study \u201cunknown variables required to ensure long term EGS production remains commercially viable,\u201d said Kristie McLin, principal investigator at the\u00a0Frontier Observatory for Research in Geothermal Energy.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T16:53:43+00:00"
-    },
-    {
-      "id": "58b564dada9710e5",
-      "title": "US Army selects 5 companies to deploy microreactors at military installations",
-      "link": "https://www.utilitydive.com/news/us-army-selects-5-companies-to-deploy-microreactors-at-military-installatio/828974/",
-      "summary": "The $2.2B in federal funding is intended to boost the sites\u2019 resilience and the commercial viability of next-generation nuclear power.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T16:49:14+00:00"
-    },
-    {
-      "id": "8de40d84d292a85b",
-      "title": "Revolve Renewable Power Secures $24 Million from Mexico Bank for Project Financing",
-      "link": "https://www.powermag.com/revolve-renewable-power-secures-24-million-from-mexico-bank-for-project-financing/",
-      "summary": "Canada-headquartered Revolve Renewable Power Corp., a North American owner, operator and developer of power generation and digital infrastructure projects, announced it has entered into a MXN$450 million ($24 million) project-level, non-recourse-style financing facility with Banco Multiva, S.A., Instituci\u00f3n de Banca M\u00faltiple, Grupo Financiero Multiva. The facility is secured by project cash flows ",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T16:42:59+00:00"
     }
   ]
 }
