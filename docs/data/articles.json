@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T16:10:24.233941+00:00",
-  "count": 656,
+  "generated_at": "2026-09-17T00:03:19.293295+00:00",
+  "count": 653,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-16T16:10:20.300606+00:00"
+      "published": "2026-09-17T00:03:15.722297+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-16T16:10:20.300598+00:00"
+      "published": "2026-09-17T00:03:15.722282+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-16T16:10:20.300589+00:00"
+      "published": "2026-09-17T00:03:15.722264+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-16T16:10:20.300564+00:00"
+      "published": "2026-09-17T00:03:15.722229+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-16T16:10:18.512507+00:00"
+      "published": "2026-09-17T00:03:14.246598+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-16T16:10:17.377711+00:00"
+      "published": "2026-09-17T00:03:12.883025+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,117 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-16T16:10:17.377302+00:00"
+      "published": "2026-09-17T00:03:12.882352+00:00"
+    },
+    {
+      "id": "901a0a49933fa4cc",
+      "title": "PJM OC Briefs: Sept. 10, 2026",
+      "link": "https://www.rtoinsider.com/144055-pjm-oc-briefs-091026/",
+      "summary": "PJM presented a first read on a set of manual revisions to implement the second phase of PJM\u2019s redesign of its regulation market.\nThe post PJM OC Briefs: Sept. 10, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-16T23:38:45+00:00"
+    },
+    {
+      "id": "e7cbdee955bb354c",
+      "title": "ISO-NE Details Large Load Proposal, Restarts Work on Order 1920",
+      "link": "https://www.rtoinsider.com/144063-iso-ne-details-large-load-proposal-restarts-order-1920-work/",
+      "summary": "ISO-NE gave additional details on its proposed response to FERC\u2019s large load show-cause order, expanding upon its proposed \u201cbring-your-own-new-capacity\u201d requirements for new loads of 50 MW or more.\nThe post ISO-NE Details Large Load Proposal, Restarts Work on Order 1920 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-16T23:26:49+00:00"
+    },
+    {
+      "id": "5a3d18be3411bc0b",
+      "title": "Stakeholders Question MISO Routes for Large Load Interconnections",
+      "link": "https://www.rtoinsider.com/143807-stakeholders-doubt-miso-directions-large-load-interconnections/",
+      "summary": "Representatives from MISO\u2019s environmental sector told the RTO to rethink adding two new specialized interconnection queue tracks for large loads and instead turn its focus to making its existing queue an adaptable, one-stop shop.\nThe post Stakeholders Question MISO Routes for Large Load Interconnections appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-16T22:30:18+00:00"
+    },
+    {
+      "id": "b6d1b9cc943da00b",
+      "title": "Small and Rural BPA Customer Group Supports Markets+ While Working Constructively to Improve EDAM",
+      "link": "https://www.rtoinsider.com/143530-small-rural-bpa-group-supports-markets-working-improve-edam/",
+      "summary": "A market that works for Bonneville Power Administration\u2019s load-following NITS customers is a market that works for the region, argues a regional trade association that represents about 60 small and rural BPA customers.\nThe post Small and Rural BPA Customer Group Supports Markets+ While Working Constructively to Improve EDAM appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-16T22:16:49+00:00"
+    },
+    {
+      "id": "f26cc56cf423d051",
+      "title": "Vineyard Wind, GE Vernova Resolve Dispute over Withheld Payments",
+      "link": "https://www.rtoinsider.com/143745-vineyard-wind-ge-vernova-resolve-dispute-withheld-payments/",
+      "summary": "Vineyard Wind and GE Vernova have settled a legal dispute that threatened an 806-MW wind project during the late stages of its construction.\nThe post Vineyard Wind, GE Vernova Resolve Dispute over Withheld Payments appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-16T22:10:56+00:00"
+    },
+    {
+      "id": "0c9df03996c5ec84",
+      "title": "Onsemi unveils its Embedded Power Platform architecture to increase power density",
+      "link": "https://www.datacenterdynamics.com/en/news/onsemi-unveils-its-embedded-power-platform-architecture-to-increase-power-density/",
+      "summary": "Works by using the silicon wafer as an embedded package",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-16T18:30:29+00:00"
+    },
+    {
+      "id": "189af9aa3cadbb83",
+      "title": "MISO Says it\u2019s Slowing Use of AI Agents For Now, Building Rulebook",
+      "link": "https://www.rtoinsider.com/143803-miso-slowing-use-of-ai-agents-building-rulebook/",
+      "summary": "MISO said it\u2019s allowing some lag time before putting AI agents in charge of consequential grid work while it becomes increasingly savvy and vigilant about its AI governance.\nThe post MISO Says it\u2019s Slowing Use of AI Agents For Now, Building Rulebook appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-16T17:59:34+00:00"
+    },
+    {
+      "id": "cd9d00d3d724d584",
+      "title": "Scotland's parliament backs defacto, temporary, moratorium on new hyperscale data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/scotland-data-center-moratorium/",
+      "summary": "No plans will be approved until new planning guidance is published",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-16T17:43:00+00:00"
+    },
+    {
+      "id": "e9cadba45d39af10",
+      "title": "An Introduction to Data Center SLAs",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/an-introduction-to-data-center-slas/",
+      "summary": "Navigating SLA volatility & protecting data center cash flows",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-16T17:32:13+00:00"
+    },
+    {
+      "id": "659932fe33a63e17",
+      "title": "Newsom's last chance to tackle California's electricity costs",
+      "link": "https://www.canarymedia.com/articles/affordability/newsom-last-chance-california-electricity-costs",
+      "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state\u2019s clean energy transition.  Subscribe to get it every Wednesday via Substack  .  I\u2019m launching this newsletter at an intriguing moment in California politics. Democratic Gov. Gavin Newsom \u2014 who everyone knows is eyeing a run for the White\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "id": "47cddd2efdd25b7e",
+      "title": "Apex Clean Energy Signs PPA with Meta for Solar Power from Texas Project",
+      "link": "https://www.powermag.com/apex-clean-energy-signs-ppa-with-meta-for-solar-power-from-texas-project/",
+      "summary": "Apex Clean Energy announced the Virginia-based company has a power purchase agreement (PPA) with technology giant Meta for exclusive rights to energy from the Starling Solar project in Gonzales County, Texas, including all renewable energy credits. The 144-MW project will add to the local grid new generation that would not have been built without Meta\u2019s [\u2026]\nThe post Apex Clean Energy Signs PPA wit",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-16T16:50:49+00:00"
     },
     {
       "id": "acc4dbbd6b5c229e",
@@ -6421,146 +6531,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-27T00:25:37+00:00"
-    },
-    {
-      "id": "960b2e3f4f41438d",
-      "title": "State Advocates in PJM Ask FERC to Squelch Reliability Backstop Plan",
-      "link": "https://www.rtoinsider.com/141197-state-advocates-pjm-ask-ferc-squelch-reliability-backstop-plan/",
-      "summary": "Ratepayer advocates in a half-dozen PJM states and the District of Columbia are urging FERC to reject the RTO\u2019s proposed reliability backstop procurement, saying it will unfairly burden the public with expenses tied to serving power-hungry data centers.\nThe post State Advocates in PJM Ask FERC to Squelch Reliability Backstop Plan appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-27T00:00:19+00:00"
-    },
-    {
-      "id": "2d51967234b3ec05",
-      "title": "National Grid Proposes $1.2B Line Rebuild in Mass. and Vermont",
-      "link": "https://www.rtoinsider.com/141228-national-grid-proposes-line-rebuild-mass-vermont/",
-      "summary": "National Grid has proposed a $1.2 billion project to rebuild\u00a0to 345-kV specifications a 230-kV line running across northern Massachusetts and through southern Vermont to the New York border.\nThe post National Grid Proposes $1.2B Line Rebuild in Mass. and Vermont appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T23:57:02+00:00"
-    },
-    {
-      "id": "9f4997170d86ff26",
-      "title": "Xcel\u2019s \u2018Speed to Market\u2019 for Large Loads Criticized",
-      "link": "https://www.rtoinsider.com/141182-xcels-speed-to-market-for-large-loads-criticized/",
-      "summary": "Elected officials in Colorado and members of the public are slamming Xcel Energy\u2019s proposed \u201cspeed-to-market\u201d pathway for large load customers that would bypass a large load tariff that is under review.\nThe post Xcel\u2019s \u2018Speed to Market\u2019 for Large Loads Criticized appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T23:10:45+00:00"
-    },
-    {
-      "id": "6a6382e1b015734e",
-      "title": "BPA Seeks to Modernize Public Involvement Policy",
-      "link": "https://www.rtoinsider.com/141190-bpa-updates-public-involvement-policy/",
-      "summary": "The Bonneville Power Administration provided more information on its initiative to modernize the agency\u2019s 40-year-old public involvement policy, saying stakeholders can expect push notifications for announcements and updated commenting guidelines.\nThe post BPA Seeks to Modernize Public Involvement Policy appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T22:55:45+00:00"
-    },
-    {
-      "id": "9e348c52e29a60e8",
-      "title": "Texas Should Supercharge Private Grids",
-      "link": "https://www.rtoinsider.com/140937-texas-should-supercharge-private-grids/",
-      "summary": "Texas can give large load developers the \u201cspeed to power\u201d they need while keeping the grid affordable and reliable for existing customers. All they have to do is remove barriers to private grids, says Travis Fisher of the Cato Institute.\nThe post Texas Should Supercharge Private Grids appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T22:49:58+00:00"
-    },
-    {
-      "id": "88fac59c1d116fb2",
-      "title": "Washington State Lawmakers Eye New Data Center Regs",
-      "link": "https://www.rtoinsider.com/141216-washington-state-lawmakers-eye-new-data-center-regs/",
-      "summary": "Washington state lawmakers are likely to impose new rules and regulations on data centers in 2027 amid growing backlash over a surge in proposed projects that will test the state\u2019s power grid.\nThe post Washington State Lawmakers Eye New Data Center Regs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T22:46:11+00:00"
-    },
-    {
-      "id": "b1972c8482163266",
-      "title": "PGE on Track to Join EDAM as Settlement Errors Linger",
-      "link": "https://www.rtoinsider.com/140378-pge-on-track-join-edam-despite-settlement-errors/",
-      "summary": "Portland General Electric is on schedule to join CAISO\u2019s Extended Day-Ahead market on Oct. 1 as the ISO works on correcting settlement errors in the new day-ahead market.\nThe post PGE on Track to Join EDAM as Settlement Errors Linger appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T22:17:32+00:00"
-    },
-    {
-      "id": "3d69fbaf50be39ac",
-      "title": "U.S. Army Mobilizes $2.2B Janus Program to Deploy More Than 20 Commercial Microreactors",
-      "link": "https://www.powermag.com/u-s-army-mobilizes-2-2b-janus-program-to-deploy-more-than-20-commercial-microreactors/",
-      "summary": "The U.S. Army has mobilized up to $2.2 billion for a five-year effort to build and operate more than 20 commercial nuclear microreactors across military installations, selecting five reactor developers and five initial sites for a program designed to push advanced nuclear systems beyond federal test programs and into sustained operation by a Sept. 30, [\u2026]\nThe post U.S. Army Mobilizes $2.2B Janus P",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T20:32:59+00:00"
-    },
-    {
-      "id": "8e9e924e69fd2742",
-      "title": "Hull Street Acquires Two PJM-Based Power Stations from Rockland Capital",
-      "link": "https://www.powermag.com/hull-street-acquires-two-pjm-based-power-stations-from-rockland-capital/",
-      "summary": "Maryland-based investment firm Hull Street Energy announced it has completed its acquisition of two Midwestern power plants that provide electricity in the PJM Interconnection.\nThe post Hull Street Acquires Two PJM-Based Power Stations from Rockland Capital appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T19:07:29+00:00"
-    },
-    {
-      "id": "bf7cea0b347cb37a",
-      "title": "Eurofiber secures \u20ac2.2bn sustainability-linked debt financing",
-      "link": "https://www.datacenterdynamics.com/en/news/eurofiber-secures-22bn-sustainability-linked-debt-financing/",
-      "summary": "Will support Eurofiber's European expansion plans",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-26T17:01:03+00:00"
-    },
-    {
-      "id": "821cca7549f4c596",
-      "title": "California Legislature passes balcony solar bill",
-      "link": "https://www.canarymedia.com/articles/balcony-solar/california-lawmakers-pass-bill-oking-balcony-solar",
-      "summary": "Californians could soon put solar panel kits on balconies and in backyards to lower their electric bills \u2014 without utility approval.  On Wednesday, state lawmakers passed the Plug and Play Solar Act (Senate Bill 868) to legalize balcony solar , a form of DIY clean energy that\u2019s taken off in Germany . The bill, which\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T17:00:00+00:00"
-    },
-    {
-      "id": "357e1ba5aacaa253",
-      "title": "Sweden's EcoDataCenter acquires land in Dalarna for 150MW campus",
-      "link": "https://www.datacenterdynamics.com/en/news/swedens-ecodatacenter-acquires-land-in-dalarna-for-150mw-campus/",
-      "summary": "Company's third project in Dalarna County",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-26T16:54:37+00:00"
-    },
-    {
-      "id": "1133e341bf9d809f",
-      "title": "Dimension Energy Secures $857 Million to Support Distributed Solar",
-      "link": "https://www.powermag.com/dimension-energy-secures-857-million-to-support-distributed-solar/",
-      "summary": "A U.S. developer, owner, and operator of distributed energy infrastructure announced it has received an $857-million capital infusion to accelerate growth of its distributed solar energy program.\nThe post Dimension Energy Secures $857 Million to Support Distributed Solar appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T16:54:20+00:00"
-    },
-    {
-      "id": "e0adaf68d11ba362",
-      "title": "The POWER Interview: How Is Rising Scrutiny Changing the Way Data Centers Secure Power?",
-      "link": "https://www.powermag.com/the-power-interview-how-is-rising-scrutiny-changing-the-way-data-centers-secure-power/",
-      "summary": "A recent flurry of state and federal action points to a marked pivot from treating data center growth as a grid-planning challenge to requiring large-load customers to show who pays for grid upgrades, what capacity supports the load, and how projects will operate during system stress. Morgan Lewis partner Arjun P. Ramadevanahalli spoke with POWER [\u2026]\nThe post The POWER Interview: How Is Rising Scr",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-26T16:28:58+00:00"
     }
   ]
 }
