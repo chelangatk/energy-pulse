@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T15:51:53.999851+00:00",
-  "count": 636,
+  "generated_at": "2026-09-18T23:51:13.349615+00:00",
+  "count": 638,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-18T15:51:48.972852+00:00"
+      "published": "2026-09-18T23:51:09.579738+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-18T15:51:48.972845+00:00"
+      "published": "2026-09-18T23:51:09.579727+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-18T15:51:48.972836+00:00"
+      "published": "2026-09-18T23:51:09.579714+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-18T15:51:48.972820+00:00"
+      "published": "2026-09-18T23:51:09.579687+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-18T15:51:46.169425+00:00"
+      "published": "2026-09-18T23:51:07.482921+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-18T15:51:45.356333+00:00"
+      "published": "2026-09-18T23:51:06.615616+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,97 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-18T15:51:45.355951+00:00"
+      "published": "2026-09-18T23:51:06.615047+00:00"
+    },
+    {
+      "id": "0c60653d82f3c500",
+      "title": "Vistra\u2019s Moss Landing grid battery is on fire yet again",
+      "link": "https://www.canarymedia.com/articles/batteries/vistra-moss-landing-on-fire-again",
+      "summary": "It happened yet again.  Another plume of smoke rose from Vistra\u2019s Moss Landing battery plant Friday morning, a year and a half after a catastrophic fire wrecked the grid storage facility in Northern California.  Vistra built Moss Landing on the California coast, south of Santa Cruz, to supply grid capacity to the\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-18T20:30:00+00:00"
+    },
+    {
+      "id": "0e035fdd0b7d9795",
+      "title": "Virginia Gov. Spanberger\u2019s New Data Center Rules Seek Cleaner, Cheaper Power",
+      "link": "https://www.rtoinsider.com/145098-spanberger-issues-data-center-framework/",
+      "summary": "Virginia Gov. Abigail Spanberger released a new framework for data centers that seeks to bring down costs for other customers and make electricity supplying the facilities cleaner, among other policies.\nThe post Virginia Gov. Spanberger\u2019s New Data Center Rules Seek Cleaner, Cheaper Power appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-18T19:34:17+00:00"
+    },
+    {
+      "id": "64944615e11a3a47",
+      "title": "Trump's EPA decimated climate rules for power plants. What now?",
+      "link": "https://www.canarymedia.com/articles/emissions-reduction/trumps-epa-gut-climate-rules-power-plants-what-now",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   The Biden and Obama administrations built a raft of climate regulations that was supposed to carry America beyond coal power. The Trump administration has officially sunk it.  This week, the EPA gutted the\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-18T19:00:00+00:00"
+    },
+    {
+      "id": "68b7b20a28b96b3d",
+      "title": "Nevada Governor Moves to Establish Data Center Guardrails",
+      "link": "https://www.rtoinsider.com/144629-nevada-governor-moves-to-establish-data-center-guardrails/",
+      "summary": "Nevada\u2019s Republican governor is signing a new executive order that sets regulatory parameters for data center projects amid growing public concern over the state\u2019s approach to managing the power-guzzling facilities needed to support the booming artificial intelligence industry.\nThe post Nevada Governor Moves to Establish Data Center Guardrails appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-18T18:31:05+00:00"
+    },
+    {
+      "id": "dc783e68c337a55b",
+      "title": "The Overlooked Renewable Energy Resource: Why Construction Waste Should Be Part of America\u2019s Energy Strategy",
+      "link": "https://www.powermag.com/the-overlooked-renewable-energy-resource-why-construction-waste-should-be-part-of-americas-energy-strategy/",
+      "summary": "America is in the middle of one of the largest infrastructure buildouts in generations. Data centers are rising to support artificial intelligence (AI) and cloud computing. Battery plants and advanced manufacturing facilities are reshaping industrial regions. Renewable energy projects continue to expand, while new transmission infrastructure is being built to connect generation with growing demand",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-18T17:16:13+00:00"
+    },
+    {
+      "id": "c29adca01e7e933a",
+      "title": "Beyond the Grease Gun: Turning Lubrication Into a Strategic Reliability Advantage",
+      "link": "https://www.powermag.com/beyond-the-grease-gun-turning-lubrication-into-a-strategic-reliability-advantage/",
+      "summary": "For too many industrial organizations, lubrication is a mere maintenance task, a routine chore performed without strategic consideration. This oversight ignores the profound impact that lubrication has on asset reliability and, by extension, overall business performance. Achieving lubrication excellence often requires the support of a dedicated, full-service lubrication solutions provider rather t",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-18T17:02:52+00:00"
+    },
+    {
+      "id": "febda64b677f3693",
+      "title": "Driving the Hydrogen Economy:  How a Custom Non-Return Valve Advances  Fuel Cell Development in Material Handling",
+      "link": "https://www.powermag.com/driving-the-hydrogen-economy-how-a-custom-non-return-valve-advances-fuel-cell-development-in-material-handling/",
+      "summary": "A leading North American fuel cell manufacturer encountered a significant component challenge. The need was for a non-return valve that could ensure uncompromising safety, reliable performance, and consistent operational integrity in advanced fuel cell systems. Standard, off-the-shelf options did not meet strict requirements for low pressure drop, zero leakage, and material compatibility. WITT Gas",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-18T16:22:36+00:00"
+    },
+    {
+      "id": "78b0162403dac047",
+      "title": "Virginia\u2019s Loudoun County board votes to pause new data center applications",
+      "link": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-board-votes-to-pause-new-data-center-applications/",
+      "summary": "County introduces 12-month moratorium in data center hotspot",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-18T16:18:00+00:00"
+    },
+    {
+      "id": "0c7bb7c2f624d791",
+      "title": "Hidden costs",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/2026-guide-to-navigating-data-center-supply-chain-complexity/",
+      "summary": "2026 guide to navigating data center supply chain complexity",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-18T15:57:19+00:00"
     },
     {
       "id": "a5ad1a19a6490bf4",
@@ -81,6 +171,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-18T15:40:08+00:00"
+    },
+    {
+      "id": "35d378e0919768c3",
+      "title": "Major US offshore wind farm installs its last turbine",
+      "link": "https://www.canarymedia.com/articles/offshore-wind/revolution-installs-last-turbine-despite-trump",
+      "summary": "Another offshore wind project just wrapped up turbine construction in the U.S., despite the Trump administration issuing not one but two stop-work orders against the installation.  The $6.2 billion Revolution Wind farm has installed its 65th and final turbine. The project has been producing carbon-free power for\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-18T15:23:00+00:00"
     },
     {
       "id": "d84bbd4ec632b713",
@@ -476,7 +576,7 @@
       "id": "04aa76ed1e8934b6",
       "title": "Burlington advances on-site solar strategy across distribution network",
       "link": "https://www.utilitydive.com/news/burlington-advances-on-site-solar-strategy-across-distribution-network/830650/",
-      "summary": "The off-price retailer is planning installations at planned facilities in Arizona and California, as well as an existing warehouse in Georgia.",
+      "summary": "The off-price retailer is planning installations at upcoming facilities in Arizona and California, as well as an existing warehouse in Georgia.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6281,86 +6381,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-08-29T07:00:00+00:00"
-    },
-    {
-      "id": "20b47668d9fe9b0d",
-      "title": "What Is V2X?",
-      "link": "https://www.tdworld.com/electrification/blog/55397384/what-is-v2x",
-      "summary": "With a market value projected at nearly $7 billion in 2025, V2G technology is gaining traction as a mainstream grid resource, despite existing challenges in regulation, infrastructure, and customer trust.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-28T22:46:38+00:00"
-    },
-    {
-      "id": "3d447b4562446ef0",
-      "title": "Trump Blocks Some Foreign-Made Grid Equipment in U.S. Citing \u2018National Emergency\u2019",
-      "link": "https://www.tdworld.com/policy/news/55401635/trump-blocks-some-foreign-made-grid-equipment-in-us-citing-national-emergency",
-      "summary": "In a statement, President Trump cited security, foreign policy and economic risks from certain foreign actors that are \u201cincreasingly creating and exploiting vulnerabilities\u201d in the U.S. for these actions.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-28T19:52:03+00:00"
-    },
-    {
-      "id": "8592867b4cab6c5d",
-      "title": "The Grid Doesn\u2019t Fit in a Campaign Ad",
-      "link": "https://www.tdworld.com/policy/blog/55398029/the-grid-doesnt-fit-in-a-campaign-ad",
-      "summary": "As electricity affordability becomes a political talking point, separating campaign rhetoric from the realities of powering a changing grid is more important than ever.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-28T19:06:53+00:00"
-    },
-    {
-      "id": "d1c3956c778d8f70",
-      "title": "EPRI Launches DER Interoperability Lab, Working Group",
-      "link": "https://www.tdworld.com/distributed-energy-resources/news/55401630/epri-launches-der-interoperability-lab-working-group",
-      "summary": "Through hands-on events like the DER Plug-Fest, EPRI is validating multi-vendor device interoperability, emphasizing the importance of standards and consistent implementation to enable a flexible, reliable energy grid.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-28T18:57:19+00:00"
-    },
-    {
-      "id": "15d4dbe945b8360f",
-      "title": "Enhanced Corrosion Resistance Protects Cabling at the Hoover Dam",
-      "link": "https://www.tdworld.com/resources/white-papers/whitepaper/55400897/enhanced-corrosion-resistance-protects-cabling-at-the-hoover-dam",
-      "summary": "Nearly half of this national landmark\u2019s existing wiring-housing conduit had degraded, leaving a two-mile area in need of a conduit that could stand up to the ambient environment. See how a corrosion-resistant conduit system for Hoover Dam ensured top performance despite moist conditions.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-28T18:14:13+00:00"
-    },
-    {
-      "id": "5a7a60f8b28e1b99",
-      "title": "Trump admin considers more semiconductor tariffs, could include data center servers",
-      "link": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/",
-      "summary": "Because it went so well before",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-28T16:25:00+00:00"
-    },
-    {
-      "id": "570111c9ea065daa",
-      "title": "UK Green Party calls for nationwide data center moratorium",
-      "link": "https://www.datacenterdynamics.com/en/news/uk-green-party-calls-for-nationwide-data-center-moratorium/",
-      "summary": "Only 'local scale data centers for the local community' would be allowed",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-28T16:02:41+00:00"
-    },
-    {
-      "id": "274188f8716d6127",
-      "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand data center footprint",
-      "link": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
-      "summary": "IPO launches today, August 28",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-28T16:00:23+00:00"
     }
   ]
 }
