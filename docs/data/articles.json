@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T23:51:13.349615+00:00",
-  "count": 638,
+  "generated_at": "2026-09-19T15:23:44.861781+00:00",
+  "count": 636,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-18T23:51:09.579738+00:00"
+      "published": "2026-09-19T15:23:40.939452+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-18T23:51:09.579727+00:00"
+      "published": "2026-09-19T15:23:40.939439+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-18T23:51:09.579714+00:00"
+      "published": "2026-09-19T15:23:40.939424+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-18T23:51:09.579687+00:00"
+      "published": "2026-09-19T15:23:40.939394+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-18T23:51:07.482921+00:00"
+      "published": "2026-09-19T15:23:39.119787+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-18T23:51:06.615616+00:00"
+      "published": "2026-09-19T15:23:38.011214+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-18T23:51:06.615047+00:00"
+      "published": "2026-09-19T15:23:38.010573+00:00"
     },
     {
       "id": "0c60653d82f3c500",
@@ -6361,26 +6361,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-30T18:17:19+00:00"
-    },
-    {
-      "id": "3f5b920e1892838f",
-      "title": "From pressure to proof: Leading through constraint in the data center era",
-      "link": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
-      "summary": "And the mindset shift the team needed",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-29T11:00:31+00:00"
-    },
-    {
-      "id": "2e758ab03226679c",
-      "title": "Sponsored: The fiber connectivity challenge behind AI at scale",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/the-fiber-connectivity-challenge-behind-ai-at-scale/",
-      "summary": "CommScope\u2019s experts explain how fiber infrastructure can support faster deployment, greater resilience, and future flexibility",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-29T07:00:00+00:00"
     }
   ]
 }
