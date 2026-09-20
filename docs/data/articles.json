@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T23:52:45.585619+00:00",
-  "count": 636,
+  "generated_at": "2026-09-20T15:28:43.105148+00:00",
+  "count": 638,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-19T23:52:37.053250+00:00"
+      "published": "2026-09-20T15:28:39.624410+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-19T23:52:37.053235+00:00"
+      "published": "2026-09-20T15:28:39.624394+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-19T23:52:37.053218+00:00"
+      "published": "2026-09-20T15:28:39.624377+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-19T23:52:37.053188+00:00"
+      "published": "2026-09-20T15:28:39.624341+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-19T23:52:35.396795+00:00"
+      "published": "2026-09-20T15:28:37.772008+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-19T23:52:34.304843+00:00"
+      "published": "2026-09-20T15:28:36.677212+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -70,7 +70,17 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-19T23:52:34.304106+00:00"
+      "published": "2026-09-20T15:28:36.676474+00:00"
+    },
+    {
+      "id": "07d7ec4d2b1cfe66",
+      "title": "Sponsored: AI-driven services are becoming the new standard for uptime",
+      "link": "https://www.datacenterdynamics.com/en/opinions/ai-driven-services-are-becoming-the-new-standard-for-uptime/",
+      "summary": "With expectations rising for what \u2018standard\u2019 means, the industry is moving to services that are more predictive, insightful and effective",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-20T15:00:00+00:00"
     },
     {
       "id": "0c60653d82f3c500",
@@ -286,7 +296,7 @@
       "id": "a6d3b6cfb341ab32",
       "title": "Microsoft \u2018preserving its ability\u2019 to challenge data center transmission costs decision",
       "link": "https://www.utilitydive.com/news/microsoft-virginia-scc-data-center-transmission/830775/",
-      "summary": "The company has until November to formally appeal the Virginia State Corporation Commission\u2019s order\u00a0to directly assign some costs of transmission. Dominion Energy has an October deadline to propose compliant policy changes.",
+      "summary": "It has until November to formally appeal the Virginia State Corporation Commission\u2019s order\u00a0to directly assign some costs of transmission. Dominion Energy has an October deadline to propose compliant policy changes.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -331,6 +341,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-18T12:54:21+00:00"
+    },
+    {
+      "id": "b75522ab67350d56",
+      "title": "Hitachi to double US production of small and medium-sized power transformers",
+      "link": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/",
+      "summary": "A Mississippi facility will produce\u00a0transformers in the 10 MVA to 160 MVA range, designed for voltages up to 230 kV. The additional capacity \u201cis expected to help alleviate industry-wide supply constraints,\u201d a Hitachi official told Utility Dive.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-18T12:42:36+00:00"
     },
     {
       "id": "f77853115a4bd0a9",
