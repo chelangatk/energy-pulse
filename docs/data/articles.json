@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T23:49:45.164616+00:00",
-  "count": 635,
+  "generated_at": "2026-09-21T17:53:24.254607+00:00",
+  "count": 653,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-20T23:49:40.409149+00:00"
+      "published": "2026-09-21T17:53:19.695391+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-20T23:49:40.409138+00:00"
+      "published": "2026-09-21T17:53:19.695378+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-20T23:49:40.409124+00:00"
+      "published": "2026-09-21T17:53:19.695362+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-20T23:49:40.409094+00:00"
+      "published": "2026-09-21T17:53:19.695332+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-20T23:49:38.403296+00:00"
+      "published": "2026-09-21T17:53:17.613021+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,277 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-20T23:49:37.086675+00:00"
+      "published": "2026-09-21T17:53:16.258660+00:00"
+    },
+    {
+      "id": "13b8a851e5361de6",
+      "title": "Ohio\u2019s biggest solar project finally gets permit after long legal limbo",
+      "link": "https://www.canarymedia.com/articles/solar/ohio-biggest-solar-project-gets-permit",
+      "summary": "Ohio\u2019s largest solar and battery project can finally move forward after years of slogging through legal and regulatory challenges.  The Ohio Power Siting Board on Thursday approved a permit for Oak Run Solar, which will combine 800 megawatts of solar with 300 MW of battery storage. The Madison County development will\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T17:00:00+00:00"
+    },
+    {
+      "id": "26bdb9786d51b896",
+      "title": "Nokia ramps up AI-RAN momentum",
+      "link": "https://www.datacenterdynamics.com/en/news/nokia-ramps-up-ai-ran-momentum/",
+      "summary": "As the vendor strikes further carrier partnerships",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T16:21:03+00:00"
+    },
+    {
+      "id": "7a043474d53c24af",
+      "title": "Flag to deploy Ciena's Waveserver platform on Echo subsea cable",
+      "link": "https://www.datacenterdynamics.com/en/news/flag-to-deploy-cienas-waveserver-platform-on-echo-subsea-cable/",
+      "summary": "This will enable Flag to launch new 400GbE and 800GbE services along the route",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T16:18:24+00:00"
+    },
+    {
+      "id": "926a510d269199c9",
+      "title": "The new 5G SA blueprint that is enabling telecom operators to provide the network backbone 24/7 industries need",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-new-5g-sa-blueprint-that-is-enabling-telecom-operators-to-provide-the-network-backbone-247-industries-need/",
+      "summary": "It\u2019s time for telecoms to move digital infrastructure closer to the user",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T16:01:04+00:00"
+    },
+    {
+      "id": "90d85274507cf3b9",
+      "title": "LG launches centrifugal air cooling system for AI data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/lg-launches-centrifugal-air-cooling-system-for-ai-data-centers/",
+      "summary": "No oil required for magnetic system",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T15:40:37+00:00"
+    },
+    {
+      "id": "46391b37397d7e39",
+      "title": "Valorem eyes data centers in Savonlinna and Kankaanp\u00e4\u00e4, Finland",
+      "link": "https://www.datacenterdynamics.com/en/news/valorem-eyes-data-centers-in-savonlinna-and-kankaanp%C3%A4%C3%A4-finland/",
+      "summary": "French energy firm adds more data center projects to pipeline",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T15:30:38+00:00"
+    },
+    {
+      "id": "a0ed5f758d97f476",
+      "title": "Kodiak Gas Services to supply 76MW of behind-the-meter gas power to West Texas data center",
+      "link": "https://www.datacenterdynamics.com/en/news/kodiak-gas-services-to-supply-76mw-of-behind-the-meter-gas-power-to-west-texas-data-center/",
+      "summary": "Will deploy 40 natural gas-fueled reciprocating generation units",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T15:16:10+00:00"
+    },
+    {
+      "id": "924bae119f2a3a08",
+      "title": "Texas PUC adopts softened rules on data center interconnection",
+      "link": "https://www.utilitydive.com/news/texas-puc-adopts-data-center-interconnection-rules/830899/",
+      "summary": "The Public Utility Commission of Texas backed off the standards it proposed in March, eliminating a\u00a0non-refundable interconnection fee, halving its\u00a0financial security requirement and extending\u00a0energization milestone deadlines.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T15:00:57+00:00"
+    },
+    {
+      "id": "abff7627040bbc8e",
+      "title": "Sponsored: Why protecting your data center's cash flow costs less than you think",
+      "link": "https://www.datacenterdynamics.com/en/opinions/why-protecting-your-data-centers-cash-flow-costs-less-than-you-think/",
+      "summary": "And why the consequences of an SLA breach can go far beyond financial",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T15:00:00+00:00"
+    },
+    {
+      "id": "63e287d63e20397c",
+      "title": "Federal judge restores $7B Solar for All program, says EPA illegally axed it",
+      "link": "https://www.utilitydive.com/news/federal-judge-restores-7b-solar-for-all-program-says-epa-illegally-axed-i/830879/",
+      "summary": "A Trump-appointed judge said\u00a0the One Big Beautiful Bill Act did not convert the funding into \u201ca lump-sum amount subject to EPA\u2019s discretion.\u201d Defendants acted contrary to Congress\u2019 intent and with \u201cno other statutory authority\u201d when they terminated it, she said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T14:16:21+00:00"
+    },
+    {
+      "id": "f935ff63253a6935",
+      "title": "Newsom vetoes bill to create California PUC inspector general",
+      "link": "https://www.utilitydive.com/news/newsom-vetoes-california-puc-bill/830864/",
+      "summary": "Newsom signed several other bills with direct or indirect implications for electric utilities and power infrastructure stakeholders, including Assembly Bill 192 standing up the transmission infrastructure accelerator.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T13:07:57+00:00"
+    },
+    {
+      "id": "99ed6c84a66db786",
+      "title": "New York regulators approve 90-mile transmission line",
+      "link": "https://www.utilitydive.com/news/new-york-psc-propel-transmission-line/830866/",
+      "summary": "The $3.3-billion project aims to improve downstate power delivery by 2030. It is being developed by New York Transco and the New York Power Authority.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T12:55:13+00:00"
+    },
+    {
+      "id": "899e81969e3e0772",
+      "title": "Virgin Media O2 extends small cells rollout to Tonbridge, Kent",
+      "link": "https://www.datacenterdynamics.com/en/news/virgin-media-o2-extends-small-cells-rollout-to-tonbridge-kent/",
+      "summary": "Five small cells have gone live in Tonbridge",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T11:29:48+00:00"
+    },
+    {
+      "id": "771e0c3db79286f4",
+      "title": "GlobalFoundries and Marvell sign multi-year development agreement for optical technologies",
+      "link": "https://www.datacenterdynamics.com/en/news/globalfoundries-and-marvell-sign-multi-year-development-agreement-for-optical-technologies/",
+      "summary": "Partners will increase silicon germanium capacity at GF\u2019s Burlington, Vermont, facility",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T10:53:05+00:00"
+    },
+    {
+      "id": "b90de85536941c69",
+      "title": "Google-backed battery storage pilot in Texas demonstrates how BESS can improve hourly carbon-free matching for data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/google-backed-battery-storage-pilot-in-texas-demonstrates-how-bess-can-improve-hourly-carbon-free-matching-for-data-centers/",
+      "summary": "Pilot undertaken by Quintrace, esVolta, and LevelTen Energy",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T10:19:29+00:00"
+    },
+    {
+      "id": "a739f3fef2722e86",
+      "title": "Prysmian, Rio Tinto to supply Amazon data center in Ohio with low-carbon aluminum",
+      "link": "https://www.datacenterdynamics.com/en/news/prysmian-rio-tinto-to-supply-amazon-data-center-in-ohio-with-low-carbon-aluminum/",
+      "summary": "Will deliver electrical cabling to the data center",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T09:54:43+00:00"
+    },
+    {
+      "id": "e71f60bd611e144e",
+      "title": "OData to deploy Aligned's DeltaFlow liquid cooling system at Brazil and Mexico data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/odata-to-deploy-aligneds-deltaflow-liquid-cooling-system-at-brazil-and-mexico-data-centers/",
+      "summary": "Project will cost $630m",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T09:33:48+00:00"
+    },
+    {
+      "id": "849efa4e8b0cb6fd",
+      "title": "IBM and ETH Zurich collaborate on quantum computer to be hosted in Lugano, Switzerland",
+      "link": "https://www.datacenterdynamics.com/en/news/ibm-and-eth-zurich-collaborate-on-quantum-computer-to-be-hosted-in-lugano-switzerland/",
+      "summary": "New system at Swiss National Supercomputing Center will be accessible to private firms and other higher education institutions",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T09:33:20+00:00"
+    },
+    {
+      "id": "df6198f7986ba8ba",
+      "title": "Verizon requests approval from FCC to test 4GHz band for 6G",
+      "link": "https://www.datacenterdynamics.com/en/news/verizon-requests-approval-from-fcc-to-test-4ghz-band-for-6g/",
+      "summary": "Carrier seeks to test the spectrum for potential use cases",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T09:31:22+00:00"
+    },
+    {
+      "id": "0fe1e641f3e76ad8",
+      "title": "Nabiax breaks ground on 100MW data center in Madrid, Spain",
+      "link": "https://www.datacenterdynamics.com/en/news/nabiax-breaks-ground-on-100mw-data-center-in-madrid-spain/",
+      "summary": "Nabiax to reach 135MW of capacity in Spain across Madrid and Catalonia",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T09:28:51+00:00"
+    },
+    {
+      "id": "748e3aa8bb375c1a",
+      "title": "Generac signs $8bn back up generator deal with Amazon",
+      "link": "https://www.datacenterdynamics.com/en/news/generac-signs-8bn-back-up-generator-deal-with-amazon/",
+      "summary": "Initial deliveries over next two years will total $2.4bn",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T09:16:00+00:00"
+    },
+    {
+      "id": "98755bab8d356418",
+      "title": "Oman\u2019s O-Green targets 200MW of data center capacity by 2028",
+      "link": "https://www.datacenterdynamics.com/en/news/omans-o-green-targets-200mw-of-data-center-capacity-by-2028/",
+      "summary": "Firm says its data centers in Oman and Europe will be powered by low-cost renewable energy",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T09:00:05+00:00"
+    },
+    {
+      "id": "bd8c99be4d10cbd2",
+      "title": "Read, reroute, recalibrate: the playbook for fleets that can\u2019t wait out the weather",
+      "link": "https://www.utilitydive.com/spons/read-reroute-recalibrate-the-playbook-for-fleets-that-cant-wait-out-the/830191/",
+      "summary": "Three safety habits to guide utility crews through any conditions.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T09:00:00+00:00"
+    },
+    {
+      "id": "e91b949fa2bdd71d",
+      "title": "Blaze Equipment expands east with new Baltimore location and launches online ordering nationwide",
+      "link": "https://www.utilitydive.com/spons/blaze-equipment-expands-east-with-new-baltimore-location-and-launches-onlin/830415/",
+      "summary": "Blaze expands nationwide with online ordering, rentals, equipment and expert support.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T09:00:00+00:00"
+    },
+    {
+      "id": "525ab453a4d5a108",
+      "title": "Eutelsat buys another 229 satellites for OneWeb from Airbus for ~\u20ac1bn",
+      "link": "https://www.datacenterdynamics.com/en/news/eutelsat-buys-another-229-satellites-for-oneweb-from-airbus-for-1bn/",
+      "summary": "Satellite operator doubles down on LEO proliferation, champions IRIS\u00b2 at Paris Summit",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T08:45:34+00:00"
+    },
+    {
+      "id": "99564fb60429f717",
+      "title": "How to stick up for renewable energy projects near you",
+      "link": "https://www.canarymedia.com/articles/guides-and-how-tos/stick-up-for-renewable-energy-projects",
+      "summary": "Canary Media\u2019s  Electrified Life  column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and communities to clean electric power.   Last year, Coles County, Illinois was debating whether to kill a proposed wind farm. Dorothy Macy wanted to speak up in support of\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T07:30:00+00:00"
+    },
+    {
+      "id": "c5c3527664419dce",
+      "title": "Sponsored: Powering NAM: Yesterday, tomorrow, and beyond",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/powering-nam-yesterday-tomorrow-and-beyond/",
+      "summary": "How combined-cycle power delivers reliable, dispatchable electricity while supporting grid stability in North America",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-21T07:00:00+00:00"
     },
     {
       "id": "facb996682d88e72",
@@ -6261,96 +6531,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-08-31T19:07:35+00:00"
-    },
-    {
-      "id": "845ce0cfd10d2831",
-      "title": "California sues Trump administration over offshore wind \u2018extortion racket\u2019",
-      "link": "https://www.utilitydive.com/news/california-sues-trump-admin-offshore-wind-extortion-racket/829176/",
-      "summary": "The state alleges the Trump administration \u201cabuses its authority\u201d by diminishing the value of offshore wind energy leases before it makes an \u201cunrefusable offer\u201d to developers.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T14:38:56+00:00"
-    },
-    {
-      "id": "0c62da39691463f3",
-      "title": "PJM drops Oklo advanced nuclear project from interconnection study cycle",
-      "link": "https://www.utilitydive.com/news/pjm-oklo-advanced-nuclear-ferc-interconnection/829150/",
-      "summary": "Oklo asked the Federal Energy Regulatory Commission to order the PJM Interconnection to reinstate its 750-MW, mixed-technology project. PJM reportedly told Oklo that it never showed the project could ride through a sudden drop in grid voltage.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T13:20:51+00:00"
-    },
-    {
-      "id": "e1276451967f4372",
-      "title": "Stakeholders square off over proposed DOE appliance program changes",
-      "link": "https://www.utilitydive.com/news/stakeholders-square-off-over-proposed-doe-appliance-program-changes/829155/",
-      "summary": "Manufacturers say the changes would create a more predictable process to set appliance standards but should not \u201capply retroactively to standards already finalized.\u201d\u00a0Efficiency advocates say potential energy savings will be lost.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T13:18:03+00:00"
-    },
-    {
-      "id": "ed72a5dce6897551",
-      "title": "Zaigo",
-      "link": "https://www.tdworld.com/directory/engineering-services-consultants/company/55401283/zaigo",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T12:44:10+00:00"
-    },
-    {
-      "id": "1163711da3dc1abb",
-      "title": "Unlocking the potential of existing assets",
-      "link": "https://www.datacenterdynamics.com/en/opinions/unlocking-the-potential-of-existing-assets/",
-      "summary": "Retrofitting rather than building new",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-08-31T11:00:39+00:00"
-    },
-    {
-      "id": "0095d36e0dc909c6",
-      "title": "Property risk in natural resources: The shift from severity to duration",
-      "link": "https://www.utilitydive.com/spons/property-risk-in-natural-resources-the-shift-from-severity-to-duration/828467/",
-      "summary": "Secondary perils, such as severe convective storms, are becoming a primary driver of earnings volatility.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T09:00:00+00:00"
-    },
-    {
-      "id": "4491105241e60656",
-      "title": "The rules of data center development are evolving. Is your strategy?",
-      "link": "https://www.utilitydive.com/spons/the-rules-of-data-center-development-are-evolving-is-your-strategy-1/828795/",
-      "summary": "Data center capacity continues to expand.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T09:00:00+00:00"
-    },
-    {
-      "id": "96da4e4766efe4ab",
-      "title": "Gary power outage underscores stakes of Solar for All cancellation",
-      "link": "https://www.canarymedia.com/articles/climate-crisis/gary-power-outage-solar-for-all",
-      "summary": "Stephen Mays was left without power for 12 days after violent storms and tornadoes struck northwest Indiana this month. Lori Latham for 13. Thousands of other residents of Gary, Indiana, where both Mays and Latham live and work, went without power for as long as two full weeks following the storms, in what has become\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T07:30:00+00:00"
-    },
-    {
-      "id": "e178d1afb2b6571a",
-      "title": "Virginia to cut rooftop solar costs with nation-first bulk-buy program",
-      "link": "https://www.canarymedia.com/articles/solar/virginia-rooftop-solar-bulk-buy-program",
-      "summary": "Last month, Virginia became the first state in the country to launch a bulk-purchasing campaign for rooftop solar \u2014 a move that promises to bring down the cost of installing panels for households across Old Dominion.  The idea behind the program, called Switch Together , is simple: Solar panels come cheaper by the\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T07:30:00+00:00"
     }
   ]
 }
