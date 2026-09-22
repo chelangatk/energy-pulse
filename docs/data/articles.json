@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T16:18:54.757200+00:00",
-  "count": 630,
+  "generated_at": "2026-09-22T23:58:30.880628+00:00",
+  "count": 631,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-22T16:18:52.002217+00:00"
+      "published": "2026-09-22T23:58:28.350633+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-22T16:18:52.002202+00:00"
+      "published": "2026-09-22T23:58:28.350622+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-22T16:18:52.002183+00:00"
+      "published": "2026-09-22T23:58:28.350608+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-22T16:18:52.002149+00:00"
+      "published": "2026-09-22T23:58:28.350578+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-22T16:18:50.431923+00:00"
+      "published": "2026-09-22T23:58:26.663958+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-22T16:18:49.612319+00:00"
+      "published": "2026-09-22T23:58:25.455064+00:00"
+    },
+    {
+      "id": "27a0debf914b1c0a",
+      "title": "Temporary Gas Plants Approved for 2 Nevada Data Centers",
+      "link": "https://www.rtoinsider.com/145338-temporary-gas-plants-approved-nevada-data-centers/",
+      "summary": "Nevada regulators have approved permits for two behind-the-meter gas plants to power data centers until NV Energy is able to permanently supply the campuses with electricity.\nThe post Temporary Gas Plants Approved for 2 Nevada Data Centers appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-22T23:48:12+00:00"
+    },
+    {
+      "id": "bc2b6ab57223d462",
+      "title": "Entergy Objects to MISO\u2019s $70M JTIQ Cost Assignment for Lone Star Plant",
+      "link": "https://www.rtoinsider.com/145298-entergy-objects-miso-cost-jtiq-assignment-lone-star-plant/",
+      "summary": "Entergy Texas has filed a complaint against MISO over the grid operator proposing to assign $70 million in interregional transmission upgrades to the utility\u2019s Lone Star power station.\nThe post Entergy Objects to MISO\u2019s $70M JTIQ Cost Assignment for Lone Star Plant appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-22T23:39:27+00:00"
+    },
+    {
+      "id": "c85164d710de8647",
+      "title": "How Much Flexible AI Compute Can the Grid Actually Count On?",
+      "link": "https://www.rtoinsider.com/145201-how-much-flexible-ai-compute-can-the-grid-actually-count-on/",
+      "summary": "With capacity in major ISOs being rapidly outstripped by new data loads, the question concerning flexibility becomes increasingly critical. How grid planners address the issue obviously has major implications for resource adequacy.\nThe post How Much Flexible AI Compute Can the Grid Actually Count On? appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-22T22:52:16+00:00"
+    },
+    {
+      "id": "34baf0e0973ba910",
+      "title": "States File 3 More Challenges to OSW Lease Buyouts",
+      "link": "https://www.rtoinsider.com/145341-three-new-lawsuits-target-trump-admin-offshore-wind-buyouts/",
+      "summary": "New York leads a coalition of eight states as plaintiffs in two complaints over buyouts along the northeast coast and California is the plaintiff in a complaint over a buyout off its coast.\nThe post States File 3 More Challenges to OSW Lease Buyouts appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-22T22:48:20+00:00"
+    },
+    {
+      "id": "ac4c31db2165f4c5",
+      "title": "Lower energy costs, community benefits drive 30% battery growth rate: RMI",
+      "link": "https://www.utilitydive.com/news/lower-energy-costs-community-benefits-drive-30-battery-growth-rate-rmi/831039/",
+      "summary": "The report arrives as the energy storage industry faces headwinds from tariffs, Treasury regulations and new White House restrictions on foreign-made bulk electrical components.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-22T16:39:18+00:00"
+    },
+    {
+      "id": "f8d51cec01dd5b72",
+      "title": "BDx breaks ground on AI Campus 2 in Jatiluhur, Indonesia",
+      "link": "https://www.datacenterdynamics.com/en/news/bdx-breaks-ground-on-ai-campus-2-in-jatiluhur-indonesia/",
+      "summary": "The first 120MW building is set to go live in early 2027",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-22T16:33:27+00:00"
+    },
+    {
+      "id": "4145bab86a73c5a5",
+      "title": "Orange drops M\u00e1sOrange brand in Spain following full takeover",
+      "link": "https://www.datacenterdynamics.com/en/news/masorange-disappears-and-orange-spain-assumes-the-groups-corporate-identity/",
+      "summary": "The carrier is now known as Orange Espa\u00f1a",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-22T16:30:03+00:00"
+    },
+    {
+      "id": "46fd86a01db902d1",
+      "title": "Alibaba unveils Zhenwu V900, says cloud capacity will hit 20GW by 2032",
+      "link": "https://www.datacenterdynamics.com/en/news/alibaba-unveils-zhenwu-v900-says-cloud-capacity-will-hit-20gw-by-2032/",
+      "summary": "New AI chip slated for release in Q1 2027",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-22T16:25:37+00:00"
     },
     {
       "id": "cf89e26b947291ed",
@@ -83,6 +163,16 @@
       "published": "2026-09-22T15:00:00+00:00"
     },
     {
+      "id": "62ba6e2c9f11a945",
+      "title": "California tightens oversight of data center energy use, grid costs",
+      "link": "https://www.utilitydive.com/news/california-tightens-oversight-of-data-center-energy-use-grid-costs/831037/",
+      "summary": "Bills signed by Gov. Gavin Newsom include regulations aimed at ensuring data centers pay for infrastructure needed to serve them and bear a larger share of wildfire mitigation and liability costs.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-22T14:53:40+00:00"
+    },
+    {
       "id": "599032e632bb5880",
       "title": "Irish gov't sets out national roaming agreement for Ireland's emergency services",
       "link": "https://www.datacenterdynamics.com/en/news/irish-govt-sets-out-national-roaming-agreement-for-irelands-emergency-services/",
@@ -101,6 +191,26 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-22T14:30:53+00:00"
+    },
+    {
+      "id": "9381feeeddf9c06f",
+      "title": "North Carolina regulators deny Duke Energy gas turbine request over \u2018staggering\u2019 cost, uncertain need",
+      "link": "https://www.utilitydive.com/news/north-carolina-regulators-deny-dukes-gas-turbine-request-over-staggering/831015/",
+      "summary": "The order called out Duke\u2019s commitment to the White House Ratepayer Protection Pledge, saying it had not established\u00a0the specific extent to which the proposed facility is intended to serve data centers.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-22T14:24:38+00:00"
+    },
+    {
+      "id": "cd69993fb3ba0d70",
+      "title": "Other New England states back Maine\u2019s RTO adder complaint",
+      "link": "https://www.utilitydive.com/news/new-england-maine-rto-adder-complaint-ferc/830999/",
+      "summary": "The complaint at the Federal Energy Regulatory Commission is part of a trend of states seeking to end an extra 0.5% return utilities can earn for voluntarily joining a transmission organization.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-22T14:04:27+00:00"
     },
     {
       "id": "ac6e2a2948d3301d",
@@ -6201,106 +6311,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-02T00:12:34+00:00"
-    },
-    {
-      "id": "6295c3efca879a72",
-      "title": "N.Y. Urged to End Community Choice Aggregation",
-      "link": "https://www.rtoinsider.com/142060-ny-urged-end-community-choice-aggregation-program/",
-      "summary": "The New York Department of Public Service said community choice aggregation failed in its main objectives \u2014 to boost renewable energy and reduce ratepayer costs.\nThe post N.Y. Urged to End Community Choice Aggregation appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T23:53:42+00:00"
-    },
-    {
-      "id": "55170a03bac14759",
-      "title": "FERC Accepts ISO-NE Pay-for-Performance Rate Reduction",
-      "link": "https://www.rtoinsider.com/142056-ferc-accepts-iso-ne-pay-for-performance-rate-reduction/",
-      "summary": "FERC accepted a reduction of the ISO-NE pay-for-performance rate from $9,337/MWh to $3,500/MWh, finding that the lower rate would still provide adequate performance inventive.\nThe post FERC Accepts ISO-NE Pay-for-Performance Rate Reduction appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T23:06:30+00:00"
-    },
-    {
-      "id": "910a0ec79904c1b6",
-      "title": "Oklo Files FERC Complaint After PJM Removes Project from Interconnection Queue",
-      "link": "https://www.rtoinsider.com/142018-oklo-files-complaint-after-pjm-removes-project-interconnection-queue/",
-      "summary": "Oklo has filed a complaint at FERC alleging PJM violated its tariff by removing a 750-MW generation project from the Cycle 1 interconnection queue.\nThe post Oklo Files FERC Complaint After PJM Removes Project from Interconnection Queue appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T23:03:23+00:00"
-    },
-    {
-      "id": "64f21414ad3aa076",
-      "title": "NYISO Restores 2 Projects to 2027 Budget",
-      "link": "https://www.rtoinsider.com/141329-nyiso-restores-projects-2027-prioritization-process/",
-      "summary": "NYISO has restored two projects to the 2027 budget following stakeholder pushback, staff told the Budget and Priorities Working Group.\nThe post NYISO Restores 2 Projects to 2027 Budget appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T23:00:19+00:00"
-    },
-    {
-      "id": "cf0d19c3d3df880d",
-      "title": "Judge Blocks New York\u2019s Climate Superfund Act",
-      "link": "https://www.rtoinsider.com/142058-judge-blocks-enforcement-ny-climate-superfund-act/",
-      "summary": "A federal judge has blocked New York\u2019s attempt to collect $75 billion in compensation from the fossil fuel industry for climate damage.\nThe post Judge Blocks New York\u2019s Climate Superfund Act appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T22:22:48+00:00"
-    },
-    {
-      "id": "310481c5305f9c34",
-      "title": "The Real Price of Nuclear Power That Lasts a Century",
-      "link": "https://www.rtoinsider.com/141899-the-real-price-of-nuclear-power-that-lasts-a-century/",
-      "summary": "Amortized over a century of reliable, dispatchable, carbon-free generation, nuclear is not expensive. It is one of the most cost-effective generation resources, writes Nick Myers.\nThe post The Real Price of Nuclear Power That Lasts a Century appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T22:09:55+00:00"
-    },
-    {
-      "id": "159ef0865b1608cf",
-      "title": "The US built more grid batteries last quarter than ever before",
-      "link": "https://www.canarymedia.com/articles/batteries/us-built-more-grid-batteries",
-      "summary": "There\u2019s never been a better time to build energy storage in the U.S. than right now.  Grid batteries \u2014 which sop up power when it\u2019s abundant and discharge that energy when it\u2019s needed \u2014 have been ascendant for a decade, as the price of the underlying lithium-ion cells fell precipitously . Bolstered by plummeting\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T21:30:00+00:00"
-    },
-    {
-      "id": "dfb794d7e14675e6",
-      "title": "National Grid Secures Green Light for 3 Substations to Strengthen U.K. Energy Networks",
-      "link": "https://www.tdworld.com/substations/news/55402285/national-grid-secures-green-light-for-3-substations-to-strengthen-uk-energy-networks",
-      "summary": "Project director James Leeming states that as National Grid moves closer to official construction timelines, they\u2019ll continue to work closely with local communities and stakeholders.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T20:06:41+00:00"
-    },
-    {
-      "id": "5558ce7313ac5b7d",
-      "title": "Fervo and Google sign world\u2019s largest deal for next-gen geothermal power",
-      "link": "https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal",
-      "summary": "Fervo Energy inked a landmark deal to supply Google with nearly 400 megawatts of clean electricity from the startup\u2019s geothermal project in southwest Utah.  The agreement is the largest of its kind for a next-generation geothermal system \u2014 an emerging technology that involves drilling deep into hot, dry rock to use\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T19:00:00+00:00"
-    },
-    {
-      "id": "4cb4d8a1833e97f1",
-      "title": "Four of Vietnam's subsea cables suffer faults, leading to fresh connectivity outages for country",
-      "link": "https://www.datacenterdynamics.com/en/news/four-of-vietnams-subsea-cables-suffer-faults-leading-to-fresh-connectivity-outages-for-country/",
-      "summary": "Not for the first time in recent years",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-01T16:40:00+00:00"
     }
   ]
 }
