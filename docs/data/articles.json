@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T17:53:24.254607+00:00",
-  "count": 653,
+  "generated_at": "2026-09-22T00:34:48.156182+00:00",
+  "count": 656,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-21T17:53:19.695391+00:00"
+      "published": "2026-09-22T00:34:44.505684+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-21T17:53:19.695378+00:00"
+      "published": "2026-09-22T00:34:44.505675+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-21T17:53:19.695362+00:00"
+      "published": "2026-09-22T00:34:44.505663+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-21T17:53:19.695332+00:00"
+      "published": "2026-09-22T00:34:44.505635+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-21T17:53:17.613021+00:00"
+      "published": "2026-09-22T00:34:42.317742+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,13 +60,103 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-21T17:53:16.258660+00:00"
+      "published": "2026-09-22T00:34:41.208533+00:00"
+    },
+    {
+      "id": "3c9b2af7fb73b82c",
+      "title": "The Energy Authority: 2 Western Markets Better than 1",
+      "link": "https://www.rtoinsider.com/144570-energy-authority-2-western-markets-better-than-1/",
+      "summary": "The Energy Authority says continued market competition between CAISO and SPP in the West is the best way to end up with efficient markets.\nThe post The Energy Authority: 2 Western Markets Better than 1 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-22T00:27:28+00:00"
+    },
+    {
+      "id": "6fdee043443ffbdc",
+      "title": "Changes Coming to IESO Program that Helps Facilities Identify Energy Savings",
+      "link": "https://www.rtoinsider.com/144771-changes-ieso-program-helps-facilities-identify-energy-savings/",
+      "summary": "IESO outlined proposed changes to its Expanded Energy Management program, which helps industrial, commercial and institutional facilities reduce energy use via the funding of staff and monitoring systems.\nThe post Changes Coming to IESO Program that Helps Facilities Identify Energy Savings appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T23:57:54+00:00"
+    },
+    {
+      "id": "0f4383d181b5e6a3",
+      "title": "Propel NY Clears Key Hurdle in Long-running Regulatory Review",
+      "link": "https://www.rtoinsider.com/145223-propel-ny-transmission-line-proposal-gains-key-approval/",
+      "summary": "New York PSC approval of the certificate of environmental compatibility and public need for Propel NY sets the stage for other approvals, such as the first phases of the construction plan.\nThe post Propel NY Clears Key Hurdle in Long-running Regulatory Review appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T23:55:51+00:00"
+    },
+    {
+      "id": "f655deb179f777da",
+      "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
+      "link": "https://www.powermag.com/google-georgia-power-have-deal-to-support-nuclear-power-plant-uprates/",
+      "summary": "Electric utility Georgia Power and tech giant Google said the companies have an agreement under which Google will support power uprates at two of the utility's nuclear power plants.\nThe post Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T23:49:44+00:00"
+    },
+    {
+      "id": "3ee9f463497ee974",
+      "title": "TVA Sued over Coal Retirement Renege",
+      "link": "https://www.rtoinsider.com/145240-tva-sued-over-coal-retirement-renege/",
+      "summary": "Environmental advocacy organizations have sued the Tennessee Valley Authority for backing out on promises to retire a coal plant while still constructing its gas-fired replacement, thereby violating air quality standards permitting.\nThe post TVA Sued over Coal Retirement Renege appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T23:03:46+00:00"
+    },
+    {
+      "id": "384130de27cb09a7",
+      "title": "Is New England Ready for New Nuclear?",
+      "link": "https://www.rtoinsider.com/144189-is-new-england-ready-for-new-nuclear/",
+      "summary": "About five decades after New England\u2019s original nuclear development boom and following years of retirements, the region may be on the verge of another nuclear renaissance, though this is far from a guarantee.\nThe post Is New England Ready for New Nuclear? appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T22:46:27+00:00"
+    },
+    {
+      "id": "c5089d2995403f35",
+      "title": "EPA Termination of Solar for All Ruled Unlawful",
+      "link": "https://www.rtoinsider.com/145225-epa-termination-of-solar-for-all-ruled-unlawful/",
+      "summary": "A federal judge has declared EPA\u2019s August 2025 termination of the Solar for All program unlawful and ordered the termination vacated.\nThe post EPA Termination of Solar for All Ruled Unlawful appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T22:12:29+00:00"
+    },
+    {
+      "id": "b3922bca35a0ee83",
+      "title": "CPUC Approves Rulemaking to Implement California IOU Participation in ROWE",
+      "link": "https://www.rtoinsider.com/143675-cpuc-approves-rulemaking-implement-california-iou-participation/",
+      "summary": "The California Public Utilities commission unanimously approved a new rulemaking to spell out how the agency will authorize the state\u2019s investor-owned utilities to participate in a regional market operated by CAISO but governed by an independent body.\nThe post CPUC Approves Rulemaking to Implement California IOU Participation in ROWE appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T21:48:49+00:00"
     },
     {
       "id": "13b8a851e5361de6",
       "title": "Ohio\u2019s biggest solar project finally gets permit after long legal limbo",
       "link": "https://www.canarymedia.com/articles/solar/ohio-biggest-solar-project-gets-permit",
       "summary": "Ohio\u2019s largest solar and battery project can finally move forward after years of slogging through legal and regulatory challenges.  The Ohio Power Siting Board on Thursday approved a permit for Oak Run Solar, which will combine 800 megawatts of solar with 300 MW of battery storage. The Madison County development will\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-21T17:00:00+00:00"
+    },
+    {
+      "id": "4e9d92b99a416574",
+      "title": "Duke Energy wants to build a new gas plant. Regulators said not so fast.",
+      "link": "https://www.canarymedia.com/articles/fossil-fuels/regulators-reject-duke-gas-plant-north-carolina",
+      "summary": "North Carolina regulators on Friday rejected a bid from Duke Energy to build a gas power plant \u2014 a rare denial from a panel that frequently defers to the state\u2019s predominant utility.  Duke first proposed the 255-megawatt facility in Richmond County last fall. Designed to produce electricity when the grid is strained,\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
       "region": "National",
@@ -136,7 +226,7 @@
       "id": "924bae119f2a3a08",
       "title": "Texas PUC adopts softened rules on data center interconnection",
       "link": "https://www.utilitydive.com/news/texas-puc-adopts-data-center-interconnection-rules/830899/",
-      "summary": "The Public Utility Commission of Texas backed off the standards it proposed in March, eliminating a\u00a0non-refundable interconnection fee, halving its\u00a0financial security requirement and extending\u00a0energization milestone deadlines.",
+      "summary": "The Public Utility Commission of Texas backed off the standards it proposed in March, eliminating a\u00a0non-refundable interconnection fee and extending\u00a0energization milestone deadlines.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -156,7 +246,7 @@
       "id": "63e287d63e20397c",
       "title": "Federal judge restores $7B Solar for All program, says EPA illegally axed it",
       "link": "https://www.utilitydive.com/news/federal-judge-restores-7b-solar-for-all-program-says-epa-illegally-axed-i/830879/",
-      "summary": "A Trump-appointed judge said\u00a0the One Big Beautiful Bill Act did not convert the funding into \u201ca lump-sum amount subject to EPA\u2019s discretion.\u201d Defendants acted contrary to Congress\u2019 intent and with \u201cno other statutory authority\u201d when they terminated it, she said.",
+      "summary": "A Trump-appointed judge said\u00a0the One Big Beautiful Bill Act did not convert the funding into \u201ca lump-sum amount subject to EPA\u2019s discretion.\u201d Defendants acted contrary to Congress\u2019 intent and with \u201cno other statutory authority.\u201d",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -166,7 +256,7 @@
       "id": "f935ff63253a6935",
       "title": "Newsom vetoes bill to create California PUC inspector general",
       "link": "https://www.utilitydive.com/news/newsom-vetoes-california-puc-bill/830864/",
-      "summary": "Newsom signed several other bills with direct or indirect implications for electric utilities and power infrastructure stakeholders, including Assembly Bill 192 standing up the transmission infrastructure accelerator.",
+      "summary": "On Monday, Newsom signed a package of laws aimed at data centers, including strengthening energy reporting requirements and requiring regulators to create new rate structures.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6471,66 +6561,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-01T00:45:44+00:00"
-    },
-    {
-      "id": "77fa4314ac2dffed",
-      "title": "Ohio Ratepayer Advocate Presses FERC for Decision in Transmission Case",
-      "link": "https://www.rtoinsider.com/141934-ohio-ratepayer-advocate-presses-ferc-decision-transmission-case/",
-      "summary": "Ohio ratepayers are at mounting risk from a gap in oversight over huge amounts of spending on local transmission projects even as FERC has failed to act on a complaint filed almost three years ago, the Ohio Consumers' Counsel alleges.\nThe post Ohio Ratepayer Advocate Presses FERC for Decision in Transmission Case appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-01T00:02:39+00:00"
-    },
-    {
-      "id": "e7c8e1d36f9578b1",
-      "title": "ISO-NE Tx Owners, Consumers Debate ROE Inputs and Methodology",
-      "link": "https://www.rtoinsider.com/141927-iso-ne-tx-owners-consumers-debate-roe-inputs-methodology/",
-      "summary": "New England transmission owners, state agencies and consumer groups debated the methodology and inputs used to determine the base return on equity rate set to take effect on Nov. 30 in ISO-NE.\nThe post ISO-NE Tx Owners, Consumers Debate ROE Inputs and Methodology appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T23:43:41+00:00"
-    },
-    {
-      "id": "f097e844aa9b7e5f",
-      "title": "Who\u2019s Responsible for Conducting a Frank National Dialogue About AI?",
-      "link": "https://www.rtoinsider.com/141662-whos-responsible-conducting-national-dialogue-about-ai/",
-      "summary": "A key takeaway from the data center debate is the impossibility of accurately predicting the harm-benefit tradeoffs from data centers and AI, or the related demands on a strained power grid, columnist Peter Behr writes.\nThe post Who\u2019s Responsible for Conducting a Frank National Dialogue About AI? appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T22:49:40+00:00"
-    },
-    {
-      "id": "ee82c64cf3b6beac",
-      "title": "FERC Denies Activists\u2019 EMP Complaint",
-      "link": "https://www.rtoinsider.com/141929-ferc-rejects-activists-emp-complaint/",
-      "summary": "FERC turned down a request by activists to improve the grid's resilience against electromagnetic pulse attacks, saying the activists who filed it didn't follow proper procedure.\nThe post FERC Denies Activists\u2019 EMP Complaint appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T22:16:58+00:00"
-    },
-    {
-      "id": "66dbdf9cba813295",
-      "title": "Indiana Michigan Power Proposes $59 Million Base Rate Reduction for 2027",
-      "link": "https://www.tdworld.com/utility-business/news/55401962/indiana-michigan-power-proposes-59-million-base-rate-reduction-for-2027",
-      "summary": "Under the proposal, a residential customer using 1,000 kWh per month would save an estimated $100 annually.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T19:46:19+00:00"
-    },
-    {
-      "id": "66df9a16bbb652d2",
-      "title": "California Compromise on Wildfire Reform Leaves PG&E, Edison More Exposed",
-      "link": "https://www.tdworld.com/utility-business/news/55401893/california-compromise-on-wildfire-reform-leaves-pge-edison-more-exposed",
-      "summary": "Gov. Gavin Newsom has called on lawmakers to quickly revisit ways to strengthen an insurance fund. Executives say the new legislation falls short of giving them the certainty they need to attract affordable investments and their investors have knocked billions of the companies\u2019 market values.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-08-31T19:07:35+00:00"
     }
   ]
 }
