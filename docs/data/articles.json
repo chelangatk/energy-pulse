@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T16:08:50.621805+00:00",
-  "count": 627,
+  "generated_at": "2026-09-24T00:13:03.924688+00:00",
+  "count": 629,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-23T16:08:47.069455+00:00"
+      "published": "2026-09-24T00:12:59.706279+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-23T16:08:47.069446+00:00"
+      "published": "2026-09-24T00:12:59.706265+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-23T16:08:47.069428+00:00"
+      "published": "2026-09-24T00:12:59.706248+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-23T16:08:47.069398+00:00"
+      "published": "2026-09-24T00:12:59.706220+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-23T16:08:43.176364+00:00"
+      "published": "2026-09-24T00:12:57.747176+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,197 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-23T16:08:41.946239+00:00"
+      "published": "2026-09-24T00:12:56.615439+00:00"
+    },
+    {
+      "id": "e87308574199ec1f",
+      "title": "Australia\u2019s data center guidelines lay the platform for new good grid citizens",
+      "link": "https://www.datacenterdynamics.com/en/opinions/australias-data-center-guidelines-lay-the-platform-for-new-good-grid-citizens/",
+      "summary": "How can big energy consumers make a greater contribution to energy systems and the communities they serve?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-24T00:00:27+00:00"
+    },
+    {
+      "id": "2f970a2a680ef823",
+      "title": "SERC Speakers Outline Issues Involving Large Loads",
+      "link": "https://www.rtoinsider.com/146159-serc-speakers-outline-issues-large-loads/",
+      "summary": "Speakers at a SERC Reliability Board of Directors meeting discussed issues involving large loads, including NERC's plans for standards development.\nThe post SERC Speakers Outline Issues Involving Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T23:56:48+00:00"
+    },
+    {
+      "id": "bed57371cc4acdb2",
+      "title": "Western Natural Gas Prices near Record Low in Q1 2026",
+      "link": "https://www.rtoinsider.com/145353-natural-gas-prices-near-record-low-q1-2026-in-west/",
+      "summary": "Natural gas prices decreased almost 50% in some parts of the West in Q1 2026 compared to Q1 2025, a report by CAISO\u2019s Department of Market Monitoring found.\nThe post Western Natural Gas Prices near Record Low in Q1 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T23:25:54+00:00"
+    },
+    {
+      "id": "41328805c6c631db",
+      "title": "New Data Center Power Metric Could Guide Flexibility, Aurora Says",
+      "link": "https://www.rtoinsider.com/143207-new-data-center-power-metric-could-guide-flexibility-aurora-says/",
+      "summary": "Researchers at Aurora Energy hope their metric for measuring the value a data center obtains from consuming electricity could result in more targeted tools to avoid burdening existing customers with higher costs.\nThe post New Data Center Power Metric Could Guide Flexibility, Aurora Says appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T23:20:52+00:00"
+    },
+    {
+      "id": "14c13f2ac67b2ad1",
+      "title": "Independence is a Lousy Principle of Governance for ISOs",
+      "link": "https://www.rtoinsider.com/145258-independence-is-a-lousy-principle-of-governance/",
+      "summary": "The West seeks to inject independence into its regime so participants can be confident market outcomes are not beholden to the interests of California. In contrast, stakeholders in the East are pushing to make an independent PJM more responsive, nimble and accountable to a large and complex variety of interests, writes energy consultant Vincent Duane.\nThe post Independence is a Lousy Principle of ",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T22:55:21+00:00"
+    },
+    {
+      "id": "1473fd1fb45eefa7",
+      "title": "N.Y. Awards 8 Storage, 13 Renewable Energy Contracts",
+      "link": "https://www.rtoinsider.com/146426-new-york-procures-renewable-energy-storage-contracts/",
+      "summary": "The New York State Energy Research and Development Authority announced the state has contracted new storage and renewable energy projects with a combined capacity of 1.7 GW.\nThe post N.Y. Awards 8 Storage, 13 Renewable Energy Contracts appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T22:46:08+00:00"
+    },
+    {
+      "id": "6d6edf9702d36aac",
+      "title": "Heinrich Proposes Tax Credits for Upgraded Tx",
+      "link": "https://www.rtoinsider.com/146253-heinrich-proposes-tax-credits-upgraded-transmission/",
+      "summary": "Sen. Martin Heinrich (D-N.M.) introduced a bill that would offer a 30% investment tax credit to transmission projects that upgrade their capacity using advanced conductors.\nThe post Heinrich Proposes Tax Credits for Upgraded Tx appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T22:17:20+00:00"
+    },
+    {
+      "id": "659607194c0097be",
+      "title": "Campbell Decision Clouds New DOE Must-run Orders for Indiana Coal Plants",
+      "link": "https://www.rtoinsider.com/145347-campbell-uncertainty-clouds-doe-must-run-orders-indiana-coal-plants/",
+      "summary": "The U.S. Department of Energy issued fresh orders to again delay the scheduled closures of two Indiana coal plants as questions swirl over their legality.\nThe post Campbell Decision Clouds New DOE Must-run Orders for Indiana Coal Plants appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T22:03:16+00:00"
+    },
+    {
+      "id": "f8251f693d39adfd",
+      "title": "FERC Commissioners Trade Concurrences on $1 Collateral from Data Center",
+      "link": "https://www.rtoinsider.com/146251-ferc-commissioners-trade-concurrences-collateral-data-center/",
+      "summary": "FERC declined to weigh in on a contract dispute, outside of several concurrences that argued for clearer terms on deals between utilities and large loads and to highlight the paucity of a $1 letter of credit.\nThe post FERC Commissioners Trade Concurrences on $1 Collateral from Data Center appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T22:00:04+00:00"
+    },
+    {
+      "id": "05f96ec653244824",
+      "title": "NERC Approves MISO\u2019s Move to SERC as Primary Reliability Corp.",
+      "link": "https://www.rtoinsider.com/146433-nerc-approves-miso-move-to-serc-primary-reliability-corp/",
+      "summary": "MISO announced NERC has approved its request for SERC Reliability to serve as its new main regional entity, replacing a 10-year relationship with ReliabilityFirst.\nThe post NERC Approves MISO\u2019s Move to SERC as Primary Reliability Corp. appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T21:02:58+00:00"
+    },
+    {
+      "id": "5ed4b04995073d95",
+      "title": "MISO Nominates Intel Expert to Board of Directors",
+      "link": "https://www.rtoinsider.com/145304-miso-nominates-intel-expert-board-of-directors/",
+      "summary": "The MISO Board of Directors is likely to have a new member beginning in 2027, one with cybersecurity and government intelligence experience.\nThe post MISO Nominates Intel Expert to Board of Directors appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T20:50:34+00:00"
+    },
+    {
+      "id": "7923b61f7971fcb5",
+      "title": "New York, California ramp up fight against Trump\u2019s offshore wind deals",
+      "link": "https://www.canarymedia.com/articles/offshore-wind/new-york-california-fight-trump-offshore-wind-deals",
+      "summary": "NEW YORK CITY \u2014 The enormous blades and hubs of offshore wind turbines are sprawled across a waterfront lot in Brooklyn, as a yellow lifting crane named Big Benny looms overhead. The energy firm Equinor is storing components here before shipping them out to Empire Wind , a 810-megawatt installation that is set to\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "0d591cbc56244ea9",
+      "title": "Army Selects Three Developers for Commercial Power Projects at Six Installations",
+      "link": "https://www.powermag.com/army-selects-three-developers-for-commercial-power-projects-at-six-installations/",
+      "summary": "The U.S. Army has conditionally selected three private developers to negotiate long-term leases for commercial power generation at\u00a0six installations\u00a0in a new Strategic Capital Initiatives round that could bring battery storage, natural gas, and nuclear generation onto Army land. On\u00a0Sept. 18, the Army conditionally selected\u00a0Ameresco, a Massachusetts-based energy infrastructure company, for Aberdeen",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T19:48:13+00:00"
+    },
+    {
+      "id": "83a017f5e556ce7b",
+      "title": "Bechtel-Westinghouse Group, PEJ Agree on Terms for Poland\u2019s First Nuclear Power Plant",
+      "link": "https://www.powermag.com/bechtel-westinghouse-group-pej-agree-on-terms-for-polands-first-nuclear-power-plant/",
+      "summary": "Poland's state-owned nuclear power company and a consortium led by Bechtel and Westinghouse have agreed on the main commercial terms of a deal to build that country's first nuclear power plant.\nThe post Bechtel-Westinghouse Group, PEJ Agree on Terms for Poland\u2019s First Nuclear Power Plant appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T18:57:05+00:00"
+    },
+    {
+      "id": "f1b8fc56a59c4008",
+      "title": "Should we get excited about California\u2019s latest virtual power plant?",
+      "link": "https://www.canarymedia.com/articles/virtual-power-plants/california-latest-virtual-power-plant",
+      "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state\u2019s clean energy transition.  Subscribe to get it every Wednesday via Substack.   Hi, everyone! Let\u2019s pick up a theme from last week\u2019s newsletter: how California has yet to take full advantage of rooftop solar, backup batteries, and other\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T18:00:00+00:00"
+    },
+    {
+      "id": "6dbdf1464775897d",
+      "title": "What Does Fleetwide AI Actually Mean for the U.S. Nuclear Industry?",
+      "link": "https://www.powermag.com/what-does-fleetwide-ai-actually-mean-for-the-u-s-nuclear-industry/",
+      "summary": "Nuclear plants have accumulated decades of operating experience, technical research, regulatory guidance, and other industry knowledge. Finding the right information, however, can mean searching several separate systems and then piecing the relevant material together. To address that search burden, Atomic Canyon, a company developing artificial intelligence tools for the nuclear industry, built th",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T17:54:44+00:00"
+    },
+    {
+      "id": "5bf5a49b53d2bddc",
+      "title": "Purdue Nuclear Reactor Test Demonstrates Remote, Automated Power Control",
+      "link": "https://www.powermag.com/purdue-nuclear-reactor-test-demonstrates-remote-automated-power-control/",
+      "summary": "Engineers at Purdue University have, for the first time in the U.S., adjusted a nuclear reactor\u2019s power experimentally, remotely and automatically in real time\u2014a demonstration they say offers an early\nThe post Purdue Nuclear Reactor Test Demonstrates Remote, Automated Power Control appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T16:27:15+00:00"
+    },
+    {
+      "id": "0ae428d9e47e1c1b",
+      "title": "Australian Senate calls for nationalized Triple Zero service following several high-profile outages",
+      "link": "https://www.datacenterdynamics.com/en/news/australian-senate-calls-for-nationalized-triple-zero-service-following-several-high-profile-outages/",
+      "summary": "Telstra operates the system that connects Australian phone calls to 000",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-23T16:10:51+00:00"
+    },
+    {
+      "id": "93897e2271a89a1c",
+      "title": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/",
+      "summary": "New analysis shows the best-matched clean power portfolio is also the strongest hedge against price shocks",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-23T16:05:36+00:00"
     },
     {
       "id": "011399f989f8f8e9",
@@ -71,6 +261,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-23T15:48:21+00:00"
+    },
+    {
+      "id": "a884f6d626b06554",
+      "title": "Microgrids must push beyond pilots, into everyday grid operations: panel",
+      "link": "https://www.utilitydive.com/news/microgrid-pnm-epri-data-center/831153/",
+      "summary": "EPRI\u2019s Jackie Baum says microgrids have to do more than sit idle for emergencies. \u201cThe majority of the time, the power is on,\u201d she said, urging utilities to use those resources.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T15:33:19+00:00"
     },
     {
       "id": "9c8ee1f4f30b4182",
@@ -96,11 +296,21 @@
       "id": "fcdb89ecddf5f350",
       "title": "FERC has options for modernizing PJM\u2019s governance",
       "link": "https://www.utilitydive.com/news/ferc-options-modernizing-pjm-governance-peskoe/830905/",
-      "summary": "The commission\u2019s jurisdiction over transmission governance allows it to modify filing-rights allocations and adjust PJM Interconnection\u2019s nominating committee, writes Harvard Law\u2019s Ari Peskoe.",
+      "summary": "The commission\u2019s jurisdiction over transmission governance allows it to modify filing-rights allocations and adjust the PJM Interconnection\u2019s nominating committee, writes Harvard Law\u2019s Ari Peskoe.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-23T14:28:49+00:00"
+    },
+    {
+      "id": "f4b5463d2c70a240",
+      "title": "FERC rejects ComEd\u2019s cancellation of PowerHouse Hillwood data center contract",
+      "link": "https://www.utilitydive.com/news/ferc-exelon-comed-powerhouse-hillwood-data-center/831127/",
+      "summary": "A 1.8-GW, $20 billion data center planned by PowerHouse Hillwood was underpinned by a $1 letter of credit \u2014 \u201cless than the price of a cup of coffee\u201d \u2014 that drew skepticism from FERC Commissioner David LaCerte.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T13:45:55+00:00"
     },
     {
       "id": "6f3dac0b460c86bb",
@@ -143,6 +353,16 @@
       "published": "2026-09-23T12:00:37+00:00"
     },
     {
+      "id": "7e6f6afe385a8edc",
+      "title": "Efforts to curb data center speculation gain ground across the US",
+      "link": "https://www.utilitydive.com/news/efforts-to-curb-data-center-speculation-gain-ground-across-the-us/830495/",
+      "summary": "Large-load tariffs and other measures to weed out speculative projects are taking shape. Public backlash to data centers, shifting state-level policies and the utility profit model are complicating those efforts, stakeholders say.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T11:50:24+00:00"
+    },
+    {
       "id": "3d951d243dbb164f",
       "title": "Meta signs 144MW solar PPA with Apex in Texas",
       "link": "https://www.datacenterdynamics.com/en/news/meta-signs-144mw-solar-ppa-with-apex-in-texas/",
@@ -150,7 +370,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-09-23T11:42:51+00:00"
+      "published": "2026-09-23T11:42:00+00:00"
     },
     {
       "id": "80734814e0b93adc",
@@ -426,7 +646,7 @@
       "id": "9381feeeddf9c06f",
       "title": "North Carolina regulators deny Duke Energy gas turbine request over \u2018staggering\u2019 cost, uncertain need",
       "link": "https://www.utilitydive.com/news/north-carolina-regulators-deny-dukes-gas-turbine-request-over-staggering/831015/",
-      "summary": "The order called out Duke\u2019s commitment to the White House Ratepayer Protection Pledge, saying it had not established\u00a0the specific extent to which the proposed facility is intended to serve data centers.",
+      "summary": "The order called out Duke\u2019s commitment to the White House Ratepayer Protection Pledge, saying the utility had not established\u00a0the specific extent to which the proposed facility is intended to serve data centers.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6071,206 +6291,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-03T00:21:29+00:00"
-    },
-    {
-      "id": "de5eb80770ac4690",
-      "title": "Calif. Lawmakers Pass Data Center, Transmission Bills",
-      "link": "https://www.rtoinsider.com/142158-california-lawmakers-pass-data-center-transmission-bills/",
-      "summary": "California data center projects would face tough new tariffs and other requirements under a set of bills approved by the state legislature in the final days of the 2026 session.\nThe post Calif. Lawmakers Pass Data Center, Transmission Bills appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T23:53:24+00:00"
-    },
-    {
-      "id": "335e058b403693fd",
-      "title": "Calif. Wholesale Electricity Costs down, but Residential Bills Still Rising",
-      "link": "https://www.rtoinsider.com/141948-california-wholesale-electrcity-costs-down-residential-rising/",
-      "summary": "California residents continue to pay more for electricity, despite a dramatic decrease in the wholesale cost of electricity over recent years in the region.\nThe post Calif. Wholesale Electricity Costs down, but Residential Bills Still Rising appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T23:22:23+00:00"
-    },
-    {
-      "id": "8b69a41a9f8de9a3",
-      "title": "Indiana Regulators to Reconsider $71M AES Rate Hike",
-      "link": "https://www.rtoinsider.com/142174-indiana-regulators-to-reconsider-aes-rate-hike/",
-      "summary": "The Indiana Utility Regulatory Commission voted to reopen AES Indiana\u2019s $71 million rate hike over concerns about its impending acquisition by a BlackRock-led consortium and plans for a Google data center.\nThe post Indiana Regulators to Reconsider $71M AES Rate Hike appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T23:05:29+00:00"
-    },
-    {
-      "id": "f9db430ebe9c4f82",
-      "title": "Environmental Groups Challenge Halt to Florida Coal Plant Shutdown",
-      "link": "https://www.rtoinsider.com/142170-enviros-sue-doe-over-order-keeping-florida-coal-plant-running/",
-      "summary": "Energy Secretary Chris Wright has renewed his order to keep a Florida coal-fired generator operational, days after environmental advocates filed a federal court challenge to the original order.\nThe post Environmental Groups Challenge Halt to Florida Coal Plant Shutdown appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T22:53:27+00:00"
-    },
-    {
-      "id": "f8e185aed569c397",
-      "title": "G&W Electric Expands North American Footprint with 291,000-Square-Foot Illinois Facility to Boost Grid Manufacturing Capacity",
-      "link": "https://www.tdworld.com/utility-business/news/55402671/gw-electric-expands-north-american-footprint-with-291000-square-foot-illinois-facility-to-boost-grid-manufacturing-capacity",
-      "summary": "By adopting a \u201cfreeing room for growth\u201d approach at its existing Bolingbrook facilities, G&W will optimize the vacant space in the older buildings to scale up future grid solutions.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T21:20:52+00:00"
-    },
-    {
-      "id": "01b982a08e9c9897",
-      "title": "For BPA, the Biggest Electricity Market May Not be the Best Market",
-      "link": "https://www.rtoinsider.com/142160-for-bpa-biggest-electricity-market-may-not-be-the-best-market/",
-      "summary": "For years, BPA has studied one of the most consequential decisions facing the Northwest electric system: which organized day-ahead market should BPA join? The time to decide is now, write Scott Simms and Chris Robinson.\nThe post For BPA, the Biggest Electricity Market May Not be the Best Market appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T20:57:53+00:00"
-    },
-    {
-      "id": "8569fc62a47ece3d",
-      "title": "Clean energy super PAC looks to take down a Democratic governor",
-      "link": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-looks-to-take-down-a-democratic-governor",
-      "summary": "The troubled reelection campaign of Rhode Island Gov. Dan McKee is facing a new obstacle: a super PAC determined to take down foes of clean energy.  The Invest in Tomorrow Coalition has declared McKee its first Democratic target, following campaigns against three Republican primary candidates, all of whom lost their\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T20:02:00+00:00"
-    },
-    {
-      "id": "51692b0b1226f6b6",
-      "title": "Early Warning Systems: Protecting Critical Infrastructure Before the Perimeter Is Breached",
-      "link": "https://www.tdworld.com/resources/white-papers/whitepaper/55401826/early-warning-systems-protecting-critical-infrastructure-before-the-perimeter-is-breached",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T19:05:20+00:00"
-    },
-    {
-      "id": "fc13380262ddda7b",
-      "title": "Double-Insulated Reset Tool Supports Safe Equipment Maintenance",
-      "link": "https://www.tdworld.com/electric-utility-operations/news/55402603/double-insulated-reset-tool-supports-safe-equipment-maintenance",
-      "summary": "Engineered with advanced insulation technology, the tool ensures compliance with safety standards while reducing electrical exposure risks.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T18:56:47+00:00"
-    },
-    {
-      "id": "31b31460e78e2411",
-      "title": "Absent Wildfire Reform, PG&E to Cut Capex by $2B in \u201927",
-      "link": "https://www.tdworld.com/utility-business/news/55402587/absent-wildfire-reform-pge-to-cut-capex-by-2b-in-27",
-      "summary": "The utility\u2019s directors also have launched a broad review of the company\u2019s options that could result in structural and other spending changes.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T18:48:21+00:00"
-    },
-    {
-      "id": "bac914d3b7d73cca",
-      "title": "Hydration Backpacks Help Workers to Beat the Heat",
-      "link": "https://www.tdworld.com/electric-utility-operations/news/55402596/hydration-backpacks-help-workers-to-beat-the-heat",
-      "summary": "To safeguard from heat-related illnesses, workers can use backpacks that serve as personal portable hydration stations.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T18:44:31+00:00"
-    },
-    {
-      "id": "60c580fbc46182bb",
-      "title": "One Nuclear Signs Deal for 2.88-GW Gas-Fired Plant, Large BESS for Louisiana Data Center Campus",
-      "link": "https://www.powermag.com/one-nuclear-signs-deal-for-2-88-gw-gas-fired-plant-large-bess-for-louisiana-data-center-campus/",
-      "summary": "Florida-headquartered ONE Nuclear Energy said the company has executed a binding letter of intent (LOI) that would provide site control for development of Project Cayman, a 2.88-GW gas-fired power plant and 700-MW/2.88 GWh battery energy storage system (BESS) sited alongside a data center complex.\nThe post One Nuclear Signs Deal for 2.88-GW Gas-Fired Plant, Large BESS for Louisiana Data Center Cam",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T18:38:26+00:00"
-    },
-    {
-      "id": "e4ba8560c4182311",
-      "title": "Practices for Cable Pulling and Strategic and Urban Undergrounding",
-      "link": "https://www.tdworld.com/resources/white-papers/whitepaper/55397259/practices-for-cable-pulling-and-strategic-and-urban-undergrounding",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-02T18:20:21+00:00"
-    },
-    {
-      "id": "f7191c5dcc946097",
-      "title": "Iren secures contract from \"leading frontier lab,\" on track to exit crypto business by end of year",
-      "link": "https://www.datacenterdynamics.com/en/news/iren-secures-contract-from-leading-frontier-lab-on-track-to-exit-crypto-business-by-end-of-year/",
-      "summary": "Neocloud releases results for fiscal year 2026",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-02T17:30:28+00:00"
-    },
-    {
-      "id": "ae84813a70140d5f",
-      "title": "Haffner Energy launches biomass power-cooling system for data centers",
-      "link": "https://www.datacenterdynamics.com/en/news/haffner-energy-launches-biomass-power-cooling-system-for-data-centers/",
-      "summary": "System powered by residual biomass",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-02T17:20:31+00:00"
-    },
-    {
-      "id": "1cb56077ff729b5d",
-      "title": "Amazon plots new subsea cable linking US and Japan",
-      "link": "https://www.datacenterdynamics.com/en/news/amazon-plots-new-subsea-cable-linking-us-and-japan/",
-      "summary": "First cable to land in Washington since the new millennium",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-02T17:10:29+00:00"
-    },
-    {
-      "id": "82edc011c421ffa8",
-      "title": "Matt Clifford, man behind UK's AI Growth Zones plan, joins Anthropic",
-      "link": "https://www.datacenterdynamics.com/en/news/matt-clifford-man-behind-uks-ai-growth-zones-plan-joins-anthropic/",
-      "summary": "Plans to stay on at ARIA is \"a clear conflict of interest,\" MP says",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-02T17:07:13+00:00"
-    },
-    {
-      "id": "5b0acd2cbc541aaa",
-      "title": "Telehouse adds new building to Frankfurt data center campus",
-      "link": "https://www.datacenterdynamics.com/en/news/telehouse-adds-new-building-to-frankfurt-data-center-campus/",
-      "summary": "Building N adds 5.4MW to campus",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-02T17:00:26+00:00"
-    },
-    {
-      "id": "5dc85d86ebe8ed46",
-      "title": "Infineon, Skeleton Technologies partner on AI data center power systems",
-      "link": "https://www.datacenterdynamics.com/en/news/infineon-skeleton-technologies-partner-on-ai-data-center-power-systems/",
-      "summary": "Expected to combine Infineon\u2019s CoolSiC power semiconductors with Skeleton\u2019s expertise in power conversion systems",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-02T16:38:10+00:00"
-    },
-    {
-      "id": "7e3c13be5099bb77",
-      "title": "Former OpenAI Stargate exec Shamez Hemani joins Anthropic after brief Meta Compute stint",
-      "link": "https://www.datacenterdynamics.com/en/news/former-openai-stargate-exec-shamez-hemani-joins-anthropic-after-brief-meta-compute-stint/",
-      "summary": "Was one of a group of departures to Meta's compute team",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-02T16:15:42+00:00"
     }
   ]
 }
