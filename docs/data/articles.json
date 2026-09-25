@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T16:31:56.842575+00:00",
-  "count": 611,
+  "generated_at": "2026-09-25T00:15:19.271704+00:00",
+  "count": 608,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-24T16:31:54.524086+00:00"
+      "published": "2026-09-25T00:15:16.301257+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-24T16:31:54.524072+00:00"
+      "published": "2026-09-25T00:15:16.301242+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-24T16:31:54.524054+00:00"
+      "published": "2026-09-25T00:15:16.301224+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-24T16:31:54.524028+00:00"
+      "published": "2026-09-25T00:15:16.301192+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-24T16:31:53.144091+00:00"
+      "published": "2026-09-25T00:15:14.532860+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,137 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-24T16:31:52.489569+00:00"
+      "published": "2026-09-25T00:15:13.116929+00:00"
+    },
+    {
+      "id": "be6f6bbeea1f16d1",
+      "title": "MISO Asks FERC for Queue Restudy Cutback, 1-shot Exit Ramp for 2022 Projects",
+      "link": "https://www.rtoinsider.com/146694-miso-asks-ferc-queue-restudy-cutback-one-shot-exit-ramp/",
+      "summary": "MISO has filed a plan with FERC to reduce restudies in its interconnection queue and hand out a one-time pardon for generation proposals that entered its queue in 2022, allowing them to exit without consequence in late 2026.\nThe post MISO Asks FERC for Queue Restudy Cutback, 1-shot Exit Ramp for 2022 Projects appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-25T00:02:39+00:00"
+    },
+    {
+      "id": "3974e3a5f80dbd19",
+      "title": "DOE Awards $1.9B for 31 Grid Modernization Projects",
+      "link": "https://www.rtoinsider.com/146729-doe-announces-speed-power-transmission-grants/",
+      "summary": "Recipients are expected to reconductor or replace more than 1,500 miles of transmission lines and add grid-enhancing technologies to nearly 21,000 miles.\nThe post DOE Awards $1.9B for 31 Grid Modernization Projects appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T23:54:16+00:00"
+    },
+    {
+      "id": "85430ce3315beaee",
+      "title": "CISA, FBI Warn of Attacks on ICS Integrators",
+      "link": "https://www.rtoinsider.com/146714-cisa-issues-ics-integrator-guidance/",
+      "summary": "Federal agencies said malicious cyber actors may be targeting third-party industrial control system integration services.\nThe post CISA, FBI Warn of Attacks on ICS Integrators appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T23:44:23+00:00"
+    },
+    {
+      "id": "b49b465189202006",
+      "title": "Experts Debate Restructuring vs. Vertical Integration at AEI",
+      "link": "https://www.rtoinsider.com/146725-experts-debate-restructuring-versus-vertical-integration-at-aei/",
+      "summary": "The return of major load growth has brought back basic debates about how to economically regulate the power industry, and the American Enterprise Institute gathered a group of experts to discuss the topic.\nThe post Experts Debate Restructuring vs. Vertical Integration at AEI appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T23:40:38+00:00"
+    },
+    {
+      "id": "c6c2a498fdd1ef5e",
+      "title": "Ariz. Utilities\u2019 Day-ahead Market Choices Face Fresh Scrutiny",
+      "link": "https://www.rtoinsider.com/146709-ariz-utilities-day-ahead-market-choices-face-fresh-scrutiny/",
+      "summary": "An Arizona regulator has asked utilities in the state for updated analysis on their choice of day-ahead market \u2014 including the impact of Bonneville Power Administration potentially switching from SPP\u2019s Markets+ to CAISO\u2019s Extended Day-Ahead Market.\nThe post Ariz. Utilities\u2019 Day-ahead Market Choices Face Fresh Scrutiny appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T23:35:26+00:00"
+    },
+    {
+      "id": "ee64350802f7aece",
+      "title": "Trump Administration Prioritizing Large-Scale Energy Storage",
+      "link": "https://www.rtoinsider.com/146721-trump-administration-prioritizing-large-scale-energy-storage/",
+      "summary": "The Trump administration has spent the past year course correcting its policies on energy storage, making it a top priority in its efforts to lower energy costs as the buildout of data centers and the artificial intelligence industry strains the nation\u2019s aging power grid, according to a senior Department of Energy official.\nThe post Trump Administration Prioritizing Large-Scale Energy Storage appe",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T22:41:07+00:00"
+    },
+    {
+      "id": "dc2e5475137cf0ae",
+      "title": "Fixing PJM\u2019s Real Problem: Interconnection Delays",
+      "link": "https://www.rtoinsider.com/146711-fixing-pjms-real-problem/",
+      "summary": "PJM's interconnection queue for reviewing and approving requests wasn\u2019t flexible enough to handle the increased volume in recent years and has seized up, writes Tom Rutigliano of the NRDC.\nThe post Fixing PJM\u2019s Real Problem: Interconnection Delays appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T21:40:22+00:00"
+    },
+    {
+      "id": "d5a5438d4070af15",
+      "title": "NYISO Breaks Down Summer System Conditions",
+      "link": "https://www.rtoinsider.com/142327-nyiso-breaks-down-2026-summer-season-performance/",
+      "summary": "New York had 10 days with a system peak load of over 27,000 MW this summer, NYISO reported to stakeholders at the end of August.\nThe post NYISO Breaks Down Summer System Conditions appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T21:31:18+00:00"
+    },
+    {
+      "id": "28739afd423b6fcf",
+      "title": "Advanced grid tech gets a $1.9B DOE boost",
+      "link": "https://www.canarymedia.com/articles/transmission/advanced-grid-tech-doe-boost",
+      "summary": "For years now, grid experts have been trying to get utilities to deploy advanced transmission technologies that can squeeze more capacity out of overstressed U.S. power grids. On Thursday, the Trump administration put a $1.9 billion down payment on 31 projects that will help greatly scale up these underutilized\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T21:30:00+00:00"
+    },
+    {
+      "id": "8a7bda693cc83b2d",
+      "title": "Second Judge Blocks N.Y. Climate Change Superfund Act",
+      "link": "https://www.rtoinsider.com/146727-ny-climate-change-superfund-act-struck-down-again/",
+      "summary": "New York\u2019s attempt to charge fossil fuel companies $75 billion in compensation for climate damage has been shot down by a second federal judge.\nThe post Second Judge Blocks N.Y. Climate Change Superfund Act appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T21:12:37+00:00"
+    },
+    {
+      "id": "23e46d859edd4546",
+      "title": "Energy Storage Marks Another Strong Quarter",
+      "link": "https://www.rtoinsider.com/146261-second-quarter-us-energy-storage-report/",
+      "summary": "A new report shows battery storage installation soaring in the United States and the average duration of installed batteries growing longer.\nThe post Energy Storage Marks Another Strong Quarter appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T19:15:09+00:00"
+    },
+    {
+      "id": "60620e7681e1a9c2",
+      "title": "Can we power it?  Yes we GaN",
+      "link": "https://www.datacenterdynamics.com/en/analysis/can-we-power-it-yes-we-gan/",
+      "summary": "Is the data center industry finally catching up to the promise of gallium nitride?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-24T17:44:09+00:00"
+    },
+    {
+      "id": "83ddd8cdfa8c1b4d",
+      "title": "Meet the solar industry\u2019s new Republican evangelist",
+      "link": "https://www.canarymedia.com/articles/solar/solar-industry-new-republican-evangelist",
+      "summary": "Tim Pawlenty was a two-term Republican governor of Minnesota and made a run in the 2012 presidential primary, which ultimately went to Mitt Romney. Now, Pawlenty has reemerged on the national political scene as the leading evangelist for solar energy, while the industry seeks to recover from a stinging political\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T16:30:00+00:00"
     },
     {
       "id": "4688e3c98064550e",
@@ -161,6 +291,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-24T13:39:00+00:00"
+    },
+    {
+      "id": "033e3971324c12be",
+      "title": "Affordability concerns drive momentum for performance-based ratemaking",
+      "link": "https://www.utilitydive.com/news/affordability-concerns-drive-momentum-for-performance-based-ratemaking/831120/",
+      "summary": "Michigan is among the states weighing reforms to rate case planning and utility profits. Experts and stakeholders told Utility Dive what works\u00a0\u2014 and what doesn\u2019t.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-24T13:11:07+00:00"
     },
     {
       "id": "9fad2dce050d0f74",
@@ -565,6 +705,16 @@
     {
       "id": "a884f6d626b06554",
       "title": "Microgrids must push beyond pilots, into everyday grid operations: panel",
+      "link": "https://www.utilitydive.com/news/microgrid-pnm-epri-data-center/831153/",
+      "summary": "EPRI\u2019s Jackie Baum says microgrids have to do more than sit idle for emergencies. \u201cThe majority of the time, the power is on,\u201d she said, urging utilities to use those resources.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-23T15:33:19+00:00"
+    },
+    {
+      "id": "576d7642164edaf0",
+      "title": "Microgrids must push beyond pilots into everyday grid operations: panel",
       "link": "https://www.utilitydive.com/news/microgrid-pnm-epri-data-center/831153/",
       "summary": "EPRI\u2019s Jackie Baum says microgrids have to do more than sit idle for emergencies. \u201cThe majority of the time, the power is on,\u201d she said, urging utilities to use those resources.",
       "source": "Utility Dive",
@@ -5931,186 +6081,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-04T00:42:19+00:00"
-    },
-    {
-      "id": "ae84c09f6cd230eb",
-      "title": "ISO-NE Offshore Wind Breaks Production Record in Late August",
-      "link": "https://www.rtoinsider.com/142325-iso-ne-offshore-wind-breaks-production-record-in-late-august/",
-      "summary": "ISO-NE experienced its highest-ever instant offshore wind output on the evening of Aug. 30, when the region\u2019s three offshore wind plants combined to send 930 MW to the grid.\nThe post ISO-NE Offshore Wind Breaks Production Record in Late August appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T23:46:02+00:00"
-    },
-    {
-      "id": "b4a8e141fc4a2e57",
-      "title": "North Dakota Lawmakers Reject Ban on Data Center NDAs",
-      "link": "https://www.rtoinsider.com/142346-north-dakota-lawmakers-reject-ban-on-data-center-ndas/",
-      "summary": "North Dakota lawmakers rejected a statewide ban on nondisclosure agreements between public officials and data center developers after opposition from the governor and business groups.\nThe post North Dakota Lawmakers Reject Ban on Data Center NDAs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T22:50:17+00:00"
-    },
-    {
-      "id": "ab79232947f00f4d",
-      "title": "G7 Cyber Agencies Issue Quantum Security Warning",
-      "link": "https://www.rtoinsider.com/142333-governments-issue-quantum-cyber-warning/",
-      "summary": "CISA joined the G7 Cybersecurity Working Group to warn about the rapid approach of powerful computers that can easily break current cryptographic measures.\nThe post G7 Cyber Agencies Issue Quantum Security Warning appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T22:42:28+00:00"
-    },
-    {
-      "id": "71149d57be2fa7dc",
-      "title": "MISO Enters Emergency in Early Sept. Heat, Breaks Demand Record",
-      "link": "https://www.rtoinsider.com/142336-miso-enters-emergency-in-early-sept-heat/",
-      "summary": "An intense, early September heat dome pushed MISO into short-lived emergency procedures for its entire footprint and had the grid operator serving its highest-ever September peak.\nThe post MISO Enters Emergency in Early Sept. Heat, Breaks Demand Record appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T22:23:26+00:00"
-    },
-    {
-      "id": "49400a41f2d77dcb",
-      "title": "Data Centers Can Strengthen the Grid and Lower Bills",
-      "link": "https://www.rtoinsider.com/142045-data-centers-can-strengthen-grid-lower-bills/",
-      "summary": "The data center backlash may have escalated, but studies continue to vindicate data centers from the major complaint of increasing electric bills; other factors are the culprits. There is a disconnect between panic and reality, writes Kristen Walker.\nThe post Data Centers Can Strengthen the Grid and Lower Bills appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T22:03:15+00:00"
-    },
-    {
-      "id": "8fce056f99b468d0",
-      "title": "Modern Regulation for a New Nuclear Era",
-      "link": "https://www.powermag.com/modern-regulation-for-a-new-nuclear-era/",
-      "summary": "Nuclear energy is entering a new era. Across the United States and around the world, countries are looking to nuclear power to provide reliable electricity, strengthen energy security, and support economic growth. Advanced reactors and other innovative technologies are creating opportunities that would have been difficult to imagine when many of our current regulations were [\u2026]\nThe post Modern Reg",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T20:31:57+00:00"
-    },
-    {
-      "id": "62645876b202ec3e",
-      "title": "The POWER Interview: How the Data Center Power Crunch Is Reshaping the Talent Market",
-      "link": "https://www.powermag.com/the-power-interview-how-the-data-center-power-crunch-is-reshaping-the-talent-market/",
-      "summary": "As data center developers confront tighter power supplies, longer interconnection timelines, and growing scrutiny over who should pay for the grid infrastructure required to serve large loads, those pressures are beginning to reshape another part of the development equation: talent. As states and utilities reconsider how the costs of serving large data center loads should [\u2026]\nThe post The POWER In",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T20:25:36+00:00"
-    },
-    {
-      "id": "a9a4d6408cc2c8b8",
-      "title": "Kareem Dabbagh",
-      "link": "https://www.tdworld.com/home/contact/55402977/kareem-dabbagh",
-      "summary": "",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T18:59:08+00:00"
-    },
-    {
-      "id": "c466b4da171fd218",
-      "title": "Great Basin Transmission Begins Construction on Southwest Intertie Project-North",
-      "link": "https://www.tdworld.com/overhead-transmission/news/55402962/great-basin-transmission-begins-construction-on-southwest-intertie-project-north",
-      "summary": "The project represents an investment of more than $1 billion in transmission infrastructure and is intended to increase transmission capacity, reduce congestion and expand access to power resources across the Western grid.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T18:32:31+00:00"
-    },
-    {
-      "id": "01e4b57d45ff28b4",
-      "title": "Eaton Invests $242M+ for New Arkansas Facility to Scale Domestic Production of Critical Power Equipment",
-      "link": "https://www.tdworld.com/utility-business/news/55402954/eaton-invests-242m-for-new-arkansas-facility-to-scale-domestic-production-of-critical-power-equipment",
-      "summary": "Eaton's planned Arkansas facility builds on Fibrebond\u2019s more than 40-year history in Minden, Louisiana, where production capacity has reportedly doubled over the past three years.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T18:32:17+00:00"
-    },
-    {
-      "id": "b45db559a2241982",
-      "title": "PG&E, Google, Rewiring America Launch VPP in California",
-      "link": "https://www.powermag.com/pge-google-rewiring-america-launch-vpp-in-california/",
-      "summary": "California utility Pacific Gas and Electric (PG&E) on September 3 announced SHARE (Smart Home Assets for Reliability and Efficiency), a first-of-its-kind virtual power plant designed to help communities benefit from rising electric demand, while improving affordability and reliability for all customers. PG&E, together with Rewiring America, Google, Carrier Global Corporation, Tesla, Sunrun, Renew ",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T18:26:50+00:00"
-    },
-    {
-      "id": "85354ac44d602a10",
-      "title": "Construction Starts on Last Segment of Major Western U.S. Transmission Project",
-      "link": "https://www.powermag.com/construction-starts-on-last-segment-of-major-western-u-s-transmission-project/",
-      "summary": "Construction of the final segment of the Southwest Intertie Project, a 576-mile transmission corridor connecting an area from Idaho to just south of Las Vegas, Nevada, is underway. Officials celebrated the latest milestone for the installation during a groundbreaking ceremony in Ely, Nevada, on September 3.\nThe post Construction Starts on Last Segment of Major Western U.S. Transmission Project app",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-03T18:04:16+00:00"
-    },
-    {
-      "id": "bcd3344a6081e33b",
-      "title": "GoPro to enter AI data center market via merger with optical photonics company",
-      "link": "https://www.datacenterdynamics.com/en/news/gopro-to-enter-ai-data-center-market-via-merger-with-optical-photonics-company/",
-      "summary": "Company has entered into a merger agreement with Action Acquisitions and Starman Optical",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-03T17:50:24+00:00"
-    },
-    {
-      "id": "32beba2b453dd1e7",
-      "title": "California lawmakers pass data center ratepayer protection bills, send to governor for approval",
-      "link": "https://www.datacenterdynamics.com/en/news/california-lawmakers-pass-data-center-ratepayer-protection-bills-send-to-governor-for-approval/",
-      "summary": "If passed, the legislation would create separate electricity tariffs for large data centers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-03T17:40:29+00:00"
-    },
-    {
-      "id": "63e2d23ad072bd35",
-      "title": "Hyperscale Data ends cryptomining operations at Michigan data center",
-      "link": "https://www.datacenterdynamics.com/en/news/hyperscale-data-ends-cryptomining-operations-at-michigan-data-center/",
-      "summary": "In preparation for incoming neocloud customer",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-03T17:20:22+00:00"
-    },
-    {
-      "id": "e48d0aac09af1b16",
-      "title": "India mulls removal of legacy Chinese telecoms kit - report",
-      "link": "https://www.datacenterdynamics.com/en/news/india-mulls-removal-of-legacy-chinese-telecoms-kit-report/",
-      "summary": "Could India become the latest market to rip and replace Chinese telecoms equipment?",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-03T17:00:29+00:00"
-    },
-    {
-      "id": "afae8e6bbc6fc306",
-      "title": "ChatGPT, Claude, and Grok hit by simultaneous outages",
-      "link": "https://www.datacenterdynamics.com/en/news/chatgpt-claude-and-grok-hit-by-simultaneous-outages/",
-      "summary": "People forced to think for themselves",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-03T16:50:56+00:00"
-    },
-    {
-      "id": "aea73b23a765d87a",
-      "title": "VodafoneThree unveils SuperMobile 5G+ national network slice service",
-      "link": "https://www.datacenterdynamics.com/en/news/vodafonethree-unveils-supermobile-5g-national-network-slice-service/",
-      "summary": "As carrier teases a dedicated national critical slice for next year, plus VodafoneTV service",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-03T16:33:00+00:00"
     }
   ]
 }
