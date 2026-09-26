@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:35:11.852486+00:00",
+  "generated_at": "2026-09-26T00:21:13.215927+00:00",
   "count": 599,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-25T16:35:07.581742+00:00"
+      "published": "2026-09-26T00:21:09.750414+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-25T16:35:07.581735+00:00"
+      "published": "2026-09-26T00:21:09.750399+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-25T16:35:07.581725+00:00"
+      "published": "2026-09-26T00:21:09.750382+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-25T16:35:07.581710+00:00"
+      "published": "2026-09-26T00:21:09.750353+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-25T16:35:05.687422+00:00"
+      "published": "2026-09-26T00:21:07.907534+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,37 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-25T16:35:04.221112+00:00"
+      "published": "2026-09-26T00:21:06.809109+00:00"
+    },
+    {
+      "id": "d4a27364cecabda6",
+      "title": "Pathways Reveals Proposed ROWE Board Members",
+      "link": "https://www.rtoinsider.com/146741-pathways-announces-rowe-inaugural-board/",
+      "summary": "The group standing up the Regional Organization for Western Energy announced the names of five industry veterans poised to become the organization\u2019s first board directors amid pressure to show it can provide independent governance over CAISO\u2019s energy markets.\nThe post Pathways Reveals Proposed ROWE Board Members appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-25T20:13:35+00:00"
+    },
+    {
+      "id": "a0c53f38caadce4e",
+      "title": "The challenges and opportunities of clean energy in rural America",
+      "link": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   The U.S. energy transition runs through rural America: As of last year, 87% of U.S. clean energy generation happened in areas far outside the country\u2019s urban centers, per a Rural Climate Partnership\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-25T20:00:00+00:00"
+    },
+    {
+      "id": "c5c25f2c354d3b86",
+      "title": "Democrats Fume Over Data Center Development on Public Lands",
+      "link": "https://www.rtoinsider.com/146841-democrats-fume-over-data-center-development-on-public-lands/",
+      "summary": "Congressional Democrats are ramping up opposition to the Trump administration efforts to potentially use thousands of acres of federal lands in the West to house data centers in the wake of the Bureau of Land Management\u2019s recent approval of a controversial project in Nevada.\nThe post Democrats Fume Over Data Center Development on Public Lands appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-25T19:31:53+00:00"
     },
     {
       "id": "ec40cb0ae6db733e",
@@ -135,6 +165,16 @@
     {
       "id": "f886352e91406765",
       "title": "Second federal judge overturns $7B Solar for All cancellation",
+      "link": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/",
+      "summary": "The decision in a suit brought by Harris County, Texas, follows a similar ruling last week. A Harris County judge called it \u201ca really important victory for energy resilience.\u201d",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-25T14:13:58+00:00"
+    },
+    {
+      "id": "712378e67206d482",
+      "title": "Second federal judge overturns $7B Solar for All cancellation by Trump administration",
       "link": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/",
       "summary": "The decision in a suit brought by Harris County, Texas, follows a similar ruling last week. A Harris County judge called it \u201ca really important victory for energy resilience.\u201d",
       "source": "Utility Dive",
@@ -1946,7 +1986,7 @@
       "id": "99564fb60429f717",
       "title": "How to stick up for renewable energy projects near you",
       "link": "https://www.canarymedia.com/articles/guides-and-how-tos/stick-up-for-renewable-energy-projects",
-      "summary": "Canary Media\u2019s  Electrified Life  column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and communities to clean electric power.   Last year, Coles County, Illinois was debating whether to kill a proposed wind farm. Dorothy Macy wanted to speak up in support of\u2026",
+      "summary": "Canary Media\u2019s  Electrified Life  column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and communities to clean electric power.   Last year, Coles County, Illinois, was debating whether to kill a proposed wind farm. Dorothy Macy wanted to speak up in support of\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
       "region": "National",
@@ -5951,46 +5991,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "id": "670647ce3dcffec6",
-      "title": "Tantalus, Calix Collab Aims to Advance AI-Powered Smart Grid Tech for Fiber Networks",
-      "link": "https://www.tdworld.com/smart-utility/news/55403258/tantalus-calix-collab-aims-to-advance-ai-powered-smart-grid-tech-for-fiber-networks",
-      "summary": "Tantalus notes that more than 200 electric cooperatives across North America are currently\u00a0in the process of deploying fiber networks.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-04T19:33:11+00:00"
-    },
-    {
-      "id": "d75976d240633dd1",
-      "title": "The Cooperative Difference: How Vegetation Management at Rural Electric Cooperatives Requires Its Own Playbook",
-      "link": "https://www.tdworld.com/vegetation-management/article/55403231/the-cooperative-difference-how-vegetation-management-at-rural-electric-cooperatives-requires-its-own-playbook",
-      "summary": "Vegetation management at electric cooperatives requires integrated knowledge, flexible planning and member engagement to ensure reliability and community trust.",
-      "source": "T&D World",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-04T18:41:59+00:00"
-    },
-    {
-      "id": "2193155fbc3baf92",
-      "title": "T5 spins out construction arm, sells operations biz to Salute",
-      "link": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/",
-      "summary": "T5 Construction now EverOn Data Center Services",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-04T16:40:25+00:00"
-    },
-    {
-      "id": "1a44c321eb58380d",
-      "title": "Telstra confirms July outage was caused by network timing system failure",
-      "link": "https://www.datacenterdynamics.com/en/news/telstra-confirms-july-outage-was-caused-by-network-timing-system-failure/",
-      "summary": "As independent report finds that the Australian carrier failed to react to previous warnings after 2020 network upgrade",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-04T16:35:13+00:00"
     }
   ]
 }
