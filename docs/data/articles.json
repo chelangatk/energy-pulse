@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T00:11:54.001382+00:00",
-  "count": 599,
+  "generated_at": "2026-09-27T16:26:00.306642+00:00",
+  "count": 601,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-27T00:11:51.397771+00:00"
+      "published": "2026-09-27T16:25:56.046813+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-27T00:11:51.397760+00:00"
+      "published": "2026-09-27T16:25:56.046801+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-27T00:11:51.397746+00:00"
+      "published": "2026-09-27T16:25:56.046785+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-27T00:11:51.397719+00:00"
+      "published": "2026-09-27T16:25:56.046751+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-27T00:11:49.689177+00:00"
+      "published": "2026-09-27T16:25:54.262389+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,47 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-27T00:11:48.666921+00:00"
+      "published": "2026-09-27T16:25:53.327999+00:00"
+    },
+    {
+      "id": "3faae6098271fef0",
+      "title": "ISO Governance Speed is Not a Legal Abstraction; it\u2019s an Engineering Constraint",
+      "link": "https://www.rtoinsider.com/146859-iso-governance-speed-not-legal-abstraction-engineering-constraint/",
+      "summary": "There's a cost to \"shared governance\" ISO gridlock that doesn't show up in a tariff filing: the physical grid does not wait for administrative consensus to finish forming, warns engineering analyst Mica C. Tufillaro.\nThe post ISO Governance Speed is Not a Legal Abstraction; it\u2019s an Engineering Constraint appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-27T16:07:01+00:00"
+    },
+    {
+      "id": "dcb1e86b28fd4001",
+      "title": "Grid Operators Need Authority Budgets Before AI Agents Get More Power",
+      "link": "https://www.rtoinsider.com/146165-grid-operators-need-authority-budgets-before-ai-agents-get-more-power/",
+      "summary": "Grid organizations should use AI aggressively where it improves forecasting, compliance, maintenance, planning and analysis. But as AI shifts from advising people to agents that can act across systems, the industry needs a harder limit on delegated power.\nThe post Grid Operators Need Authority Budgets Before AI Agents Get More Power appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-27T16:03:47+00:00"
+    },
+    {
+      "id": "0bd099b3b4080558",
+      "title": "Sponsored: Speed to power: The infrastructure solutions shaping the global data center race",
+      "link": "https://www.datacenterdynamics.com/en/opinions/speed-to-power-the-infrastructure-solutions-shaping-the-global-data-center-race/",
+      "summary": "Virtual power plants, grid enhancing technologies and around-the-meter models can all support speed to power",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-27T15:00:00+00:00"
+    },
+    {
+      "id": "25bf7ef902eddf3d",
+      "title": "Beyond redundancy: Why dynamic stability matters in AI data centers",
+      "link": "https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/",
+      "summary": "The future of data center resilience",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-27T10:00:31+00:00"
     },
     {
       "id": "6a3cb3ed7e98d945",
@@ -216,7 +256,7 @@
       "id": "9aa0fdd46f031965",
       "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM\u2019s interconnection study cycle",
       "link": "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/",
-      "summary": "The decision affects a 750-MW, mixed technology project in Virginia, which Oklo said would be delayed by at least 14 months if it misses the current interconnection cycle.",
+      "summary": "The decision affects a 750-MW, mixed technology project in Virginia, which Oklo said would be delayed by at least 18 months if it misses the current interconnection cycle.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -5971,26 +6011,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-07T10:15:41+00:00"
-    },
-    {
-      "id": "a6b64f3eec49281a",
-      "title": "Why data center cooling is now business-critical",
-      "link": "https://www.datacenterdynamics.com/en/opinions/why-data-center-cooling-is-now-business-critical/",
-      "summary": "Rapid growth of data centers forces operators to rethink thermal fluid management",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-06T14:00:35+00:00"
-    },
-    {
-      "id": "ea2b8f8b9448cac1",
-      "title": "The electrical power problem that will decide the AI race",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-electrical-power-problem-that-will-decide-the-ai-race/",
-      "summary": "America\u2019s data centers are about to draw power on the scale of entire nations",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-06T10:00:35+00:00"
     }
   ]
 }
