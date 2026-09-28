@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T16:26:00.306642+00:00",
-  "count": 601,
+  "generated_at": "2026-09-28T00:17:38.689345+00:00",
+  "count": 604,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-27T16:25:56.046813+00:00"
+      "published": "2026-09-28T00:17:35.733382+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-27T16:25:56.046801+00:00"
+      "published": "2026-09-28T00:17:35.733368+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-27T16:25:56.046785+00:00"
+      "published": "2026-09-28T00:17:35.733350+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-27T16:25:56.046751+00:00"
+      "published": "2026-09-28T00:17:35.733323+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-27T16:25:54.262389+00:00"
+      "published": "2026-09-28T00:17:33.681527+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,37 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-27T16:25:53.327999+00:00"
+      "published": "2026-09-28T00:17:22.964171+00:00"
+    },
+    {
+      "id": "f3d9f261fcafed7d",
+      "title": "Storage Developers Face Evolving Challenges, Opportunities in ISO-NE",
+      "link": "https://www.rtoinsider.com/146697-iso-ne-storage-devs-face-evolving-challenges-opportunities/",
+      "summary": "While advancements in battery technology, increasing arbitrage opportunities and state programs are boosting the case for energy storage in ISO-NE, regulatory challenges continue to pose substantial barriers to development.\nThe post Storage Developers Face Evolving Challenges, Opportunities in ISO-NE appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-27T18:48:25+00:00"
+    },
+    {
+      "id": "802d25d6ad50697f",
+      "title": "FERC Reaffirms ROE Reduction, Refund Requirements for ISO-NE TOs",
+      "link": "https://www.rtoinsider.com/146828-ferc-reaffirms-roe-reduction-refund-iso-ne-tos/",
+      "summary": "Responding to a rehearing request by the ISO-NE transmission owners, FERC reaffirmed its reduction of the TOs\u2019 base return on equity and its requirement for the companies to refund customers for the overcollection of funds dating back to 2011.\nThe post FERC Reaffirms ROE Reduction, Refund Requirements for ISO-NE TOs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-27T17:38:44+00:00"
+    },
+    {
+      "id": "e0ab3f12122e8531",
+      "title": "Earthjustice Report Suggests Cost Allocation Methods for Large Loads",
+      "link": "https://www.rtoinsider.com/146831-earthjustice-report-suggests-cost-allocation-methods-for-large-loads/",
+      "summary": "Earthjustice has released a report by Energy Futures Group on how to allocate the costs caused by the addition of large loads like data centers.\nThe post Earthjustice Report Suggests Cost Allocation Methods for Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-27T17:19:35+00:00"
     },
     {
       "id": "3faae6098271fef0",
@@ -126,7 +156,7 @@
       "id": "d4a27364cecabda6",
       "title": "Pathways Reveals Proposed ROWE Board Members",
       "link": "https://www.rtoinsider.com/146741-pathways-announces-rowe-inaugural-board/",
-      "summary": "The group standing up the Regional Organization for Western Energy announced the names of five industry veterans poised to become the organization\u2019s first board directors amid pressure to show it can provide independent governance over CAISO\u2019s energy markets.\nThe post Pathways Reveals Proposed ROWE Board Members appeared first on RTO Insider.",
+      "summary": "The group standing up ROWE announced the names of five industry veterans poised to become the organization\u2019s first board directors amid pressure to show it can provide independent governance over CAISO\u2019s energy markets.\nThe post Pathways Reveals Proposed ROWE Board Members appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
       "region": "National",
@@ -146,7 +176,7 @@
       "id": "c5c25f2c354d3b86",
       "title": "Democrats Fume Over Data Center Development on Public Lands",
       "link": "https://www.rtoinsider.com/146841-democrats-fume-over-data-center-development-on-public-lands/",
-      "summary": "Congressional Democrats are ramping up opposition to the Trump administration efforts to potentially use thousands of acres of federal lands in the West to house data centers in the wake of the Bureau of Land Management\u2019s recent approval of a controversial project in Nevada.\nThe post Democrats Fume Over Data Center Development on Public Lands appeared first on RTO Insider.",
+      "summary": "Congressional Democrats are ramping up opposition to the Trump administration efforts to potentially use thousands of acres of federal lands in the West to house data centers in the wake of the BLM\u2019s recent approval of a controversial project in Nevada.\nThe post Democrats Fume Over Data Center Development on Public Lands appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
       "region": "National",
@@ -256,7 +286,7 @@
       "id": "9aa0fdd46f031965",
       "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM\u2019s interconnection study cycle",
       "link": "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/",
-      "summary": "The decision affects a 750-MW, mixed technology project in Virginia, which Oklo said would be delayed by at least 18 months if it misses the current interconnection cycle.",
+      "summary": "The decision affects a 750-MW, mixed technology project in Virginia, which Oklo said would be delayed by at least 14 months if it misses the current interconnection cycle.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
