@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T19:15:56.649550+00:00",
-  "count": 603,
+  "generated_at": "2026-09-29T01:27:12.890789+00:00",
+  "count": 608,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-28T19:15:53.603119+00:00"
+      "published": "2026-09-29T01:27:10.439225+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-28T19:15:53.603106+00:00"
+      "published": "2026-09-29T01:27:10.439211+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-28T19:15:53.603089+00:00"
+      "published": "2026-09-29T01:27:10.439192+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-28T19:15:53.603056+00:00"
+      "published": "2026-09-29T01:27:10.439160+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-28T19:15:51.468662+00:00"
+      "published": "2026-09-29T01:27:08.595077+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-28T19:15:50.424600+00:00"
+      "published": "2026-09-29T01:27:07.528289+00:00"
+    },
+    {
+      "id": "8ed1bc41450432b1",
+      "title": "Texas Nuclear Summit Speakers See Bright Future for Industry",
+      "link": "https://www.rtoinsider.com/146863-texas-nuclear-summit-bright-future-for-industry/",
+      "summary": "Speakers at the third annual Texas Nuclear Summit reflected on the event's growth and discussed the potential for new nuclear power aided by federal government support.\nThe post Texas Nuclear Summit Speakers See Bright Future for Industry appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T00:46:01+00:00"
+    },
+    {
+      "id": "3427b6f98ff8f36a",
+      "title": "PGE Says Oregon PUC Order on Holding Company Proposal is Too Strict",
+      "link": "https://www.rtoinsider.com/146926-pge-says-oregon-puc-conditions-holding-company-plan-too-strict/",
+      "summary": "Portland General Electric rejected the Oregon Public Utility Commission\u2019s conditional order approving the utility\u2019s proposed holding company structure, saying tighter controls on dividends would restrict \u201cordinary business activities\u201d and limit necessary investments.\nThe post PGE Says Oregon PUC Order on Holding Company Proposal is Too Strict appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T00:24:18+00:00"
+    },
+    {
+      "id": "b3189e52140011b9",
+      "title": "IESO Proposes New Capacity Accreditation Method for Future Procurements",
+      "link": "https://www.rtoinsider.com/146833-ieso-proposes-new-capacity-accreditation-method-future-procurements/",
+      "summary": "IESO is recommending marginal reliability impact as its method for accrediting capacity in future procurements, moving away from its current reliance on unforced capacity.\nThe post IESO Proposes New Capacity Accreditation Method for Future Procurements appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T00:21:10+00:00"
+    },
+    {
+      "id": "1f520f0b0aa2be74",
+      "title": "FERC Approves $425K in NERC Penalties",
+      "link": "https://www.rtoinsider.com/146922-ferc-approves-425k-in-nerc-penalties/",
+      "summary": "FERC approved penalties against TransAlta, NLPC and Pepco for violations of NERC reliability standards.\nThe post FERC Approves $425K in NERC Penalties appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T00:18:18+00:00"
+    },
+    {
+      "id": "4699ecb5ead329a0",
+      "title": "DTE Proposes Gas Plants, Storage, Renewables in IRP",
+      "link": "https://www.rtoinsider.com/146928-dte-affirms-coal-phaseout-in-latest-irp-submission/",
+      "summary": "DTE Electric is pitching an all-of-the-above-except-coal energy mix in its 2026 Integrated Resource Plan, reaffirming its commitment to end coal use by 2032.\nThe post DTE Proposes Gas Plants, Storage, Renewables in IRP appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-28T22:59:21+00:00"
+    },
+    {
+      "id": "a85d805f64bf826a",
+      "title": "The Next Frontier of Grid Resilience: Wildfire Prevention and Utility Asset Protection",
+      "link": "https://www.rtoinsider.com/146163-next-frontier-grid-resilience-wildfire-prevention-utility-asset-protection/",
+      "summary": "The next frontier in grid asset protection is not simply responding to fires faster, but deploying targeted solutions that reduce the likelihood of ignition and spread before a fire starts, writes industry leader Wes Bolsen.\nThe post The Next Frontier of Grid Resilience: Wildfire Prevention and Utility Asset Protection appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-28T22:23:18+00:00"
+    },
+    {
+      "id": "64dfc84bf119bfa9",
+      "title": "Will New York's 1GW storage contracts finally break the state's big battery impasse",
+      "link": "https://www.canarymedia.com/articles/batteries/new-york-torage-contracts-big-battery",
+      "summary": "New York set an ambitious goal to eliminate fossil-fueled electricity by 2040. Doing so will almost certainly require widespread adoption of batteries to store renewable generation and make it available on demand, thereby reducing the need for fossil-fueled \u201cpeaker\u201d plants. Yet the state has seen hardly any\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-28T21:00:00+00:00"
+    },
+    {
+      "id": "2f053ca4c5e38414",
+      "title": "In global first, a next-gen geothermal plant goes live at utility scale",
+      "link": "https://www.canarymedia.com/articles/geothermal/global-first-next-gen-geothermal-fervo",
+      "summary": "The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah \u2014 marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide.  The Houston-based firm turned on an initial 33-megawatt unit late last week and has been testing\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-28T19:30:00+00:00"
     },
     {
       "id": "8656b82ac433071c",
@@ -6001,36 +6081,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "id": "74b1a38e0d88a252",
-      "title": "Can U.S. High-Voltage Grid Equipment Supply Keep Pace With 765-kV Expansion and Data Center Demand?",
-      "link": "https://www.powermag.com/can-u-s-high-voltage-grid-equipment-supply-keep-pace-with-765-kv-expansion-and-data-center-demand/",
-      "summary": "From two-year bushing lead times and hyperscaler demand to U.S. manufacturing expansion and the emerging 765-kV build-out, Trench Group CEO Bahadir Basdere explains where high-voltage equipment supply is under the most pressure. High-voltage grid components are becoming a critical constraint as utilities, transmission developers, original equipment manufacturers (OEMs), and hyperscalers compete fo",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-07T22:53:07+00:00"
-    },
-    {
-      "id": "503785559df09ca7",
-      "title": "Stakeholders Amplify Call to Hit Brakes on 2026 MISO Interconnection Queue Cycle",
-      "link": "https://www.rtoinsider.com/142501-stakeholders-amplify-call-hit-brakes-2026-miso-interconnection-queue-cycle/",
-      "summary": "Emphasizing that MISO has a long way to go to complete studies on generation projects that lined up as early as 2020, stakeholders again appealed to the grid operator to pause acceptance of a new, 2026 queue cycle.\nThe post Stakeholders Amplify Call to Hit Brakes on 2026 MISO Interconnection Queue Cycle appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-07T20:18:48+00:00"
-    },
-    {
-      "id": "bd3ae7c288853136",
-      "title": "Summary of FERC Meeting Agenda for September 2026",
-      "link": "https://www.rtoinsider.com/142357-summary-ferc-meeting-agenda-sept-2026/",
-      "summary": "In its monthly meeting, FERC is expected to take up proposed revisions to the ISO-NE Markets and Services Tariff and a NERC proposal on protecting transmission assets, among other items on the agenda.\nThe post Summary of FERC Meeting Agenda for September 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-07T19:42:18+00:00"
     }
   ]
 }
