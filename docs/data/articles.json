@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:41:12.153482+00:00",
+  "generated_at": "2026-09-30T01:01:55.722014+00:00",
   "count": 608,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-29T17:40:09.708976+00:00"
+      "published": "2026-09-30T01:01:52.570913+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-29T17:40:09.708962+00:00"
+      "published": "2026-09-30T01:01:52.570906+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-29T17:40:09.708944+00:00"
+      "published": "2026-09-30T01:01:52.570896+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-09-29T17:40:09.708914+00:00"
+      "published": "2026-09-30T01:01:52.570868+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-09-29T17:40:07.765774+00:00"
+      "published": "2026-09-30T01:01:51.015536+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,11 +60,91 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-09-29T17:40:06.948174+00:00"
+      "published": "2026-09-30T01:01:49.577950+00:00"
+    },
+    {
+      "id": "3cefeb9f2dcbe5ce",
+      "title": "Utilize Coalition Report Lays out Strategies for Increasing Grid Use",
+      "link": "https://www.rtoinsider.com/147001-utilize-coalition-report-designing-state-programs/",
+      "summary": "The Utilize Coalition released a policy paper laying out how the effective use of transmission and distribution infrastructure can be measured over time.\nThe post Utilize Coalition Report Lays out Strategies for Increasing Grid Use appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T23:27:56+00:00"
+    },
+    {
+      "id": "5b2406b6a9cea82e",
+      "title": "NRC Authorizes TVA to Build 1st U.S. Small Modular Reactor",
+      "link": "https://www.rtoinsider.com/147009-nrc-authorizes-tva-build-1st-us-small-modular-reactor/",
+      "summary": "The TVA said a construction date has not been set and cost-sharing negotiations with industry partners still are underway.\nThe post NRC Authorizes TVA to Build 1st U.S. Small Modular Reactor appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T23:14:14+00:00"
+    },
+    {
+      "id": "e22e1ca5fd6cd84b",
+      "title": "Wash. PUDs Settle with Feds over Canadian Entitlement Share",
+      "link": "https://www.rtoinsider.com/146999-wash-puds-settle-feds-canadian-entitlement-share/",
+      "summary": "Three Washington public utility districts have settled ongoing litigation with the federal government over their collective share of the Canadian Entitlement under the Columbia River Treaty between the U.S. and Canada.\nThe post Wash. PUDs Settle with Feds over Canadian Entitlement Share appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T21:54:34+00:00"
+    },
+    {
+      "id": "6d8debab8786c625",
+      "title": "Hydrogen Award Finalist: Total Hydrogen Solutions\u2019 Texas Production Facility",
+      "link": "https://www.powermag.com/hydrogen-award-finalist-total-hydrogen-solutions-texas-production-facility/",
+      "summary": "Late in construction of Total Hydrogen Solutions\u2019 new hydrogen plant in Katy, Texas, someone cut and stole the incoming high-voltage cable. The theft forced a complete replacement of the affected run just as the team was preparing for utility energization. \u201cIt was a frustrating hurdle, but the team coordinated the replacement and kept moving toward [\u2026]\nThe post Hydrogen Award Finalist: Total Hydro",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T21:30:53+00:00"
+    },
+    {
+      "id": "6572fc5ad0d8faa8",
+      "title": "Mesabi Metallics to build a $15B lower-carbon steel mill in Iowa",
+      "link": "https://www.canarymedia.com/articles/green-steel/mesabi-metallics-steel-mill-iowa",
+      "summary": "The company behind America\u2019s first new iron ore mine in 50 years has unveiled plans for a massive, $15 billion steel plant in southeast Iowa, bringing the firm closer to realizing its ambitious vision for low-carbon steelmaking.  Mesabi Metallics , which is owned by India\u2019s Essar Group, announced the project on\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T20:26:00+00:00"
+    },
+    {
+      "id": "592512bb8c89ce1d",
+      "title": "PJM Stakeholders Present Terms of Governance Changes",
+      "link": "https://www.rtoinsider.com/147011-pjm-stakeholders-present-terms-of-governance-changes/",
+      "summary": "PJM, several consumer advocates and a coalition of members presented the Members Committee with term sheets laying out how to rework the RTO\u2019s governance and stakeholder process.\nThe post PJM Stakeholders Present Terms of Governance Changes appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T20:00:45+00:00"
+    },
+    {
+      "id": "471684f7a3c9767b",
+      "title": "MISO\u2019s Market Monitor Needs a Record the Public Can Trust",
+      "link": "https://www.rtoinsider.com/146949-miso-market-monitor-needs-a-record-the-public-can-trust/",
+      "summary": "MISO hired EY-Parthenon to examine how it oversees its Independent Market Monitor. Its preliminary findings have produced a disagreement worth resolving.\nThe post MISO\u2019s Market Monitor Needs a Record the Public Can Trust appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T19:24:37+00:00"
     },
     {
       "id": "184865533219a72f",
       "title": "Operational Drift is Risky Business for Power Generators",
+      "link": "https://www.powermag.com/operational-drift-is-risky-business-for-power-generators/",
+      "summary": "Power generation operators are navigating a major workforce transition at the same time operations and maintenance (O&M) work is becoming more complex. Deloitte\u2019s 2025 Power and Utilities Industry Outlook notes that demand for U.S. electricity surpassed expectations in 2025, driven by artificial intelligence (AI) training workloads and electrification initiatives, naturally creating a correspondin",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-29T17:33:47+00:00"
+    },
+    {
+      "id": "d6910a478228fb21",
+      "title": "Operational Drift Is Risky Business for Power Generators",
       "link": "https://www.powermag.com/operational-drift-is-risky-business-for-power-generators/",
       "summary": "Power generation operators are navigating a major workforce transition at the same time operations and maintenance (O&M) work is becoming more complex. Deloitte\u2019s 2025 Power and Utilities Industry Outlook notes that demand for U.S. electricity surpassed expectations in 2025, driven by artificial intelligence (AI) training workloads and electrification initiatives, naturally creating a correspondin",
       "source": "POWER Magazine",
@@ -6001,86 +6081,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-09T07:30:00+00:00"
-    },
-    {
-      "id": "f40c6332a5c4ba43",
-      "title": "Balloting to Begin on Computational Load Standards",
-      "link": "https://www.rtoinsider.com/142851-balloting-to-begin-on-computational-load-standards/",
-      "summary": "NERC will open voting soon on a set of proposed standards to address the reliability risks of data centers and other computational large loads.\nThe post Balloting to Begin on Computational Load Standards appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-09T00:51:33+00:00"
-    },
-    {
-      "id": "a28355b9bdb0b045",
-      "title": "DOE, NextEra Agree on $1.9B Loan for Duane Arnold Restart",
-      "link": "https://www.rtoinsider.com/142854-doe-nextera-agree-19b-loan-duane-arnold-restart/",
-      "summary": "NextEra is targeting the first quarter of 2029 at the latest for restart of the Duane Arnold Energy Center, a 615-MW reactor that was shut down in 2020 after 45 years of service.\nThe post DOE, NextEra Agree on $1.9B Loan for Duane Arnold Restart appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-09T00:19:58+00:00"
-    },
-    {
-      "id": "49b327be89a9d671",
-      "title": "Emissions Costs Lead to Increase in Spring ISO-NE Energy Prices",
-      "link": "https://www.rtoinsider.com/142861-emissions-costs-lead-increase-spring-iso-ne-energy-prices/",
-      "summary": "ISO-NE energy market costs totaled $1.46 billion in the spring, increasing 16% year-over-year largely because of higher emissions costs.\nThe post Emissions Costs Lead to Increase in Spring ISO-NE Energy Prices appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-09T00:07:51+00:00"
-    },
-    {
-      "id": "eeb2ebbfd58c563a",
-      "title": "CLEAR Act Aims to Speed up Litigation for Federally Coordinated Tx",
-      "link": "https://www.rtoinsider.com/142853-clear-act-aims-speed-up-litigation-federally-coordinated-tx/",
-      "summary": "A bipartisan bill would apply the Federal Power Act's litigation rules to transmission lines for which environmental reviews are coordinated by DOE under FPA Section 216(h), slashing the statute of limitations from 6 years to 120 days.\nThe post CLEAR Act Aims to Speed up Litigation for Federally Coordinated Tx appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-08T23:36:19+00:00"
-    },
-    {
-      "id": "62e07072cd0abb04",
-      "title": "Oregon Gov. Pauses Data Center Requests on State Land",
-      "link": "https://www.rtoinsider.com/142865-oregon-gov-pauses-data-center-requests-state-land/",
-      "summary": "Oregon Gov. Tina Kotek is pausing the processing of requests to build data centers on state land, in what she said is the state\u2019s latest action to restrict new development until more is understood about the centers\u2019 demand on infrastructure and the environment.\nThe post Oregon Gov. Pauses Data Center Requests on State Land appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-08T22:27:16+00:00"
-    },
-    {
-      "id": "9b2766c50784f7af",
-      "title": "The New Superfund: How Hyperscalers Became the Fall Guy for Energy Policy",
-      "link": "https://www.rtoinsider.com/142075-new-superfund-how-hyperscalers-became-the-fall-guy-energy-policy/",
-      "summary": "Big Tech companies didn\u2019t create the problem of increased electricity bills, but they are being blamed for it nonetheless and are being positioned to pay for it, says consultant Doug Sheridan.\nThe post The New Superfund: How Hyperscalers Became the Fall Guy for Energy Policy appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-08T22:11:04+00:00"
-    },
-    {
-      "id": "6615deb826332cd8",
-      "title": "Major Leap for Solid-State Transformers: Megawatt-Class Unit Demonstrated on Live Feeder",
-      "link": "https://www.powermag.com/major-leap-for-solid-state-transformers-megawatt-class-unit-demonstrated-on-live-feeder/",
-      "summary": "North Carolina State University, the New York Power Authority (NYPA), and EPRI have demonstrated a megawatt-class solid-state transformer (SST) on a live 13.2-kV utility distribution feeder, marking what the partners describe as the first independent validation of a megawatt-class SST under real-world distribution conditions. The NC State-built prototype was connected at EPRI\u2019s power delivery labo",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-08T21:22:28+00:00"
-    },
-    {
-      "id": "960e4eb7d9b94aa9",
-      "title": "Shuttered nuclear plant in Iowa gets $1.9B federal loan to restart",
-      "link": "https://www.canarymedia.com/articles/nuclear/shuttered-nuclear-plant-in-iowa-gets-1-9b-federal-loan-to-restart",
-      "summary": "A third shuttered U.S. nuclear power plant is set to attempt a comeback with hefty support from the federal government.  On Tuesday, the U.S. Department of Energy said it closed a loan of up to $1.9 billion to NextEra Energy to help finance the restart of the Duane Arnold Energy Center in Iowa, which shut down six\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-08T19:20:00+00:00"
     }
   ]
 }
