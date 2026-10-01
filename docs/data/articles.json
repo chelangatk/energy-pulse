@@ -1,7 +1,157 @@
 {
-  "generated_at": "2026-09-30T17:38:23.655412+00:00",
-  "count": 618,
+  "generated_at": "2026-10-01T01:03:03.053880+00:00",
+  "count": 624,
   "articles": [
+    {
+      "id": "623b1a9c6e498a89",
+      "title": "Auction Reports and Supporting Data",
+      "link": "https://www.iso-ne.com/markets-operations/iso-express/auctions-reports",
+      "summary": "",
+      "source": "ISO New England",
+      "category": "ISO/RTO",
+      "region": "Northeast",
+      "published": "2026-10-01T01:03:00.265775+00:00"
+    },
+    {
+      "id": "92273bfbfe140fca",
+      "title": "Billing, Settlements, and Tariff Reports",
+      "link": "https://www.iso-ne.com/markets-operations/iso-express/billing-settlements-and-tariff-reports",
+      "summary": "",
+      "source": "ISO New England",
+      "category": "ISO/RTO",
+      "region": "Northeast",
+      "published": "2026-10-01T01:03:00.265761+00:00"
+    },
+    {
+      "id": "b28b7b610ec8f487",
+      "title": "Energy, Load, and Demand Reports",
+      "link": "https://www.iso-ne.com/markets-operations/iso-express/load-and-demand-reports",
+      "summary": "",
+      "source": "ISO New England",
+      "category": "ISO/RTO",
+      "region": "Northeast",
+      "published": "2026-10-01T01:03:00.265744+00:00"
+    },
+    {
+      "id": "c938b6e4e2ffd8ca",
+      "title": "Real-Time Maps and Charts",
+      "link": "https://www.iso-ne.com/markets-operations/iso-express/real-time-maps-and-charts",
+      "summary": "",
+      "source": "ISO New England",
+      "category": "ISO/RTO",
+      "region": "Northeast",
+      "published": "2026-10-01T01:03:00.265710+00:00"
+    },
+    {
+      "id": "660f691e86a39ce7",
+      "title": "SPP\u2019s Markets+ tariff receives FERC approval",
+      "link": "https://spp.org/newsroom/press-releases/spp-s-marketsplus-tariff-receives-ferc-approval/",
+      "summary": "",
+      "source": "SPP News",
+      "category": "ISO/RTO",
+      "region": "Midwest",
+      "published": "2026-10-01T01:02:58.482254+00:00"
+    },
+    {
+      "id": "bbedce0439e84787",
+      "title": "February 2021 Extreme Weather Event",
+      "link": "https://www.ercot.com/news/february2021",
+      "summary": "",
+      "source": "ERCOT News",
+      "category": "ISO/RTO",
+      "region": "Texas / South Central",
+      "published": "2026-10-01T01:02:56.930405+00:00"
+    },
+    {
+      "id": "3137628f6816642a",
+      "title": "NERC Reports CIP Exceptions Falling Across ERO",
+      "link": "https://www.rtoinsider.com/147062-nerc-reports-cip-exceptions-falling-across-ero/",
+      "summary": "NERC reported that the number of technical feasibility exceptions to the CIP standards continued to fall in its latest report on the TFE program.\nThe post NERC Reports CIP Exceptions Falling Across ERO appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T00:30:11+00:00"
+    },
+    {
+      "id": "aca244b82a8b5c09",
+      "title": "DOE Again Postpones Centralia, Craig Coal Unit Retirements",
+      "link": "https://www.rtoinsider.com/147076-doe-again-extends-operation-coal-plants/",
+      "summary": "The U.S. Department of Energy issued emergency orders to keep coal-fired power plants in two Western states open for another 90 days past their planned retirement dates \u2014 despite the units\u2019 sparse generation since the extensions began.\nThe post DOE Again Postpones Centralia, Craig Coal Unit Retirements appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T00:27:30+00:00"
+    },
+    {
+      "id": "7238f5f39cb7f048",
+      "title": "Planned Data Center on Utah Federal Land Sparks Concern",
+      "link": "https://www.rtoinsider.com/147101-planned-data-center-utah-federal-land-sparks-concern/",
+      "summary": "Utah continues to be an attractive location for hyperscale data center projects despite state leaders moving to place regulatory guardrails on the massive artificial intelligence infrastructure projects in response to fierce public backlash.\nThe post Planned Data Center on Utah Federal Land Sparks Concern appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T23:59:25+00:00"
+    },
+    {
+      "id": "228606957e55c962",
+      "title": "WRAP 1st Priority amid Western Market Shakeup, WPP CEO Says",
+      "link": "https://www.rtoinsider.com/147073-wrap-priority-amid-western-market-shakeup-wpp-ceo/",
+      "summary": "As the West\u2019s day-ahead markets face a potential upheaval, the Western Power Pool remains committed to ensuring its resource adequacy program continues to deliver value to participants, the organization\u2019s CEO said.\nThe post WRAP 1st Priority amid Western Market Shakeup, WPP CEO Says appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T23:56:48+00:00"
+    },
+    {
+      "id": "2bbc28cba658481d",
+      "title": "PGE Hours Away from EDAM Entry as CAISO Addresses Kinks",
+      "link": "https://www.rtoinsider.com/146932-pge-hours-away-edam-entry-caiso-addresses-kinks/",
+      "summary": "Portland General Electric is ready to join CAISO\u2019s Extended Day-Ahead Market on Oct. 1 as the new market continues to grapple with new issues, many related to software.\nThe post PGE Hours Away from EDAM Entry as CAISO Addresses Kinks appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T23:14:10+00:00"
+    },
+    {
+      "id": "2219a34d21e634d4",
+      "title": "ROWE Appoints Inaugural Board of Directors",
+      "link": "https://www.rtoinsider.com/147071-rowe-independent-board-slate-approved/",
+      "summary": "The temporary body constituted to get the Regional Organization for Western Energy up and running voted to appoint the organization\u2019s inaugural board of directors and approve a board member independence plan.\nThe post ROWE Appoints Inaugural Board of Directors appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T22:26:36+00:00"
+    },
+    {
+      "id": "462d299aa9c11297",
+      "title": "Appellate Decisions Highlight Requirements for Review of FERC Orders",
+      "link": "https://www.rtoinsider.com/146930-appellate-decisions-highlight-requirements-review-ferc-orders/",
+      "summary": "Three decisions in the past year by the U.S. Court of Appeals for the D.C. Circuit \u2014 which hears most FERC cases \u2014 show parties must satisfy several threshold requirements before courts will consider the merits of a petition for review.\nThe post Appellate Decisions Highlight Requirements for Review of FERC Orders appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T22:02:36+00:00"
+    },
+    {
+      "id": "17548e497cbf247e",
+      "title": "Senate permitting bill could greatly expand power lines and clean energy",
+      "link": "https://www.canarymedia.com/articles/transmission/senate-permitting-bill-power-lines",
+      "summary": "The U.S. Senate energy permitting bill unveiled Wednesday could streamline the buildout of high-voltage power lines across the country, potentially delivering billions of dollars in electricity cost savings and dramatically improving the power system\u2019s reliability over the coming decade \u2014 if Congress manages to pass\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T22:00:00+00:00"
+    },
+    {
+      "id": "7a9be584705d8566",
+      "title": "Community Impact Award Finalist: Philippine Coal Plants\u2019 Scholarship Program",
+      "link": "https://www.powermag.com/community-impact-award-finalist-philippine-coal-plants-scholarship-program/",
+      "summary": "Just hours before his flight back to work on Aug. 24, 2026, seafarer John Cris Tropicales watched his younger brother graduate with a bachelor\u2019s degree in criminology, reported Ulysses \u201cChuckie\u201d Rivera, community relations manager for Quezon Power (Philippines) Ltd. Co. (QPL) and San Buenaventura Power Ltd. Co. (SBPL). It was a milestone that the Tropicales [\u2026]\nThe post Community Impact Award Fina",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T20:42:15+00:00"
+    },
     {
       "id": "18151b2c021db715",
       "title": "Redesigning Steam Turbines for the SMR Era",
@@ -13,64 +163,34 @@
       "published": "2026-09-30T19:00:00+00:00"
     },
     {
-      "id": "623b1a9c6e498a89",
-      "title": "Auction Reports and Supporting Data",
-      "link": "https://www.iso-ne.com/markets-operations/iso-express/auctions-reports",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "region": "Northeast",
-      "published": "2026-09-30T17:38:20.281250+00:00"
+      "id": "47c4d59a7ae4d336",
+      "title": "Key Senators Present Bipartisan Permitting Reform Proposal",
+      "link": "https://www.rtoinsider.com/147080-breaking-news-key-senators-reach-bipartisan-permitting-reform-proposal/",
+      "summary": "The ambitious proposal ranges from expanded FERC permitting authority to safeguards from data center costs to time limits on certain review processes.\nThe post Key Senators Present Bipartisan Permitting Reform Proposal appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T18:38:18+00:00"
     },
     {
-      "id": "92273bfbfe140fca",
-      "title": "Billing, Settlements, and Tariff Reports",
-      "link": "https://www.iso-ne.com/markets-operations/iso-express/billing-settlements-and-tariff-reports",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "region": "Northeast",
-      "published": "2026-09-30T17:38:20.281236+00:00"
+      "id": "e829ea598d8fc4cd",
+      "title": "Synopsys and Amazon sign $1bn multi-year IP agreement for custom chip development",
+      "link": "https://www.datacenterdynamics.com/en/news/synopsys-and-amazon-sign-1bn-multi-year-ip-agreement-for-custom-chip-development/",
+      "summary": "Amazon now serving as lead customer for Synopsys\u2019 expanded silicon IP business",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-09-30T18:00:52+00:00"
     },
     {
-      "id": "b28b7b610ec8f487",
-      "title": "Energy, Load, and Demand Reports",
-      "link": "https://www.iso-ne.com/markets-operations/iso-express/load-and-demand-reports",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "region": "Northeast",
-      "published": "2026-09-30T17:38:20.281219+00:00"
-    },
-    {
-      "id": "c938b6e4e2ffd8ca",
-      "title": "Real-Time Maps and Charts",
-      "link": "https://www.iso-ne.com/markets-operations/iso-express/real-time-maps-and-charts",
-      "summary": "",
-      "source": "ISO New England",
-      "category": "ISO/RTO",
-      "region": "Northeast",
-      "published": "2026-09-30T17:38:20.281191+00:00"
-    },
-    {
-      "id": "660f691e86a39ce7",
-      "title": "SPP\u2019s Markets+ tariff receives FERC approval",
-      "link": "https://spp.org/newsroom/press-releases/spp-s-marketsplus-tariff-receives-ferc-approval/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "region": "Midwest",
-      "published": "2026-09-30T17:38:17.825735+00:00"
-    },
-    {
-      "id": "bbedce0439e84787",
-      "title": "February 2021 Extreme Weather Event",
-      "link": "https://www.ercot.com/news/february2021",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "region": "Texas / South Central",
-      "published": "2026-09-30T17:38:15.950457+00:00"
+      "id": "e466d855d48a0061",
+      "title": "Electric trucks cost too much. California has a law for that.",
+      "link": "https://www.canarymedia.com/articles/clean-fleets/electric-trucks-cost-too-much-california-has-a-bill-for-that",
+      "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state\u2019s clean energy transition.  Subscribe to get it every Wednesday via Substack.   Hello, everyone! We\u2019re back today to talk about trucks \u2014 the big and dirty ones \u2014 and what to do about them. California has around 1.8 million commercial\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T17:30:00+00:00"
     },
     {
       "id": "e19567f17f69fb0b",
@@ -163,6 +283,26 @@
       "published": "2026-09-30T15:00:00+00:00"
     },
     {
+      "id": "d102ec347e351555",
+      "title": "Executive Leadership Award Finalist: Westinghouse CTO Dr. Lou Martinez Sancho",
+      "link": "https://www.powermag.com/executive-leadership-award-finalist-westinghouse-cto-dr-lou-martinez-sancho/",
+      "summary": "At the inaugural Pennsylvania Energy and Innovation Summit, hosted by Sen. Dave McCormick at Carnegie Mellon University on July 15, 2025, Westinghouse Electric Co. put a live proof of concept on display: an artificial intelligence (AI) system aimed at reducing the cost and schedule risk of building new AP1000 reactors. According to Westinghouse, the demonstration [\u2026]\nThe post Executive Leadership ",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T14:39:37+00:00"
+    },
+    {
+      "id": "7324a5f2dbadf3b9",
+      "title": "ArcLight Completes Acquisition of 50% Stake in 5.4-GW Diversified Power Infrastructure Portfolio",
+      "link": "https://www.powermag.com/arclight-completes-acquisition-of-50-stake-in-5-4-gw-diversified-power-infrastructure-portfolio/",
+      "summary": "ArcLight Capital Partners, an investor in power and energy infrastructure, said its fund has completed the acquisition of a 50% stake in IATP, a large-scale, 5.4-GW power portfolio comprising 11 power infrastructure assets located across North America. Invenergy will retain its existing 50% ownership interest and operational role in IATP. IATP combines a substantial base [\u2026]\nThe post ArcLight Comp",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T14:24:59+00:00"
+    },
+    {
       "id": "87adbd48e0d12188",
       "title": "Comcast deploys fiber sensing tech to monitor network in real-time",
       "link": "https://www.datacenterdynamics.com/en/news/comcast-deploys-fiber-sensing-tech-to-monitor-network-in-real-time/",
@@ -221,6 +361,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-30T13:30:12+00:00"
+    },
+    {
+      "id": "17570d2bffdc84d2",
+      "title": "Ameren Missouri files 20-year plan with 10.6 GW of gas additions",
+      "link": "https://www.utilitydive.com/news/ameren-missouri-files-20-year-plan-with-106-gw-gas-additions/831758/",
+      "summary": "Company executives said the plan was designed to ensure a diversity of resources to maintain reliability and manage costs. But environmental advocates said it would significantly increase the utility\u2019s reliance on fossil fuels.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-09-30T13:27:02+00:00"
     },
     {
       "id": "e6e1ef8de5771fce",
@@ -6091,96 +6241,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "id": "f0da80f89e9b91c8",
-      "title": "NERC Trustee Praises RSTC\u2019s Large Loads Work",
-      "link": "https://www.rtoinsider.com/142954-nerc-trustee-praises-rstc-large-load-work/",
-      "summary": "NERC's Reliability and Security Technical Committee approved multiple nonbinding guidelines and technical documents at its Sept. 9 meeting.\nThe post NERC Trustee Praises RSTC\u2019s Large Loads Work appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T00:47:26+00:00"
-    },
-    {
-      "id": "0cccb49450c0ba4d",
-      "title": "AESO/AUC Briefs for Sept. 9, 2026",
-      "link": "https://www.rtoinsider.com/142959-aeso-auc-briefs-090926/",
-      "summary": "AESO forecasts higher electricity demand from data centers and other large loads in its 2026 Long-Term Outlook Plan, but several stakeholders\u00a0say the preliminary scenarios may not adequately capture the scale, location and structure of prospective data-center development.\nThe post AESO/AUC Briefs for Sept. 9, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T00:25:34+00:00"
-    },
-    {
-      "id": "a24bdf924724615e",
-      "title": "EIA: ERCOT Leads in Demand Growth, PJM in Supply Growth Through 2027",
-      "link": "https://www.rtoinsider.com/142972-eia-generation-growth-fuel-prices-demand/",
-      "summary": "EIA's latest Short-Term Energy Outlook forecasts record electricity demand driven by data centers and increased manufacturing activity in the commercial and industrial sectors.\nThe post EIA: ERCOT Leads in Demand Growth, PJM in Supply Growth Through 2027 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T00:23:09+00:00"
-    },
-    {
-      "id": "2bd28689001410b3",
-      "title": "From Demand Response to Orchestration: Data Centers are Becoming Flexible Grid Assets",
-      "link": "https://www.rtoinsider.com/142814-from-demand-response-to-orchestration-data-centers/",
-      "summary": "Data centers can flex \u2014 and it's no longer hypothetical. Inside the \"orchestration\" era of grid flexibility from columnist K Kaufmann.\nThe post From Demand Response to Orchestration: Data Centers are Becoming Flexible Grid Assets appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-09T23:15:21+00:00"
-    },
-    {
-      "id": "f3f4e9cb0db989b9",
-      "title": "Mass. Data Center Proposals Must Secure Clean Energy or Pay into Fund",
-      "link": "https://www.rtoinsider.com/142955-massachusetts-governor-tight-guidelines-data-center-development/",
-      "summary": "The Sept. 8 order builds on a framework she announced June 25 to specifically address some of environmental, economic and other negative effects that can result from data center development.\nThe post Mass. Data Center Proposals Must Secure Clean Energy or Pay into Fund appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-09T23:01:23+00:00"
-    },
-    {
-      "id": "0e5052c3cb40fd53",
-      "title": "Maine Requests Termination of RTO Participation Adder for TOs",
-      "link": "https://www.rtoinsider.com/142863-maine-requests-termination-rto-participation-adder-tos/",
-      "summary": "A group of state agencies from Maine have asked FERC to terminate the return on equity adder received by the Maine transmission owners for participation in ISO-NE.\nThe post Maine Requests Termination of RTO Participation Adder for TOs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-09T22:33:47+00:00"
-    },
-    {
-      "id": "31ee9cac66ff4845",
-      "title": "Court Strikes Down TVA Decision to Build $2B Gas Plant",
-      "link": "https://www.rtoinsider.com/142974-court-strikes-down-tva-decision-build-gas-plant/",
-      "summary": "A federal court has voided the Tennessee Valley Authority\u2019s decision to construct a gas plant in eastern Tennessee, citing a deficient environmental review.\nThe post Court Strikes Down TVA Decision to Build $2B Gas Plant appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-09T22:14:23+00:00"
-    },
-    {
-      "id": "e7d92ba9d4b93e1d",
-      "title": "ENGIE Withdraws Application for 250-MW Calif. Battery Project",
-      "link": "https://www.rtoinsider.com/142859-engie-withdraws-application-250mw-battery-storage-project-calif/",
-      "summary": "ENGIE North America has cancelled its application to build a large battery storage project near Laguna Beach, Calif., after some local officials and residents came out in opposition due to safety and aesthetic concerns.\nThe post ENGIE Withdraws Application for 250-MW Calif. Battery Project appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-09T21:04:31+00:00"
-    },
-    {
-      "id": "b28760df2aaa6269",
-      "title": "FlexSysAI launches grid-flexibility pilot with ResetData, CSIRO, University of Queensland",
-      "link": "https://www.datacenterdynamics.com/en/news/flexsysai-launches-grid-flexibility-pilot-with-resetdata-csiro-university-of-queensland/",
-      "summary": "Will test AI orchestration platform at ResetData data center",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-09T21:00:00+00:00"
     }
   ]
 }
