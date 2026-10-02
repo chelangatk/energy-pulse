@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:03:16.594715+00:00",
+  "generated_at": "2026-10-02T01:16:32.050777+00:00",
   "count": 621,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-01T18:03:13.842415+00:00"
+      "published": "2026-10-02T01:16:29.008756+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-01T18:03:13.842389+00:00"
+      "published": "2026-10-02T01:16:29.008742+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-01T18:03:13.842372+00:00"
+      "published": "2026-10-02T01:16:29.008726+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-01T18:03:13.842335+00:00"
+      "published": "2026-10-02T01:16:29.008699+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-01T18:03:11.895484+00:00"
+      "published": "2026-10-02T01:16:26.928036+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,127 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-01T18:03:10.507757+00:00"
+      "published": "2026-10-02T01:16:25.049547+00:00"
+    },
+    {
+      "id": "7dace265789ea56f",
+      "title": "NextEra-Dominion Merger Spurs Widespread Concern in ISO-NE and PJM",
+      "link": "https://www.rtoinsider.com/147172-nextera-dominion-merger-spurs-widespread-concern-iso-ne-pjm/",
+      "summary": "NextEra Energy\u2019s proposed acquisition of Dominion Energy faces substantial pushback over concerns about increased market power and negative effects on ratepayers.\nThe post NextEra-Dominion Merger Spurs Widespread Concern in ISO-NE and PJM appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-02T01:12:14+00:00"
+    },
+    {
+      "id": "28caa06c2b6f67bd",
+      "title": "Colo. PUC Drafts Rules for Wildfire Plans, PSPS",
+      "link": "https://www.rtoinsider.com/147170-colorado-puc-drafts-rules-wildfire-plans-psps/",
+      "summary": "The Colorado PUC has released draft rules aimed at bringing consistency and transparency to electric utility plans for wildfire mitigation and public safety power shutoffs, including communication requirements and independent review of wildfire risk assessments.\nThe post Colo. PUC Drafts Rules for Wildfire Plans, PSPS appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-02T00:51:52+00:00"
+    },
+    {
+      "id": "1b3b94ea8b3cc343",
+      "title": "Virginia Energy Plan Considers How to Achieve Net Zero with Demand Growth",
+      "link": "https://www.rtoinsider.com/147180-spanberger-introduces-virginia-energy-plan/",
+      "summary": "The 2026 Virginia Energy Plan\u00a0includes different ways of reliably and affordably meeting growing power demand while staying on track for a net-zero power sector by 2050.\nThe post Virginia Energy Plan Considers How to Achieve Net Zero with Demand Growth appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-02T00:15:46+00:00"
+    },
+    {
+      "id": "1cd456f9f7a921ca",
+      "title": "PGE Says EDAM Entry Brings \u2018Huge Expansion\u2019 of Opportunities",
+      "link": "https://www.rtoinsider.com/147173-pge-edam-entry-smooth-huge-opportunities/",
+      "summary": "Portland General Electric said its entry into CAISO\u2019s Extended Day-Ahead Market on Oct. 1 went down without any hiccups and is now focused on reaping the benefits from the market.\nThe post PGE Says EDAM Entry Brings \u2018Huge Expansion\u2019 of Opportunities appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-02T00:03:10+00:00"
+    },
+    {
+      "id": "e5203f1885510ab3",
+      "title": "IESO/OEB Briefs: Oct. 1, 2026",
+      "link": "https://www.rtoinsider.com/147067-ieso-oeb-briefs-100126/",
+      "summary": "IESO says it will provide additional technical justification for its 100-MW/minute battery ramp-rate limit at a future engagement after storage stakeholders questioned the basis for the restriction.\nThe post IESO/OEB Briefs: Oct. 1, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T23:32:26+00:00"
+    },
+    {
+      "id": "b1e4579c4caf19c6",
+      "title": "The Bid to Align Energy Permitting and the Public Interest",
+      "link": "https://www.rtoinsider.com/147152-whats-the-meaning-of-the-siting-permitting-proposal-in-congress/",
+      "summary": "A larger, more secure North American power grid has been an energy policy priority for grid experts for more than two decades, touched off by the stunning 2003 Northeast Blackout, which streaked around the eastern Great Lakes, cutting off power to 50 million people.\nThe post The Bid to Align Energy Permitting and the Public Interest appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T23:29:54+00:00"
+    },
+    {
+      "id": "9fb5020f0b281e25",
+      "title": "Pennsylvania PUC Advances Large Load Power Curtailment Plan",
+      "link": "https://www.rtoinsider.com/147082-pa-puc-approves-tentative-order-emergency-load-control-procedures/",
+      "summary": "The Pennsylvania Public Utility Commission is forging ahead with a proposal to ensure that data centers and other large load customers don\u2019t get special treatment during emergency power cutbacks.\nThe post Pennsylvania PUC Advances Large Load Power Curtailment Plan appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T23:26:19+00:00"
+    },
+    {
+      "id": "bd8ba4a1fe70b7b4",
+      "title": "MISO Tries Different Tack for PRMR Allocation, Decides on Forecasting Approach",
+      "link": "https://www.rtoinsider.com/147168-miso-tries-different-tack-prmr-allocation-decides-forecasting-approach/",
+      "summary": "MISO announced it\u2019s abandoning a plan to use settled load to divide its resource planning obligations among its load-serving entities, moving instead to a forecasting approach it once vowed not to use.\nThe post MISO Tries Different Tack for PRMR Allocation, Decides on Forecasting Approach appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T22:47:14+00:00"
+    },
+    {
+      "id": "5e7043a3211cee33",
+      "title": "Scheduling Conflicts Hamper GCPA\u2019s Fall Conference",
+      "link": "https://www.rtoinsider.com/147179-scheduling-conflicts-hamper-gcpa-fall-conference/",
+      "summary": "The CEOs and five staff members from ERCOT, the Texas PUC, the Texas Office of the Public Utility Counsel and Lower Colorado River Authority all had scheduling conflicts, according to the Gulf Coast Power Association, and were unable to participate in the Fall seminar.\nThe post Scheduling Conflicts Hamper GCPA\u2019s Fall Conference appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T22:45:28+00:00"
+    },
+    {
+      "id": "8f393b5c7e62742b",
+      "title": "The USDA just made it way harder for farmers to get grants for solar",
+      "link": "https://www.canarymedia.com/articles/food-and-farms/usda-reap-grants-for-solar",
+      "summary": "Rules published Thursday essentially end federal grants that thousands of American farmers have long relied on to build revenue-generating solar systems on their land.  The Trump administration\u2019s changes to the Rural Energy for America Program (REAP) are its latest attempt to block solar development even as the\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T22:00:00+00:00"
+    },
+    {
+      "id": "b898b62d43e86786",
+      "title": "Backlash Engulfs West Virginia Data Center Law",
+      "link": "https://www.rtoinsider.com/137837-is-w-va-microgrid-law-aimed-at-attracting-data-centers-working/",
+      "summary": "Consternation, not celebration, is dogging The Power Generation and Consumption Act. The act, part of an expansive agenda that includes tripling West Virginia\u2019s generating capacity by 2050, created a microgrid program to let new \u201chigh-impact\u201d data centers build standalone power supplies without the need to tap into the grid.\nThe post Backlash Engulfs West Virginia Data Center Law appeared first on",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T21:58:01+00:00"
+    },
+    {
+      "id": "c89307d3234bfdce",
+      "title": "How Data Center-Driven Load Growth Is Reshaping the Renewable Energy Market",
+      "link": "https://www.powermag.com/how-data-center-driven-load-growth-is-reshaping-the-renewable-energy-market/",
+      "summary": "U.S. grid planners are preparing for annual electricity demand growth of about 0.9% to 1.6% through 2050, with data centers emerging as a major driver, and EPRI\u2014the Electric Power Research Institute\u2014suggesting they could account for as much as 17% of U.S. electricity demand by 2030. For the wind, solar, and energy storage industry, this represents [\u2026]\nThe post How Data Center-Driven Load Growth Is",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T20:12:43+00:00"
     },
     {
       "id": "9c5c2edcb42407fa",
@@ -81,6 +201,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-01T17:30:44+00:00"
+    },
+    {
+      "id": "16ba0ead91f9cfa9",
+      "title": "Newsom finally says yes to virtual power plants",
+      "link": "https://www.canarymedia.com/articles/virtual-power-plants/newsom-yes-to-virtual-power-plants",
+      "summary": "California Gov. Gavin Newsom (D) defied political expectations on Wednesday and signed into law a slate of energy-affordability legislation aimed at containing the utility spending that is driving up electricity costs in the Golden State.  Among the bills he signed are two that will boost the use of virtual power\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-01T17:30:00+00:00"
     },
     {
       "id": "225a671995164355",
@@ -6081,136 +6211,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-11T01:24:38+00:00"
-    },
-    {
-      "id": "eff0b56a5196ec0a",
-      "title": "FERC Finds ISO-NE Refund Rules Lacking, Supports Proposed Changes",
-      "link": "https://www.rtoinsider.com/143081-ferc-finds-iso-ne-refund-rules-lacking-supports-proposed-changes/",
-      "summary": "ISO-NE must correct its tariff to enable it to remedy incorrect payments or charges to market participants, FERC ruled on Sept. 10.\nThe post FERC Finds ISO-NE Refund Rules Lacking, Supports Proposed Changes appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-11T01:00:09+00:00"
-    },
-    {
-      "id": "2c89d4dafb1be2e8",
-      "title": "FERC Accepts Tri-State\u2019s Market-based Tariff Changes",
-      "link": "https://www.rtoinsider.com/143097-ferc-accepts-tri-state-market-based-tariff-changes/",
-      "summary": "FERC has conditionally accepted Tri-State Generation and Transmission Association\u2019s market-based rate tariff revisions that reflect its participation in SPP\u2019s RTO Expansion in the Western Interconnection.\nThe post FERC Accepts Tri-State\u2019s Market-based Tariff Changes appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-11T00:58:24+00:00"
-    },
-    {
-      "id": "c9f57ef92fe9c0d5",
-      "title": "FERC-NERC Winter 2026 Report Finds Impediments to Using Large Loads",
-      "link": "https://www.rtoinsider.com/143074-ferc-nerc-winter-2026-report-finds-impediments-using-large-loads/",
-      "summary": "FERC and NERC released their joint report on the 2026 extreme winter weather, which found improvements from earlier cold weather events, but highlighted some rule changes were needed to use backup generation at large loads.\nThe post FERC-NERC Winter 2026 Report Finds Impediments to Using Large Loads appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-11T00:09:37+00:00"
-    },
-    {
-      "id": "a15d984910f57fa7",
-      "title": "ROWE Ready to Bring BPA into EDAM, Staks Says",
-      "link": "https://www.rtoinsider.com/143019-rowe-ready-to-bring-bpa-to-edam-staks/",
-      "summary": "ROWE is ready to meet BPA's conditions to secure the agency\u2019s participation in CAISO\u2019s EDAM, according to Kathleen Staks, the organization\u2019s interim president.\nThe post ROWE Ready to Bring BPA into EDAM, Staks Says appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-11T00:02:40+00:00"
-    },
-    {
-      "id": "e239a46c835e9e3b",
-      "title": "Ind., La. Data Center Needs Drive Gas, Batteries in 5th MISO Fast-track Queue",
-      "link": "https://www.rtoinsider.com/143083-data-center-needs-drive-gas-batteries-miso-fast-track-queue/",
-      "summary": "Mirroring their data center tech booms, Indiana and Louisiana are earmarked for nearly all new gas and storage capacity in MISO\u2019s fifth fast-tracked generator interconnection process.\nThe post Ind., La. Data Center Needs Drive Gas, Batteries in 5th MISO Fast-track Queue appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T23:58:29+00:00"
-    },
-    {
-      "id": "11433d05c1322e53",
-      "title": "GridLiance West Moves Forward on 2 Nevada Tx Projects",
-      "link": "https://www.rtoinsider.com/142970-gridliance-west-breaks-ground-on-nevada-transmission-upgrades/",
-      "summary": "GridLiance West has started construction on its 155-mile Core Upgrades project in southern Nevada \u2014 at the same time the company is planning a 413-mile, 500-kV line from Utah to Nevada called High West.\nThe post GridLiance West Moves Forward on 2 Nevada Tx Projects appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T23:54:04+00:00"
-    },
-    {
-      "id": "d4433d765592e9dc",
-      "title": "CPUC to Vote on Rulemaking for CAISO Market Governance Transition",
-      "link": "https://www.rtoinsider.com/143102-cpuc-initiate-rulemaking-caiso-market-governance-transition/",
-      "summary": "The California Public Utilities Commission is poised to begin work on implementing the 2025 state law that authorizes CAISO and the state\u2019s utilities to participate in an independent body to oversee the ISO\u2019s wholesale electricity markets.\nThe post CPUC to Vote on Rulemaking for CAISO Market Governance Transition appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T23:10:07+00:00"
-    },
-    {
-      "id": "02ff5d4f714e6470",
-      "title": "FERC Approves New NERC Physical Security Standard",
-      "link": "https://www.rtoinsider.com/143079-ferc-approves-nerc-physical-security-standard/",
-      "summary": "FERC approved a new NERC physical security standard developed in response to multiple attacks on electric grid facilities.\nThe post FERC Approves New NERC Physical Security Standard appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T23:05:01+00:00"
-    },
-    {
-      "id": "dde9ba708e5fb0a9",
-      "title": "Mass. Utilities, Hydro-Quebec Exchange Suits over NECEC Winter Curtailments",
-      "link": "https://www.rtoinsider.com/143072-mass-utilities-hydro-quebec-exchange-suits-over-necec-curtailments/",
-      "summary": "Massachusetts utilities and Hydro-Quebec have exchanged lawsuits in a dispute over the curtailment of deliveries over the New England Clean Energy Connect transmission line during a stretch of extreme winter weather.\nThe post Mass. Utilities, Hydro-Quebec Exchange Suits over NECEC Winter Curtailments appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T21:50:42+00:00"
-    },
-    {
-      "id": "e9da15730f181ede",
-      "title": "Solar Power Continues to Proliferate in Second Quarter",
-      "link": "https://www.rtoinsider.com/143076-solar-power-continues-to-proliferate-second-quarter/",
-      "summary": "Utility-scale solar generation continued to come online at an accelerated rate and distributed solar at a diminished pace in the second quarter of 2026, thanks in both cases to changes in tax policy.\nThe post Solar Power Continues to Proliferate in Second Quarter appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T21:47:06+00:00"
-    },
-    {
-      "id": "e3051e20493bb5df",
-      "title": "A Phased Framework for Adaptive Protection Migration in DER-Heavy Transmission Substations",
-      "link": "https://www.powermag.com/a-phased-framework-for-adaptive-protection-migration-in-der-heavy-transmission-substations/",
-      "summary": "This article presents a practical four-phase engineering methodology for migrating legacy transmission substations toward adaptive protection architectures in power systems with high distributed energy resource (DER) penetration. Increasing DER integration introduces significant challenges to conventional protection schemes, including bidirectional power flow, dynamic fault current behavior, relay",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T21:23:07+00:00"
-    },
-    {
-      "id": "c46d389604378f66",
-      "title": "Mass. utilities and Hydro-Quebec sue each other over missing hydropower",
-      "link": "https://www.canarymedia.com/articles/hydropower/massachusetts-utilities-hydro-quebec-sue-each-other",
-      "summary": "Three Massachusetts utilities are suing Canadian energy giant Hydro-Qu\u00e9bec after it failed to deliver promised hydropower for several days during a cold snap this winter. Hydro-Qu\u00e9bec, in turn, is suing the utilities for withholding payment for power that was delivered.  The dispute is the latest in a string of\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T21:00:00+00:00"
-    },
-    {
-      "id": "3dd3ae15eb799563",
-      "title": "Battery Energy Storage Group Receives Millions in Funding",
-      "link": "https://www.powermag.com/battery-energy-storage-group-receives-millions-in-funding/",
-      "summary": "Horizon Technology Finance Corp., an affiliate of Monroe Capital, on September 10 said that the RoHo Capital Opportunity Fund LLC, a joint venture formed by Horizon and CR Financial Holdings, Inc., the holding company for Roth Capital Partners, LLC, has provided a $20-million senior credit facility to NeoVolta, Inc., with the ability to increase the facility to $30 million upon mutual agreement. A",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-10T18:55:25+00:00"
     }
   ]
 }
