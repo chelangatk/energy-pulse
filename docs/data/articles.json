@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T17:29:50.197030+00:00",
-  "count": 618,
+  "generated_at": "2026-10-03T00:54:35.206188+00:00",
+  "count": 622,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-02T17:29:45.760958+00:00"
+      "published": "2026-10-03T00:54:32.038951+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-02T17:29:45.760944+00:00"
+      "published": "2026-10-03T00:54:32.038936+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-02T17:29:45.760927+00:00"
+      "published": "2026-10-03T00:54:32.038919+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-02T17:29:45.760897+00:00"
+      "published": "2026-10-03T00:54:32.038890+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-02T17:29:43.535026+00:00"
+      "published": "2026-10-03T00:54:30.306120+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,37 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-02T17:29:41.830605+00:00"
+      "published": "2026-10-03T00:54:28.898347+00:00"
+    },
+    {
+      "id": "1b8eced0c9cc196e",
+      "title": "BPA Issues Proposed Agreement to End Tx Planning Pause",
+      "link": "https://www.rtoinsider.com/147341-bpa-issues-proposed-agreement-to-end-tx-planning-pause/",
+      "summary": "The Bonneville Power Administration released a settlement proposal aimed at resuming processing of transmission service requests after a pause that has lasted for more than a year.\nThe post BPA Issues Proposed Agreement to End Tx Planning Pause appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-03T00:08:07+00:00"
+    },
+    {
+      "id": "baf48034fb872a4a",
+      "title": "MISO Rounds out Sept. with 2 Emergencies, Cites Constraints, TLRs",
+      "link": "https://www.rtoinsider.com/147265-miso-rounds-out-sept-with-2-emergencies-cites-constraints-tlrs/",
+      "summary": "MISO said transmission loading relief instructions from neighboring systems and then binding constraints were behind its pair of grid emergencies in September 2026.\nThe post MISO Rounds out Sept. with 2 Emergencies, Cites Constraints, TLRs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-02T22:23:48+00:00"
+    },
+    {
+      "id": "215618d04f464f5b",
+      "title": "CAISO, SPP Say They Are \u2018Committed\u2019 to Seams Solution in FERC Report",
+      "link": "https://www.rtoinsider.com/147306-caiso-spp-release-report-on-dam-seams/",
+      "summary": "CAISO and SPP have submitted their joint report on market seams to FERC, saying they have worked extensively on the issue while acknowledging that questions about governance \u201cwill need consideration.\"\nThe post CAISO, SPP Say They Are \u2018Committed\u2019 to Seams Solution in FERC Report appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-02T20:05:23+00:00"
     },
     {
       "id": "c30726712c3a4ed5",
@@ -171,6 +201,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-02T14:20:02+00:00"
+    },
+    {
+      "id": "9b883cbd5fb7b7ab",
+      "title": "Drivers will pay the price for Trump\u2019s fuel economy rollbacks",
+      "link": "https://www.canarymedia.com/articles/transportation/drivers-pay-price-trump-fuel-economy-rollbacks",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday  .  This week, the Transportation Department finalized its plan to roll back fuel efficiency standards for automobiles. Automakers will now be required to achieve an average fuel efficiency of 34.9 miles per\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-02T14:00:00+00:00"
     },
     {
       "id": "59821069f2436679",
@@ -301,6 +341,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-02T07:30:00+00:00"
+    },
+    {
+      "id": "94fb53886ab7e504",
+      "title": "Where does balcony solar stand in your state?",
+      "link": "https://www.canarymedia.com/articles/solar/states-passing-balcony-solar-laws",
+      "summary": "This article was originally published on April 6, 2026, and last updated on Oct. 2, 2026.  Balcony solar is one of the hottest ideas in renewable energy right now. Boosters say the systems \u2014 DIY kits that can be plugged right into a standard outlet \u2014 save users money without any need for subsidies, government\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-02T07:00:00+00:00"
     },
     {
       "id": "fdf1590613b3dece",
@@ -6171,16 +6221,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-12T10:00:00+00:00"
-    },
-    {
-      "id": "0b2be1a1822cf4be",
-      "title": "xAI has quietly built a massive battery at its Memphis data center hub",
-      "link": "https://www.canarymedia.com/articles/batteries/xai-massive-battery-memphis-data-center",
-      "summary": "Elon Musk\u2019s SpaceXAI has built what may be the biggest battery in the U.S. at its controversial Memphis AI computing hub.  The exact size of the battery is unclear. Canary Media counted 720 Tesla Megapack battery containers visible on the grounds of the Colossus 2 data center in satellite imagery dated July 11. That\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-11T22:00:00+00:00"
     }
   ]
 }
