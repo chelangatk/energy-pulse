@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T00:21:03.241706+00:00",
-  "count": 622,
+  "generated_at": "2026-10-04T16:28:08.770601+00:00",
+  "count": 621,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-04T00:20:59.935622+00:00"
+      "published": "2026-10-04T16:28:05.625433+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-04T00:20:59.935615+00:00"
+      "published": "2026-10-04T16:28:05.625426+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-04T00:20:59.935606+00:00"
+      "published": "2026-10-04T16:28:05.625417+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-04T00:20:59.935588+00:00"
+      "published": "2026-10-04T16:28:05.625391+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-04T00:20:58.158316+00:00"
+      "published": "2026-10-04T16:28:03.672211+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-04T00:20:56.925152+00:00"
+      "published": "2026-10-04T16:28:02.903167+00:00"
+    },
+    {
+      "id": "8976e73f3be05c41",
+      "title": "FERC Rejects TransAlta\u2019s Cost-recovery Request for Centralia Coal Plant",
+      "link": "https://www.rtoinsider.com/147314-ferc-rejects-transaltas-cost-recovery-request-centralia-coal-plant/",
+      "summary": "FERC rejected TransAlta\u2019s proposal for recovering costs related to DOE orders to keep the coal-fired Centralia power plant in Washington state open past its planned retirement date.\nThe post FERC Rejects TransAlta\u2019s Cost-recovery Request for Centralia Coal Plant appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-04T16:03:56+00:00"
+    },
+    {
+      "id": "b8403229bbb6b094",
+      "title": "America\u2019s AI race won\u2019t be won by hitting pause on data centers",
+      "link": "https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/",
+      "summary": "A moratorium mistake",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-04T14:26:00+00:00"
     },
     {
       "id": "de8189d9f72ca5f2",
@@ -97,6 +117,16 @@
       "title": "CAISO, SPP Say They Are \u2018Committed\u2019 to Seams Solution in FERC Report",
       "link": "https://www.rtoinsider.com/147306-caiso-spp-release-report-on-dam-seams/",
       "summary": "CAISO and SPP have submitted their joint report on market seams to FERC, saying they have worked extensively on the issue while acknowledging that questions about governance \u201cwill need consideration.\"\nThe post CAISO, SPP Say They Are \u2018Committed\u2019 to Seams Solution in FERC Report appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-02T20:05:23+00:00"
+    },
+    {
+      "id": "e68f3f69529d8301",
+      "title": "CAISO, SPP Say they are \u2018Committed\u2019 to Seams Solution in FERC Report",
+      "link": "https://www.rtoinsider.com/147306-caiso-spp-release-report-on-dam-seams/",
+      "summary": "CAISO and SPP have submitted their joint report on market seams to FERC, saying they have worked extensively on the issue while acknowledging that questions about governance \u201cwill need consideration.\"\nThe post CAISO, SPP Say they are \u2018Committed\u2019 to Seams Solution in FERC Report appeared first on RTO Insider.",
       "source": "RTO Insider",
       "category": "Trade Press",
       "region": "National",
@@ -6181,46 +6211,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-13T22:43:54+00:00"
-    },
-    {
-      "id": "78e5ce2a2e60ce34",
-      "title": "How retrofitting can help win the AI infrastructure race",
-      "link": "https://www.datacenterdynamics.com/en/opinions/how-retrofitting-can-help-win-the-ai-infrastructure-race/",
-      "summary": "Stop building, start upgrading",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-13T16:00:27+00:00"
-    },
-    {
-      "id": "42bcbe2c4b8de7aa",
-      "title": "Attackers already understand your software supply chain better than you do",
-      "link": "https://www.datacenterdynamics.com/en/opinions/attackers-already-understand-your-software-supply-chain-better-than-you-do/",
-      "summary": "And AI is only making these attackers smarter",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-13T14:00:31+00:00"
-    },
-    {
-      "id": "6686e9df417e7fbb",
-      "title": "From grid constraint to grid asset: Rethinking the path to data center power",
-      "link": "https://www.datacenterdynamics.com/en/opinions/from-grid-constraint-to-grid-asset-rethinking-the-path-to-data-center-power/",
-      "summary": "Stop asking for permission and start offering solutions",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-13T11:00:30+00:00"
-    },
-    {
-      "id": "f9ad86a74cf7d446",
-      "title": "Sponsored: From pilot to production: Direct liquid cooling deployment risks in AI data center cooling",
-      "link": "https://www.datacenterdynamics.com/en/opinions/from-pilot-to-production-direct-liquid-cooling-deployment-risks-in-ai-data-center-cooling/",
-      "summary": "Examining the top eight challenges of direct liquid cooling vs air cooling data centers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-13T07:00:00+00:00"
     }
   ]
 }
