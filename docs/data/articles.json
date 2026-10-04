@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:44:34.667343+00:00",
+  "generated_at": "2026-10-04T00:21:03.241706+00:00",
   "count": 622,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-03T15:44:31.905128+00:00"
+      "published": "2026-10-04T00:20:59.935622+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-03T15:44:31.905117+00:00"
+      "published": "2026-10-04T00:20:59.935615+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-03T15:44:31.905104+00:00"
+      "published": "2026-10-04T00:20:59.935606+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-03T15:44:31.905075+00:00"
+      "published": "2026-10-04T00:20:59.935588+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-03T15:44:30.332173+00:00"
+      "published": "2026-10-04T00:20:58.158316+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-03T15:44:29.334922+00:00"
+      "published": "2026-10-04T00:20:56.925152+00:00"
     },
     {
       "id": "de8189d9f72ca5f2",
@@ -186,7 +186,7 @@
       "id": "376c53c7c45fce48",
       "title": "Cities, states sue EPA over power plant emissions rollback",
       "link": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
-      "summary": "Chicago, Denver and New York City joined multistate lawsuits challenging the agency\u2019s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
+      "summary": "Chicago, Denver and New York City join multistate lawsuits challenging the agency\u2019s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -656,7 +656,7 @@
       "id": "ad17dee14303e1a6",
       "title": "Senate permitting bill would expand federal role in transmission siting",
       "link": "https://www.utilitydive.com/news/senate-permitting-bill-would-expand-federal-role-in-electric-transmission-s/831886/",
-      "summary": "The legislation gives FERC authority to issue permits for\u00a0transmission projects when they are in the public interest. It also eliminates NIETCs and the federal right of first refusal for incumbent utilities and\u00a0protects existing federal permits.",
+      "summary": "The legislation gives FERC authority to issue permits for\u00a0transmission projects when it is in the public interest. It also eliminates NIETCs and the federal right of first refusal for incumbent utilities, and\u00a0protects existing federal permits.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
