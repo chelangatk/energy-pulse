@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T16:28:08.770601+00:00",
-  "count": 621,
+  "generated_at": "2026-10-05T00:25:09.635039+00:00",
+  "count": 623,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-04T16:28:05.625433+00:00"
+      "published": "2026-10-05T00:25:06.668872+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-04T16:28:05.625426+00:00"
+      "published": "2026-10-05T00:25:06.668857+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-04T16:28:05.625417+00:00"
+      "published": "2026-10-05T00:25:06.668840+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-04T16:28:05.625391+00:00"
+      "published": "2026-10-05T00:25:06.668807+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-04T16:28:03.672211+00:00"
+      "published": "2026-10-05T00:25:04.615205+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-04T16:28:02.903167+00:00"
+      "published": "2026-10-05T00:25:03.315662+00:00"
+    },
+    {
+      "id": "407fbff644b8d569",
+      "title": "Electric Vehicles\u2019 Grid Demand Growing More Slowly in 2026",
+      "link": "https://www.rtoinsider.com/147186-electric-vehicles-grid-demand-growing-more-slowly-in-2026/",
+      "summary": "An estimated 13.67 TWh was used to charge light-duty EVs in the first half of 2026, 8% more than was used in the second half of 2025.\nThe post Electric Vehicles\u2019 Grid Demand Growing More Slowly in 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-04T19:38:06+00:00"
+    },
+    {
+      "id": "c487672469d29bff",
+      "title": "FERC Approves Updated IBR Ride-through Standard",
+      "link": "https://www.rtoinsider.com/147301-ferc-approves-updated-ibr-ride-through-standard/",
+      "summary": "FERC approved NERC's changes to address concerns over legacy IBRs, in-progress construction and wind turbines equipped with choppers.\nThe post FERC Approves Updated IBR Ride-through Standard appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-04T18:54:44+00:00"
+    },
+    {
+      "id": "7d17934d157b7d78",
+      "title": "CAISO, PG&E Spar Over \u2018Large Loads\u2019 Definition",
+      "link": "https://www.rtoinsider.com/147193-caiso-pge-spar-over-large-loads-definition/",
+      "summary": "CAISO and Pacific Gas and Electric representatives butted heads at a meeting over the ISO\u2019s proposed \"large load\" definition as artificial intelligence data centers pound at the door of the Golden State\u2019s grid.\nThe post CAISO, PG&E Spar Over \u2018Large Loads\u2019 Definition appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-04T18:18:04+00:00"
+    },
+    {
+      "id": "965eb9c891b35821",
+      "title": "States Demand FERC Action on Year-old Complaint Against MISO Long-range Tx",
+      "link": "https://www.rtoinsider.com/147280-states-demand-ferc-action-complaint-miso-long-range-tx/",
+      "summary": "An attorney for the member states that lodged a complaint in 2025 to deconstruct MISO\u2019s $22 billion long-range transmission portfolio has called on FERC to act on the filing.\nThe post States Demand FERC Action on Year-old Complaint Against MISO Long-range Tx appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-04T18:15:34+00:00"
+    },
+    {
+      "id": "1bf39f50c41702a2",
+      "title": "FERC Leaves Fuel Question to States; Virginia\u2019s Order Doesn\u2019t Answer it",
+      "link": "https://www.rtoinsider.com/147308-ferc-leaves-fuel-question-states-virginia-order-doesnt-answer-it/",
+      "summary": "Dominion's 944 MW Chesterfield Energy Reliability Center holds an SCC certificate that is on appeal to the Supreme Court of Virginia, and the pipeline capacity its fuel subsidiary signed for after the hearing closed is before FERC with no order.\nThe post FERC Leaves Fuel Question to States; Virginia\u2019s Order Doesn\u2019t Answer it appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-04T18:08:59+00:00"
+    },
+    {
+      "id": "ec9f9d58dd7ff045",
+      "title": "D.C. Circuit Rejects Basin\u2019s Appeal of Northwest Rural\u2019s Withdrawal from Tri-State",
+      "link": "https://www.rtoinsider.com/147304-dc-circuit-rejects-basins-appeal-northwest-rural-withdrawal-tri-state/",
+      "summary": "A three-judge panel of the D.C. Circuit Court of Appeals rejected Basin Electric Power Cooperative\u2019s appeal of FERC approving Northwest Rural Public Power District\u2019s withdrawal from Tri-State Generation and Transmission Association.\nThe post D.C. Circuit Rejects Basin\u2019s Appeal of Northwest Rural\u2019s Withdrawal from Tri-State appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-04T17:25:01+00:00"
+    },
+    {
+      "id": "fde1a0dad258d327",
+      "title": "New England States See Opportunity for Nuclear Development",
+      "link": "https://www.rtoinsider.com/147337-new-england-states-see-opportunity-nuclear-development/",
+      "summary": "Amid growing interest in new nuclear resources in New England, representatives of the six New England states convened to express support for nuclear energy and discuss opportunities for nuclear development.\nThe post New England States See Opportunity for Nuclear Development appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-04T17:11:58+00:00"
+    },
+    {
+      "id": "5305de93b3b7ed5d",
+      "title": "ISO-NE Outlines 2027 Annual Work Plan",
+      "link": "https://www.rtoinsider.com/147339-iso-ne-outlines-2027-annual-work-plan/",
+      "summary": "Capacity auction reforms, large load rules, transmission planning and establishing a new dynamic operating reserve product will make up much of ISO-NE\u2019s workload in 2027.\nThe post ISO-NE Outlines 2027 Annual Work Plan appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-04T16:47:41+00:00"
     },
     {
       "id": "8976e73f3be05c41",
@@ -6151,66 +6231,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-14T07:30:00+00:00"
-    },
-    {
-      "id": "4be40d897b9edf1d",
-      "title": "California \u2018Affordability Crisis\u2019 Needs Attention, Report Says",
-      "link": "https://www.rtoinsider.com/142857-california-affordability-crisis-needs-attention-report-says/",
-      "summary": "While California electricity rates are about twice those in much of the rest of the U.S., many solutions are available to address the state\u2019s growing energy affordability problem \u2014 and some within months, according to a new report.\nThe post California \u2018Affordability Crisis\u2019 Needs Attention, Report Says appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-13T22:50:21+00:00"
-    },
-    {
-      "id": "4a0301e3c1b0b28a",
-      "title": "MISO South States Want Removal of Majority/Minority Labels in OMS Docs",
-      "link": "https://www.rtoinsider.com/143128-miso-south-states-want-removal-of-majority-minority-labels-in-oms-docs/",
-      "summary": "MISO South states are pushing for a change in the Organization of MISO States bylaws that would eradicate the organization\u2019s longstanding practice of recognizing majority and minority opinions among state regulators.\nThe post MISO South States Want Removal of Majority/Minority Labels in OMS Docs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-13T22:49:12+00:00"
-    },
-    {
-      "id": "6d632bb34755948e",
-      "title": "MISO Stakeholders Demand Better Cost Allocation for Transmission Spurred by Large Loads",
-      "link": "https://www.rtoinsider.com/143136-stakeholders-demand-better-miso-allocation-plan-for-large-loads-spawning-costly-reliability-tx-projects/",
-      "summary": "Stakeholders told MISO that cost-shifting among transmission customers to bring large loads online seems to already be taking place in the form of expensive reliability-based transmission projects that wouldn\u2019t be necessary but for data centers and their ilk.\nThe post MISO Stakeholders Demand Better Cost Allocation for Transmission Spurred by Large Loads appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-13T22:48:13+00:00"
-    },
-    {
-      "id": "993b0bad7b67e6b7",
-      "title": "Longer-duration Energy Storage Faces Obstacles Entering Ripe Market",
-      "link": "https://www.rtoinsider.com/143159-longer-duration-energy-storage-faces-obstacles-entering-ripe-market/",
-      "summary": "Longer-duration energy storage technologies are advancing faster than market designs that can support its use, analysts say.\nThe post Longer-duration Energy Storage Faces Obstacles Entering Ripe Market appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-13T22:45:40+00:00"
-    },
-    {
-      "id": "6389112dc4e8849e",
-      "title": "Constellation Buying Shell Plant to Boost ISO-NE Position",
-      "link": "https://www.rtoinsider.com/143197-constellation-buying-shell-plant-to-boost-iso-ne-position/",
-      "summary": "Shell Energy North America is selling natural gas-fired generation in Rhode Island and buying it in Pennsylvania.\nThe post Constellation Buying Shell Plant to Boost ISO-NE Position appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-13T22:44:56+00:00"
-    },
-    {
-      "id": "3e852902c4fa9484",
-      "title": "NEPOOL Debates Changes to ISO-NE Accreditation Proposal",
-      "link": "https://www.rtoinsider.com/143203-nepool-debates-changes-to-iso-ne-accreditation-proposal/",
-      "summary": "The NEPOOL Markets Committee debated CAR-SA amendments that would affect energy storage capacity accreditation, gas contracting requirements and other auction parameters.\nThe post NEPOOL Debates Changes to ISO-NE Accreditation Proposal appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-13T22:43:54+00:00"
     }
   ]
 }
