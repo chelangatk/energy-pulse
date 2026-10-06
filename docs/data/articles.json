@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-05T20:23:46.759096+00:00",
+  "generated_at": "2026-10-06T02:02:44.137451+00:00",
   "count": 631,
   "articles": [
+    {
+      "id": "0749e2ff1d931346",
+      "title": "DCD Connect London 2026 Analyst Report",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/dcd-connect-london-2026-analyst-report/",
+      "summary": "Six key takeaways from this year's event",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-06T06:00:00+00:00"
+    },
     {
       "id": "623b1a9c6e498a89",
       "title": "Auction Reports and Supporting Data",
@@ -10,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-05T20:23:42.781185+00:00"
+      "published": "2026-10-06T02:02:39.737894+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-05T20:23:42.781171+00:00"
+      "published": "2026-10-06T02:02:39.737880+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-05T20:23:42.781153+00:00"
+      "published": "2026-10-06T02:02:39.737863+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +50,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-05T20:23:42.781127+00:00"
+      "published": "2026-10-06T02:02:39.737832+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +60,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-05T20:23:40.539256+00:00"
+      "published": "2026-10-06T02:02:37.868650+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +70,107 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-05T20:23:39.146238+00:00"
+      "published": "2026-10-06T02:02:36.372839+00:00"
+    },
+    {
+      "id": "3d1a0b415d4631c7",
+      "title": "SCOTUS Considers Constitutionality of State, Local Climate Lawsuits",
+      "link": "https://www.rtoinsider.com/147436-scotus-hears-arguments-constitutionality-climate-lawsuits/",
+      "summary": "The U.S. Supreme Court\u2019s fall term opened with oral arguments over whether federal law allows communities to sue fossil fuel producers for alleged damages from climate change.\nThe post SCOTUS Considers Constitutionality of State, Local Climate Lawsuits appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T23:41:11+00:00"
+    },
+    {
+      "id": "2b6cf6717ffb4029",
+      "title": "Former DOE Employees Tabulate Stalled Grants",
+      "link": "https://www.rtoinsider.com/147442-former-doe-employees-tabulate-stalled-grants/",
+      "summary": "An organization of former Department of Energy employees said in a new report that many DOE grants remain functionally frozen.\nThe post Former DOE Employees Tabulate Stalled Grants appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T23:34:21+00:00"
+    },
+    {
+      "id": "3cdd4c7f99d3e76a",
+      "title": "ISO-NE Developers Challenge Cluster Study After \u2018Project-killing Costs\u2019",
+      "link": "https://www.rtoinsider.com/147432-iso-ne-developers-challenge-cluster-study-after-project-killing-costs/",
+      "summary": "A group of project developers filed a complaint with FERC about ISO-NE\u2019s first cluster study conducted under Order 2023 rules, arguing that structural issues with the study methodology led to exorbitant interconnection cost estimates.\nThe post ISO-NE Developers Challenge Cluster Study After \u2018Project-killing Costs\u2019 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T23:25:06+00:00"
+    },
+    {
+      "id": "9051cbc71de02408",
+      "title": "Toronto Third Line Cost Proposal Uses Capped Risk-Sharing Model",
+      "link": "https://www.rtoinsider.com/147312-toronto-third-line-cost-plan-uses-capped-risk-sharing-model/",
+      "summary": "IESO\u2019s latest proposal would determine how Target Cost overruns are divided between the winning transmitter and ratepayers and establish a ceiling on ratepayer exposure to those overruns.\nThe post Toronto Third Line Cost Proposal Uses Capped Risk-Sharing Model appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T23:03:16+00:00"
+    },
+    {
+      "id": "5aa57d1a788daa8c",
+      "title": "MISO, SPP, PJM Float Replacement for 2004 Freeze Date",
+      "link": "https://www.rtoinsider.com/147448-miso-spp-pjm-float-new-replacement-2004-freeze-date/",
+      "summary": "MISO, SPP and PJM are taking another stab at replacing a 22-year view of their systems to portion out firm rights on transmission lines.\nThe post MISO, SPP, PJM Float Replacement for 2004 Freeze Date appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T22:34:58+00:00"
+    },
+    {
+      "id": "0e9323a5f0c66519",
+      "title": "Powering the Grid from Both Ends: Why Big Tech\u2019s Nuclear Gamble Needs Energy Efficiency",
+      "link": "https://www.rtoinsider.com/147430-powering-grid-both-ends-why-big-techs-nuclear-gamble-needs-energy-efficiency/",
+      "summary": "Data centers are sprouting everywhere, bringing massive demands for electricity. In response, Google recently partnered with Georgia Power to finance capacity uprates at a nuclear power through a new subscription program.\nThe post Powering the Grid from Both Ends: Why Big Tech\u2019s Nuclear Gamble Needs Energy Efficiency appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T22:29:49+00:00"
+    },
+    {
+      "id": "636fccae769faf7a",
+      "title": "NYISO: Aging Generation \u2018No Longer a Future Concern\u2019",
+      "link": "https://www.rtoinsider.com/147318-nyiso-aging-generation-no-longer-a-future-concern/",
+      "summary": "NYISO included a dire warning in the latest draft of its 2026 Reliability Needs Assessment: \u201cImmediate action\u201d is needed to lower its future loss-of-load expectation.\nThe post NYISO: Aging Generation \u2018No Longer a Future Concern\u2019 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T22:26:18+00:00"
+    },
+    {
+      "id": "ce9fc99667c054bb",
+      "title": "DOE to Loan Vistra up to $4.2B for Nuclear Upgrades",
+      "link": "https://www.rtoinsider.com/147440-doe-to-loan-vistra-nuclear-plant-upgrades/",
+      "summary": "The Department of Energy will loan Vistra up to $4.2 billion to upgrade and uprate three of its nuclear power plants in Ohio and Pennsylvania.\nThe post DOE to Loan Vistra up to $4.2B for Nuclear Upgrades appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T22:03:53+00:00"
+    },
+    {
+      "id": "8f39cfd436d804c0",
+      "title": "SPS OK\u2019d to Replace Coal Plant with 3.7 GW New Generation",
+      "link": "https://www.rtoinsider.com/147438-sps-replace-coal-plant-new-generation/",
+      "summary": "Texas regulators have approved Southwestern Public Service Co.\u2019s request to add more than 3,700 MW of new generation to replace an aging coal plant that dates to the early 1980s.\nThe post SPS OK\u2019d to Replace Coal Plant with 3.7 GW New Generation appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T21:38:31+00:00"
+    },
+    {
+      "id": "3b81476d904b48e9",
+      "title": "Markets+ Independents Want Governance Issues Resolved",
+      "link": "https://www.rtoinsider.com/147182-spp-markets-independents-want-governance-issues-resolved/",
+      "summary": "Markets+ participants in the independent sector have been given extra time to continue working on a compromise that protects their voting rights along with the governance rights of IOUs and public power utilities.\nThe post Markets+ Independents Want Governance Issues Resolved appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-05T21:31:33+00:00"
     },
     {
       "id": "d2a2ceec8bc85fb9",
@@ -86,7 +196,7 @@
       "id": "6512b81dde64463c",
       "title": "Virginia hearing examiner tells Dominion to release memo on FPL investigation",
       "link": "https://www.utilitydive.com/news/virginia-hearing-examiner-tells-dominion-to-release-memo-on-fpl-investigati/832149/",
-      "summary": "Dominion said it wasn\u2019t relevant to its merger with NextEra Energy, but Clean Virginia, a customer advocacy group, said it spoke to the governance \u201cfitness\u201d of the potential combined company.",
+      "summary": "Dominion said the memo wasn\u2019t relevant to its merger with NextEra Energy, but Clean Virginia, a customer advocacy group, said it speaks to the governance \u201cfitness\u201d of the potential combined company.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -176,7 +286,7 @@
       "id": "840be9992f410e51",
       "title": "Rising interest rates challenge utility financing plans, US Bank managing director says",
       "link": "https://www.utilitydive.com/news/rising-interest-rates-utility-financing-us-bank/832131/",
-      "summary": "For utilities, keeping capital expenditures well-balanced is \u201cgoing to be a little more challenging with [interest] rates going higher as quickly as they have,\u201d\u00a0said Tim Keller, managing director of U.S. Bank\u2019s power and utilities group.",
+      "summary": "For utilities, rapidly rising interest rates will make keeping capital expenditures well-balanced \u201ca little more challenging,\u201d said Tim Keller, managing director of U.S. Bank\u2019s power and utilities group.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -206,7 +316,7 @@
       "id": "0da797c001dbe6e3",
       "title": "MISO proposes fast-track large load, generation study process",
       "link": "https://www.utilitydive.com/news/miso-large-load-generation-study-lars-ferc/832114/",
-      "summary": "The 120-day study process would be available for loads larger than 200 MW and new generation that *are*>is* in the same local resource zone, which generally cover individual states.",
+      "summary": "The 120-day study process would be available for loads larger than 200 MW and new generation that is in the same local resource zone, which generally consists of individual states.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6201,116 +6311,6 @@
       "category": "ISO/RTO",
       "region": "National",
       "published": "2026-09-15T09:00:00+00:00"
-    },
-    {
-      "id": "1994fcd029f25c0d",
-      "title": "ERCOT Completes Batch Zero Conditional Classification",
-      "link": "https://www.rtoinsider.com/143214-ercot-completes-batch-zero-condition-classification/",
-      "summary": "ERCOT has completed a conditional classification of 362 large load interconnection requests, totaling 191.8 GW of load, with 204 projects and 66.4 GW listed as base load and eligible for Batch Zero.\nThe post ERCOT Completes Batch Zero Conditional Classification appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T00:16:14+00:00"
-    },
-    {
-      "id": "1d047091e18c2729",
-      "title": "EPA Stops Short of Eliminating All GHG Standards \u2014 for Now",
-      "link": "https://www.rtoinsider.com/143528-epa-stops-short-eliminating-all-ghg-standards-for-now/",
-      "summary": "EPA Administrator Lee Zeldin says the agency seeks to repeal all remaining standards for greenhouse gas emissions from the power sector under Section 111 of the Clean Air Act.\nThe post EPA Stops Short of Eliminating All GHG Standards \u2014 for Now appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T00:10:29+00:00"
-    },
-    {
-      "id": "e73885f80ed39a1f",
-      "title": "PJM Proposes Large Load Ride-through Requirements",
-      "link": "https://www.rtoinsider.com/143564-pjm-proposes-large-load-ride-through-requirements/",
-      "summary": "PJM has proposed requirements for how large loads are expected to respond during voltage and frequency disturbances in the wake of nearly 4 GW of data centers abruptly dropping off the grid when a nearby transmission line tripped in July.\nThe post PJM Proposes Large Load Ride-through Requirements appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-14T23:29:19+00:00"
-    },
-    {
-      "id": "680f01a4eae43ed6",
-      "title": "Pennsylvania PUC to Revamp Key Policies Linked to Large Loads",
-      "link": "https://www.rtoinsider.com/143511-pennsylvania-puc-revamp-key-policies-large-loads/",
-      "summary": "The Pennsylvania Public Utility Commission will swiftly relook at its cost allocation and emergency load control procedures in a direct response to Democratic Gov. Josh Shapiro\u2019s hardening stance on data center development.\nThe post Pennsylvania PUC to Revamp Key Policies Linked to Large Loads appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-14T23:08:21+00:00"
-    },
-    {
-      "id": "fd1ebeadf95531c5",
-      "title": "CISA Adds AI, Remote Work to Insider Threat Guide",
-      "link": "https://www.rtoinsider.com/143349-cisa-adds-ai-remote-work-insider-threat-guide/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency updated its insider threat guidance to account for technological developments since 2020.\nThe post CISA Adds AI, Remote Work to Insider Threat Guide appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-14T22:49:05+00:00"
-    },
-    {
-      "id": "d8ec288a31030b40",
-      "title": "Energy Storage Canada Proposes New Track for Ontario BTM Batteries",
-      "link": "https://www.rtoinsider.com/143286-energy-storage-canada-proposes-new-track-ontario-btm-batteries/",
-      "summary": "Ontario has built a large utility-scale battery market, but Energy Storage Canada, a trade association that promotes the advancement of Canada\u2019s storage sector, says the province still lacks a comparable way to procure batteries behind commercial and industrial meters as dependable capacity.\nThe post Energy Storage Canada Proposes New Track for Ontario BTM Batteries appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-14T22:31:39+00:00"
-    },
-    {
-      "id": "69a25397dba565c6",
-      "title": "NYISO Finds Reliability Deficiencies in RNA Base Case Results",
-      "link": "https://www.rtoinsider.com/143282-nyiso-finds-reliability-deficiencies-rna-base-case-results/",
-      "summary": "The base case results of NYISO\u2019s 2026 Reliability Needs Assessment show the state will be 200 MW short by 2033, increasing to 1,800 MW by 2036.\nThe post NYISO Finds Reliability Deficiencies in RNA Base Case Results appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-14T21:59:22+00:00"
-    },
-    {
-      "id": "cc432a707f2f431e",
-      "title": "NextEra, Dominion Expand Merger Commitments for Virginia",
-      "link": "https://www.rtoinsider.com/143357-nextera-dominion-expand-merger-commitments-for-virginia/",
-      "summary": "NextEra and Dominion doubled proposed residential credits, promised to add jobs to Virginia, and committed to data centers paying their fair share after getting feedback on their merger proposal.\nThe post NextEra, Dominion Expand Merger Commitments for Virginia appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-14T21:46:08+00:00"
-    },
-    {
-      "id": "0b4cf00b96bae2dc",
-      "title": "Why More Generation for PJM Doesn\u2019t Require a Return to Utility Ownership",
-      "link": "https://www.rtoinsider.com/143199-why-more-generation-pjm-doesnt-require-return-to-utility-ownership/",
-      "summary": "Policymakers are hearing arguments that vertically integrated utilities once again should build generation in states that deliberately separated monopoly electricity delivery from competitive power generation three decades ago. This would be a bad idea, EPSA CEO Todd Snitchler writes.\nThe post Why More Generation for PJM Doesn\u2019t Require a Return to Utility Ownership appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-14T21:44:20+00:00"
-    },
-    {
-      "id": "c571877d3ca6c9cf",
-      "title": "CPUC Asks CAISO to Prevent Gaming Behavior in Large Loads Proposal",
-      "link": "https://www.rtoinsider.com/143220-cpuc-asks-caiso-prevent-gaming-behavior-large-loads-proposal/",
-      "summary": "The California Public Utilities Commission is asking CAISO to prevent gaming tactics under the new large loads straw proposal.\nThe post CPUC Asks CAISO to Prevent Gaming Behavior in Large Loads Proposal appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-14T21:16:36+00:00"
-    },
-    {
-      "id": "731f6e465ba2ef18",
-      "title": "NYISO to Large Loads: Please Bring Your Own Generation",
-      "link": "https://www.rtoinsider.com/142329-nyiso-to-large-loads-please-bring-generation/",
-      "summary": "NYISO\u2019s new large load integration process would involve increased readiness obligations for such projects, a new Bulk Electric Large Load study process and a new \u201cnon-firm withdrawal\u201d service for loads that do not bring new generation to the grid.\nThe post NYISO to Large Loads: Please Bring Your Own Generation appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-14T21:12:17+00:00"
     }
   ]
 }
