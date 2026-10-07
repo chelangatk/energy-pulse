@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T17:57:27.188321+00:00",
-  "count": 624,
+  "generated_at": "2026-10-07T01:11:57.925911+00:00",
+  "count": 623,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-06T17:57:23.429764+00:00"
+      "published": "2026-10-07T01:11:54.914858+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-06T17:57:23.429757+00:00"
+      "published": "2026-10-07T01:11:54.914843+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-06T17:57:23.429748+00:00"
+      "published": "2026-10-07T01:11:54.914825+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-06T17:57:23.429729+00:00"
+      "published": "2026-10-07T01:11:54.914795+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-06T17:57:21.657468+00:00"
+      "published": "2026-10-07T01:11:53.432154+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,97 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-06T17:57:20.923812+00:00"
+      "published": "2026-10-07T01:11:52.407864+00:00"
+    },
+    {
+      "id": "5af0ca48800bf826",
+      "title": "Alabama Regulators Greenlight Framework for Data Center Decisions",
+      "link": "https://www.rtoinsider.com/147534-alabama-regulators-greenlight-framework-data-center-decisions/",
+      "summary": "The Alabama Public Service Commission approved a framework for handling large load contracts that requires Alabama Power to disclose data centers\u2019 names and their expected peak power demands, but does not include an actual tariff template.\nThe post Alabama Regulators Greenlight Framework for Data Center Decisions appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-07T00:51:45+00:00"
+    },
+    {
+      "id": "61c2d54e24037dd5",
+      "title": "EIA Releases Mixed Forecast for Winter Heating Bills",
+      "link": "https://www.rtoinsider.com/147540-eia-releases-mixed-forecast-winter-heating-bills/",
+      "summary": "The U.S. Energy Information Administration's 2026/27 Winter Fuels Outlook forecasts a mixed bag of heating bills for consumers this winter depending on their fuel and region.\nThe post EIA Releases Mixed Forecast for Winter Heating Bills appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-06T23:25:59+00:00"
+    },
+    {
+      "id": "ff62b670ff88c6a2",
+      "title": "Canada Cold Weather Standard Revisions Pass Final Ballot",
+      "link": "https://www.rtoinsider.com/147529-canada-cold-weather-standard-revisions-pass-final-ballot/",
+      "summary": "Stakeholders have approved the final ballot on a proposed Canada-specific update to one of NERC's cold weather standards.\nThe post Canada Cold Weather Standard Revisions Pass Final Ballot appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-06T23:24:43+00:00"
+    },
+    {
+      "id": "36bfa2800a8560f0",
+      "title": "Google, Constellation Sign PPAs Totaling 3,590 MW",
+      "link": "https://www.rtoinsider.com/147527-constellation-google-plan-890mw-nuclear-uprates-pjm-territory/",
+      "summary": "The power purchase agreements entail 890 MW from nuclear uprates and 2,700 MW from existing power generation in the PJM grid.\nThe post Google, Constellation Sign PPAs Totaling 3,590 MW appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-06T22:52:37+00:00"
+    },
+    {
+      "id": "1b82c54bd0d3d847",
+      "title": "OMS Shuts Down Southern Push for Neutral Docs without Unanimity",
+      "link": "https://www.rtoinsider.com/147550-oms-shuts-down-southern-push-neutral-docs-without-unanimity/",
+      "summary": "A majority of members in the Organization of MISO States abruptly halted MISO South members\u2019 attempt to make OMS position documents neutral in nature unless they are unanimously accepted.\nThe post OMS Shuts Down Southern Push for Neutral Docs without Unanimity appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-06T22:44:06+00:00"
+    },
+    {
+      "id": "1790e9f6e3832686",
+      "title": "ROE Debated at N.J. Utility Reform Hearings",
+      "link": "https://www.rtoinsider.com/147310-roe-debated-new-jersey-utility-reform-hearings/",
+      "summary": "New Jersey officials trying to create a model for determining how utilities should operate faced contentious pushback from stakeholders in a recent public hearing, particularly over how much return on equity utilities should earn.\nThe post ROE Debated at N.J. Utility Reform Hearings appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-06T22:11:17+00:00"
+    },
+    {
+      "id": "22a946eb8b789f34",
+      "title": "Ariz. Commissioner Stands Firm on Markets+ Support",
+      "link": "https://www.rtoinsider.com/147532-ariz-commissioner-stands-firm-markets-support/",
+      "summary": "Arizona Corporation Commission Chair Nick Myers is firing back on speculation that Arizona is wavering in its choice of SPP\u2019s Markets+ rather than CAISO\u2019s Extended Day-Ahead Market.\nThe post Ariz. Commissioner Stands Firm on Markets+ Support appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-06T22:05:55+00:00"
+    },
+    {
+      "id": "e164610250bcc5c5",
+      "title": "Tesla is now making more EVs that can double as a home battery",
+      "link": "https://www.canarymedia.com/articles/electric-vehicles/tesla-evs-as-home-battery",
+      "summary": "Households and the power grid run on alternating current. Batteries \u2014 including those in electric vehicles \u2014 run on direct current. That AC-DC divide has complicated the prospect of EVs as home backup batteries.  Today, almost every commercially available vehicle-to-home (V2H) backup power system in the U.S. requires\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-06T21:00:00+00:00"
+    },
+    {
+      "id": "a13e9bb48d43ebbd",
+      "title": "Denver-Based Fusion Group Receives $30.5-Million Award from DOE",
+      "link": "https://www.powermag.com/denver-based-fusion-group-receives-30-5-million-award-from-doe/",
+      "summary": "Fusion energy company Xcimer Energy said it has finalized an agreement for up to $30.5 million in additional federal funding through the U.S. Department of Energy\u2019s (DOE\u2019s) Milestone-Based Fusion Development Program. The new DOE award, announced October 6, is for the program\u2019s second budget period. It brings the total DOE funding for potential Milestone payments [\u2026]\nThe post Denver-Based Fusion Gr",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-06T19:58:54+00:00"
     },
     {
       "id": "427407a182a7579d",
@@ -6141,106 +6231,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-16T07:00:00+00:00"
-    },
-    {
-      "id": "f34b01c758248688",
-      "title": "ISO-NE, States Proceeding with LTTP Selection",
-      "link": "https://www.rtoinsider.com/143679-iso-ne-states-proceeding-with-lttp-selection/",
-      "summary": "ISO-NE and the New England states are proceeding with the selection of a $2.2 billion transmission project proposed by Avangrid and Eversource Energy.\nThe post ISO-NE, States Proceeding with LTTP Selection appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-16T00:19:46+00:00"
-    },
-    {
-      "id": "3a0938d3fe7e6232",
-      "title": "PJM Curtailment Proposal Draws Protest From Ohio Consumer Representative",
-      "link": "https://www.rtoinsider.com/143517-pjm-curtailment-proposal-draws-protest-ohio-consumer-rep/",
-      "summary": "Ohio\u2019s statutory ratepayer advocate is calling on FERC to reject parts of a PJM proposal intended to manage temporary electricity shortages if large load power demands strain the grid.\nThe post PJM Curtailment Proposal Draws Protest From Ohio Consumer Representative appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T23:57:56+00:00"
-    },
-    {
-      "id": "74fc36931d76cf79",
-      "title": "Montana Lawmakers Prep Data Center Ratepayer Protection Bill",
-      "link": "https://www.rtoinsider.com/143581-montana-legislators-propose-protections-data-centers-consumers/",
-      "summary": "Montana lawmakers are moving forward with legislation designed to shield residential electric utility ratepayers from the costs to accommodate power-hungry data centers and other large load customers.\nThe post Montana Lawmakers Prep Data Center Ratepayer Protection Bill appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T23:25:37+00:00"
-    },
-    {
-      "id": "5c8ac526d776087a",
-      "title": "The Grid\u2019s Wasted-Power Problem Has a Sector-Coupling Fix",
-      "link": "https://www.powermag.com/the-grids-wasted-power-problem-has-a-sector-coupling-fix/",
-      "summary": "For most of the last century, electricity and heat have been planned and regulated as two separate systems, a design choice that made sense when both were produced by burning fuel on demand. However, that design is a poor match for how the grid actually runs today. Generation, transmission constraints, and price all shift by [\u2026]\nThe post The Grid\u2019s Wasted-Power Problem Has a Sector-Coupling Fix ap",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T23:02:08+00:00"
-    },
-    {
-      "id": "bc99b990bf4c009d",
-      "title": "FERC Approves Changes to ISO-NE Day-ahead Ancillary Services",
-      "link": "https://www.rtoinsider.com/143651-ferc-approves-changes-iso-ne-day-ahead-ancillary-services/",
-      "summary": "FERC approved a series of changes to ISO-NE\u2019s day-ahead ancillary services market intended to reduce overall costs to consumers.\nThe post FERC Approves Changes to ISO-NE Day-ahead Ancillary Services appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T22:36:26+00:00"
-    },
-    {
-      "id": "60157438889d11e6",
-      "title": "The Software Fix that Could Save PJM Customers Billions",
-      "link": "https://www.rtoinsider.com/143538-the-software-fix-that-could-save-pjm-customers-billions/",
-      "summary": "A recent FERC ruling presents an opportunity for PJM states to streamline access to meter data, which could help reduce power bills, Sam Peinado argues.\nThe post The Software Fix that Could Save PJM Customers Billions appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T22:18:49+00:00"
-    },
-    {
-      "id": "99237d826c50086a",
-      "title": "CPUC Safety Division Opposes Overhead Line Rule Proposal",
-      "link": "https://www.rtoinsider.com/143629-cpuc-safety-division-opposes-overhead-line-design-rule-change/",
-      "summary": "The California PUC\u2019s safety division opposed a proposed decision issued that would revise how overhead power lines are designed and built in California.\nThe post CPUC Safety Division Opposes Overhead Line Rule Proposal appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T21:50:40+00:00"
-    },
-    {
-      "id": "071dc4d5a19c4df8",
-      "title": "Invenergy Seeks Process to Change Planned Resource Fuel Type in PJM",
-      "link": "https://www.rtoinsider.com/143459-invenergy-seeks-process-change-planned-resource-fuel-type-pjm/",
-      "summary": "The PJM Planning Committee endorsed an Invenergy issue charge seeking to allow resources that have received interconnection service agreements but still are under development to change their fuel type if it is determined there would be no material impact.\nThe post Invenergy Seeks Process to Change Planned Resource Fuel Type in PJM appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T20:07:30+00:00"
-    },
-    {
-      "id": "29eb4aaac2f3d068",
-      "title": "MISO Regulatory Group Takes Break from DER Survey, Explores Data Exchange Platform",
-      "link": "https://www.rtoinsider.com/143552-miso-reg-group-takes-break-der-survey-explores-data-exchange-platform/",
-      "summary": "The Organization of MISO States will not conduct its annual survey quantifying distributed energy resources across the MISO footprint in 2026 while it evaluates how to modernize it and \u2014 in a related effort \u2014 explores the creation of a centralized DER data exchange platform.\nThe post MISO Regulatory Group Takes Break from DER Survey, Explores Data Exchange Platform appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T19:23:29+00:00"
-    },
-    {
-      "id": "d7265838be6f9095",
-      "title": "Duke\u2019s Nicholas Institute Models Costly Restart of Net Zero After Trump",
-      "link": "https://www.rtoinsider.com/143361-duke-nichols-center-costly-restart-net-zero-trump/",
-      "summary": "Duke University\u2019s Nicholas Institute has released a new policy brief finding that the Trump administration\u2019s abandonment of any climate mitigation efforts has made any return to such policies more expensive.\nThe post Duke\u2019s Nicholas Institute Models Costly Restart of Net Zero After Trump appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-15T18:00:06+00:00"
     }
   ]
 }
