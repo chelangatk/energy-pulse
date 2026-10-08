@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T18:27:18.095516+00:00",
-  "count": 630,
+  "generated_at": "2026-10-08T01:32:33.978296+00:00",
+  "count": 628,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-07T18:27:13.082635+00:00"
+      "published": "2026-10-08T01:32:30.961031+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-07T18:27:13.082627+00:00"
+      "published": "2026-10-08T01:32:30.961016+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-07T18:27:13.082617+00:00"
+      "published": "2026-10-08T01:32:30.960997+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-07T18:27:13.082593+00:00"
+      "published": "2026-10-08T01:32:30.960962+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-07T18:27:10.859173+00:00"
+      "published": "2026-10-08T01:32:29.447313+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,77 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-07T18:27:09.995342+00:00"
+      "published": "2026-10-08T01:32:27.881680+00:00"
+    },
+    {
+      "id": "4c9528fbd9ba8d01",
+      "title": "New Advocacy Group Questions ROWE Independence",
+      "link": "https://www.rtoinsider.com/147531-new-advocacy-group-questions-rowe-independence/",
+      "summary": "A recently launched organization has questioned the independence of the inaugural board of the Regional Organization for Western Energy, in what ROWE\u2019s interim president called a \u201csmear campaign.\u201d\nThe post New Advocacy Group Questions ROWE Independence appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-08T00:50:12+00:00"
+    },
+    {
+      "id": "ec65d0f9dd1aff5b",
+      "title": "Mixed Reactions at FERC to MISO\u2019s One-time Amnesty Plan for 2022 Queue Cycle, Restudy Cap",
+      "link": "https://www.rtoinsider.com/147635-mixed-reactions-at-ferc-miso-one-time-amnesty-plan/",
+      "summary": "MISO\u2019s proposal before FERC to introduce a one-shot exit option for developers that entered projects in 2022 and limit restudies bogging down its interconnection queue drew support and concerns over how upgrade costs could be reassigned.\nThe post Mixed Reactions at FERC to MISO\u2019s One-time Amnesty Plan for 2022 Queue Cycle, Restudy Cap appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-07T23:25:45+00:00"
+    },
+    {
+      "id": "4dfc030d8ebae624",
+      "title": "Mon Power Complains PJM\u2019s Conservative Operations During Fern Cost it $145M",
+      "link": "https://www.rtoinsider.com/147656-mon-power-complains-pjm-conservative-operations-cost-145m/",
+      "summary": "FirstEnergy\u2019s Monongahela Power filed a complaint against PJM arguing that the grid operator\u2019s decision to advance schedule and commit gas-fired generation during the prolonged extreme cold weather last winter cost its customers $145 million.\nThe post Mon Power Complains PJM\u2019s Conservative Operations During Fern Cost it $145M appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-07T23:08:32+00:00"
+    },
+    {
+      "id": "b7546b52c6257716",
+      "title": "PacifiCorp EDAM Implementers Share Advice, Tout Early Benefits",
+      "link": "https://www.rtoinsider.com/147637-pacificorp-edam-implementers-share-advice-tout-early-benefits/",
+      "summary": "PacifiCorp\u2019s Rebekah Medford offered advice for utilities preparing to join CAISO\u2019s Extended Day-Ahead Market.\nThe post PacifiCorp EDAM Implementers Share Advice, Tout Early Benefits appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-07T22:47:19+00:00"
+    },
+    {
+      "id": "5441049ca5786df8",
+      "title": "SPP Promotes Kelley, O\u2019Guinn to Senior Roles",
+      "link": "https://www.rtoinsider.com/147651-spp-leadership-changes-kelley-oguinn/",
+      "summary": "SPP promoted David Kelley and Kimberly Lindsey O\u2019Guinn to senior leadership roles that the RTO says will help advance its strategy and ensure it continues to meet members\u2019 growing energy demands.\nThe post SPP Promotes Kelley, O\u2019Guinn to Senior Roles appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-07T22:26:30+00:00"
+    },
+    {
+      "id": "48d7e5e42222ec7e",
+      "title": "Waterless fire suppression is becoming key for data center community relations",
+      "link": "https://www.datacenterdynamics.com/en/opinions/waterless-fire-suppression-is-becoming-key-for-data-center-community-relations/",
+      "summary": "The risk of fire has increased dramatically as data centers grow in quantity and size",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-07T20:00:00+00:00"
+    },
+    {
+      "id": "3dacbde80bd3c8f7",
+      "title": "Beyond the Demand Forecast: Six Questions About Powering Data Centers From DPX 2026",
+      "link": "https://www.powermag.com/beyond-the-demand-forecast-six-questions-about-powering-data-centers-from-dpx-2026/",
+      "summary": "This year\u2019s Data Center POWER eXchange (DPX), whose programming POWER\u2019s editors curated, was structured to look beyond the scale of opportunity presented by large-load forecasts and delve into the questions they raise. A key focus: What will it take to deliver power infrastructure and data centers on timelines, terms, and operating conditions that both industries [\u2026]\nThe post Beyond the Demand For",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-07T19:37:33+00:00"
     },
     {
       "id": "45952a1436eab673",
@@ -71,6 +141,16 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-07T17:13:42+00:00"
+    },
+    {
+      "id": "b0ea02568f60830a",
+      "title": "California amps up pressure on grid buildouts that take too long",
+      "link": "https://www.canarymedia.com/articles/transmission/california-amps-grid-upgrades",
+      "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state\u2019s clean energy transition.  Subscribe to get it every Wednesday via Substack.   Welcome back to California Wire! This week, I want to dive into a topic that\u2019s both timely and timeless: transmission lines, and how long it takes to build\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-07T17:00:00+00:00"
     },
     {
       "id": "3510922560adbecd",
@@ -6201,106 +6281,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "id": "d44453b5a44e0394",
-      "title": "PJM PC/TEAC Briefs: Sept. 8, 2026",
-      "link": "https://www.rtoinsider.com/144049-pjm-pc-teac-briefs-090826/",
-      "summary": "The Planning Committee deferred action on a package of revisions to Manual 21B: PJM Rules and Procedures for Determination of Generating Capability, pushing back the vote for a second consecutive meeting.\nThe post PJM PC/TEAC Briefs: Sept. 8, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T01:27:28+00:00"
-    },
-    {
-      "id": "113c7e0c6215e2e6",
-      "title": "North Carolina AG Urges Creation of a Data Center Tariff",
-      "link": "https://www.rtoinsider.com/143725-north-carolina-ag-urges-creation-data-center-tariff/",
-      "summary": "North Carolina Attorney General Jeff Jackson is pushing for the creation of a separate data center rate class for Duke Energy customers that would go beyond what state utility regulators have proposed.\nThe post North Carolina AG Urges Creation of a Data Center Tariff appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T01:16:44+00:00"
-    },
-    {
-      "id": "ab7fd722fb8c92e6",
-      "title": "PPC, NRU Urge BPA to Maintain Markets+ Commitment During DAM Review",
-      "link": "https://www.rtoinsider.com/144066-ppc-nru-urge-bpa-maintain-markets-commitment-dam-review/",
-      "summary": "Northwest Requirements Utilities and the Public Power Council addressed the Bonneville Power Administration\u2019s decision to reevaluate its commitment to SPP\u2019s Markets+, saying they support improvements to CAISO\u2019s EDAM but are skeptical changes can be implemented fast enough to justify BPA joining the market.\nThe post PPC, NRU Urge BPA to Maintain Markets+ Commitment During DAM Review appeared first ",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T00:53:03+00:00"
-    },
-    {
-      "id": "4b00d1134f99f0e4",
-      "title": "4th Circuit Hears Oral Arguments on Appeal of FERC Order 1920",
-      "link": "https://www.rtoinsider.com/143666-4th-circuit-hears-oral-arguments-appeal-ferc-order-1920/",
-      "summary": "The 4th U.S. Circuit Court of Appeals heard lengthy oral arguments on the challenge to FERC Order 1920 as parties made their cases to eliminate or change the rule that directed changes to regional transmission planning and cost allocation.\nThe post 4th Circuit Hears Oral Arguments on Appeal of FERC Order 1920 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T00:33:36+00:00"
-    },
-    {
-      "id": "901a0a49933fa4cc",
-      "title": "PJM OC Briefs: Sept. 10, 2026",
-      "link": "https://www.rtoinsider.com/144055-pjm-oc-briefs-091026/",
-      "summary": "PJM presented a first read on a set of manual revisions to implement the second phase of PJM\u2019s redesign of its regulation market.\nThe post PJM OC Briefs: Sept. 10, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-16T23:38:45+00:00"
-    },
-    {
-      "id": "e7cbdee955bb354c",
-      "title": "ISO-NE Details Large Load Proposal, Restarts Work on Order 1920",
-      "link": "https://www.rtoinsider.com/144063-iso-ne-details-large-load-proposal-restarts-order-1920-work/",
-      "summary": "ISO-NE gave additional details on its proposed response to FERC\u2019s large load show-cause order, expanding upon its proposed \u201cbring-your-own-new-capacity\u201d requirements for new loads of 50 MW or more.\nThe post ISO-NE Details Large Load Proposal, Restarts Work on Order 1920 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-16T23:26:49+00:00"
-    },
-    {
-      "id": "5a3d18be3411bc0b",
-      "title": "Stakeholders Question MISO Routes for Large Load Interconnections",
-      "link": "https://www.rtoinsider.com/143807-stakeholders-doubt-miso-directions-large-load-interconnections/",
-      "summary": "Representatives from MISO\u2019s environmental sector told the RTO to rethink adding two new specialized interconnection queue tracks for large loads and instead turn its focus to making its existing queue an adaptable, one-stop shop.\nThe post Stakeholders Question MISO Routes for Large Load Interconnections appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-16T22:30:18+00:00"
-    },
-    {
-      "id": "b6d1b9cc943da00b",
-      "title": "Small and Rural BPA Customer Group Supports Markets+ While Working Constructively to Improve EDAM",
-      "link": "https://www.rtoinsider.com/143530-small-rural-bpa-group-supports-markets-working-improve-edam/",
-      "summary": "A market that works for Bonneville Power Administration\u2019s load-following NITS customers is a market that works for the region, argues a regional trade association that represents about 60 small and rural BPA customers.\nThe post Small and Rural BPA Customer Group Supports Markets+ While Working Constructively to Improve EDAM appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-16T22:16:49+00:00"
-    },
-    {
-      "id": "f26cc56cf423d051",
-      "title": "Vineyard Wind, GE Vernova Resolve Dispute over Withheld Payments",
-      "link": "https://www.rtoinsider.com/143745-vineyard-wind-ge-vernova-resolve-dispute-withheld-payments/",
-      "summary": "Vineyard Wind and GE Vernova have settled a legal dispute that threatened an 806-MW wind project during the late stages of its construction.\nThe post Vineyard Wind, GE Vernova Resolve Dispute over Withheld Payments appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-16T22:10:56+00:00"
-    },
-    {
-      "id": "0c9df03996c5ec84",
-      "title": "Onsemi unveils its Embedded Power Platform architecture to increase power density",
-      "link": "https://www.datacenterdynamics.com/en/news/onsemi-unveils-its-embedded-power-platform-architecture-to-increase-power-density/",
-      "summary": "Works by using the silicon wafer as an embedded package",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-16T18:30:00+00:00"
     }
   ]
 }
