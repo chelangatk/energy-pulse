@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:26:38.672369+00:00",
+  "generated_at": "2026-10-09T01:43:32.935005+00:00",
   "count": 634,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-08T18:26:35.012633+00:00"
+      "published": "2026-10-09T01:43:29.158470+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-08T18:26:35.012625+00:00"
+      "published": "2026-10-09T01:43:29.158456+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-08T18:26:35.012615+00:00"
+      "published": "2026-10-09T01:43:29.158438+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-08T18:26:35.012592+00:00"
+      "published": "2026-10-09T01:43:29.158405+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-08T18:26:33.172219+00:00"
+      "published": "2026-10-09T01:43:26.834670+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,117 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-08T18:26:31.187198+00:00"
+      "published": "2026-10-09T01:43:25.935436+00:00"
+    },
+    {
+      "id": "45be63cf3b5eb8db",
+      "title": "ISO-NE Puts Finishing Touches on CAR-SA Proposal Prior to Nov. Votes",
+      "link": "https://www.rtoinsider.com/147722-iso-ne-car-stakeholder-proposals-nov-votes/",
+      "summary": "ISO-NE discussed late-stage tweaks and stakeholders made their cases for amendments to the RTO\u2019s wide-ranging proposal of capacity accreditation and seasonal capacity auction reforms in preparation for upcoming votes.\nThe post ISO-NE Puts Finishing Touches on CAR-SA Proposal Prior to Nov. Votes appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-09T01:21:09+00:00"
+    },
+    {
+      "id": "d702780b10d044a9",
+      "title": "New Aurora Report Analyzes Cost of Western Market Seams",
+      "link": "https://www.rtoinsider.com/147728-new-aurora-report-analyzes-western-seams-impacts/",
+      "summary": "Best management practices for seams would save up to $840 million per year across the West in a split day-ahead market scenario, Aurora Energy Research found in a new study.\nThe post New Aurora Report Analyzes Cost of Western Market Seams appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-09T00:39:30+00:00"
+    },
+    {
+      "id": "f0d27df0cb31c2fe",
+      "title": "Google\u2019s Corio Says Data Centers are Future of Power",
+      "link": "https://www.rtoinsider.com/147726-google-corio-says-data-centers-future-of-power/",
+      "summary": "The head of Google\u2019s infrastructure and strategy division says she isn't tired of talking about data centers and that they are the future of the power industry.\nThe post Google\u2019s Corio Says Data Centers are Future of Power appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-09T00:30:37+00:00"
+    },
+    {
+      "id": "2588af00617f4ab7",
+      "title": "AESO to Launch New Market Without Ramping-reserve Deliverability Constraint",
+      "link": "https://www.rtoinsider.com/147575-aeso-launch-new-market-without-ramping-reserve-deliverability-constraint/",
+      "summary": "AESO plans to launch Alberta\u2019s Restructured Energy Market without a real-time deliverability constraint for its 30-minute ramping reserve product.\nThe post AESO to Launch New Market Without Ramping-reserve Deliverability Constraint appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-09T00:14:57+00:00"
+    },
+    {
+      "id": "86cda64db7d50e8f",
+      "title": "WRAP Approves New Penalty Structure, Subregion as 1st Binding Season Looms",
+      "link": "https://www.rtoinsider.com/147700-wrap-approves-penalty-structure-subregion/",
+      "summary": "In anticipation of its first binding season, WPP's WRAP has created a third subregion to onboard additional participants and implemented a new penalty mechanism aimed at boosting investments in resources.\nThe post WRAP Approves New Penalty Structure, Subregion as 1st Binding Season Looms appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-08T23:54:08+00:00"
+    },
+    {
+      "id": "0a0ebc7cdfdf50ea",
+      "title": "DOE Awards PSE $40M for Grid Upgrades",
+      "link": "https://www.rtoinsider.com/147702-doe-awards-pse-40m-grid-upgrades/",
+      "summary": "The U.S. Department of Energy awarded about $40.2 million to Puget Sound Energy to strengthen the utility\u2019s grid.\nThe post DOE Awards PSE $40M for Grid Upgrades appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-08T23:51:31+00:00"
+    },
+    {
+      "id": "98b8fd23cd420fc8",
+      "title": "FERC Upholds 11 Years of Refunds for PJM in Linden VFT Cases",
+      "link": "https://www.rtoinsider.com/147730-ferc-upholds-11-years-refunds-pjm-linden-vft-cases/",
+      "summary": "FERC upheld an earlier decision requiring 11 years of refunds in a long-running dispute over cost allocation for projects that export power from PJM to New York.\nThe post FERC Upholds 11 Years of Refunds for PJM in Linden VFT Cases appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-08T23:39:38+00:00"
+    },
+    {
+      "id": "b030595eaddcb998",
+      "title": "NERC Trustees Applaud Cross-border Collaboration at Open Meeting",
+      "link": "https://www.rtoinsider.com/147718-nerc-trustees-applaud-cross-border-collab-canada-meeting/",
+      "summary": "NERC trustees approved a slate of standards actions and updates to the ERO's Rules of Procedure at their open meeting in Toronto.\nThe post NERC Trustees Applaud Cross-border Collaboration at Open Meeting appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-08T23:20:18+00:00"
+    },
+    {
+      "id": "5685f9631020b708",
+      "title": "Ontario Energy Conference Returns with New Faces Atop IESO, Hydro One",
+      "link": "https://www.rtoinsider.com/147654-ontario-energy-conference-returns-new-faces-atop-ieso-hydro-one/",
+      "summary": "Ontario\u2019s energy sector will gather in Toronto as the province weighs how much electricity demand to build for and how quickly to expand its power system.\nThe post Ontario Energy Conference Returns with New Faces Atop IESO, Hydro One appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-08T23:02:32+00:00"
+    },
+    {
+      "id": "b9a1e429b0c91d6f",
+      "title": "NERC Committees Highlight Importance of Canada Outreach",
+      "link": "https://www.rtoinsider.com/147648-nerc-committees-highlight-importance-canada-outreach/",
+      "summary": "At their meeting in Toronto, NERC's trustees discussed the latest outreach efforts to Canadian utilities and policymakers.\nThe post NERC Committees Highlight Importance of Canada Outreach appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-08T20:39:41+00:00"
+    },
+    {
+      "id": "ea770946e3802b3f",
+      "title": "Constellation and Google go in on nuclear uprates to unlock clean power",
+      "link": "https://www.canarymedia.com/articles/nuclear/constellation-google-nuclear-uprates",
+      "summary": "The Trump administration wants to add 5 gigawatts of carbon-free nuclear power capacity by 2029 without deploying a single new reactor. An announcement this week by the United States\u2019 biggest nuclear power plant operator brings that lofty goal a bit closer to reality.  On Tuesday, Constellation Energy said it would\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-08T19:00:00+00:00"
     },
     {
       "id": "fe1c94c90271eceb",
@@ -6231,116 +6341,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-18T07:30:00+00:00"
-    },
-    {
-      "id": "eb7b5030de532125",
-      "title": "ERCOT CEO\u2019s Compensation Package Put on Hold",
-      "link": "https://www.rtoinsider.com/144076-ercot-ceos-compensation-package-put-on-hold/",
-      "summary": "A top Texas lawmaker has intervened in the ERCOT board's approval of a five-year contract extension for CEO Pablo Vegas, saying now is not the time to hand out a multimillion-dollar pay raise \"on the backs of ratepayers.\"\nThe post ERCOT CEO\u2019s Compensation Package Put on Hold appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-18T00:28:17+00:00"
-    },
-    {
-      "id": "bd0797e8681bddaa",
-      "title": "MISO Powers Through \u2018Hot, Hot, Hot\u2019 Summer; IMM Decries Max Gen Reprice",
-      "link": "https://www.rtoinsider.com/144181-miso-powers-through-heat-summer-imm-decries-max-gen-reprice/",
-      "summary": "The Independent Market Monitor said MISO\u2019s repricing of several hours a summertime emergency brought on by one of many heatwaves in the 2026 season eroded faith in MISO\u2019s markets.\nThe post MISO Powers Through \u2018Hot, Hot, Hot\u2019 Summer; IMM Decries Max Gen Reprice appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-18T00:01:56+00:00"
-    },
-    {
-      "id": "34476721d4d984c2",
-      "title": "PowerLines Releases Utility Affordability Guidebook for Governors",
-      "link": "https://www.rtoinsider.com/144154-powerlines-releases-playbook-governors-electricity-affordability/",
-      "summary": "PowerLines has released a policy guide for governors ahead of November\u2019s elections that offers strategic levers, pathways and communications strategies to make electricity more affordable.\nThe post PowerLines Releases Utility Affordability Guidebook for Governors appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T23:31:26+00:00"
-    },
-    {
-      "id": "c6551d9f89b3f555",
-      "title": "Regulators Confront AI Data Center Threats to Grid Operations",
-      "link": "https://www.rtoinsider.com/144052-regulators-confront-ai-data-center-threats-to-grid-operations/",
-      "summary": "People who run much of the nation's power grid are urgently plying human intelligence the risk that AI data factories reacting to relatively small grid disturbances could cause potentially fatal wide-area blackouts.\nThe post Regulators Confront AI Data Center Threats to Grid Operations appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T22:43:51+00:00"
-    },
-    {
-      "id": "86ba4548993c3343",
-      "title": "MISO Lowers Customer Experience Survey Goals, Cites On-edge Industry",
-      "link": "https://www.rtoinsider.com/144183-miso-lowers-customer-experience-survey-goals/",
-      "summary": "MISO is moving the goalposts and creating a new definition of \u201cexcellent\u201d in its customer experience survey as it\u2019s forced to implement more drastic measures to maintain reliability that could be unpopular with certain stakeholders.\nThe post MISO Lowers Customer Experience Survey Goals, Cites On-edge Industry appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T22:34:21+00:00"
-    },
-    {
-      "id": "eab746e568c6e038",
-      "title": "America Doesn\u2019t Have a Data Center Problem: It\u2019s an Electricity Architecture Problem",
-      "link": "https://www.rtoinsider.com/143245-america-doesnt-have-data-center-problem-its-electricity-architecture-problem/",
-      "summary": "America is building a new industrial economy with an electricity system designed for an earlier age. Some new customers are so different from traditional customers, that treating them as merely \u201cbig small loads\u201d no longer makes sense.\nThe post America Doesn\u2019t Have a Data Center Problem: It\u2019s an Electricity Architecture Problem appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T22:16:24+00:00"
-    },
-    {
-      "id": "a23ab6c2035d0b1c",
-      "title": "How Realistic are Statewide Data Center Bans in the West?",
-      "link": "https://www.rtoinsider.com/144069-how-realistic-statewide-data-center-bans-in-the-west/",
-      "summary": "State lawmakers and gubernatorial candidates across the West are vowing to approve statewide data center bans in upcoming legislative sessions starting in January 2027.\nThe post How Realistic are Statewide Data Center Bans in the West? appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T22:11:31+00:00"
-    },
-    {
-      "id": "c5767100d206a167",
-      "title": "Mazama Energy raises $135M for superhot geothermal at Oregon volcano",
-      "link": "https://www.canarymedia.com/articles/geothermal/mazama-energy-raises-135m-oregon-geothermal",
-      "summary": "The startup Mazama Energy just nabbed $135 million to accelerate its next-generation geothermal activities near Oregon\u2019s Newberry Volcano.  Mazama is seeking to generate clean electricity from superhot rocks \u2014 an emerging and largely unproven approach that could have an enormous payoff for the power sector. That\u2019s\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T21:00:00+00:00"
-    },
-    {
-      "id": "c634ddc553d61726",
-      "title": "Bringing a Power Plant\u2019s Worth of Load Onto the Grid: NERC\u2019s Interconnection Reckoning",
-      "link": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/",
-      "summary": "Data centers are connecting to the transmission system faster than the reliability rules were built to handle and behaving nothing like the passive load those rules assumed. Here\u2019s what the North American Electric Reliability Corp.\u2019s (NERC\u2019s) Large Loads Action Plan, a new class of registered entity, and a hard 2026 deadline mean for anyone planning, [\u2026]\nThe post Bringing a Power Plant\u2019s Worth of ",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T20:19:30+00:00"
-    },
-    {
-      "id": "e27181b20644a3c1",
-      "title": "What the DOE\u2019s Quantum Computing Competition Could Mean for Fusion and Battery Materials",
-      "link": "https://www.powermag.com/what-the-does-quantum-computing-competition-could-mean-for-fusion-and-battery-materials/",
-      "summary": "The Department of Energy (DOE) on Sept. 17 announced the Quantum Genesis Q Competition, a $215 million initiative to fund private-sector teams racing to build the world\u2019s first fault-tolerant, scientifically relevant quantum computer. Structured as a milestone-based competition rather than a conventional grant, it will pay out fixed awards of up to $1.5 million per [\u2026]\nThe post What the DOE\u2019s Quan",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T20:14:42+00:00"
-    },
-    {
-      "id": "4726bc70451dd217",
-      "title": "NV Energy Commits to Join EDAM in 2028",
-      "link": "https://www.rtoinsider.com/144161-nv-energy-commits-edam-2028/",
-      "summary": "NV Energy will be the ninth entity to join CAISO\u2019s Extended Day-Ahead Market as the utility tries to continue to benefit from a Western regional market.\nThe post NV Energy Commits to Join EDAM in 2028 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-17T19:06:18+00:00"
     }
   ]
 }
