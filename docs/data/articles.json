@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T17:59:04.789720+00:00",
-  "count": 629,
+  "generated_at": "2026-10-10T01:30:18.382918+00:00",
+  "count": 626,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-09T17:59:01.379312+00:00"
+      "published": "2026-10-10T01:30:15.351582+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-09T17:59:01.379301+00:00"
+      "published": "2026-10-10T01:30:15.351568+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-09T17:59:01.379288+00:00"
+      "published": "2026-10-10T01:30:15.351549+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-09T17:59:01.379260+00:00"
+      "published": "2026-10-10T01:30:15.351517+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-09T17:58:59.608135+00:00"
+      "published": "2026-10-10T01:30:13.485976+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-09T17:58:56.646282+00:00"
+      "published": "2026-10-10T01:30:12.308172+00:00"
     },
     {
       "id": "5f484089fb45a76b",
@@ -203,10 +203,20 @@
       "published": "2026-10-09T14:27:49+00:00"
     },
     {
+      "id": "cb7d7e488befcdba",
+      "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
+      "summary": "The grid operator expects Engie\u2019s two storage projects totaling nearly 1.7 GW and LS Power\u2019s 455-MW\u00a0gas-fired uprate will be online by mid-2029.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-09T14:27:49+00:00"
+    },
+    {
       "id": "0b2150235a3cf369",
       "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
       "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
-      "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+      "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6251,46 +6261,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-20T15:00:00+00:00"
-    },
-    {
-      "id": "0c60653d82f3c500",
-      "title": "Vistra\u2019s Moss Landing grid battery is on fire yet again",
-      "link": "https://www.canarymedia.com/articles/batteries/vistra-moss-landing-on-fire-again",
-      "summary": "It happened yet again.  Another plume of smoke rose from Vistra\u2019s Moss Landing battery plant Friday morning, a year and a half after a catastrophic fire wrecked the grid storage facility in Northern California.  Vistra built Moss Landing on the California coast, south of Santa Cruz, to supply grid capacity to the\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-18T20:30:00+00:00"
-    },
-    {
-      "id": "0e035fdd0b7d9795",
-      "title": "Virginia Gov. Spanberger\u2019s New Data Center Rules Seek Cleaner, Cheaper Power",
-      "link": "https://www.rtoinsider.com/145098-spanberger-issues-data-center-framework/",
-      "summary": "Virginia Gov. Abigail Spanberger released a new framework for data centers that seeks to bring down costs for other customers and make electricity supplying the facilities cleaner, among other policies.\nThe post Virginia Gov. Spanberger\u2019s New Data Center Rules Seek Cleaner, Cheaper Power appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-18T19:34:17+00:00"
-    },
-    {
-      "id": "64944615e11a3a47",
-      "title": "Trump's EPA decimated climate rules for power plants. What now?",
-      "link": "https://www.canarymedia.com/articles/emissions-reduction/trumps-epa-gut-climate-rules-power-plants-what-now",
-      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   The Biden and Obama administrations built a raft of climate regulations that was supposed to carry America beyond coal power. The Trump administration has officially sunk it.  This week, the EPA gutted the\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-18T19:00:00+00:00"
-    },
-    {
-      "id": "68b7b20a28b96b3d",
-      "title": "Nevada Governor Moves to Establish Data Center Guardrails",
-      "link": "https://www.rtoinsider.com/144629-nevada-governor-moves-to-establish-data-center-guardrails/",
-      "summary": "Nevada\u2019s Republican governor is signing a new executive order that sets regulatory parameters for data center projects amid growing public concern over the state\u2019s approach to managing the power-guzzling facilities needed to support the booming AI industry.\nThe post Nevada Governor Moves to Establish Data Center Guardrails appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-18T18:31:05+00:00"
     }
   ]
 }
