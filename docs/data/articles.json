@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T00:39:34.566762+00:00",
-  "count": 629,
+  "generated_at": "2026-10-11T17:21:41.334234+00:00",
+  "count": 631,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-11T00:39:30.819624+00:00"
+      "published": "2026-10-11T17:21:33.264323+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-11T00:39:30.819610+00:00"
+      "published": "2026-10-11T17:21:33.264308+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-11T00:39:30.819593+00:00"
+      "published": "2026-10-11T17:21:33.264290+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-11T00:39:30.819560+00:00"
+      "published": "2026-10-11T17:21:33.264245+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-11T00:39:28.554548+00:00"
+      "published": "2026-10-11T17:21:31.202869+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,37 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-11T00:39:24.971085+00:00"
+      "published": "2026-10-11T17:21:13.705491+00:00"
+    },
+    {
+      "id": "2631514e306b7efa",
+      "title": "Why PJM\u2019s Proposed Backstop Auction Is a Bad Idea",
+      "link": "https://www.rtoinsider.com/147732-why-pjms-proposed-backstop-auction-is-a-bad-idea/",
+      "summary": "It\u2019s no secret that data centers are putting enormous strain on our nation\u2019s aging electric grid. But PJM's proposed backstop auction is not a good option, write two members of the NYU Law School's Institute of Policy Integrity.\nThe post Why PJM\u2019s Proposed Backstop Auction Is a Bad Idea appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-11T16:27:08+00:00"
+    },
+    {
+      "id": "0558628648960d89",
+      "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
+      "link": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
+      "summary": "Why efficiency in existing facilities has shifted from good intention to obligation",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-11T15:00:00+00:00"
+    },
+    {
+      "id": "29f72bdb385f0104",
+      "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
+      "link": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
+      "summary": "Will transfer Montana data center to new company",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-11T11:00:49+00:00"
     },
     {
       "id": "ee4aa66ae0346b86",
@@ -246,7 +276,7 @@
       "id": "0b2150235a3cf369",
       "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
       "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
-      "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+      "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6281,16 +6311,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-20T17:46:36+00:00"
-    },
-    {
-      "id": "07d7ec4d2b1cfe66",
-      "title": "Sponsored: AI-driven services are becoming the new standard for uptime",
-      "link": "https://www.datacenterdynamics.com/en/opinions/ai-driven-services-are-becoming-the-new-standard-for-uptime/",
-      "summary": "With expectations rising for what \u2018standard\u2019 means, the industry is moving to services that are more predictive, insightful and effective",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-20T15:00:00+00:00"
     }
   ]
 }
