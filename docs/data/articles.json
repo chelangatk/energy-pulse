@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T17:21:41.334234+00:00",
-  "count": 631,
+  "generated_at": "2026-10-12T00:56:45.882341+00:00",
+  "count": 628,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-11T17:21:33.264323+00:00"
+      "published": "2026-10-12T00:56:43.058317+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-11T17:21:33.264308+00:00"
+      "published": "2026-10-12T00:56:43.058303+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-11T17:21:33.264290+00:00"
+      "published": "2026-10-12T00:56:43.058287+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-11T17:21:33.264245+00:00"
+      "published": "2026-10-12T00:56:43.058256+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-11T17:21:31.202869+00:00"
+      "published": "2026-10-12T00:56:40.868507+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,57 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-11T17:21:13.705491+00:00"
+      "published": "2026-10-12T00:56:39.630099+00:00"
+    },
+    {
+      "id": "d92ff39a5989a2f0",
+      "title": "NYISO\u2019s Final RNA Draft Draws Criticism from NYC over Repowering",
+      "link": "https://www.rtoinsider.com/147825-nyiso-final-rna-draws-stakeholder-questions/",
+      "summary": "NYISO\u2019s final draft of its latest Reliability Needs Assessment drew questions from stakeholders regarding the way it presented possible solutions to looming reliability needs in the appendices.\nThe post NYISO\u2019s Final RNA Draft Draws Criticism from NYC over Repowering appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-11T19:06:08+00:00"
+    },
+    {
+      "id": "e859c66be2e7a509",
+      "title": "NYISO Study Shows High Upgrade Costs for Arthur Kill Battery Project",
+      "link": "https://www.rtoinsider.com/147827-nyiso-study-shows-high-upgrade-costs-arthur-kill-battery-project/",
+      "summary": "NYISO staff have found that system deliverability upgrades for the Elevate Arthur Kill II battery project could cost roughly $216 million.\nThe post NYISO Study Shows High Upgrade Costs for Arthur Kill Battery Project appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-11T18:50:25+00:00"
+    },
+    {
+      "id": "d6b222fc1262c8ab",
+      "title": "From RTO Skepticism to ROWE Embrace: 10 Years Later at the CAISO Symposium",
+      "link": "https://www.rtoinsider.com/147836-rto-skepticism-rowe-embrace-10-years-later-caiso-symposium/",
+      "summary": "Two CAISO stakeholder symposiums held 10 years apart show how the West's thinking about organized electricity markets has evolved.\nThe post From RTO Skepticism to ROWE Embrace: 10 Years Later at the CAISO Symposium appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-11T18:03:46+00:00"
+    },
+    {
+      "id": "b78eab7311f8399a",
+      "title": "IMM Patton Appears Unfazed by MISO 3rd-party Review",
+      "link": "https://www.rtoinsider.com/147839-patton-appears-unfazed-miso-3rd-party-review/",
+      "summary": "Potomac Economics President David Patton apparently is not worried that the third-party \u201cbest practices\u201d review of his role as Independent Market Monitor for MISO will result in any significant changes.\nThe post IMM Patton Appears Unfazed by MISO 3rd-party Review appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-11T18:01:31+00:00"
+    },
+    {
+      "id": "c5579bde1e75b152",
+      "title": "Strengths, Gaps in U.S. Clean Energy Manufacturing Examined",
+      "link": "https://www.rtoinsider.com/147720-strengths-gaps-us-clean-energy-manufacturing-examined/",
+      "summary": "The U.S. clean economy supply chain has grown extensively but unevenly, a new report concludes, and as a result it is still vulnerable to foreign disruptions.\nThe post Strengths, Gaps in U.S. Clean Energy Manufacturing Examined appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-11T17:23:56+00:00"
     },
     {
       "id": "2631514e306b7efa",
@@ -6231,86 +6281,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-21T07:00:00+00:00"
-    },
-    {
-      "id": "facb996682d88e72",
-      "title": "A new podcast coming September 23",
-      "link": "https://www.ercot.com/news/podcast",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "region": "Texas / South Central",
-      "published": "2026-09-20T23:49:37.086095+00:00"
-    },
-    {
-      "id": "2ea10d6d8bb2ed80",
-      "title": "Ohio Commission Advances AES Acquisition",
-      "link": "https://www.rtoinsider.com/144258-puco-approves-change-ownership-aes-ohio/",
-      "summary": "PUCO has approved a change in ownership for AES Ohio, but with an unusual proviso barring members of the company\u2019s board from participating in all decision-making related to data centers if they have \u201cpecuniary interests\u201d in the industry.\nThe post Ohio Commission Advances AES Acquisition appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-20T20:11:27+00:00"
-    },
-    {
-      "id": "9cd9ab6084fb290e",
-      "title": "BPA Seeks $250M Rate Increase Following Spill Order",
-      "link": "https://www.rtoinsider.com/145147-bpa-seeks-250m-rate-increase-following-spill-order/",
-      "summary": "The Bonneville Power Administration said it could hike power prices to mitigate a potential $250 million revenue shortfall after a federal judge ordered the agency to increase spill over dams to protect migrating salmon.\nThe post BPA Seeks $250M Rate Increase Following Spill Order appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-20T19:57:24+00:00"
-    },
-    {
-      "id": "a557775927272fc3",
-      "title": "Utah-Nevada Tx Line Aims to Spur Geothermal Development",
-      "link": "https://www.rtoinsider.com/144253-utah-nevada-tx-line-aims-boost-geothermal-development/",
-      "summary": "The Bureau of Land Management has opened public comment for Silver Rock Transmission, a proposed 330-mile, up-to-600-kV line BLM says will help facilitate geothermal leasing in Nevada and Utah.\nThe post Utah-Nevada Tx Line Aims to Spur Geothermal Development appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-20T19:10:53+00:00"
-    },
-    {
-      "id": "fa29352496ae5767",
-      "title": "Congestion Forces SPP to Issue Brief EEA Level 1",
-      "link": "https://www.rtoinsider.com/144447-congestion-forces-spp-issue-brief-eea-level-1/",
-      "summary": "SPP says congestion issues on the eastern seam of its eastern balancing authority area led to the region\u2019s first energy emergency alert in two years.\nThe post Congestion Forces SPP to Issue Brief EEA Level 1 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-20T19:08:51+00:00"
-    },
-    {
-      "id": "654a2d2f27ba4280",
-      "title": "MISO Stakeholders Repeat Calls for Fair Cost Splits on Large Load Tx Work",
-      "link": "https://www.rtoinsider.com/144200-miso-stakeholders-repeat-calls-fair-cost-splits-large-load-tx-work/",
-      "summary": "MISO stakeholders are increasingly concerned about the potential for cost spillover from large load customers who require increasingly complex transmission projects onto the RTO\u2019s other customers and said so in front of the RTO\u2019s board of directors.\nThe post MISO Stakeholders Repeat Calls for Fair Cost Splits on Large Load Tx Work appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-20T18:22:09+00:00"
-    },
-    {
-      "id": "4c4143805ec63f6b",
-      "title": "Is Compensating Utility Customers for Power Outages a Good Idea?",
-      "link": "https://www.rtoinsider.com/143524-is-compensating-utility-customers-power-outages-good-idea/",
-      "summary": "Electric utilities rarely compensate their customers for power outages, regardless of their duration and the damage they caused.\nThe post Is Compensating Utility Customers for Power Outages a Good Idea? appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-20T17:55:11+00:00"
-    },
-    {
-      "id": "5ee63fd2d2d9c433",
-      "title": "N.Y. PSC Directs Utilities to Report How They Use AI",
-      "link": "https://www.rtoinsider.com/144185-psc-initiates-review-new-yorkj-utilities-use-ai/",
-      "summary": "The order is a first step to assess utility AI use and could lead to regulations designed to minimize risks.\nThe post N.Y. PSC Directs Utilities to Report How They Use AI appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-20T17:46:36+00:00"
     }
   ]
 }
