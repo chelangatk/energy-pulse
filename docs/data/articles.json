@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:55:28.326429+00:00",
-  "count": 628,
+  "generated_at": "2026-10-13T02:49:38.331518+00:00",
+  "count": 626,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-12T20:55:24.679603+00:00"
+      "published": "2026-10-13T02:49:34.340767+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-12T20:55:24.679593+00:00"
+      "published": "2026-10-13T02:49:34.340754+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-12T20:55:24.679580+00:00"
+      "published": "2026-10-13T02:49:34.340739+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-12T20:55:24.679553+00:00"
+      "published": "2026-10-13T02:49:34.340710+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-12T20:55:23.040427+00:00"
+      "published": "2026-10-13T02:49:32.301456+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,77 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-12T20:55:21.755247+00:00"
+      "published": "2026-10-13T02:49:31.375082+00:00"
+    },
+    {
+      "id": "f21e41ba1880b5c1",
+      "title": "FERC Rejects PJM Interim Resource Adequacy Service Proposal",
+      "link": "https://www.rtoinsider.com/147920-ferc-rejects-pjm-interim-resource-adequacy-service-proposal/",
+      "summary": "FERC rejected PJM\u2019s Interim Resource Adequacy Service framework for requiring new large loads to either bring their own new capacity or be subject to curtailment.\nThe post FERC Rejects PJM Interim Resource Adequacy Service Proposal appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-13T00:42:24+00:00"
+    },
+    {
+      "id": "13da15b8a24663b0",
+      "title": "FERC General Counsel: Commission in \u2018Era of Good Feelings\u2019",
+      "link": "https://www.rtoinsider.com/147887-ferc-general-counsel-commission-in-era-of-good-feelings/",
+      "summary": "Amid increased political tension and division in U.S. government, FERC has been a \u201cheartening outlier\u201d that is enjoying unusual unanimity among its members, creating an \u201cera of good feelings\u201d in commission history, according to General Counsel James Dawson.\nThe post FERC General Counsel: Commission in \u2018Era of Good Feelings\u2019 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-13T00:40:44+00:00"
+    },
+    {
+      "id": "04f75124852f6d9e",
+      "title": "FERC OKs Duke Energy Carolinas\u2019 Large Load Network Upgrade Rules",
+      "link": "https://www.rtoinsider.com/147912-ferc-oks-duke-energy-carolinas-large-load-network-upgrade-rules/",
+      "summary": "FERC accepted rule changes from Duke Energy Carolinas to cut the risk of cost shifts from network upgrades to serve large loads, but three commissioners agreed that the industry needs more reforms to ensure that does not happen.\nThe post FERC OKs Duke Energy Carolinas\u2019 Large Load Network Upgrade Rules appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-13T00:16:30+00:00"
+    },
+    {
+      "id": "aaa21b1758a384d3",
+      "title": "Summary of FERC Meeting Agenda for October 2026",
+      "link": "https://www.rtoinsider.com/147832-summary-ferc-meeting-agenda-october-2026/",
+      "summary": "Following are summaries of the agenda items for\u00a0FERC\u2019s monthly open meeting, to be held Oct. 15. It was furnished by the White & Case law firm.\nThe post Summary of FERC Meeting Agenda for October 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-12T23:24:51+00:00"
+    },
+    {
+      "id": "d02807517ba66fe1",
+      "title": "U.S. Seizes More Alleged China Hacking Domains",
+      "link": "https://www.rtoinsider.com/147905-us-seizes-more-china-hacking-domains/",
+      "summary": "The FBI reported seizing more tools used by China-affiliated hackers against critical infrastructure, as CISA warned that the company responsible remains dangerous.\nThe post U.S. Seizes More Alleged China Hacking Domains appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-12T23:21:45+00:00"
+    },
+    {
+      "id": "625cc26e079887da",
+      "title": "Regional Issues Forum Faces \u2018Transitional\u2019 Year Before Dissolving",
+      "link": "https://www.rtoinsider.com/147921-regional-issues-forum-faces-transitional-year-before-dissolving/",
+      "summary": "2027 should be a \u201ctransitional\u201d year for the body that meets three times yearly to educate stakeholders about issues affecting CAISO\u2019s West-wide energy markets and provides them a venue for sharing views outside the normal stakeholder process for market initiatives.\nThe post Regional Issues Forum Faces \u2018Transitional\u2019 Year Before Dissolving appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-12T22:38:42+00:00"
+    },
+    {
+      "id": "7b2f86ef27c63b66",
+      "title": "SPP CARE Delays Vote on Potential Highway/byway Replacement",
+      "link": "https://www.rtoinsider.com/147909-spp-care-delays-vote-potential-highway-byway-replacement/",
+      "summary": "SPP's Care Team has delayed a vote on a potential replacement to the grid operator's highway/byway method for transmission cost allocation as the stakeholder group wraps up its assigned work.\nThe post SPP CARE Delays Vote on Potential Highway/byway Replacement appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-12T22:11:43+00:00"
     },
     {
       "id": "ba785ae8d8466402",
@@ -6191,96 +6261,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-22T07:00:00+00:00"
-    },
-    {
-      "id": "0e3de29754226559",
-      "title": "Flexibility, Innovation and Integration: What MISO\u2019s September Tells Us About the Work Ahead",
-      "link": "https://www.rtoinsider.com/145216-what-miso-september-tells-us-about-the-work-ahead/",
-      "summary": "The generator interconnection process is not going to be fixed by one more adjustment to one more deposit schedule. What it needs is flexibility from the entities that run it, innovation in how the studies are conceived, and integration between interconnection and the transmission planning that should have been clearing its path all along.\nThe post Flexibility, Innovation and Integration: What MIS",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-22T00:42:05+00:00"
-    },
-    {
-      "id": "3c9b2af7fb73b82c",
-      "title": "The Energy Authority: 2 Western Markets Better than 1",
-      "link": "https://www.rtoinsider.com/144570-energy-authority-2-western-markets-better-than-1/",
-      "summary": "The Energy Authority says continued market competition between CAISO and SPP in the West is the best way to end up with efficient markets.\nThe post The Energy Authority: 2 Western Markets Better than 1 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-22T00:27:28+00:00"
-    },
-    {
-      "id": "6fdee043443ffbdc",
-      "title": "Changes Coming to IESO Program that Helps Facilities Identify Energy Savings",
-      "link": "https://www.rtoinsider.com/144771-changes-ieso-program-helps-facilities-identify-energy-savings/",
-      "summary": "IESO outlined proposed changes to its Expanded Energy Management program, which helps industrial, commercial and institutional facilities reduce energy use via the funding of staff and monitoring systems.\nThe post Changes Coming to IESO Program that Helps Facilities Identify Energy Savings appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-21T23:57:54+00:00"
-    },
-    {
-      "id": "0f4383d181b5e6a3",
-      "title": "Propel NY Clears Key Hurdle in Long-running Regulatory Review",
-      "link": "https://www.rtoinsider.com/145223-propel-ny-transmission-line-proposal-gains-key-approval/",
-      "summary": "New York PSC approval of the certificate of environmental compatibility and public need for Propel NY sets the stage for other approvals, such as the first phases of the construction plan.\nThe post Propel NY Clears Key Hurdle in Long-running Regulatory Review appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-21T23:55:51+00:00"
-    },
-    {
-      "id": "f655deb179f777da",
-      "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
-      "link": "https://www.powermag.com/google-georgia-power-have-deal-to-support-nuclear-power-plant-uprates/",
-      "summary": "Electric utility Georgia Power and tech giant Google said the companies have an agreement under which Google will support power uprates at two of the utility's nuclear power plants.\nThe post Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-21T23:49:44+00:00"
-    },
-    {
-      "id": "3ee9f463497ee974",
-      "title": "TVA Sued over Coal Retirement Renege",
-      "link": "https://www.rtoinsider.com/145240-tva-sued-over-coal-retirement-renege/",
-      "summary": "Environmental advocacy organizations have sued the Tennessee Valley Authority for backing out on promises to retire a coal plant while still constructing its gas-fired replacement, thereby violating air quality standards permitting.\nThe post TVA Sued over Coal Retirement Renege appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-21T23:03:46+00:00"
-    },
-    {
-      "id": "384130de27cb09a7",
-      "title": "Is New England Ready for New Nuclear?",
-      "link": "https://www.rtoinsider.com/144189-is-new-england-ready-for-new-nuclear/",
-      "summary": "About five decades after New England\u2019s original nuclear development boom and following years of retirements, the region may be on the verge of another nuclear renaissance, though this is far from a guarantee.\nThe post Is New England Ready for New Nuclear? appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-21T22:46:27+00:00"
-    },
-    {
-      "id": "c5089d2995403f35",
-      "title": "EPA Termination of Solar for All Ruled Unlawful",
-      "link": "https://www.rtoinsider.com/145225-epa-termination-of-solar-for-all-ruled-unlawful/",
-      "summary": "A federal judge has declared EPA\u2019s August 2025 termination of the Solar for All program unlawful and ordered the termination vacated.\nThe post EPA Termination of Solar for All Ruled Unlawful appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-21T22:12:29+00:00"
-    },
-    {
-      "id": "b3922bca35a0ee83",
-      "title": "CPUC Approves Rulemaking to Implement California IOU Participation in ROWE",
-      "link": "https://www.rtoinsider.com/143675-cpuc-approves-rulemaking-implement-california-iou-participation/",
-      "summary": "The California Public Utilities commission unanimously approved a new rulemaking to spell out how the agency will authorize the state\u2019s investor-owned utilities to participate in a regional market operated by CAISO but governed by an independent body.\nThe post CPUC Approves Rulemaking to Implement California IOU Participation in ROWE appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-21T21:48:49+00:00"
     }
   ]
 }
