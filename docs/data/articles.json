@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T18:53:53.882428+00:00",
-  "count": 627,
+  "generated_at": "2026-10-14T00:50:41.589604+00:00",
+  "count": 626,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-13T18:53:49.165583+00:00"
+      "published": "2026-10-14T00:50:39.011541+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-13T18:53:49.165570+00:00"
+      "published": "2026-10-14T00:50:39.011530+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-13T18:53:49.165553+00:00"
+      "published": "2026-10-14T00:50:39.011517+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-13T18:53:49.165522+00:00"
+      "published": "2026-10-14T00:50:39.011484+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-13T18:53:47.408851+00:00"
+      "published": "2026-10-14T00:50:37.358231+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,67 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-13T18:53:45.460520+00:00"
+      "published": "2026-10-14T00:50:35.715984+00:00"
+    },
+    {
+      "id": "330a70ef25f3c5f3",
+      "title": "FERC: MISO Zero-injection Gen Plan for Large Loads Incomplete",
+      "link": "https://www.rtoinsider.com/147967-ferc-miso-zero-inject-gen-plan-large-loads-incomplete/",
+      "summary": "FERC said MISO\u2019s plan to accelerate interconnections for large loads to be served exclusively by generators that pledge not to inject power onto the larger system is unfinished as filed.\nThe post FERC: MISO Zero-injection Gen Plan for Large Loads Incomplete appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-14T00:31:50+00:00"
+    },
+    {
+      "id": "e2e7fcb95cff256a",
+      "title": "States Increase Policy Actions for New Nuclear in 2026",
+      "link": "https://www.rtoinsider.com/148199-nccetc-on-recent-state-nuclear-policies/",
+      "summary": "The NC Clean Energy Technology Center says the vast majority of states in the U.S. have taken policy actions in 2026 to advance nuclear power.\nThe post States Increase Policy Actions for New Nuclear in 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-14T00:04:36+00:00"
+    },
+    {
+      "id": "2e7829fb07e5ca0d",
+      "title": "New Jersey\u2019s Nuclear Ambitions Under Scrutiny",
+      "link": "https://www.rtoinsider.com/147986-new-jersey-nuclear-ambitions-under-scrutiny/",
+      "summary": "Any new nuclear project in New Jersey would face substantive obstacles, speakers said at the Nuclear Energy Seminar, who discussed\u00a0how to fund the projects, spread the investment risk and line up power purchases.\nThe post New Jersey\u2019s Nuclear Ambitions Under Scrutiny appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-13T22:50:51+00:00"
+    },
+    {
+      "id": "f57f961074d05832",
+      "title": "Virginia Decides Who Pays for Data Center Hookups but not the Upgrades",
+      "link": "https://www.rtoinsider.com/148184-virginia-decides-who-pays-data-center-hookups-but-not-upgrades/",
+      "summary": "Virginia regulators have settled the simple part of who pays for the power lines that data centers need and put off the expensive part. The simple part is the hookup, says opinion writer Tommy Turner.\nThe post Virginia Decides Who Pays for Data Center Hookups but not the Upgrades appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-13T22:16:34+00:00"
+    },
+    {
+      "id": "44511dddaeaff6f7",
+      "title": "Trump goes after an offshore wind farm that\u2019s already up and running",
+      "link": "https://www.canarymedia.com/articles/offshore-wind/trump-reevaluate-permit-revolution-wind-orsted",
+      "summary": "After halting construction on offshore wind farms and canceling leases for future projects, the Trump administration just took another step to erode America\u2019s troubled offshore wind industry.  The Interior Department wants to reevaluate a key approval for Revolution Wind \u2014 a $6.2 billion project that is already\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-13T20:00:00+00:00"
+    },
+    {
+      "id": "71cb3b1f04f5a91c",
+      "title": "We Energies Unveils Plan for New 750-MW Gas-Fired Plant in Wisconsin",
+      "link": "https://www.powermag.com/we-energies-unveils-plan-for-new-750-mw-gas-fired-plant-in-wisconsin/",
+      "summary": "Wisconsin-based We Energies has announced a plan to build a new natural gas-fired power plant at the site of an existing gas-fired facility in the state. The utility earlier this month filed an engineering plan with state regulators for construction of a 750-MW station at the Fox Energy Center, in Wrightstown in the Fox Valley [\u2026]\nThe post We Energies Unveils Plan for New 750-MW Gas-Fired Plant in",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-13T18:54:17+00:00"
     },
     {
       "id": "3d2ccda6b82a1c82",
@@ -6201,76 +6261,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-23T04:00:00+00:00"
-    },
-    {
-      "id": "97e53446e22f5207",
-      "title": "NERC\u2019s Large Load Standards Pass First Ballot",
-      "link": "https://www.rtoinsider.com/145328-nerc-large-load-standards-pass-first-ballot/",
-      "summary": "NERC reported that five proposed standards to address computational loads passed their first industry ballot.\nThe post NERC\u2019s Large Load Standards Pass First Ballot appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-23T00:34:07+00:00"
-    },
-    {
-      "id": "b4e7f418284406f8",
-      "title": "Review of MISO Monitor Shows Stakeholder Desire for Guardrails, Board Supervision",
-      "link": "https://www.rtoinsider.com/145301-miso-review-imm-overreach-bias-succession-planning-board-involvement/",
-      "summary": "The third-party best practices review of the MISO Independent Market Monitor ordered by the Board of Directors may place sharper parameters on the IMM\u2019s duties and governance.\nThe post Review of MISO Monitor Shows Stakeholder Desire for Guardrails, Board Supervision appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-23T00:32:32+00:00"
-    },
-    {
-      "id": "a656058cb49f014d",
-      "title": "Exelon\u2019s Butler Expounds on Data Center Backlash at Atlantic Council",
-      "link": "https://www.rtoinsider.com/145344-exelons-butler-expounds-data-center-backlash-atlantic-council/",
-      "summary": "The political backlash to data center development is largely owed to the lack of communication and community buy-in, Exelon CEO Calvin Butler said at an Atlantic Council event in New York City.\nThe post Exelon\u2019s Butler Expounds on Data Center Backlash at Atlantic Council appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-23T00:19:25+00:00"
-    },
-    {
-      "id": "27a0debf914b1c0a",
-      "title": "Temporary Gas Plants Approved for 2 Nevada Data Centers",
-      "link": "https://www.rtoinsider.com/145338-temporary-gas-plants-approved-nevada-data-centers/",
-      "summary": "Nevada regulators have approved permits for two behind-the-meter gas plants to power data centers until NV Energy is able to permanently supply the campuses with electricity.\nThe post Temporary Gas Plants Approved for 2 Nevada Data Centers appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-22T23:48:12+00:00"
-    },
-    {
-      "id": "bc2b6ab57223d462",
-      "title": "Entergy Objects to MISO\u2019s $70M JTIQ Cost Assignment for Lone Star Plant",
-      "link": "https://www.rtoinsider.com/145298-entergy-objects-miso-cost-jtiq-assignment-lone-star-plant/",
-      "summary": "Entergy Texas has filed a complaint against MISO over the grid operator proposing to assign $70 million in interregional transmission upgrades to the utility\u2019s Lone Star power station.\nThe post Entergy Objects to MISO\u2019s $70M JTIQ Cost Assignment for Lone Star Plant appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-22T23:39:27+00:00"
-    },
-    {
-      "id": "c85164d710de8647",
-      "title": "How Much Flexible AI Compute Can the Grid Actually Count On?",
-      "link": "https://www.rtoinsider.com/145201-how-much-flexible-ai-compute-can-the-grid-actually-count-on/",
-      "summary": "With capacity in major ISOs being rapidly outstripped by new data loads, the question concerning flexibility becomes increasingly critical. How grid planners address the issue obviously has major implications for resource adequacy.\nThe post How Much Flexible AI Compute Can the Grid Actually Count On? appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-22T22:52:16+00:00"
-    },
-    {
-      "id": "34baf0e0973ba910",
-      "title": "States File 3 More Challenges to OSW Lease Buyouts",
-      "link": "https://www.rtoinsider.com/145341-three-new-lawsuits-target-trump-admin-offshore-wind-buyouts/",
-      "summary": "New York leads a coalition of eight states as plaintiffs in two complaints over buyouts along the northeast coast and California is the plaintiff in a complaint over a buyout off its coast.\nThe post States File 3 More Challenges to OSW Lease Buyouts appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-22T22:48:20+00:00"
     }
   ]
 }
