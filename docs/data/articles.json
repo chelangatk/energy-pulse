@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T00:03:29.978553+00:00",
-  "count": 619,
+  "generated_at": "2026-10-16T16:06:56.673517+00:00",
+  "count": 621,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-16T00:03:27.370894+00:00"
+      "published": "2026-10-16T16:06:51.958065+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-16T00:03:27.370879+00:00"
+      "published": "2026-10-16T16:06:51.958051+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-16T00:03:27.370862+00:00"
+      "published": "2026-10-16T16:06:51.958033+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-16T00:03:27.370831+00:00"
+      "published": "2026-10-16T16:06:51.957999+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-16T00:03:25.964970+00:00"
+      "published": "2026-10-16T16:06:50.283818+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,317 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-16T00:03:25.138444+00:00"
+      "published": "2026-10-16T16:06:48.814467+00:00"
+    },
+    {
+      "id": "82732628ede06398",
+      "title": "Google's DeepMind hiring for nuclear expert",
+      "link": "https://www.datacenterdynamics.com/en/news/googles-deepmind-hiring-for-nuclear-expert/",
+      "summary": "Will be responsible for evaluating and mitigating the safety risks of frontier AI models in the nuclear domain",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T16:01:15+00:00"
+    },
+    {
+      "id": "68809db0ce4dcf94",
+      "title": "Elisa to switch off Estonian 2G network in 2028",
+      "link": "https://www.datacenterdynamics.com/en/news/elisa-to-switch-off-estonian-2g-network-in-2028/",
+      "summary": "As the carrier favors 4G and 5G instead",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T15:49:58+00:00"
+    },
+    {
+      "id": "c6cabd0d654e82bc",
+      "title": "Stranded natural gas could power offshore data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/stranded-natural-gas-could-power-offshore-data-centers/",
+      "summary": "Houston, Texas, firms form new partnership to put compute at sea",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T15:10:28+00:00"
+    },
+    {
+      "id": "92f0fa1f85c3c404",
+      "title": "Optical switching startup Salience Labs raises $125m with AMD and Intel participating in round",
+      "link": "https://www.datacenterdynamics.com/en/news/optical-switching-startup-salience-labs-raises-125m-with-amd-and-intel-participating-in-round/",
+      "summary": "Series B raise will support continued development and deployment of optical circuit switching technology",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T15:03:05+00:00"
+    },
+    {
+      "id": "09ee97b65e12bac3",
+      "title": "Meeza and Microsoft launch sovereign private cloud in Qatar",
+      "link": "https://www.datacenterdynamics.com/en/news/meeza-and-microsoft-launch-sovereign-private-cloud-in-qatar/",
+      "summary": "Using Azure Local hosted in Meeza's data centers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T15:00:43+00:00"
+    },
+    {
+      "id": "96c9000cf6cfadec",
+      "title": "FERC proposes easing regulatory pathway for gas pipeline, LNG projects",
+      "link": "https://www.utilitydive.com/news/ferc-gas-pipeline-lng-blanket-authorization-permitting-reform/833234/",
+      "summary": "\u201cThe only current restriction on getting American gas is our ability to get the gas to market and the infrastructure bottlenecks,\u201d FERC Chairman Laura Swett said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T14:42:23+00:00"
+    },
+    {
+      "id": "03e2153c6e31a124",
+      "title": "NRC Updates AP1000 Reactor Design Certification",
+      "link": "https://www.powermag.com/nrc-updates-ap1000-reactor-design-certification/",
+      "summary": "The Nuclear Regulatory Commission (NRC) has updated and renewed the certification of Westinghouse\u2019s AP1000 reactor design, incorporating lessons from the construction and operation of Vogtle Units 3 and 4 (the nation\u2019s newest nuclear reactors) into the certified design. The action published on October 14 gives future applicants a standardized, field-proven AP1000 design that reflects how [\u2026]\nThe p",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T14:41:13+00:00"
+    },
+    {
+      "id": "608cd76836eee0df",
+      "title": "LightEdge eyes data center project outside Des Moines, Iowa",
+      "link": "https://www.datacenterdynamics.com/en/news/lightedge-eyes-data-center-project-outside-des-moines-iowa/",
+      "summary": "Company looks to buy ten acres in Boone for project in home state",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T14:40:41+00:00"
+    },
+    {
+      "id": "7afb6da26b3aa2bc",
+      "title": "SpaceX\u2019s Starlink encourages every satellite operator to share data with Stargaze platform, for safety",
+      "link": "https://www.datacenterdynamics.com/en/news/spacexs-starlink-encourages-every-satellite-operator-to-share-data-with-stargaze-platform-for-safety/",
+      "summary": "Musk company proposes international cooperation on satellite tracking in a one-way street relationship with SpaceX",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T14:39:46+00:00"
+    },
+    {
+      "id": "75fa9794fca1f4f8",
+      "title": "Westinghouse, Poland Begin Long-Lead Item Procurement for Country\u2019s First Nuclear Power Plant",
+      "link": "https://www.powermag.com/westinghouse-poland-begin-long-lead-item-procurement-for-countrys-first-nuclear-power-plant/",
+      "summary": "Polskie Elektrownie J\u0105drowe (PEJ) has commissioned Westinghouse Electric Co. to begin procuring long-lead items (LLIs) for the first AP1000 unit of the Lubiatowo-Kopalino nuclear power plant project. This is one of the most important stages in preparing for the start of construction and ensuring that the project is completed on schedule. \u201cThis is an extremely [\u2026]\nThe post Westinghouse, Poland Begi",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T14:32:37+00:00"
+    },
+    {
+      "id": "a15a17c9b5ad711d",
+      "title": "India's Odisha gov't approves $18.62m data center project",
+      "link": "https://www.datacenterdynamics.com/en/news/indias-odisha-govt-approves-1862m-data-center-project/",
+      "summary": "Will serve as a disaster recovery data center",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T14:30:48+00:00"
+    },
+    {
+      "id": "540756e0e92e6ebe",
+      "title": "UK council launches heat network feasibility study for proposed data centers near Didcot Power Station in Oxfordshire",
+      "link": "https://www.datacenterdynamics.com/en/news/uk-council-launches-heat-network-feasibility-study-for-proposed-data-centers-near-didcot-power-station-in-oxfordshire/",
+      "summary": "Will be undertaken by Nordic Energy, with results published in March of next year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T14:24:29+00:00"
+    },
+    {
+      "id": "3cdc9f4768dfaa07",
+      "title": "US EV sales are rising again. Here\u2019s why the recovery is set to last.",
+      "link": "https://www.canarymedia.com/articles/electric-vehicles/us-ev-sales-rebound",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   It\u2019s a great time to have an electric vehicle \u2014 and more Americans are getting the message.  Despite President Donald Trump\u2019s pledge to refrain from striking Iran before next month\u2019s midterm elections, oil\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T14:23:00+00:00"
+    },
+    {
+      "id": "560148a177f05c44",
+      "title": "Nscale's Glomfjord data center delayed, site suffers leaks in cooling system and a fire",
+      "link": "https://www.datacenterdynamics.com/en/news/nscales-glomfjord-data-center-delayed-site-suffers-leaks-in-cooling-system-and-a-fire/",
+      "summary": "Company is shortly planning its IPO",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T14:18:00+00:00"
+    },
+    {
+      "id": "b46367625d1b55ad",
+      "title": "Vietnam's CMC and Korea's Lotte partner to develop data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/vietnams-cmc-and-koreas-lotte-partner-to-develop-data-centers/",
+      "summary": "Companies sign MoU to collaborate on data center projects",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T14:00:48+00:00"
+    },
+    {
+      "id": "9ff3dab0fb4b52e8",
+      "title": "Silicon is the easy part",
+      "link": "https://www.datacenterdynamics.com/en/opinions/silicon-is-the-easy-part/",
+      "summary": "But where does it fit in when it comes to inference at the Edge?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T13:58:29+00:00"
+    },
+    {
+      "id": "285a96ac9df77e3f",
+      "title": "Carrier Connect leases 4MW data center in Alpharetta, Georgia",
+      "link": "https://www.datacenterdynamics.com/en/news/carrier-connect-leases-4mw-data-center-in-alpharetta-georgia/",
+      "summary": "Colo firm leasing former GE facility from Mapletree",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T13:50:42+00:00"
+    },
+    {
+      "id": "77b492cd6e6d0bb3",
+      "title": "Digital Realty eyes gigawatt-scale data center site outside Indianapolis, Indiana",
+      "link": "https://www.datacenterdynamics.com/en/news/digital-realty-eyes-gigawatt-scale-data-center-site-outside-indianapolis-indiana/",
+      "summary": "Company looks to develop in Kokomo",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T13:30:32+00:00"
+    },
+    {
+      "id": "6e533a38798400cc",
+      "title": "Wolfspeed signs agreement with Infineon for supply off 200mm silicon carbide substrates",
+      "link": "https://www.datacenterdynamics.com/en/news/wolfspeed-signs-agreement-with-infineon-for-supply-off-200mm-silicon-carbide-substrates/",
+      "summary": "Multi-year deal will directly support Infineon\u2019s conversion to 200mm SiC manufacturing",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T13:13:43+00:00"
+    },
+    {
+      "id": "9b00b82b2d0428bc",
+      "title": "Rostelecom: Russia needs \u201cdoomsday\u201d data center to combat Ukrainian strikes",
+      "link": "https://www.datacenterdynamics.com/en/news/rostelecom-russia-needs-doomsday-data-center-to-combat-ukrainian-strikes/",
+      "summary": "Comments made by Rostelecom VP reveal centralization issue",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T12:00:22+00:00"
+    },
+    {
+      "id": "e25bcf5e058ba67b",
+      "title": "Two masked men set fire to 11 Starlink antennas in Bulgaria",
+      "link": "https://www.datacenterdynamics.com/en/news/two-masked-men-set-fire-to-11-starlink-antennas-in-bulgaria/",
+      "summary": "Follows a similar fire in Poland last month",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T11:55:01+00:00"
+    },
+    {
+      "id": "e30de9065d7529bc",
+      "title": "Jake Humphrey and a very British attitude to data centers",
+      "link": "https://www.datacenterdynamics.com/en/opinions/jake-humphrey-and-a-very-british-attitude-to-data-centers/",
+      "summary": "Legitimate concerns or Norfolk NIMBY-ism?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T11:41:50+00:00"
+    },
+    {
+      "id": "a825586defdaea66",
+      "title": "Iraq\u2019s iQ Networks and the connectivity arm of Qatar\u2019s Ooredoo Group sign fiber deal",
+      "link": "https://www.datacenterdynamics.com/en/news/iraqs-iq-networks-and-the-connectivity-arm-of-qatars-ooredoo-group-sign-fiber-deal/",
+      "summary": "The agreement will see the extension of traffic from Gulf subsea cable overland into Iraq",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T11:40:37+00:00"
+    },
+    {
+      "id": "d36f67e181071e21",
+      "title": "Mitsubishi HI and Ingeteam partner on energy infrastructure solutions for US data center market",
+      "link": "https://www.datacenterdynamics.com/en/news/mitsubishi-hi-and-ingeteam-partner-on-energy-infrastructure-solutions-for-us-data-center-market/",
+      "summary": "Ink non-binding MoU",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-16T11:24:46+00:00"
+    },
+    {
+      "id": "0c6340341bb2b39e",
+      "title": "U.S. small-scale solar generation has quadrupled in the last decade",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=68324",
+      "summary": "We estimate that U.S. generation from small-scale or rooftop solar photovoltaic systems (smaller than 1 megawatt of capacity) has increased from 18,812 gigawatthours (GWh) to 92,979 GWh over the last decade. The four states with the highest generation of small-scale solar in the country-California, Arizona, Texas, and Florida-are in regions with more abundant solar resources. Even though it is in ",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
+      "region": "National",
+      "published": "2026-10-16T09:00:00+00:00"
+    },
+    {
+      "id": "bbf62c09508bfc61",
+      "title": "US clean energy jobs fell in 2025 for the first time in years",
+      "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
+      "summary": "See more from  Canary Media\u2019s \u200b\u201cChart of the Week\u201d column . Clean energy installations have persisted at record levels despite President Donald Trump\u2019s best efforts to stop them. But the first year of Trump\u2019s second term did leave a mark on U.S. jobs in the sector.  Clean energy jobs fell in 2025 after four years of\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T07:30:00+00:00"
+    },
+    {
+      "id": "c34c9e0fe82a3859",
+      "title": "Reliability Officials Urge Proper Cyber Hygiene amid AI Era",
+      "link": "https://www.rtoinsider.com/148246-reliability-officials-urge-proper-cyber-hygiene-amid-ai-era/",
+      "summary": "Even as AI becomes more prevalent in cyber crime, and the risks posed by agentic AI emerge from the pages of science fiction into reality, the best defense remains maintaining good cyber hygiene, speakers at the EBA's Energy Forum said.\nThe post Reliability Officials Urge Proper Cyber Hygiene amid AI Era appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T00:57:15+00:00"
+    },
+    {
+      "id": "88c39ad053c3e022",
+      "title": "The Exxon Case: A Battle over Climate Reparations",
+      "link": "https://www.rtoinsider.com/148550-exxon-case-a-battle-over-climate-reparations/",
+      "summary": "Natural disasters often are called \u201cacts of God,\u201d even when climate change is implicated. Should they also be considered \u201cacts of Exxon\u201d?\nThe post The Exxon Case: A Battle over Climate Reparations appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T00:40:15+00:00"
+    },
+    {
+      "id": "554b3f2c8c3b652e",
+      "title": "PJM PC/TEAC Briefs: Oct. 6, 2026",
+      "link": "https://www.rtoinsider.com/148555-pjm-pc-teac-briefs-100626/",
+      "summary": "PJM presented updates to its proposal to establish voltage and frequency ride-through requirements for large computational loads.\nThe post PJM PC/TEAC Briefs: Oct. 6, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T00:37:05+00:00"
+    },
+    {
+      "id": "a41ee344521847ff",
+      "title": "PJM OC Briefs: Oct. 8, 2026",
+      "link": "https://www.rtoinsider.com/148553-pjm-oc-briefs-100826/",
+      "summary": "PJM\u2019s Joe Ciabattoni presented a problem statement and issue charge to explore how it can send advance notice that system conditions are expected to be tight during periods of moderate temperature or light load.\nThe post PJM OC Briefs: Oct. 8, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T00:25:35+00:00"
+    },
+    {
+      "id": "ab18027803d552ff",
+      "title": "FERC Approves ERO 2027 Budgets, Reserve Withdrawals",
+      "link": "https://www.rtoinsider.com/148538-ferc-approves-ero-2027-budgets/",
+      "summary": "FERC approved the budgets for NERC and the regional entities at its October open meeting.\nThe post FERC Approves ERO 2027 Budgets, Reserve Withdrawals appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-16T00:22:42+00:00"
     },
     {
       "id": "ee5db2fef3b8d2d5",
@@ -5901,296 +6211,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-25T19:31:53+00:00"
-    },
-    {
-      "id": "ec40cb0ae6db733e",
-      "title": "T-Mobile US expands AI network service",
-      "link": "https://www.datacenterdynamics.com/en/news/t-mobile-us-expands-ai-network-service/",
-      "summary": "AutoPilot aids T-Mobile's self-organizing network efforts",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T16:04:08+00:00"
-    },
-    {
-      "id": "a5bc56a9e812f5be",
-      "title": "Vocus to build 4,000km fiber link between Brisbane and Darwin",
-      "link": "https://www.datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin/",
-      "summary": "The route aims to support growing demand from hyperscaler, neocloud, and enterprise customers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T16:03:55+00:00"
-    },
-    {
-      "id": "4c77ed794579fc86",
-      "title": "The future of ITAD",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/the-future-of-itad/",
-      "summary": "An SK tes guide to reducing carbon emissions through IT asset recovery",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T15:41:36+00:00"
-    },
-    {
-      "id": "5b3664af2989f1a6",
-      "title": "DCD Connect 2026: Takeaway thoughts",
-      "link": "https://www.datacenterdynamics.com/en/opinions/dcd-connect-2026-takeaway-thoughts/",
-      "summary": "Reflections from our first DCD Connect London",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T15:39:00+00:00"
-    },
-    {
-      "id": "a81bba788fb57692",
-      "title": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
-      "link": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/",
-      "summary": "Follows publication of IPO prospectus",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T15:34:00+00:00"
-    },
-    {
-      "id": "9a024dfd5c50a491",
-      "title": "DensityAI: Chip startup founded by former Tesla Dojo execs valued at $10bn \u2013 report",
-      "link": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-founded-by-former-tesla-dojo-execs-valued-at-10bn-report/",
-      "summary": "Company has raised \u201chundreds of millions\u201d for development of chip with 3D DRAM stacking, report claims",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T15:02:00+00:00"
-    },
-    {
-      "id": "3ba9895f49f755f1",
-      "title": "Sponsored: How to scale data centers cheaper, faster, and at a higher quality",
-      "link": "https://www.datacenterdynamics.com/en/opinions/how-to-scale-data-centers-cheaper-faster-and-at-a-higher-quality/",
-      "summary": "Data centers are the last heavy industry still built by hand. It's time to move them into the factory",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T15:00:00+00:00"
-    },
-    {
-      "id": "f886352e91406765",
-      "title": "Second federal judge overturns $7B Solar for All cancellation",
-      "link": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/",
-      "summary": "The decision in a suit brought by Harris County, Texas, follows a similar ruling last week. A Harris County judge called it \u201ca really important victory for energy resilience.\u201d",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-25T14:13:58+00:00"
-    },
-    {
-      "id": "712378e67206d482",
-      "title": "Second federal judge overturns $7B Solar for All cancellation by Trump administration",
-      "link": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/",
-      "summary": "The decision in a suit brought by Harris County, Texas, follows a similar ruling last week. A Harris County judge called it \u201ca really important victory for energy resilience.\u201d",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-25T14:13:58+00:00"
-    },
-    {
-      "id": "ebfd10c698cdfc65",
-      "title": "Fair markets, trusted allies: Why Korea's cloud rules matter for AI leadership",
-      "link": "https://www.datacenterdynamics.com/en/opinions/fair-markets-trusted-allies-why-koreas-cloud-rules-matter-for-ai-leadership/",
-      "summary": "Will Korea's revisions to its cloud security framework work for the US?",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T14:00:39+00:00"
-    },
-    {
-      "id": "9aa0fdd46f031965",
-      "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM\u2019s interconnection study cycle",
-      "link": "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/",
-      "summary": "The decision affects a 750-MW, mixed technology project in Virginia, which Oklo said would be delayed by at least 18 months if it misses the current interconnection cycle.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-25T13:46:29+00:00"
-    },
-    {
-      "id": "f4f992bac36136ca",
-      "title": "Nuclear Plant Restarts Show What Government Can Do With a Clear Mandate",
-      "link": "https://www.powermag.com/nuclear-plant-restarts-show-what-government-can-do-with-a-clear-mandate/",
-      "summary": "On Aug. 30, workers at the Palisades Nuclear Plant in Covert Township, Michigan, began loading 204 fuel assemblies into a reactor vessel that had sat empty since the plant shut down in 2022\u2014the first time in U.S. history that a commercial reactor that had entered decommissioning began reloading fuel. Holtec International Chairman and CEO Dr. [\u2026]\nThe post Nuclear Plant Restarts Show What Government",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-25T13:14:46+00:00"
-    },
-    {
-      "id": "2034319ede2e9547",
-      "title": "Retired and Retiring Coal Plants Offer the Grid\u2019s Fastest Path to New Capacity",
-      "link": "https://www.powermag.com/retired-and-retiring-coal-plants-offer-the-grids-fastest-path-to-new-capacity/",
-      "summary": "The issue of load growth for the power grid and electric utilities has an overlooked answer: reinvesting in the coal-fired power plant sites being retired. \nThe post Retired and Retiring Coal Plants Offer the Grid\u2019s Fastest Path to New Capacity appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-25T13:12:28+00:00"
-    },
-    {
-      "id": "58bf8a4c9fefcf8a",
-      "title": "Northern Virginia's Prince William County puts controls on new data center projects",
-      "link": "https://www.datacenterdynamics.com/en/news/northern-virginias-prince-william-county-puts-controls-on-new-data-center-projects/",
-      "summary": "Size of 'by right' overlay district for digital infrastructure projects cut by two thirds",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T13:12:00+00:00"
-    },
-    {
-      "id": "8897c57d7c0b0084",
-      "title": "Growing Impact of ESA Jurisdiction Amid Unprecedented Energy Demand",
-      "link": "https://www.powermag.com/growing-impact-of-esa-jurisdiction-amid-unprecedented-energy-demand/",
-      "summary": "Many environmental statutes have narrowed as streamlined permitting and efficient project development are prioritized. \nThe post Growing Impact of ESA Jurisdiction Amid Unprecedented Energy Demand appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-25T13:11:32+00:00"
-    },
-    {
-      "id": "626b118941ad3696",
-      "title": "Keppel, StarHub confirm talks over M1 deal in Singapore",
-      "link": "https://www.datacenterdynamics.com/en/news/keppel-starhub-confirm-talks-over-m1-deal-in-singapore/",
-      "summary": "Will the talks lead to consolidation in the market?",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T13:09:13+00:00"
-    },
-    {
-      "id": "ac1df6fcc702de08",
-      "title": "Thailand set to finalize new data center regulations by mid-October - report",
-      "link": "https://www.datacenterdynamics.com/en/news/thailand-set-to-finalize-new-data-center-regulations-by-mid-october-report/",
-      "summary": "Expected to classify data centers with a capacity of more than 100MW hyperscale facilities",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T13:06:00+00:00"
-    },
-    {
-      "id": "629ef64d87bbfded",
-      "title": "Project Suncatcher: Google to launch first space data center test in orbit next week",
-      "link": "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/",
-      "summary": "TPUs are ready to catch some rays, hyperscaler claims",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T11:58:00+00:00"
-    },
-    {
-      "id": "b4281e5046194c8a",
-      "title": "SFR workers in France strike over proposed takeover",
-      "link": "https://www.datacenterdynamics.com/en/news/sfr-workers-in-france-strike-over-proposed-takeover/",
-      "summary": "Thousands of the company's employees have taken industrial action amid uncertainty over job security",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T11:10:00+00:00"
-    },
-    {
-      "id": "6210f6e1518bff84",
-      "title": "ASML\u2019s revenue share drops to zero percent in Europe, says it has sold \u201cabsolutely nothing\u201d in the region this year",
-      "link": "https://www.datacenterdynamics.com/en/news/asmls-revenue-share-drops-to-zero-percent-in-europe-says-its-sold-absolutely-nothing-in-the-region-this-year/",
-      "summary": "EUV lithography company says its working with politicians to bolster chipmaking efforts across the continent",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T11:03:00+00:00"
-    },
-    {
-      "id": "44dbe3bada38370b",
-      "title": "DOE unveils $1.9bn in funding for 31 grid upgrade projects to speed data center connections",
-      "link": "https://www.datacenterdynamics.com/en/news/doe-unveils-19bn-in-funding-for-31-grid-upgrade-projects-to-speed-data-center-connections/",
-      "summary": "Expected to unlock 23GW of additional capacity on the grid",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T09:35:00+00:00"
-    },
-    {
-      "id": "17c094297d6f61f4",
-      "title": "Google-backed Fervo Energy achieves first power at up to 900MW Cape Station geothermal plant in Utah",
-      "link": "https://www.datacenterdynamics.com/en/news/google-backed-fervo-energy-achieves-first-power-at-up-to-900mw-cape-station-geothermal-plant-in-utah/",
-      "summary": "The first utility-scale enhanced geothermal project to achieve power",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T09:33:00+00:00"
-    },
-    {
-      "id": "4ea61b440e6b7f03",
-      "title": "Vertiv to acquire data center fluid management firm King Environmental Services",
-      "link": "https://www.datacenterdynamics.com/en/news/vertiv-to-acquire-data-center-fluid-management-firm-king-environmental-services/",
-      "summary": "Transaction to close before the end of the year",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T09:25:00+00:00"
-    },
-    {
-      "id": "cedcf8047ab76890",
-      "title": "Applied Digital reveals $3.2bn Delta Forge 2 AI data center will be built in Alabama",
-      "link": "https://www.datacenterdynamics.com/en/news/applied-digital-reveals-32bn-delta-forge-2-ai-data-center-will-be-built-in-alabama/",
-      "summary": "Operations could start by 2028",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T09:24:00+00:00"
-    },
-    {
-      "id": "37e1493cbb17dc84",
-      "title": "Henry Hub natural gas prices this summer were 6% lower than last summer",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id=68204",
-      "summary": "The Henry Hub natural gas spot price averaged $2.93 per million British thermal units from June through August, 6% less than the same period last year. Prices were lower this summer despite exceptionally hot weather that increased electricity demand for air conditioning. Natural gas-fired power plants often help meet higher demand during such periods.",
-      "source": "EIA Today in Energy",
-      "category": "ISO/RTO",
-      "region": "National",
-      "published": "2026-09-25T09:00:00+00:00"
-    },
-    {
-      "id": "e22046f12bfeb5b1",
-      "title": "How dirty is the power generated in your state?",
-      "link": "https://www.canarymedia.com/articles/fossil-fuels/how-dirty-is-power-generated-states",
-      "summary": "See more from  Canary Media\u2019s \u200b\u201cChart of the Week\u201d column . Have you ever gazed up at power lines and wondered how clean the electrons passing along them are? The answer is very different depending on where you are.  Just look at the spectrum of blues in the map above. It charts the carbon intensity of power\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-25T07:30:00+00:00"
-    },
-    {
-      "id": "bae0c20f8460f4fc",
-      "title": "Solid oxide fuel cells enabling growth in a power-constrained world",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/solid-oxide-fuel-cells-enabling-growth-in-a-power-constrained-world/",
-      "summary": "How solid oxide fuel cells are offering a scalable route to reliable, on-site power as grid constraints reshape data center growth",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T07:25:13+00:00"
-    },
-    {
-      "id": "db01964bc22d05c5",
-      "title": "Event downtime, dynamic upheaval",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/event-downtime-dynamic-upheaval/",
-      "summary": "Key takeaways across two days of intense digital infrastructure conversations at DCD Connect London 2026",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-25T07:00:00+00:00"
-    },
-    {
-      "id": "e50725fd03b9ec58",
-      "title": "IESO Finalizes Long Lead-Time Procurement Changes as Registration Opens",
-      "link": "https://www.rtoinsider.com/146715-ieso-finalizes-long-lead-time-procurement-changes/",
-      "summary": "IESO has finalized changes to its Long Lead-Time request for proposals, including a mechanism to replace unsigned or disqualified awards, new contract language allowing it to share project progress reports with the Ontario government and revisions to storage requirements.\nThe post IESO Finalizes Long Lead-Time Procurement Changes as Registration Opens appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-25T00:43:58+00:00"
     }
   ]
 }
