@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T16:20:35.938017+00:00",
-  "count": 620,
+  "generated_at": "2026-10-16T00:03:29.978553+00:00",
+  "count": 619,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-15T16:20:30.847209+00:00"
+      "published": "2026-10-16T00:03:27.370894+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-15T16:20:30.847195+00:00"
+      "published": "2026-10-16T00:03:27.370879+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-15T16:20:30.847177+00:00"
+      "published": "2026-10-16T00:03:27.370862+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,137 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-15T16:20:30.847151+00:00"
+      "published": "2026-10-16T00:03:27.370831+00:00"
+    },
+    {
+      "id": "660f691e86a39ce7",
+      "title": "SPP\u2019s Markets+ tariff receives FERC approval",
+      "link": "https://spp.org/newsroom/press-releases/spp-s-marketsplus-tariff-receives-ferc-approval/",
+      "summary": "",
+      "source": "SPP News",
+      "category": "ISO/RTO",
+      "region": "Midwest",
+      "published": "2026-10-16T00:03:25.964970+00:00"
+    },
+    {
+      "id": "bbedce0439e84787",
+      "title": "February 2021 Extreme Weather Event",
+      "link": "https://www.ercot.com/news/february2021",
+      "summary": "",
+      "source": "ERCOT News",
+      "category": "ISO/RTO",
+      "region": "Texas / South Central",
+      "published": "2026-10-16T00:03:25.138444+00:00"
+    },
+    {
+      "id": "ee5db2fef3b8d2d5",
+      "title": "Northwest Cautiously Awaits BPA\u2019s \u2018Open Season\u2019 Proposal",
+      "link": "https://www.rtoinsider.com/148536-bpa-seeks-to-connect-large-loads-under-open-season/",
+      "summary": "Stakeholders responded with cautious optimism to the Bonneville Power Administration\u2019s proposal to connect large loads to the grid faster through an open season process, with the Public Power Council saying money shouldn\u2019t be the only determinant of who gets transmission.\nThe post Northwest Cautiously Awaits BPA\u2019s \u2018Open Season\u2019 Proposal appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T23:59:45+00:00"
+    },
+    {
+      "id": "498ff581baf8348c",
+      "title": "AEPCO, WAPA Team Up on Day-ahead Market Decision",
+      "link": "https://www.rtoinsider.com/148547-aepco-wapa-team-up-day-ahead-market-decision/",
+      "summary": "Arizona Electric Power Cooperative said it is working with the Western Area Power Administration to analyze the costs and benefits of joining either CAISO\u2019s Extended Day-Ahead Market or SPP\u2019s Markets+.\nThe post AEPCO, WAPA Team Up on Day-ahead Market Decision appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T23:42:39+00:00"
+    },
+    {
+      "id": "7c06066857db961c",
+      "title": "FERC Proposes \u2018Landmark\u2019 Changes to How it Reviews LNG, Gas Pipelines",
+      "link": "https://www.rtoinsider.com/148542-ferc-proposes-landmark-changes-how-reviews-lng-gas-pipelines/",
+      "summary": "FERC proposed streamlined review of smaller upgrades to LNG facilities and to end its own air pollution tests for Natural Gas Act infrastructure approvals.\nThe post FERC Proposes \u2018Landmark\u2019 Changes to How it Reviews LNG, Gas Pipelines appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T22:43:54+00:00"
+    },
+    {
+      "id": "dd5a13882bce5fdf",
+      "title": "State-regulated IRP Model Superior for Democratic Accountability, Consumer Protection",
+      "link": "https://www.rtoinsider.com/148244-state-regulated-irp-model-superior-for-democratic-accountability-consumer-protection/",
+      "summary": "Former FERC Chair Mark Christie says that keeping responsibility for the all-important electric power grid at the state level best serves democratic accountability, and that means best serving the people who pay the bills.\nThe post State-regulated IRP Model Superior for Democratic Accountability, Consumer Protection appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T22:02:30+00:00"
+    },
+    {
+      "id": "07b0793df6809c0e",
+      "title": "National Ramifications Seen in Ohio AEP Tariff Suit",
+      "link": "https://www.rtoinsider.com/148560-national-ramifications-seen-in-ohio-aep-tariff-suit/",
+      "summary": "The Ohio Supreme Court is weighing an industry group\u2019s challenge to the American Electric Power data center tariff that Ohio utility regulators approved in 2025.\nThe post National Ramifications Seen in Ohio AEP Tariff Suit appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T21:59:31+00:00"
+    },
+    {
+      "id": "ae896d40c092f29b",
+      "title": "FERC Approves Sale of FirstLight Resources to Hull Street Energy",
+      "link": "https://www.rtoinsider.com/148543-ferc-approves-sale-firstlight-resources-to-hull-street-energy/",
+      "summary": "FERC approved the sale of FirstLight Power\u2019s U.S. generation resources to Hull Street Energy, finding that the transaction would not adversely affect competition, rates or regulation.\nThe post FERC Approves Sale of FirstLight Resources to Hull Street Energy appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T21:57:56+00:00"
+    },
+    {
+      "id": "be3864b6458495ea",
+      "title": "NERC Reliability Standards for Data Centers and Crypto Loads Pass Final Ballot, Advance to Board Review",
+      "link": "https://www.powermag.com/nerc-reliability-standards-for-data-centers-and-crypto-loads-pass-final-ballot-advance-to-board-review/",
+      "summary": "Proposed reliability standards that would require qualifying data centers, artificial intelligence facilities, and cryptocurrency operations to provide grid data, coordinate protection settings, and respond to grid operators\u2019 instructions have passed their final stakeholder ballot, the North American Electric Reliability Corporation (NERC) announced Oct. 15. The standards and associated implementa",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T21:49:11+00:00"
+    },
+    {
+      "id": "672b80c67e05ca41",
+      "title": "Canadian Policymakers Using U.S. Experience to Address Data Center Demand",
+      "link": "https://www.rtoinsider.com/148516-canadian-policymakers-using-us-experience-address-data-center-demand/",
+      "summary": "Canadian policymakers are learning from the U.S.\u2019s experience with data centers \u2014 and offering their southern neighbors some lessons as well.\nThe post Canadian Policymakers Using U.S. Experience to Address Data Center Demand appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T21:39:08+00:00"
+    },
+    {
+      "id": "d0385db7ee94bdcb",
+      "title": "AEP Plans $4 Billion Fuel Cell Power Plant for Google, Signs Up to 1.6 GW Mainspring Generator Deal",
+      "link": "https://www.powermag.com/aep-plans-4-billion-fuel-cell-power-plant-for-google-signs-up-to-1-6-gw-mainspring-generator-deal/",
+      "summary": "American Electric Power (AEP), which said in July that it had secured about 13 GW of gas turbines for deployment through 2031, this week announced plans for a $4 billion, 702-MW Bloom Energy fuel cell plant in Wyoming to supply Google and purchased 190 MW of Mainspring Energy linear generators under an agreement for up [\u2026]\nThe post AEP Plans $4 Billion Fuel Cell Power Plant for Google, Signs Up to",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T21:35:31+00:00"
+    },
+    {
+      "id": "940e9014a274ee15",
+      "title": "PJM Regional Transmission Cost Adjustments Increase by Hundreds of Millions of Dollars",
+      "link": "https://www.rtoinsider.com/148557-pjm-regional-transmission-cost-adjustments-increase-hundreds-of-millions/",
+      "summary": "PJM presented changes to several projects approved in previous Regional Transmission Expansion Plan windows, increasing transmission costs by about $783 million for projects within Exelon\u2019s regions, $60 million for projects within Dominion and $25 million within PPL.\nThe post PJM Regional Transmission Cost Adjustments Increase by Hundreds of Millions of Dollars appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T21:30:59+00:00"
+    },
+    {
+      "id": "4253e6f179c4b2de",
+      "title": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
+      "link": "https://www.canarymedia.com/articles/data-centers/tech-giants-want-clean-energy-in-n-c-is-duke-finally-ready-to-help",
+      "summary": "In North Carolina, tech giants and other large corporations that want their own 24/7 carbon-free electricity have a problem. Across most of the state, only Duke Energy, the state\u2019s vertically integrated utility, can sell them power, and the company\u2019s grid isn\u2019t required to be 100% clean until mid-century.  For the\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T20:25:00+00:00"
     },
     {
       "id": "d9d5e20a347a5bd1",
@@ -61,26 +191,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-15T16:20:29+00:00"
-    },
-    {
-      "id": "660f691e86a39ce7",
-      "title": "SPP\u2019s Markets+ tariff receives FERC approval",
-      "link": "https://spp.org/newsroom/press-releases/spp-s-marketsplus-tariff-receives-ferc-approval/",
-      "summary": "",
-      "source": "SPP News",
-      "category": "ISO/RTO",
-      "region": "Midwest",
-      "published": "2026-10-15T16:20:28.661431+00:00"
-    },
-    {
-      "id": "bbedce0439e84787",
-      "title": "February 2021 Extreme Weather Event",
-      "link": "https://www.ercot.com/news/february2021",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "region": "Texas / South Central",
-      "published": "2026-10-15T16:20:27.337311+00:00"
     },
     {
       "id": "8eff69b779a7ecd5",
@@ -116,7 +226,7 @@
       "id": "965d974a6d63d1b4",
       "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
       "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
-      "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services\u2019 head of energy and utilities\u00a0Joseph Santamaria.",
+      "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services\u2019 head of energy and utilities, Joseph Santamaria.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -131,6 +241,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-15T15:57:26+00:00"
+    },
+    {
+      "id": "3bd2e6e0912ddbba",
+      "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
+      "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
+      "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on\u00a0crystalline silicon photovoltaic cells from the three countries.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-15T15:52:32+00:00"
     },
     {
       "id": "73fb711983fe2e50",
@@ -180,7 +300,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-10-15T15:16:50+00:00"
+      "published": "2026-10-15T15:16:00+00:00"
     },
     {
       "id": "b0bfd605b10688a7",
@@ -296,7 +416,7 @@
       "id": "929856df0b4c2e35",
       "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
       "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
-      "summary": "The proposed rules must still be approved by NERC\u2019s board and\u00a0federal regulators. As written, they would\u00a0apply to computational loads of\u00a050 MW or more, connected at voltage levels of at least 100 kV.",
+      "summary": "The proposed rules must still be approved by NERC\u2019s board and\u00a0federal regulators. As written, they would\u00a0apply to computational loads of\u00a050 MW or more connected at voltage levels of at least 100 kV.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -816,7 +936,7 @@
       "id": "3d2ccda6b82a1c82",
       "title": "Battery system failures fell 98% in 7 years, but older systems need special care: report",
       "link": "https://www.utilitydive.com/news/battery-system-failures-fell-98-in-7-years-but-older-systems-need-special/832882/",
-      "summary": "The Electric Power Research Institute analysis found a dramatic drop in energy storage system failures from 2018 to 2025 amid a host of technology and project improvements. \u201cEarly-vintage\u201d systems may require retrofits, however.",
+      "summary": "The Electric Power Research Institute analysis found a dramatic drop in energy storage system failures from 2018 to 2025 amid a host of technology and project improvements. Early vintage systems may require retrofits, however.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6071,136 +6191,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-25T00:43:58+00:00"
-    },
-    {
-      "id": "be6f6bbeea1f16d1",
-      "title": "MISO Asks FERC for Queue Restudy Cutback, 1-shot Exit Ramp for 2022 Projects",
-      "link": "https://www.rtoinsider.com/146694-miso-asks-ferc-queue-restudy-cutback-one-shot-exit-ramp/",
-      "summary": "MISO has filed a plan with FERC to reduce restudies in its interconnection queue and hand out a one-time pardon for generation proposals that entered its queue in 2022, allowing them to exit without consequence in late 2026.\nThe post MISO Asks FERC for Queue Restudy Cutback, 1-shot Exit Ramp for 2022 Projects appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-25T00:02:39+00:00"
-    },
-    {
-      "id": "3974e3a5f80dbd19",
-      "title": "DOE Awards $1.9B for 31 Grid Modernization Projects",
-      "link": "https://www.rtoinsider.com/146729-doe-announces-speed-power-transmission-grants/",
-      "summary": "Recipients are expected to reconductor or replace more than 1,500 miles of transmission lines and add grid-enhancing technologies to nearly 21,000 miles.\nThe post DOE Awards $1.9B for 31 Grid Modernization Projects appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T23:54:16+00:00"
-    },
-    {
-      "id": "85430ce3315beaee",
-      "title": "CISA, FBI Warn of Attacks on ICS Integrators",
-      "link": "https://www.rtoinsider.com/146714-cisa-issues-ics-integrator-guidance/",
-      "summary": "Federal agencies said malicious cyber actors may be targeting third-party industrial control system integration services.\nThe post CISA, FBI Warn of Attacks on ICS Integrators appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T23:44:23+00:00"
-    },
-    {
-      "id": "b49b465189202006",
-      "title": "Experts Debate Restructuring vs. Vertical Integration at AEI",
-      "link": "https://www.rtoinsider.com/146725-experts-debate-restructuring-versus-vertical-integration-at-aei/",
-      "summary": "The return of major load growth has brought back basic debates about how to economically regulate the power industry, and the American Enterprise Institute gathered a group of experts to discuss the topic.\nThe post Experts Debate Restructuring vs. Vertical Integration at AEI appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T23:40:38+00:00"
-    },
-    {
-      "id": "c6c2a498fdd1ef5e",
-      "title": "Ariz. Utilities\u2019 Day-ahead Market Choices Face Fresh Scrutiny",
-      "link": "https://www.rtoinsider.com/146709-ariz-utilities-day-ahead-market-choices-face-fresh-scrutiny/",
-      "summary": "An Arizona regulator has asked utilities in the state for updated analysis on their choice of day-ahead market \u2014 including the impact of Bonneville Power Administration potentially switching from SPP\u2019s Markets+ to CAISO\u2019s Extended Day-Ahead Market.\nThe post Ariz. Utilities\u2019 Day-ahead Market Choices Face Fresh Scrutiny appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T23:35:26+00:00"
-    },
-    {
-      "id": "ee64350802f7aece",
-      "title": "Trump Administration Prioritizing Large-Scale Energy Storage",
-      "link": "https://www.rtoinsider.com/146721-trump-administration-prioritizing-large-scale-energy-storage/",
-      "summary": "The Trump administration has spent the past year course correcting its policies on energy storage, making it a top priority in its efforts to lower energy costs as the buildout of data centers and the artificial intelligence industry strains the nation\u2019s aging power grid, according to a senior Department of Energy official.\nThe post Trump Administration Prioritizing Large-Scale Energy Storage appe",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T22:41:07+00:00"
-    },
-    {
-      "id": "dc2e5475137cf0ae",
-      "title": "Fixing PJM\u2019s Real Problem: Interconnection Delays",
-      "link": "https://www.rtoinsider.com/146711-fixing-pjms-real-problem/",
-      "summary": "PJM's interconnection queue for reviewing and approving requests wasn\u2019t flexible enough to handle the increased volume in recent years and has seized up, writes Tom Rutigliano of the NRDC.\nThe post Fixing PJM\u2019s Real Problem: Interconnection Delays appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T21:40:22+00:00"
-    },
-    {
-      "id": "d5a5438d4070af15",
-      "title": "NYISO Breaks Down Summer System Conditions",
-      "link": "https://www.rtoinsider.com/142327-nyiso-breaks-down-2026-summer-season-performance/",
-      "summary": "New York had 10 days with a system peak load of over 27,000 MW this summer, NYISO reported to stakeholders at the end of August.\nThe post NYISO Breaks Down Summer System Conditions appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T21:31:18+00:00"
-    },
-    {
-      "id": "28739afd423b6fcf",
-      "title": "Advanced grid tech gets a $1.9B DOE boost",
-      "link": "https://www.canarymedia.com/articles/transmission/advanced-grid-tech-doe-boost",
-      "summary": "For years now, grid experts have been trying to get utilities to deploy advanced transmission technologies that can squeeze more capacity out of overstressed U.S. power grids. On Thursday, the Trump administration put a $1.9 billion down payment on 31 projects that will help greatly scale up these underutilized\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T21:30:00+00:00"
-    },
-    {
-      "id": "8a7bda693cc83b2d",
-      "title": "Second Judge Blocks N.Y. Climate Change Superfund Act",
-      "link": "https://www.rtoinsider.com/146727-ny-climate-change-superfund-act-struck-down-again/",
-      "summary": "New York\u2019s attempt to charge fossil fuel companies $75 billion in compensation for climate damage has been shot down by a second federal judge.\nThe post Second Judge Blocks N.Y. Climate Change Superfund Act appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T21:12:37+00:00"
-    },
-    {
-      "id": "23e46d859edd4546",
-      "title": "Energy Storage Marks Another Strong Quarter",
-      "link": "https://www.rtoinsider.com/146261-second-quarter-us-energy-storage-report/",
-      "summary": "A new report shows battery storage installation soaring in the United States and the average duration of installed batteries growing longer.\nThe post Energy Storage Marks Another Strong Quarter appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T19:15:09+00:00"
-    },
-    {
-      "id": "60620e7681e1a9c2",
-      "title": "Can we power it?  Yes we GaN",
-      "link": "https://www.datacenterdynamics.com/en/analysis/can-we-power-it-yes-we-gan/",
-      "summary": "Is the data center industry finally catching up to the promise of gallium nitride?",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-24T17:44:09+00:00"
-    },
-    {
-      "id": "83ddd8cdfa8c1b4d",
-      "title": "Meet the solar industry\u2019s new Republican evangelist",
-      "link": "https://www.canarymedia.com/articles/solar/solar-industry-new-republican-evangelist",
-      "summary": "Tim Pawlenty was a two-term Republican governor of Minnesota and made a run in the 2012 presidential primary, which ultimately went to Mitt Romney. Now, Pawlenty has reemerged on the national political scene as the leading evangelist for solar energy, while the industry seeks to recover from a stinging political\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-24T16:30:00+00:00"
     }
   ]
 }
