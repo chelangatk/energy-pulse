@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T15:24:05.125194+00:00",
-  "count": 623,
+  "generated_at": "2026-10-18T23:54:00.005005+00:00",
+  "count": 629,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-18T15:24:02.794665+00:00"
+      "published": "2026-10-18T23:53:57.371125+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-18T15:24:02.794654+00:00"
+      "published": "2026-10-18T23:53:57.371110+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-18T15:24:02.794641+00:00"
+      "published": "2026-10-18T23:53:57.371089+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-18T15:24:02.794617+00:00"
+      "published": "2026-10-18T23:53:57.371047+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-18T15:24:01.264441+00:00"
+      "published": "2026-10-18T23:53:55.839606+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,117 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-18T15:23:59.771067+00:00"
+      "published": "2026-10-18T23:53:54.929688+00:00"
+    },
+    {
+      "id": "428ce6a5f56ced39",
+      "title": "Group Questions Transparency of State Complaint over MISO Long-range Transmission",
+      "link": "https://www.rtoinsider.com/148659-new-report-questions-origins-5-state-miso-long-range-tx-complaint/",
+      "summary": "An investigation into how the complaint against MISO\u2019s $22 billion long-range transmission portfolio was orchestrated shows an absence of public input among the five states that signed onto it.\nThe post Group Questions Transparency of State Complaint over MISO Long-range Transmission appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T23:44:23+00:00"
+    },
+    {
+      "id": "2237f59beb196b59",
+      "title": "ISO-NE Generators Raise Concerns About Treatment of Large Loads",
+      "link": "https://www.rtoinsider.com/148676-iso-ne-generators-raise-concerns-treatment-large-loads/",
+      "summary": "New England generators have raised concerns about potential legal issues with ISO-NE\u2019s proposed treatment of new large loads, taking issue with the redispatch price threshold for those with non-firm service.\nThe post ISO-NE Generators Raise Concerns About Treatment of Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T21:03:49+00:00"
+    },
+    {
+      "id": "c06afffa8e3fc5e7",
+      "title": "Pivot Energy Closes $173-Million Loan for 135 MW of Solar Capacity",
+      "link": "https://www.powermag.com/pivot-energy-closes-173-million-loan-for-135-mw-of-solar-capacity/",
+      "summary": "Pivot Energy, an impact-focused independent power producer of distributed-scale solar and energy storage, announced the closing of a $173-million term loan facility for a portfolio of 51 community-scale solar projects totaling 135 MW across six states. Long-time financial partners First Citizens Bank, Huntington Bank, and BankUnited provided the takeout financing. The facility refinances the proje",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T20:28:24+00:00"
+    },
+    {
+      "id": "da2cbca9ba42fb29",
+      "title": "Western RA Programs Tout Transparency to Tackle Seams",
+      "link": "https://www.rtoinsider.com/148685-western-ra-programs-tout-transparency-to-tackle-seams/",
+      "summary": "Transparency and data accuracy are key to ensuring seams are efficiently handled between the various resource adequacy programs operating in the West, representatives from the efforts said.\nThe post Western RA Programs Tout Transparency to Tackle Seams appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T19:14:27+00:00"
+    },
+    {
+      "id": "76ba9f073dba158a",
+      "title": "NYISO, Monitor Spar over RNA Assumptions; Final Draft Advances",
+      "link": "https://www.rtoinsider.com/148689-nyiso-monitor-spar-over-rna-assumptions-final-draft-advances/",
+      "summary": "NYISO\u2019s Market Monitoring Unit, Potomac Economics, says the ISO has adopted \u201cincreasingly conservative\u201d assumptions in its Reliability Needs Assessment and that market incentives are inadequate to address the identified capacity deficiencies.\nThe post NYISO, Monitor Spar over RNA Assumptions; Final Draft Advances appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T19:09:01+00:00"
+    },
+    {
+      "id": "edc915b47a185035",
+      "title": "Moody\u2019s: New York Weathering Economic Headwinds Better than U.S.",
+      "link": "https://www.rtoinsider.com/148691-moodys-new-york-weathering-economic-headwinds-better-than-us/",
+      "summary": "Moody\u2019s Analytics says New York state is holding up better than the rest of the U.S. despite the national economic headwinds of inflation and high energy prices caused by the Iran War and President Donald Trump\u2019s global trade tariffs.\nThe post Moody\u2019s: New York Weathering Economic Headwinds Better than U.S. appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T19:07:59+00:00"
+    },
+    {
+      "id": "2b649f3c4031da03",
+      "title": "MISO Stakeholders Want Large Load-Driven Tx Project Traceability Before MTEP 27",
+      "link": "https://www.rtoinsider.com/148657-miso-stakeholders-want-large-load-driven-tx-project-traceability/",
+      "summary": "Stakeholders have asked MISO to develop a way to assign data center developers the costs of reliability projects they trigger with their massive demand ahead of the RTO\u2019s 2027 transmission planning cycle.\nThe post MISO Stakeholders Want Large Load-Driven Tx Project Traceability Before MTEP 27 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T18:53:08+00:00"
+    },
+    {
+      "id": "d3ca28cf29634e0e",
+      "title": "Warming Climate Could Jumble Western Energy Demand, Report Finds",
+      "link": "https://www.rtoinsider.com/148267-warming-climate-could-jumble-western-energy-demand/",
+      "summary": "Electricity demand in the West will become rockier in the summer and winter as the effects of climate change continue to set in globally, according to a new report published by the California Energy Commission.\nThe post Warming Climate Could Jumble Western Energy Demand, Report Finds appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T18:31:44+00:00"
+    },
+    {
+      "id": "8d2fcdb03a8c095c",
+      "title": "Editor\u2019s Note: \u2018Volatility\u2019 Describes Market Reforms, Demand, Transmission in 2026",
+      "link": "https://www.rtoinsider.com/147861-editors-note-volatility-describes-market-reforms/",
+      "summary": "Market reform in PJM and the Western markets can be described with one word: volatility. Meanwhile, public opposition to data centers is growing across North America, with at least 500 local governments in the U.S. approving moratoria or bans on data centers.\nThe post Editor\u2019s Note: \u2018Volatility\u2019 Describes Market Reforms, Demand, Transmission in 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T18:29:53+00:00"
+    },
+    {
+      "id": "c5aade4fcdddb0b2",
+      "title": "Severe Weather Keeps Stress-testing Our Grid; The Fix is Waiting on Congress",
+      "link": "https://www.rtoinsider.com/148534-severe-weather-keeps-stress-testing-grid-waiting-on-congress/",
+      "summary": "Congress has an extraordinary opportunity to protect consumers from high electricity prices and severe weather. The Bipartisan American Affordability and Jobs Act of 2026 would enable us to build the electricity system we need, write Rachel Levine and Evan Vaughan.\nThe post Severe Weather Keeps Stress-testing Our Grid; The Fix is Waiting on Congress appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T18:27:42+00:00"
+    },
+    {
+      "id": "f88c2dbddf768788",
+      "title": "Montana PSC Sued over Climate Consideration Snub",
+      "link": "https://www.rtoinsider.com/148655-montana-psc-sued-over-climate-consideration-snub/",
+      "summary": "Seventeen organizations \u2014 including healthcare providers, youth organizations and clean energy and climate advocates \u2014 sued the Montana Public Service Commission for refusing to consider climate change impacts in its utility regulations.\nThe post Montana PSC Sued over Climate Consideration Snub appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-18T18:24:29+00:00"
     },
     {
       "id": "a9719e4ee7e2cc1a",
@@ -6181,56 +6291,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-28T02:00:00+00:00"
-    },
-    {
-      "id": "f3d9f261fcafed7d",
-      "title": "Storage Developers Face Evolving Challenges, Opportunities in ISO-NE",
-      "link": "https://www.rtoinsider.com/146697-iso-ne-storage-devs-face-evolving-challenges-opportunities/",
-      "summary": "While advancements in battery technology, increasing arbitrage opportunities and state programs are boosting the case for energy storage in ISO-NE, regulatory challenges continue to pose substantial barriers to development.\nThe post Storage Developers Face Evolving Challenges, Opportunities in ISO-NE appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-27T18:48:25+00:00"
-    },
-    {
-      "id": "802d25d6ad50697f",
-      "title": "FERC Reaffirms ROE Reduction, Refund Requirements for ISO-NE TOs",
-      "link": "https://www.rtoinsider.com/146828-ferc-reaffirms-roe-reduction-refund-iso-ne-tos/",
-      "summary": "Responding to a rehearing request by the ISO-NE transmission owners, FERC reaffirmed its reduction of the TOs\u2019 base return on equity and its requirement for the companies to refund customers for the overcollection of funds dating back to 2011.\nThe post FERC Reaffirms ROE Reduction, Refund Requirements for ISO-NE TOs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-27T17:38:44+00:00"
-    },
-    {
-      "id": "e0ab3f12122e8531",
-      "title": "Earthjustice Report Suggests Cost Allocation Methods for Large Loads",
-      "link": "https://www.rtoinsider.com/146831-earthjustice-report-suggests-cost-allocation-methods-for-large-loads/",
-      "summary": "Earthjustice has released a report by Energy Futures Group on how to allocate the costs caused by the addition of large loads like data centers.\nThe post Earthjustice Report Suggests Cost Allocation Methods for Large Loads appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-27T17:19:35+00:00"
-    },
-    {
-      "id": "3faae6098271fef0",
-      "title": "ISO Governance Speed is Not a Legal Abstraction; it\u2019s an Engineering Constraint",
-      "link": "https://www.rtoinsider.com/146859-iso-governance-speed-not-legal-abstraction-engineering-constraint/",
-      "summary": "There's a cost to \"shared governance\" ISO gridlock that doesn't show up in a tariff filing: the physical grid does not wait for administrative consensus to finish forming, warns engineering analyst Mica C. Tufillaro.\nThe post ISO Governance Speed is Not a Legal Abstraction; it\u2019s an Engineering Constraint appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-27T16:07:01+00:00"
-    },
-    {
-      "id": "dcb1e86b28fd4001",
-      "title": "Grid Operators Need Authority Budgets Before AI Agents Get More Power",
-      "link": "https://www.rtoinsider.com/146165-grid-operators-need-authority-budgets-before-ai-agents-get-more-power/",
-      "summary": "Grid organizations should use AI aggressively where it improves forecasting, compliance, maintenance, planning and analysis. But as AI shifts from advising people to agents that can act across systems, the industry needs a harder limit on delegated power.\nThe post Grid Operators Need Authority Budgets Before AI Agents Get More Power appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-27T16:03:47+00:00"
     }
   ]
 }
