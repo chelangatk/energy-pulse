@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:43:29.262377+00:00",
+  "generated_at": "2026-10-18T15:24:05.125194+00:00",
   "count": 623,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-17T23:43:26.227520+00:00"
+      "published": "2026-10-18T15:24:02.794665+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-17T23:43:26.227504+00:00"
+      "published": "2026-10-18T15:24:02.794654+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-17T23:43:26.227484+00:00"
+      "published": "2026-10-18T15:24:02.794641+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-17T23:43:26.227443+00:00"
+      "published": "2026-10-18T15:24:02.794617+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-17T23:43:22.224947+00:00"
+      "published": "2026-10-18T15:24:01.264441+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-17T23:43:21.399605+00:00"
+      "published": "2026-10-18T15:23:59.771067+00:00"
+    },
+    {
+      "id": "a9719e4ee7e2cc1a",
+      "title": "The end of independent infrastructure roadmaps: how AI is forcing data center co-design",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/",
+      "summary": "Idle accelerators represent stranded capital, wasted energy, and lower returns on some of the most expensive infrastructure investments in the data center",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-18T14:00:43+00:00"
+    },
+    {
+      "id": "3262c645495ba72b",
+      "title": "Cloud-first served its purpose. Now it's time for workload-first",
+      "link": "https://www.datacenterdynamics.com/en/opinions/cloud-first-served-its-purpose-now-its-time-for-workload-first/",
+      "summary": "A workload first approach",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-18T06:00:53+00:00"
     },
     {
       "id": "a4431f8da301a262",
@@ -6211,26 +6231,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-27T16:03:47+00:00"
-    },
-    {
-      "id": "0bd099b3b4080558",
-      "title": "Sponsored: Speed to power: The infrastructure solutions shaping the global data center race",
-      "link": "https://www.datacenterdynamics.com/en/opinions/speed-to-power-the-infrastructure-solutions-shaping-the-global-data-center-race/",
-      "summary": "Virtual power plants, grid enhancing technologies and around-the-meter models can all support speed to power",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-27T15:00:00+00:00"
-    },
-    {
-      "id": "25bf7ef902eddf3d",
-      "title": "Beyond redundancy: Why dynamic stability matters in AI data centers",
-      "link": "https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/",
-      "summary": "The future of data center resilience",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-27T10:00:31+00:00"
     }
   ]
 }
