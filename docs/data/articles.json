@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T00:53:47.233483+00:00",
-  "count": 638,
+  "generated_at": "2026-10-20T16:22:53.075228+00:00",
+  "count": 636,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-20T00:53:43.973301+00:00"
+      "published": "2026-10-20T16:22:49.756642+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-20T00:53:43.973290+00:00"
+      "published": "2026-10-20T16:22:49.756634+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-20T00:53:43.973277+00:00"
+      "published": "2026-10-20T16:22:49.756621+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-20T00:53:43.973249+00:00"
+      "published": "2026-10-20T16:22:49.756592+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-20T00:53:42.324470+00:00"
+      "published": "2026-10-20T16:22:47.923061+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,267 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-20T00:53:41.469751+00:00"
+      "published": "2026-10-20T16:22:46.299252+00:00"
+    },
+    {
+      "id": "fadc578ae010ff8d",
+      "title": "Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK",
+      "link": "https://www.datacenterdynamics.com/en/news/cable-theft-causes-openreach-broadband-outage-for-thousands-in-thurnscoe-uk/",
+      "summary": "Thieves caused disruption while hunting for copper",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T16:20:03+00:00"
+    },
+    {
+      "id": "4e7ab0daa91f1e66",
+      "title": "Amazon pledges \u20ac16bn investment in Germany in 2027",
+      "link": "https://www.datacenterdynamics.com/en/news/amazon-pledges-16bn-investment-in-germany-in-2027/",
+      "summary": "Includes expanding data centers and AI infrastructure, high-speed satellite Internet, and logistics expansion",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T16:19:52+00:00"
+    },
+    {
+      "id": "8846aec20eda93b9",
+      "title": "Nexfibre rejects \"fundamentally flawed\" CMA verdict on \u00a32bn Netomnia acquisition",
+      "link": "https://www.datacenterdynamics.com/en/news/nexfibre-rejects-fundamentally-flawed-cma-verdict-on-2bn-netomnia-acquisition/",
+      "summary": "Declines to offer remedies to regulator",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T16:04:56+00:00"
+    },
+    {
+      "id": "f718dc04012f73f3",
+      "title": "San Francisco shopping mall targeted for potential data center",
+      "link": "https://www.datacenterdynamics.com/en/news/san-francisco-shopping-mall-targeted-for-potential-data-center/",
+      "summary": "Bidders competing for former Bloomingdale's site",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T16:03:21+00:00"
+    },
+    {
+      "id": "a81154312b286771",
+      "title": "Closing the Loop: Are closed-loop systems the solution to data centers' water woes?",
+      "link": "https://www.datacenterdynamics.com/en/analysis/closed-loop-cooling-data-center-gradiant/",
+      "summary": "It's sink or swim time for promising technology",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T16:01:09+00:00"
+    },
+    {
+      "id": "fef8f00e739bcef9",
+      "title": "OVHcloud has 110MW of data center capacity up for grabs",
+      "link": "https://www.datacenterdynamics.com/en/news/ovhcloud-has-110mw-of-data-center-capacity-up-for-grabs/",
+      "summary": "Company reveals in its annual earnings call that it has capacity available to grow its customer base",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T15:58:38+00:00"
+    },
+    {
+      "id": "9a64a689bdca4991",
+      "title": "Veon to acquire rival Perfectum in $207m Uzbek consolidation push",
+      "link": "https://www.datacenterdynamics.com/en/news/veon-to-acquire-rival-perfectum-in-207m-uzbek-consolidation-push/",
+      "summary": "Five could become four in Uzbekistan's telecoms market",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T15:56:13+00:00"
+    },
+    {
+      "id": "7aa0ba9690052f0c",
+      "title": "Chief Telecom breaks ground on 16MW data center in Taiwan",
+      "link": "https://www.datacenterdynamics.com/en/news/chief-telecom-breaks-ground-on-16mw-data-center-in-taiwan/",
+      "summary": "Facility due live in 2028",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T15:14:59+00:00"
+    },
+    {
+      "id": "b6aa0d565d12d919",
+      "title": "Boston's Towardex sets up direct interconnection to DE-CIX's New York Internet Exchange",
+      "link": "https://www.datacenterdynamics.com/en/news/bostons-towardex-sets-up-direct-interconnection-to-de-cixs-new-york-internet-exchange/",
+      "summary": "HEX customers can now access DE-CIX\u2019s multi-service interconnection platform",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T15:12:13+00:00"
+    },
+    {
+      "id": "883b8079a0e94559",
+      "title": "xMems solid-state cooling chips for data centers and Edge devices go into production",
+      "link": "https://www.datacenterdynamics.com/en/news/xmems-solid-state-cooling-chips-for-data-centers-and-edge-devices-go-into-production/",
+      "summary": "Good vibrations can help chill hardware",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T15:10:41+00:00"
+    },
+    {
+      "id": "0b7a068761c7859b",
+      "title": "South Korean cloud provider Elice goes public on Kosdaq",
+      "link": "https://www.datacenterdynamics.com/en/news/south-korean-cloud-provider-elice-goes-public-on-kosdaq/",
+      "summary": "Company raises $150 million, but share price drops sharply overnight",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T15:10:24+00:00"
+    },
+    {
+      "id": "904eeec82396fccc",
+      "title": "Blackstone closes latest energy transition fund at $8.7bn, backs several data center focused energy firms",
+      "link": "https://www.datacenterdynamics.com/en/news/blackstone-closes-latest-energy-transition-fund-at-87bn-backs-several-data-center-focused-energy-firms/",
+      "summary": "Closed 50 percent higher than the previous fund",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T15:00:47+00:00"
+    },
+    {
+      "id": "af3fa8e7363cc500",
+      "title": "Sponsored: The importance of power quality in data centers: 4 critical areas to keep in mind",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-importance-of-power-quality-in-data-centers-4-critical-areas-to-keep-in-mind/",
+      "summary": "\"In an always-on digital economy, power quality is not optional, it is foundational\"",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T15:00:00+00:00"
+    },
+    {
+      "id": "cf8a3ef031b71db1",
+      "title": "Developer looks to convert hotel basement into data center in Lancashire, UK",
+      "link": "https://www.datacenterdynamics.com/en/news/developer-looks-to-convert-hotel-basement-into-data-center-in-lancashire-uk/",
+      "summary": "66-year-old hotel getting a facelift",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T14:52:51+00:00"
+    },
+    {
+      "id": "c9f93df1201faa23",
+      "title": "12 actions to tackle energy affordability",
+      "link": "https://www.utilitydive.com/news/12-actions-tackle-energy-affordability-grid-forward/832673/",
+      "summary": "Modernizing the grid is a complex, multi-dimensional challenge; improving energy affordability is similarly complicated, writes\u00a0Bryce Yonker, executive director of Grid Forward.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-20T14:35:26+00:00"
+    },
+    {
+      "id": "5ca8d3d77bd7af7a",
+      "title": "DCD Studio: The data center workforce challenge with Andy Davis, Data eXec",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-data-center-workforce-challenge-with-andy-davis-data-exec/",
+      "summary": "Seb Moss speaks with Andy Davis of Data eXec on talent acquisition, retention, diversity, and building an inclusive, sustainable culture amid rapid data center industry growth",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T14:18:23+00:00"
+    },
+    {
+      "id": "6bbf21394253735c",
+      "title": "The ultimate guide to li-ion BESS fire safety standards",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/the-ultimate-guide-to-li-ion-bess-fire-safety-standards/",
+      "summary": "How updated fire safety standards and early off-gas detection can improve lithium-ion battery safety, support compliance and prevent thermal runaway",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T13:52:10+00:00"
+    },
+    {
+      "id": "5ba0ad16cc2356a4",
+      "title": "Austrian Start-Up Pitches Container-Sized Thorium Reactor, With Storage Coming First",
+      "link": "https://www.powermag.com/austrian-start-up-pitches-container-sized-thorium-reactor-with-storage-coming-first/",
+      "summary": "Emerald Horizon plans to sell a hybrid battery and molten-salt storage system now and add an accelerator-driven thorium generator later. The generator remains at an early stage of development. Austria decided against nuclear power in the late 1970s and has not revisited the question since, according to Mario M\u00fcller, vice president of research and development [\u2026]\nThe post Austrian Start-Up Pitches ",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-20T13:29:18+00:00"
+    },
+    {
+      "id": "5bf2f519e47fa13b",
+      "title": "CBRE acquires data center services firm Onnec",
+      "link": "https://www.datacenterdynamics.com/en/news/cbre-acquires-data-center-services-firm-onnec/",
+      "summary": "Initial purchase price of $610 million",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T13:24:17+00:00"
+    },
+    {
+      "id": "d6d4176b31f94919",
+      "title": "Magnora Data Center acquires 2MW facility in Oslo, Norway",
+      "link": "https://www.datacenterdynamics.com/en/news/magnora-data-center-acquires-2mw-facility-in-oslo-norway/",
+      "summary": "Company partners with Blix",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T13:20:00+00:00"
+    },
+    {
+      "id": "90d88db064482463",
+      "title": "DataVault plans 3MW data center in Auckland, New Zealand",
+      "link": "https://www.datacenterdynamics.com/en/news/datavault-plans-3mw-data-center-in-auckland-new-zealand/",
+      "summary": "First phase due live next year, 11 carriers signed up",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T13:18:44+00:00"
+    },
+    {
+      "id": "ae02fcc8038633e1",
+      "title": "Ballistic strike in Kyiv, Ukraine, leaves Datagroup data center inoperable",
+      "link": "https://www.datacenterdynamics.com/en/news/ballistic-strike-in-kyiv-ukraine-leaves-datagroup-data-center-inoperable/",
+      "summary": "Latest in a t\u00eate-\u00e0-t\u00eate of data center strikes",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-20T12:41:33+00:00"
+    },
+    {
+      "id": "c42b7782fc48f127",
+      "title": "Will a second US city tax billion-dollar firms to fund clean energy?",
+      "link": "https://www.canarymedia.com/articles/clean-energy/eugene-ballot-measure-tax-companies-climate-fund",
+      "summary": "Amy Winton doesn\u2019t like that she has to depend on fossil gas for her restaurant, Mexican taquer\u00eda Pandita in Eugene, Oregon. But she\u2019s stuck with the gas-fueled burners, heaters, and outdoor fireplace that came with the space.   \u201cWe just don't have the funds\u201d to switch to electric equipment, Winton said. \u201cIf we had\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-20T07:30:00+00:00"
+    },
+    {
+      "id": "eba340393f202ba0",
+      "title": "Floating wind industry leans into global collaboration amid headwinds",
+      "link": "https://www.canarymedia.com/articles/offshore-wind/floating-turbine-global-collaboration-research",
+      "summary": "This article originally appeared on  Inside Climate News  , a nonprofit, non-partisan news organization that covers climate, energy, and the environment. Sign up for their newsletter  here  .  Picture a buoyant triangular steel or concrete platform roughly the dimensions of a baseball field. Now place a wind turbine\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-20T07:30:00+00:00"
+    },
+    {
+      "id": "5312c56312eebe04",
+      "title": "Ontario Energy Conference Attendees Seek Aggressive Development",
+      "link": "https://www.rtoinsider.com/148564-dispatch-from-the-2026-ontario-energy-conference/",
+      "summary": "The specter of Donald Trump and Canada\u2019s increasingly strained relationship with the U.S. hovered over much of the fifth annual Ontario Energy Conference, but attendees also discussed plans for aggressive energy infrastructure development.\nThe post Ontario Energy Conference Attendees Seek Aggressive Development appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-20T01:17:08+00:00"
+    },
+    {
+      "id": "f5195ab79c4d0be2",
+      "title": "MRO Engineer Urges Strong Oversight of AI Adoption",
+      "link": "https://www.rtoinsider.com/148948-mro-engineer-urges-strong-oversight-ai-adoption/",
+      "summary": "In a webinar, a CIP expert with MRO recommended utilities exercise control over their employees' use of AI tools.\nThe post MRO Engineer Urges Strong Oversight of AI Adoption appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-20T01:02:15+00:00"
     },
     {
       "id": "4901be68e23718d7",
@@ -281,6 +541,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-19T15:12:51+00:00"
+    },
+    {
+      "id": "b3ccb963745a4551",
+      "title": "Schneider Electric sees record-high Q3 revenue on global data center boom",
+      "link": "https://www.utilitydive.com/news/schneider-electric-data-center-earnings/833358/",
+      "summary": "North America continues to be the largest source of revenue for the company\u2019s energy management segment, but China and East Asia saw a higher organic growth rate this quarter and year to date.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T15:10:29+00:00"
     },
     {
       "id": "4444af66a109304c",
@@ -6091,296 +6361,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-09-29T16:30:46+00:00"
-    },
-    {
-      "id": "2658714e0cd32a20",
-      "title": "EU Chips Joint Undertaking puts out two calls for AI hardware development projects",
-      "link": "https://www.datacenterdynamics.com/en/news/eu-chips-joint-undertaking-puts-out-two-calls-for-ai-hardware-development-projects/",
-      "summary": "Calls have a combined budget of \u20ac80 million",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T16:10:28+00:00"
-    },
-    {
-      "id": "46af915a1479ac2e",
-      "title": "Alibaba Cloud plans new cloud regions in Turkey, Finland, the Netherlands",
-      "link": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-plans-new-cloud-regions-in-turkey-finland-the-netherlands/",
-      "summary": "Will also expand existing footprint in Malaysia, Germany, UAE, and elsewhere",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T16:05:33+00:00"
-    },
-    {
-      "id": "d13fde83d5f55bb6",
-      "title": "Global Switch to host large Nvidia Blackwell deployment at Paris data center",
-      "link": "https://www.datacenterdynamics.com/en/news/global-switch-to-host-large-nvidia-blackwell-deployment-at-paris-data-center/",
-      "summary": "End user has not been disclosed",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T16:03:36+00:00"
-    },
-    {
-      "id": "9824e1d62765725c",
-      "title": "Free space optics: To the moon and back",
-      "link": "https://www.datacenterdynamics.com/en/analysis/free-space-optics-to-the-moon-and-back/",
-      "summary": "Optical communication could transform the space industry, if it can beat the weather",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T16:00:45+00:00"
-    },
-    {
-      "id": "a79272b1d02295ee",
-      "title": "The data center boom continues apace, but projects face mounting obstacles",
-      "link": "https://www.utilitydive.com/news/the-data-center-boom-continues-apace-but-projects-face-mounting-obstacles/830496/",
-      "summary": "Shortages of skilled labor and equipment, as well as local opposition, are threatening even high-profile projects backed by big tech companies. Developers are responding by embracing flexibility and alternative technologies\u00a0once considered too unwieldy.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T16:00:00+00:00"
-    },
-    {
-      "id": "7fa11b7499453486",
-      "title": "Facilities fueling energy storage installations",
-      "link": "https://www.utilitydive.com/news/facilities-fueling-energy-storage-installations/831510/",
-      "summary": "The market for commercial systems will grow 27% over the next five years, say American Clean Power and Wood Mackenzie.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T16:00:00+00:00"
-    },
-    {
-      "id": "1f2b7b9c037731f0",
-      "title": "Ericsson to support Cellnex's 5G RAN upgrades in Poland",
-      "link": "https://www.datacenterdynamics.com/en/news/ericsson-to-support-cellnexs-5g-ran-upgrades-in-poland/",
-      "summary": "Will support Cellnex's sustainability ambitions",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T15:49:00+00:00"
-    },
-    {
-      "id": "ee0bfcce22ff6311",
-      "title": "Google receives planning permission to expand data center in Dublin, Ireland",
-      "link": "https://www.datacenterdynamics.com/en/news/google-receives-planning-permission-to-expand-data-center-in-dublin-ireland/",
-      "summary": "An Coimisi\u00fan Plean\u00e1la greenlights plans",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T15:40:36+00:00"
-    },
-    {
-      "id": "402ba69c900ea39d",
-      "title": "Amid acquisition, Energy Vault keeps close watch on Trump\u2019s bulk-power order, executive says",
-      "link": "https://www.utilitydive.com/news/amid-acquisition-energy-vault-keeps-close-watch-on-trumps-bulk-power-orde/831646/",
-      "summary": "The energy project developer sees opportunities in Texas, PJM Interconnection and the Southwest Power Pool, but officials say they must carefully navigate an uncertain regulatory backdrop.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T15:34:42+00:00"
-    },
-    {
-      "id": "066dab09df6844c6",
-      "title": "Meta signs on to use AI capacity at Firmus' Southeast Asia data centers",
-      "link": "https://www.datacenterdynamics.com/en/news/meta-signs-on-to-use-ai-capacity-at-firmus-southeast-asia-data-centers/",
-      "summary": "Builds on existing agreements in Australia",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T15:32:11+00:00"
-    },
-    {
-      "id": "80ff24a410abddba",
-      "title": "T2, MegaFon expand 5G rollout to key metro stations in Russia",
-      "link": "https://www.datacenterdynamics.com/en/news/t2-megafon-expand-5g-rollout-to-key-metro-stations-in-russia/",
-      "summary": "Russian telcos only launched 5G earlier this month",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T15:22:30+00:00"
-    },
-    {
-      "id": "7210afbd3d408f87",
-      "title": "Fortress Group launches in-line amplifier module offering for fiber operators",
-      "link": "https://www.datacenterdynamics.com/en/news/fortress-group-launches-in-line-amplifier-module-offering-for-fiber-operators/",
-      "summary": "Company working towards higher-density ILAs with liquid cooling",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T15:04:09+00:00"
-    },
-    {
-      "id": "b0eceff3d2115cd6",
-      "title": "The virtuous cycle of inclusive utility investment and virtual power plants",
-      "link": "https://www.utilitydive.com/news/virtuous-cycle-inclusive-utility-investment-virtual-power-plants/830123/",
-      "summary": "Inclusive investment is a mechanism enabling distributed resources to scale beyond affluent early adopters, creating a broader pathway for virtual power plants,\u00a0writes Zuha Maryam Shaikh at Clean Energy Works.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T15:00:00+00:00"
-    },
-    {
-      "id": "001197ff45ee19a9",
-      "title": "Sponsored: The faster we listen, the faster we can move",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-faster-we-listen-the-faster-we-can-move/",
-      "summary": "\u201cThe data center industry doesn't have a permitting problem or a communications problem. It has a trust problem\u201d",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T15:00:00+00:00"
-    },
-    {
-      "id": "b5ba4703a8eccb75",
-      "title": "Australia Post picks Telstra to bolster nationwide connectivity infrastructure",
-      "link": "https://www.datacenterdynamics.com/en/news/australia-post-picks-telstra-to-bolster-nationwide-connectivity-infrastructure/",
-      "summary": "The postal company has penned a three-year deal with the telecoms provider",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T14:50:36+00:00"
-    },
-    {
-      "id": "4a8bbd04993d8f12",
-      "title": "POWER\u2019s 2026 Rising Star Award Winner",
-      "link": "https://www.powermag.com/powers-2026-rising-star-award-winner/",
-      "summary": "When Arevon Energy needed someone to lead financing on Nighthawk, a 300-MW/1,200-MWh battery storage project the company had been working on when Nimmi Kavasery came onboard as the managing director of Project Finance, she made \u201ca battlefield promotion,\u201d handing the lead role to Jack Southard\u2014someone she\u2019d only observed peripherally and who had never run a [\u2026]\nThe post POWER\u2019s 2026 Rising Star Awa",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T14:40:54+00:00"
-    },
-    {
-      "id": "f3a55c8607ee0f53",
-      "title": "Eaton to acquire COL Group",
-      "link": "https://www.datacenterdynamics.com/en/news/eaton-to-acquire-col-group/",
-      "summary": "Industrial firm buys Italian switchgear maker for \u20ac810m",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T14:40:45+00:00"
-    },
-    {
-      "id": "75483e5e99740488",
-      "title": "Most NYC buildings met emissions standard in first compliance year",
-      "link": "https://www.utilitydive.com/news/most-nyc-buildings-met-emissions-standard-in-first-compliance-year/831620/",
-      "summary": "Many improved their performance through building upgrades and energy-efficiency measures like lighting upgrades, envelope work, installing heat pumps or implementing energy management systems, a city official said.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T14:33:36+00:00"
-    },
-    {
-      "id": "a031ae52eccdc1fb",
-      "title": "Colovore files to develop data center in Fort Worth, Texas",
-      "link": "https://www.datacenterdynamics.com/en/news/colovore-files-to-develop-data-center-in-fort-worth-texas/",
-      "summary": "Liquid cooled data center firm details second facility in the Lone Star State",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T14:30:08+00:00"
-    },
-    {
-      "id": "5fed8d0efe7a307e",
-      "title": "Lawsuit alleges USDA illegally slashed rural solar development program",
-      "link": "https://www.utilitydive.com/news/usda-rural-solar-reap-program-lawsuit-earthjustice/831614/",
-      "summary": "Internal emails show a department administrator stating\u00a0\u201clet\u2019s let the comms shop find . . . the rationale behind their statistics\u201d when asked to substantiate anti-solar claims underpinning the policy changes, the complaint says.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T13:57:29+00:00"
-    },
-    {
-      "id": "8e85d52c57f1faa1",
-      "title": "Plans filed for 400MW data center campus outside Melbourne, Australia",
-      "link": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/",
-      "summary": "New player HyperDC plans campus outside Geelong, near existing substation and BESS project",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T12:40:36+00:00"
-    },
-    {
-      "id": "e9b0e4f2df097f3f",
-      "title": "Submer launches Corenix to offer modular data center infrastructure",
-      "link": "https://www.datacenterdynamics.com/en/news/submer-launches-corenix-to-offer-modular-data-center-infrastructure/",
-      "summary": "New unit to provide custom modules for customers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T12:30:42+00:00"
-    },
-    {
-      "id": "c16450627410984b",
-      "title": "Amazon to acquire two data centers in Hong Kong",
-      "link": "https://www.datacenterdynamics.com/en/news/amazon-to-acquire-two-data-centers-in-hong-kong/",
-      "summary": "Cloud company buys leased facility from landlord",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T11:34:39+00:00"
-    },
-    {
-      "id": "7e3188116eb7bf09",
-      "title": "Lenovo and MemryX partner for Edge AI deployment in Saudi Arabia",
-      "link": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-memryx-and-lenovo-have-signed-a-memorandum-of-understanding-mou-to-deploy-locally-operated-edge-ai-solutions-across-saudi-arabia-and-support-the-kingdoms-vision-2030-strategy-the-agreement-builds-on-joint-platform-deployments-already-o/",
-      "summary": "The companies already operate the platform across two deployments in the Kingdom",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T11:28:43+00:00"
-    },
-    {
-      "id": "04328d427bd888e3",
-      "title": "Plans unveiled for \u2018largest\u2019 data center in Italy",
-      "link": "https://www.datacenterdynamics.com/en/news/plans-unveiled-for-largest-data-center-in-italy/",
-      "summary": "Developer\u00a0Moncalieri Logistics has already submitted the plans",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T11:25:00+00:00"
-    },
-    {
-      "id": "36293623b7e26187",
-      "title": "Schneider Electric and Equinix trial software-defined switchgear for data centers",
-      "link": "https://www.datacenterdynamics.com/en/news/schneider-electric-and-equinix-trial-software-defined-switchgear-for-data-centers/",
-      "summary": "Could cut the amount of cabling in data halls, and speed up deployment times",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-09-29T11:23:02+00:00"
-    },
-    {
-      "id": "86a620245657268b",
-      "title": "Seven Years of Operation in Heat Recovery Economizers: A Phenolic Coating Case Study",
-      "link": "https://www.powermag.com/seven-years-of-operation-in-heat-recovery-economizers-a-phenolic-coating-case-study/",
-      "summary": "A South Korean power plant needed a coating that could survive corrosive condensates without sacrificing heat transfer\u2014the industry\u2019s usual workaround for that trade-off fell short. \nThe post Seven Years of Operation in Heat Recovery Economizers: A Phenolic Coating Case Study appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T08:32:58+00:00"
-    },
-    {
-      "id": "7c4112b393d519bf",
-      "title": "Rising Star Award Finalist: Naphtal Haya of DNV Energy USA",
-      "link": "https://www.powermag.com/rising-star-award-finalist-naphtal-haya-of-dnv-energy-usa/",
-      "summary": "POWER's Rising Star Award focuses on individuals who have had a positive impact on the power generation sector early in their careers.\nThe post Rising Star Award Finalist: Naphtal Haya of DNV Energy USA appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T08:31:54+00:00"
-    },
-    {
-      "id": "fc14ffb4d3960704",
-      "title": "A Greener Grid: Florida Facility Turning Hydrogen into Power",
-      "link": "https://www.powermag.com/a-greener-grid-florida-facility-turning-hydrogen-into-power/",
-      "summary": "The DeBary Hydrogen Production Storage System, part of the DeBary power plant complex, is the winner of POWER's Top Plant Award for hydrogen. It is the first facility in the U.S. to produce, store, and burn 100% green hydrogen for power generation. \nThe post A Greener Grid: Florida Facility Turning Hydrogen into Power appeared first on POWER Magazine.",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T08:30:14+00:00"
     }
   ]
 }
