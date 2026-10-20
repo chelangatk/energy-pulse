@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T18:21:21.176101+00:00",
-  "count": 636,
+  "generated_at": "2026-10-20T00:53:47.233483+00:00",
+  "count": 638,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-19T18:21:16.153192+00:00"
+      "published": "2026-10-20T00:53:43.973301+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-19T18:21:16.153179+00:00"
+      "published": "2026-10-20T00:53:43.973290+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-19T18:21:16.153163+00:00"
+      "published": "2026-10-20T00:53:43.973277+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-19T18:21:16.153128+00:00"
+      "published": "2026-10-20T00:53:43.973249+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-19T18:21:14.340827+00:00"
+      "published": "2026-10-20T00:53:42.324470+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,117 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-19T18:21:13.267040+00:00"
+      "published": "2026-10-20T00:53:41.469751+00:00"
+    },
+    {
+      "id": "4901be68e23718d7",
+      "title": "Spanberger, Va. SCC Staff Seek More Conditions for NextEra-Dominion Merger",
+      "link": "https://www.rtoinsider.com/148955-spanberger-va-scc-seek-more-conditions-nextera-dominion-merger/",
+      "summary": "Virginia Gov. Abigail Spanberger called on NextEra Energy and Dominion Energy to freeze residential rates for six years and triple monthly customer bill credits as conditions to win approval for their proposed merger.\nThe post Spanberger, Va. SCC Staff Seek More Conditions for NextEra-Dominion Merger appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-20T00:32:25+00:00"
+    },
+    {
+      "id": "77eee022deea538d",
+      "title": "Deseret Power Cleared to Participate in SPP\u2019s RTOE, CAISO\u2019s EDAM",
+      "link": "https://www.rtoinsider.com/148694-deseret-power-cleared-participate-spp-rtoe-caiso-edam/",
+      "summary": "FERC has conditionally accepted Deseret Power Electric Cooperative\u2019s status change and authorized it to participate in both SPP\u2019s RTO Expansion and CAISO\u2019s Extended Day-ahead Market.\nThe post Deseret Power Cleared to Participate in SPP\u2019s RTOE, CAISO\u2019s EDAM appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-20T00:09:37+00:00"
+    },
+    {
+      "id": "62e3b2b3446dd22a",
+      "title": "FERC Approves ISO-NE\u2019s \u2018First-of-its-kind\u2019 Asset Condition Reviewer",
+      "link": "https://www.rtoinsider.com/148960-ferc-approves-iso-ne-first-asset-condition-reviewer/",
+      "summary": "FERC approved ISO-NE\u2019s proposal to create an asset condition project reviewer, a role within the RTO intended to add transparency and scrutiny to local transmission upgrades in the region.\nThe post FERC Approves ISO-NE\u2019s \u2018First-of-its-kind\u2019 Asset Condition Reviewer appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T23:28:16+00:00"
+    },
+    {
+      "id": "7e35b0192cfad664",
+      "title": "N.J. Utilities\u2019 Response to PJM Vote Inquiry Sparks Concern",
+      "link": "https://www.rtoinsider.com/148683-nj-utilities-response-to-pjm-vote-inquiry-sparks-concern/",
+      "summary": "The New Jersey Board of Public Utilities says state utilities \u201csubmitted incomplete and deficient reports on their PJM voting history\u201d in the first report required under a law.\nThe post N.J. Utilities\u2019 Response to PJM Vote Inquiry Sparks Concern appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T23:25:43+00:00"
+    },
+    {
+      "id": "9fee67728f083fe6",
+      "title": "SPP Stakeholders Endorse $23.7B Transmission Plan",
+      "link": "https://www.rtoinsider.com/148559-spp-stakeholders-approve-23b-itp-2026/",
+      "summary": "SPP's MOPC has endorsed a $23.7 billion transmission plan that includes six more 765-kV projects to address increasing load growth and has a projected baseline value of $86 billion.\nThe post SPP Stakeholders Endorse $23.7B Transmission Plan appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T23:06:02+00:00"
+    },
+    {
+      "id": "5d58113b5bc5363d",
+      "title": "Maintaining Uninterrupted Operations Amid Persistent Drastic Weather Conditions",
+      "link": "https://www.powermag.com/maintaining-uninterrupted-operations-amid-persistent-drastic-weather-conditions/",
+      "summary": "Severe weather conditions have become constant. Cyclones, storms, heatwaves, floods, and droughts continue to put critical infrastructure, homes, livelihoods, and lives at risk in the U.S. and around the world. Heat waves and droughts are the second-deadliest weather category, causing critical infrastructure instability, power line inefficiency, thermal sagging, and overloaded transformers that ca",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T22:06:39+00:00"
+    },
+    {
+      "id": "46d98752ff21407f",
+      "title": "Before the Grid Relies on New Load, What Evidence is Required?",
+      "link": "https://www.rtoinsider.com/148476-before-the-grid-relies-on-new-load-what-evidence-is-required/",
+      "summary": "To connect large loads, speed matters. But it does not answer a more fundamental question: What evidence justifies relying on a forecast, proposed project, or assumed operating arrangement in the first place?\nThe post Before the Grid Relies on New Load, What Evidence is Required? appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T21:59:15+00:00"
+    },
+    {
+      "id": "dc7f7e097ed364af",
+      "title": "Trump Admin Gives $42M to Help Build Constitution Pipeline",
+      "link": "https://www.rtoinsider.com/148946-trump-admin-announces-42m-constitution-pipeline/",
+      "summary": "The Trump Administration is using a decades old law to give Williams Companies $42 million to help build the Constitution Pipeline from Pennsylvania to New York.\nThe post Trump Admin Gives $42M to Help Build Constitution Pipeline appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T21:56:10+00:00"
+    },
+    {
+      "id": "87e687164c7d45fc",
+      "title": "India\u2019s Largest Utility Signs PPA With Virginia-Based Solar Group, Will Use Advanced CSP Technology",
+      "link": "https://www.powermag.com/indias-largest-utility-signs-ppa-with-virginia-based-solar-group-will-use-advanced-csp-technology/",
+      "summary": "NTPC Limited, India\u2019s largest electric utility, has signed a power purchase agreement with 247 Solar and will deploy that company\u2019s Concentrated Solar Power (CSP) technology as part of its energy strategy. The companies on October 15 said it will mark the first commercial project for 247 Solar and its solar thermal tech. The Virginia-based company [\u2026]\nThe post India\u2019s Largest Utility Signs PPA Wit",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T20:41:41+00:00"
+    },
+    {
+      "id": "8c2e275fdae9c98f",
+      "title": "Captona Closes Equity Investment With Nexamp in Large Community Solar Portfolio",
+      "link": "https://www.powermag.com/captona-closes-equity-investment-with-nexamp-in-large-community-solar-portfolio/",
+      "summary": "Captona LLC, a North American investment firm, has announced its latest preferred equity investment in partnership with Nexamp, a fully-integrated distributed generation and community solar company. The investment announced October 13 support the financing of 55 MW of solar generation and 5 MWh of battery storage capacity across 10 projects in four states (Illinois, Maine, [\u2026]\nThe post Captona Clo",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T19:56:14+00:00"
+    },
+    {
+      "id": "eaa7b1fdb3acb36d",
+      "title": "Reducing Performance Losses in Utility-Scale Solar Plants: An O&M Approach",
+      "link": "https://www.powermag.com/reducing-performance-losses-in-utility-scale-solar-plants-an-om-approach/",
+      "summary": "Utility-scale solar plants can lose energy without experiencing a complete equipment failure. Dust accumulation can reduce module output, inverter derating can constrain power conversion, tracker faults can leave arrays at suboptimal angles, and communication problems can prevent operators from recognizing underperformance promptly. Some losses are unavoidable, but others can be identified, quanti",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-19T19:43:22+00:00"
     },
     {
       "id": "a5999135e4615308",
@@ -6271,96 +6381,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-09-29T08:30:14+00:00"
-    },
-    {
-      "id": "8ed1bc41450432b1",
-      "title": "Texas Nuclear Summit Speakers See Bright Future for Industry",
-      "link": "https://www.rtoinsider.com/146863-texas-nuclear-summit-bright-future-for-industry/",
-      "summary": "Speakers at the third annual Texas Nuclear Summit reflected on the event's growth and discussed the potential for new nuclear power aided by federal government support.\nThe post Texas Nuclear Summit Speakers See Bright Future for Industry appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T00:46:01+00:00"
-    },
-    {
-      "id": "3427b6f98ff8f36a",
-      "title": "PGE Says Oregon PUC Order on Holding Company Proposal is Too Strict",
-      "link": "https://www.rtoinsider.com/146926-pge-says-oregon-puc-conditions-holding-company-plan-too-strict/",
-      "summary": "Portland General Electric rejected the Oregon Public Utility Commission\u2019s conditional order approving the utility\u2019s proposed holding company structure, saying tighter controls on dividends would restrict \u201cordinary business activities\u201d and limit necessary investments.\nThe post PGE Says Oregon PUC Order on Holding Company Proposal is Too Strict appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T00:24:18+00:00"
-    },
-    {
-      "id": "b3189e52140011b9",
-      "title": "IESO Proposes New Capacity Accreditation Method for Future Procurements",
-      "link": "https://www.rtoinsider.com/146833-ieso-proposes-new-capacity-accreditation-method-future-procurements/",
-      "summary": "IESO is recommending marginal reliability impact as its method for accrediting capacity in future procurements, moving away from its current reliance on unforced capacity.\nThe post IESO Proposes New Capacity Accreditation Method for Future Procurements appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T00:21:10+00:00"
-    },
-    {
-      "id": "1f520f0b0aa2be74",
-      "title": "FERC Approves $425K in NERC Penalties",
-      "link": "https://www.rtoinsider.com/146922-ferc-approves-425k-in-nerc-penalties/",
-      "summary": "FERC approved penalties against TransAlta, NLPC and Pepco for violations of NERC reliability standards.\nThe post FERC Approves $425K in NERC Penalties appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-29T00:18:18+00:00"
-    },
-    {
-      "id": "4699ecb5ead329a0",
-      "title": "DTE Proposes Gas Plants, Storage, Renewables in IRP",
-      "link": "https://www.rtoinsider.com/146928-dte-affirms-coal-phaseout-in-latest-irp-submission/",
-      "summary": "DTE Electric is pitching an all-of-the-above-except-coal energy mix in its 2026 Integrated Resource Plan, reaffirming its commitment to end coal use by 2032.\nThe post DTE Proposes Gas Plants, Storage, Renewables in IRP appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-28T22:59:21+00:00"
-    },
-    {
-      "id": "a85d805f64bf826a",
-      "title": "The Next Frontier of Grid Resilience: Wildfire Prevention and Utility Asset Protection",
-      "link": "https://www.rtoinsider.com/146163-next-frontier-grid-resilience-wildfire-prevention-utility-asset-protection/",
-      "summary": "The next frontier in grid asset protection is not simply responding to fires faster, but deploying targeted solutions that reduce the likelihood of ignition and spread before a fire starts, writes industry leader Wes Bolsen.\nThe post The Next Frontier of Grid Resilience: Wildfire Prevention and Utility Asset Protection appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-28T22:23:18+00:00"
-    },
-    {
-      "id": "64dfc84bf119bfa9",
-      "title": "Will New York's 1GW storage contracts finally break the state's big battery impasse",
-      "link": "https://www.canarymedia.com/articles/batteries/new-york-torage-contracts-big-battery",
-      "summary": "New York set an ambitious goal to eliminate fossil-fueled electricity by 2040. Doing so will almost certainly require widespread adoption of batteries to store renewable generation and make it available on demand, thereby reducing the need for fossil-fueled \u201cpeaker\u201d plants. Yet the state has seen hardly any\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-28T21:00:00+00:00"
-    },
-    {
-      "id": "57a370016a38d977",
-      "title": "Will New York's 1GW storage contracts finally break the state's big battery impasse?",
-      "link": "https://www.canarymedia.com/articles/batteries/new-york-torage-contracts-big-battery",
-      "summary": "New York set an ambitious goal to eliminate fossil-fueled electricity by 2040. Doing so will almost certainly require widespread adoption of batteries to store renewable generation and make it available on demand, thereby reducing the need for fossil-fueled \u201cpeaker\u201d plants. Yet the state has seen hardly any\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-28T21:00:00+00:00"
-    },
-    {
-      "id": "2f053ca4c5e38414",
-      "title": "In global first, a next-gen geothermal plant goes live at utility scale",
-      "link": "https://www.canarymedia.com/articles/geothermal/global-first-next-gen-geothermal-fervo",
-      "summary": "The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah \u2014 marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide.  The Houston-based firm turned on an initial 33-megawatt unit late last week and has been testing\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-09-28T19:30:00+00:00"
     }
   ]
 }
