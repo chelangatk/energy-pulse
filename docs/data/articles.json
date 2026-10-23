@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T16:39:40.470127+00:00",
-  "count": 625,
+  "generated_at": "2026-10-23T00:22:30.228191+00:00",
+  "count": 618,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-22T16:39:37.286432+00:00"
+      "published": "2026-10-23T00:22:27.655092+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-22T16:39:37.286417+00:00"
+      "published": "2026-10-23T00:22:27.655077+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-22T16:39:37.286399+00:00"
+      "published": "2026-10-23T00:22:27.655060+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-22T16:39:37.286371+00:00"
+      "published": "2026-10-23T00:22:27.655028+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-22T16:39:34.443018+00:00"
+      "published": "2026-10-23T00:22:26.370350+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,77 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-22T16:39:33.446390+00:00"
+      "published": "2026-10-23T00:22:25.181865+00:00"
+    },
+    {
+      "id": "b74e758a9ef790da",
+      "title": "ACORE Grid Forum Examines Transmission Policy at a Time of Change",
+      "link": "https://www.rtoinsider.com/149220-acore-grid-forum-examines-transmission-policy-time-of-change/",
+      "summary": "U.S. transmission policy is changing as regions implement FERC Order 1920 and Congress weighs passage of the Bipartisan American Affordability and Jobs Act during a lame duck session.\nThe post ACORE Grid Forum Examines Transmission Policy at a Time of Change appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T23:54:12+00:00"
+    },
+    {
+      "id": "8fd56e611dcef806",
+      "title": "Majority of New Projects in ISO-NE Transitional Cluster have Withdrawn",
+      "link": "https://www.rtoinsider.com/149149-new-iso-ne-projects-transitional-cluster-study-withdrawn/",
+      "summary": "Facing interconnection cost estimates averaging over $100 million, most new projects and the majority of new capacity participating in ISO-NE\u2019s Transitional Cluster Study have withdrawn from the RTO\u2019s interconnection queue.\nThe post Majority of New Projects in ISO-NE Transitional Cluster have Withdrawn appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T23:22:19+00:00"
+    },
+    {
+      "id": "b7fcdf42229895c7",
+      "title": "MISO Advisory Committee Asks for Role in IMM Best Practices Review",
+      "link": "https://www.rtoinsider.com/149160-miso-advisory-committee-asks-for-role-imm-review/",
+      "summary": "MISO\u2019s Advisory Committee is seeking involvement in the ongoing third-party best practices review of the RTO's Independent Market Monitor, which could reshape the boundaries of the IMM\u2019s role and strengthen board oversight.\nThe post MISO Advisory Committee Asks for Role in IMM Best Practices Review appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T22:58:53+00:00"
+    },
+    {
+      "id": "7ccfe453af4a00e5",
+      "title": "N.J. Using $500M of RGGI Funds to Ease Energy Bills as Critics Question Participation",
+      "link": "https://www.rtoinsider.com/148680-nj-500m-rggi-funds-ease-energy-bills-critics-question-participation/",
+      "summary": "New Jersey is directing $500 million in funds from the state\u2019s Regional Greenhouse Gas Initiative allocation to help ease surging electricity bills amid a growing debate about whether the cap-and-invest program is no longer effective and has become a ratepayer burden.\nThe post N.J. Using $500M of RGGI Funds to Ease Energy Bills as Critics Question Participation appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T22:43:25+00:00"
+    },
+    {
+      "id": "13b8736ce1b60392",
+      "title": "\u2018The Market is Working\u2019: EDAM Operations Successful, PacifiCorp Says",
+      "link": "https://www.rtoinsider.com/148953-edam-market-is-working-pacificorp-pge/",
+      "summary": "Six months in, PacifiCorp said CAISO\u2019s Extended Day-Ahead Market is working well for the utility, with many operational kinks now resolved and natural gas-fired exports reaching new highs.\nThe post \u2018The Market is Working\u2019: EDAM Operations Successful, PacifiCorp Says appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T22:27:55+00:00"
+    },
+    {
+      "id": "efd2bb36d407bc94",
+      "title": "NRC Finalizes Rule Allowing Reactor Applicants to Use DOE, DOW Demonstration Data",
+      "link": "https://www.powermag.com/nrc-finalizes-rule-allowing-reactor-applicants-to-use-doe-dow-demonstration-data/",
+      "summary": "The Nuclear Regulatory Commission (NRC) on Oct. 22 finalized a rule that allows commercial nuclear reactor applicants to use analyses, test data, and other technical evidence from reactor demonstrations previously authorized by the Department of Energy (DOE) or Department of War (DOW) to support license applications. The measure establishes a more direct means of incorporating [\u2026]\nThe post NRC Fin",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T21:27:16+00:00"
+    },
+    {
+      "id": "52d61c27216a4e86",
+      "title": "Keeping the Lights on When Power Demand Fluctuates",
+      "link": "https://www.powermag.com/keeping-the-lights-on-when-power-demand-fluctuates/",
+      "summary": "Data centers do what any industry would to continue operations during a power outage: Quickly pivot to their own emergency energy. As reported in several media outlets, a 10-minute grid outage in late July of this year on the East Coast caused data centers to hop off the main grid and switch over to their [\u2026]\nThe post Keeping the Lights on When Power Demand Fluctuates appeared first on POWER Magaz",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T17:50:05+00:00"
     },
     {
       "id": "1c42f4e0f0f869bd",
@@ -71,6 +141,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-22T16:30:25+00:00"
+    },
+    {
+      "id": "71a9dc1081cd0fb3",
+      "title": "What kind of virtual power plant would you choose?",
+      "link": "https://www.canarymedia.com/articles/virtual-power-plants/what-virtual-power-plant-would-you-choose",
+      "summary": "Hello, everybody! Welcome back to California Wire. This week, I\u2019m going to be talking about\u00a0 virtual power plants again \u2014\u00a0but not the ones\u00a0 set up by utilities and tech giants or run by\u00a0 solar-battery vendors like Sunrun and Tesla. Instead, I want to dive into a pretty radical new concept: letting participating\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T16:30:00+00:00"
     },
     {
       "id": "8705c8a798781601",
@@ -153,6 +233,16 @@
       "published": "2026-10-22T15:35:18+00:00"
     },
     {
+      "id": "d756e8110cf0783d",
+      "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+      "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+      "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, \u201cthis is how you blow up a permitting deal.\u201d",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T15:26:51+00:00"
+    },
+    {
       "id": "01a867a4a6695151",
       "title": "AT&T CEO John Stankey not getting twisted over SpaceX\u2019s spectrum salvo",
       "link": "https://www.datacenterdynamics.com/en/news/att-ceo-john-stankey-not-getting-twisted-over-spacexs-spectrum-salvo/",
@@ -221,6 +311,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-22T14:48:53+00:00"
+    },
+    {
+      "id": "8dfb7167f6b2f659",
+      "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+      "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+      "summary": "Such contracts\u00a0signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-22T14:42:49+00:00"
     },
     {
       "id": "b32dfa556fd18aa2",
@@ -296,7 +396,7 @@
       "id": "e21dad5cb76e5f57",
       "title": "Google plans big virtual power plant in energy-strapped PJM grid",
       "link": "https://www.canarymedia.com/articles/virtual-power-plants/google-plans-big-virtual-power-plant-in-energy-strapped-pjm-grid",
-      "summary": "Google just upped the ante on its plans to leverage the energy use of thousands of homes and businesses to free up space on the grid for data centers. The tech giant and the California-based firm\u00a0 Voltus announced Thursday that they are going after a gigawatt of virtual power plant capacity in PJM Interconnection,\u2026",
+      "summary": "Google just upped the ante on its plans to leverage the energy use of thousands of homes and businesses to free up space on the grid for data centers. The tech giant and the California-based firm\u00a0 Voltus announced Thursday that they are going after a gigawatt of virtual-power-plant capacity in PJM Interconnection,\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
       "region": "National",
@@ -6081,176 +6181,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-02T00:51:52+00:00"
-    },
-    {
-      "id": "1b3b94ea8b3cc343",
-      "title": "Virginia Energy Plan Considers How to Achieve Net Zero with Demand Growth",
-      "link": "https://www.rtoinsider.com/147180-spanberger-introduces-virginia-energy-plan/",
-      "summary": "The 2026 Virginia Energy Plan\u00a0includes different ways of reliably and affordably meeting growing power demand while staying on track for a net-zero power sector by 2050.\nThe post Virginia Energy Plan Considers How to Achieve Net Zero with Demand Growth appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-02T00:15:46+00:00"
-    },
-    {
-      "id": "1cd456f9f7a921ca",
-      "title": "PGE Says EDAM Entry Brings \u2018Huge Expansion\u2019 of Opportunities",
-      "link": "https://www.rtoinsider.com/147173-pge-edam-entry-smooth-huge-opportunities/",
-      "summary": "Portland General Electric said its entry into CAISO\u2019s Extended Day-Ahead Market on Oct. 1 went down without any hiccups and is now focused on reaping the benefits from the market.\nThe post PGE Says EDAM Entry Brings \u2018Huge Expansion\u2019 of Opportunities appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-02T00:03:10+00:00"
-    },
-    {
-      "id": "e5203f1885510ab3",
-      "title": "IESO/OEB Briefs: Oct. 1, 2026",
-      "link": "https://www.rtoinsider.com/147067-ieso-oeb-briefs-100126/",
-      "summary": "IESO says it will provide additional technical justification for its 100-MW/minute battery ramp-rate limit at a future engagement after storage stakeholders questioned the basis for the restriction.\nThe post IESO/OEB Briefs: Oct. 1, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T23:32:26+00:00"
-    },
-    {
-      "id": "b1e4579c4caf19c6",
-      "title": "The Bid to Align Energy Permitting and the Public Interest",
-      "link": "https://www.rtoinsider.com/147152-whats-the-meaning-of-the-siting-permitting-proposal-in-congress/",
-      "summary": "A larger, more secure North American power grid has been an energy policy priority for grid experts for more than two decades, touched off by the stunning 2003 Northeast Blackout, which streaked around the eastern Great Lakes, cutting off power to 50 million people.\nThe post The Bid to Align Energy Permitting and the Public Interest appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T23:29:54+00:00"
-    },
-    {
-      "id": "9fb5020f0b281e25",
-      "title": "Pennsylvania PUC Advances Large Load Power Curtailment Plan",
-      "link": "https://www.rtoinsider.com/147082-pa-puc-approves-tentative-order-emergency-load-control-procedures/",
-      "summary": "The Pennsylvania Public Utility Commission is forging ahead with a proposal to ensure that data centers and other large load customers don\u2019t get special treatment during emergency power cutbacks.\nThe post Pennsylvania PUC Advances Large Load Power Curtailment Plan appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T23:26:19+00:00"
-    },
-    {
-      "id": "bd8ba4a1fe70b7b4",
-      "title": "MISO Tries Different Tack for PRMR Allocation, Decides on Forecasting Approach",
-      "link": "https://www.rtoinsider.com/147168-miso-tries-different-tack-prmr-allocation-decides-forecasting-approach/",
-      "summary": "MISO announced it\u2019s abandoning a plan to use settled load to divide its resource planning obligations among its load-serving entities, moving instead to a forecasting approach it once vowed not to use.\nThe post MISO Tries Different Tack for PRMR Allocation, Decides on Forecasting Approach appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T22:47:14+00:00"
-    },
-    {
-      "id": "5e7043a3211cee33",
-      "title": "Scheduling Conflicts Hamper GCPA\u2019s Fall Conference",
-      "link": "https://www.rtoinsider.com/147179-scheduling-conflicts-hamper-gcpa-fall-conference/",
-      "summary": "The CEOs and five staff members from ERCOT, the Texas PUC, the Texas Office of the Public Utility Counsel and Lower Colorado River Authority all had scheduling conflicts, according to the Gulf Coast Power Association, and were unable to participate in the Fall seminar.\nThe post Scheduling Conflicts Hamper GCPA\u2019s Fall Conference appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T22:45:28+00:00"
-    },
-    {
-      "id": "a9f24af400a8a76e",
-      "title": "Reported \u2018Scheduling Conflicts\u2019 Hamper GCPA\u2019s Fall Conference",
-      "link": "https://www.rtoinsider.com/147179-scheduling-conflicts-hamper-gcpa-fall-conference/",
-      "summary": "The CEOs and five staff members from ERCOT, the Texas PUC, the Texas Office of the Public Utility Counsel and Lower Colorado River Authority all had scheduling conflicts, according to the Gulf Coast Power Association, and were unable to participate in the Fall seminar.\nThe post Reported \u2018Scheduling Conflicts\u2019 Hamper GCPA\u2019s Fall Conference appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T22:45:28+00:00"
-    },
-    {
-      "id": "8f393b5c7e62742b",
-      "title": "The USDA just made it way harder for farmers to get grants for solar",
-      "link": "https://www.canarymedia.com/articles/food-and-farms/usda-reap-grants-for-solar",
-      "summary": "Rules published Thursday essentially end federal grants that thousands of American farmers have long relied on to build revenue-generating solar systems on their land.  The Trump administration\u2019s changes to the Rural Energy for America Program (REAP) are its latest attempt to block solar development even as the\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T22:00:00+00:00"
-    },
-    {
-      "id": "b898b62d43e86786",
-      "title": "Backlash Engulfs West Virginia Data Center Law",
-      "link": "https://www.rtoinsider.com/137837-is-w-va-microgrid-law-aimed-at-attracting-data-centers-working/",
-      "summary": "Consternation, not celebration, is dogging The Power Generation and Consumption Act. The act, part of an expansive agenda that includes tripling West Virginia\u2019s generating capacity by 2050, created a microgrid program to let new \u201chigh-impact\u201d data centers build standalone power supplies without the need to tap into the grid.\nThe post Backlash Engulfs West Virginia Data Center Law appeared first on",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T21:58:01+00:00"
-    },
-    {
-      "id": "c89307d3234bfdce",
-      "title": "How Data Center-Driven Load Growth Is Reshaping the Renewable Energy Market",
-      "link": "https://www.powermag.com/how-data-center-driven-load-growth-is-reshaping-the-renewable-energy-market/",
-      "summary": "U.S. grid planners are preparing for annual electricity demand growth of about 0.9% to 1.6% through 2050, with data centers emerging as a major driver, and EPRI\u2014the Electric Power Research Institute\u2014suggesting they could account for as much as 17% of U.S. electricity demand by 2030. For the wind, solar, and energy storage industry, this represents [\u2026]\nThe post How Data Center-Driven Load Growth Is",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T20:12:43+00:00"
-    },
-    {
-      "id": "9c5c2edcb42407fa",
-      "title": "GMI Cloud raises $668m in funding",
-      "link": "https://www.datacenterdynamics.com/en/news/gmi-cloud-raises-668m-in-funding/",
-      "summary": "Combination of equity and credit facility",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-01T17:50:29+00:00"
-    },
-    {
-      "id": "5f6c0a1d24cfb484",
-      "title": "European Space Agency taps OVHcloud and CGI for Earth observation system",
-      "link": "https://www.datacenterdynamics.com/en/news/european-space-agency-taps-ovhcloud-and-cgi-for-earth-observation-system/",
-      "summary": "Digital EO will provide Earth observation data to scientists, public bodies, businesses, and citizens",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-01T17:30:44+00:00"
-    },
-    {
-      "id": "16ba0ead91f9cfa9",
-      "title": "Newsom finally says yes to virtual power plants",
-      "link": "https://www.canarymedia.com/articles/virtual-power-plants/newsom-yes-to-virtual-power-plants",
-      "summary": "California Gov. Gavin Newsom (D) defied political expectations on Wednesday and signed into law a slate of energy-affordability legislation aimed at containing the utility spending that is driving up electricity costs in the Golden State.  Among the bills he signed are two that will boost the use of virtual power\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-01T17:30:00+00:00"
-    },
-    {
-      "id": "225a671995164355",
-      "title": "Nebius signs 50MW lease with AIB Data Centers",
-      "link": "https://www.datacenterdynamics.com/en/news/nebius-signs-50mw-lease-with-aib-data-centers/",
-      "summary": "Capacity to be leased from data center in southeastern US",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-01T17:10:34+00:00"
-    },
-    {
-      "id": "6ed67bd6cd19d624",
-      "title": "AI cloud provider Blackfuel emerges from stealth, plans first deployment in Spain",
-      "link": "https://www.datacenterdynamics.com/en/news/ai-cloud-provider-blackfuel-emerges-from-stealth-plans-first-deployment-in-spain/",
-      "summary": "Will be housed in Digital Realty's BCN1 data center",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-01T16:50:32+00:00"
-    },
-    {
-      "id": "02930b72af2e2bf8",
-      "title": "Traysar and Armada team up for underground AI infrastructure",
-      "link": "https://www.datacenterdynamics.com/en/news/traysar-and-armada-team-up-for-underground-ai-infrastructure/",
-      "summary": "Terminus will bring critical infrastructure below the Earth's surface",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-01T16:40:33+00:00"
     }
   ]
 }
