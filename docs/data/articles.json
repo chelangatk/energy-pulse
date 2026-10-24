@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T16:29:40.714845+00:00",
-  "count": 621,
+  "generated_at": "2026-10-24T00:14:44.462119+00:00",
+  "count": 617,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-23T16:29:36.893877+00:00"
+      "published": "2026-10-24T00:14:42.091140+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-23T16:29:36.893862+00:00"
+      "published": "2026-10-24T00:14:42.091126+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-23T16:29:36.893842+00:00"
+      "published": "2026-10-24T00:14:42.091108+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-23T16:29:36.893806+00:00"
+      "published": "2026-10-24T00:14:42.091080+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-23T16:29:35.644891+00:00"
+      "published": "2026-10-24T00:14:40.496279+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,37 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-23T16:29:34.559166+00:00"
+      "published": "2026-10-24T00:14:39.582901+00:00"
+    },
+    {
+      "id": "65086242106c9994",
+      "title": "ROWE Elects Board Chair, Moves \u2018Very Rapidly\u2019 on CEO Appointment",
+      "link": "https://www.rtoinsider.com/149235-rowe-elects-board-chair-moves-very-rapidly/",
+      "summary": "The Regional Organization for Western Energy has chosen its board chair and now focuses on appointing a CEO as the organization prepares to assume governance over CAISO\u2019s energy markets.\nThe post ROWE Elects Board Chair, Moves \u2018Very Rapidly\u2019 on CEO Appointment appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-23T19:58:39+00:00"
+    },
+    {
+      "id": "71b171c7ea235882",
+      "title": "Maximize Flow Measurement Performance While Minimizing Energy Loss With Annubar Averaging Pitot Technology",
+      "link": "https://www.powermag.com/maximize-flow-measurement-performance-while-minimizing-energy-loss-with-annubar-averaging-pitot-technology/",
+      "summary": "Emerson\u2019s Rosemount Annubar technology preserves valuable process energy by delivering reliable flow measurement in demanding liquid, steam, and gas applications. Differential pressure (DP) flow measurement remains one of the most widely used technologies in power generation, utilizing the pressure difference created by a primary element installed within a pipe. Various DP technologies are availab",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-23T17:28:22+00:00"
+    },
+    {
+      "id": "3bed9ebd601aa583",
+      "title": "The permitting deal collides with Trump\u2019s war on offshore wind",
+      "link": "https://www.canarymedia.com/articles/politics/permitting-bill-offshore-wind",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.\u00a0  Sign up to get it every Friday.  It\u2019s been years in the making, but the U.S. Senate finally has a bipartisan permitting bill on the table that could speed up the construction of much-needed energy and grid projects. That is, if the Trump\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-23T16:37:00+00:00"
     },
     {
       "id": "ab82cfe6928cd548",
@@ -6141,76 +6171,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-03T15:00:00+00:00"
-    },
-    {
-      "id": "1b8eced0c9cc196e",
-      "title": "BPA Issues Proposed Agreement to End Tx Planning Pause",
-      "link": "https://www.rtoinsider.com/147341-bpa-issues-proposed-agreement-to-end-tx-planning-pause/",
-      "summary": "The Bonneville Power Administration released a settlement proposal aimed at resuming processing of transmission service requests after a pause that has lasted for more than a year.\nThe post BPA Issues Proposed Agreement to End Tx Planning Pause appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-03T00:08:07+00:00"
-    },
-    {
-      "id": "baf48034fb872a4a",
-      "title": "MISO Rounds out Sept. with 2 Emergencies, Cites Constraints, TLRs",
-      "link": "https://www.rtoinsider.com/147265-miso-rounds-out-sept-with-2-emergencies-cites-constraints-tlrs/",
-      "summary": "MISO said transmission loading relief instructions from neighboring systems and then binding constraints were behind its pair of grid emergencies in September 2026.\nThe post MISO Rounds out Sept. with 2 Emergencies, Cites Constraints, TLRs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-02T22:23:48+00:00"
-    },
-    {
-      "id": "215618d04f464f5b",
-      "title": "CAISO, SPP Say They Are \u2018Committed\u2019 to Seams Solution in FERC Report",
-      "link": "https://www.rtoinsider.com/147306-caiso-spp-release-report-on-dam-seams/",
-      "summary": "CAISO and SPP have submitted their joint report on market seams to FERC, saying they have worked extensively on the issue while acknowledging that questions about governance \u201cwill need consideration.\"\nThe post CAISO, SPP Say They Are \u2018Committed\u2019 to Seams Solution in FERC Report appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-02T20:05:23+00:00"
-    },
-    {
-      "id": "e68f3f69529d8301",
-      "title": "CAISO, SPP Say they are \u2018Committed\u2019 to Seams Solution in FERC Report",
-      "link": "https://www.rtoinsider.com/147306-caiso-spp-release-report-on-dam-seams/",
-      "summary": "CAISO and SPP have submitted their joint report on market seams to FERC, saying they have worked extensively on the issue while acknowledging that questions about governance \u201cwill need consideration.\"\nThe post CAISO, SPP Say they are \u2018Committed\u2019 to Seams Solution in FERC Report appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-02T20:05:23+00:00"
-    },
-    {
-      "id": "c30726712c3a4ed5",
-      "title": "General Compute signs multi-year agreement with Cerebras",
-      "link": "https://www.datacenterdynamics.com/en/news/general-compute-signs-multi-year-agreement-with-cerebras/",
-      "summary": "Will see Cerebras' wafer-scale compute coming to the AI cloud platform",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-02T16:35:30+00:00"
-    },
-    {
-      "id": "53d3e614f9ef3414",
-      "title": "Intro Group to invest $270m in Egypt\u2019s Kemet Data Center",
-      "link": "https://www.datacenterdynamics.com/en/news/intro-group-to-invest-270m-in-egypts-kemet-data-center/",
-      "summary": "The facility will be developed in two phases",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-02T16:33:42+00:00"
-    },
-    {
-      "id": "16d744a9dcebbdb7",
-      "title": "Poland\u2019s National Data Processing Center receives EU funding grant",
-      "link": "https://www.datacenterdynamics.com/en/news/polands-national-data-processing-center-receives-eu-funding-grant/",
-      "summary": "The data center network has received PLN 1.56 billion ($401m) from the European Funds for Digital Development program",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-02T16:29:50+00:00"
     }
   ]
 }
