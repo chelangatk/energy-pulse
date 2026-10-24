@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T00:14:44.462119+00:00",
-  "count": 617,
+  "generated_at": "2026-10-24T15:24:30.953948+00:00",
+  "count": 620,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-24T00:14:42.091140+00:00"
+      "published": "2026-10-24T15:24:27.619447+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-24T00:14:42.091126+00:00"
+      "published": "2026-10-24T15:24:27.619437+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-24T00:14:42.091108+00:00"
+      "published": "2026-10-24T15:24:27.619424+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-24T00:14:42.091080+00:00"
+      "published": "2026-10-24T15:24:27.619398+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-24T00:14:40.496279+00:00"
+      "published": "2026-10-24T15:24:25.678924+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,47 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-24T00:14:39.582901+00:00"
+      "published": "2026-10-24T15:24:24.456650+00:00"
+    },
+    {
+      "id": "8e54f7ec7f01c4ff",
+      "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
+      "link": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
+      "summary": "UK-based Fuse Energy also brings GPU compute online for customers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-24T13:00:21+00:00"
+    },
+    {
+      "id": "d429db0899d7d11c",
+      "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
+      "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
+      "summary": "Elon Musk's firm will also be back in court over problematic gas turbines",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-24T10:00:21+00:00"
+    },
+    {
+      "id": "7a5067d543c532fe",
+      "title": "Sponsored: GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency",
+      "link": "https://www.datacenterdynamics.com/en/product-news/gf-completes-liquidcore-portfolio-with-intelligent-multi-control-valve-to-maximize-direct-liquid-cooling-efficiency/",
+      "summary": "The introduction of the Multi Control Valve serves as the vital active intelligence layer that completes GF\u2019s single-source LiquidCore system offering",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-24T07:00:00+00:00"
+    },
+    {
+      "id": "becbc82b6c914b71",
+      "title": "9th Circuit Denies Nonprofits\u2019 Bid to Reverse BPA\u2019s Markets+ Decision",
+      "link": "https://www.rtoinsider.com/149626-9th-circ-denies-enviros-bid-to-reverse-bpas-dam-decision/",
+      "summary": "A split three-judge panel on the 9th U.S. Circuit Court of Appeals tossed a suit filed by a group of nonprofits alleging the Bonneville Power Administration\u2019s decision to pursue participation in SPP\u2019s Markets+ could harm ratepayers, saying the plaintiffs lack standing because the market does not yet exist.\nThe post 9th Circuit Denies Nonprofits\u2019 Bid to Reverse BPA\u2019s Markets+ Decision appeared firs",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-24T01:56:25+00:00"
     },
     {
       "id": "65086242106c9994",
@@ -6161,16 +6201,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-04T14:26:00+00:00"
-    },
-    {
-      "id": "de8189d9f72ca5f2",
-      "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
-      "link": "https://www.datacenterdynamics.com/en/opinions/overcoming-five-common-direct-liquid-cooling-specification-challenges/",
-      "summary": "The reality of AI infrastructure has arrived: the power-hungry chips of today, such as the NVIDIA Blackwell, have rendered traditional air cooling obsolete",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-03T15:00:00+00:00"
     }
   ]
 }
