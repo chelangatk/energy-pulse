@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:34:48.743043+00:00",
+  "generated_at": "2026-10-25T23:46:36.533121+00:00",
   "count": 620,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-25T15:34:46.147231+00:00"
+      "published": "2026-10-25T23:46:33.305626+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-25T15:34:46.147217+00:00"
+      "published": "2026-10-25T23:46:33.305612+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-25T15:34:46.147200+00:00"
+      "published": "2026-10-25T23:46:33.305594+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-25T15:34:46.147170+00:00"
+      "published": "2026-10-25T23:46:33.305568+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-25T15:34:44.476746+00:00"
+      "published": "2026-10-25T23:46:31.834471+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,97 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-25T15:34:43.736143+00:00"
+      "published": "2026-10-25T23:46:30.617887+00:00"
+    },
+    {
+      "id": "867317250424345d",
+      "title": "SPP Confident of Compliance with FERC Show Cause",
+      "link": "https://www.rtoinsider.com/149647-spp-confident-compliance-with-ferc-show-cause/",
+      "summary": "SPP says it is 90% compliant with FERC\u2019s show-cause order on large load interconnection processes, pointing to its development of a new participation model for flexible price-sensitive loads as a major reason why.\nThe post SPP Confident of Compliance with FERC Show Cause appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-25T20:05:16+00:00"
+    },
+    {
+      "id": "7c189695e4a4dc16",
+      "title": "PJM to Refile Reliability Backstop Procurement",
+      "link": "https://www.rtoinsider.com/149336-pjm-to-refile-reliability-backstop-procurement/",
+      "summary": "PJM intends to refile its Reliability Backstop Procurement with FERC on Oct. 29, taking the commission up on its recommendation to resubmit the proposal with changes to three core areas.\nThe post PJM to Refile Reliability Backstop Procurement appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-25T19:53:55+00:00"
+    },
+    {
+      "id": "5ca6ac0d7f438ce4",
+      "title": "MISO to Raise Member Rates, Requests Largest-ever $550M Budget in 2027",
+      "link": "https://www.rtoinsider.com/149303-miso-raise-member-rates-requests-550m-2027-budget/",
+      "summary": "MISO is raising the rates it collects on members in 2027, mostly due to the interest refunds it owes to the large number of interconnection customers leaving its queue.\nThe post MISO to Raise Member Rates, Requests Largest-ever $550M Budget in 2027 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-25T18:54:30+00:00"
+    },
+    {
+      "id": "f5f564c38024573d",
+      "title": "MISO Plans External Resource Capacity Accreditation, Including HVDC-Enabled Gen",
+      "link": "https://www.rtoinsider.com/149306-miso-plans-external-resource-capacity-accreditation/",
+      "summary": "MISO is drawing up a single method for accrediting the capacity of external resources, including those carried into the footprint via HVDC lines.\nThe post MISO Plans External Resource Capacity Accreditation, Including HVDC-Enabled Gen appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-25T18:50:26+00:00"
+    },
+    {
+      "id": "ad62f30e81381b57",
+      "title": "ISO-NE Transmission Owners Add $1.8B to Asset Condition List",
+      "link": "https://www.rtoinsider.com/149212-iso-ne-transmission-owners-add-asset-condition-list/",
+      "summary": "ISO-NE transmission owners added new asset condition projects totaling $1.8 billion since the last update to their project list, the RTO told the Planning Advisory Committee.\nThe post ISO-NE Transmission Owners Add $1.8B to Asset Condition List appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-25T18:31:57+00:00"
+    },
+    {
+      "id": "a69d529d805ecdf8",
+      "title": "MISO Members Largely Denounce DOE Emergency Coal Plant Orders",
+      "link": "https://www.rtoinsider.com/149296-miso-members-denounce-doe-emergency-coal-orders/",
+      "summary": "MISO\u2019s Advisory Committee has precious few supporters in its ranks of the U.S. Department of Energy\u2019s use of emergency orders to prevent the retirement of three coal plants in the RTO's footprint.\nThe post MISO Members Largely Denounce DOE Emergency Coal Plant Orders appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-25T17:33:23+00:00"
+    },
+    {
+      "id": "65f20ae5400d357c",
+      "title": "Local Governments Step in to Tighten Data Center Regs",
+      "link": "https://www.rtoinsider.com/149615-local-governments-tighten-data-center-regs/",
+      "summary": "Counties and municipalities across the West are not waiting for state leaders to address growing public concern about data centers during upcoming legislative sessions that start in January 2027.\nThe post Local Governments Step in to Tighten Data Center Regs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-25T17:30:22+00:00"
+    },
+    {
+      "id": "2f62ad744674b61e",
+      "title": "New York TOs to Propose Cost Recovery Agreement on Large Loads",
+      "link": "https://www.rtoinsider.com/149238-nytos-separately-file-large-load-proposal-ferc/",
+      "summary": "The New York Transmission Owners are exercising their 205 Filing rights while hoping to avoid a protracted legal battle over state vs FERC authority.\nThe post New York TOs to Propose Cost Recovery Agreement on Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-25T17:25:05+00:00"
+    },
+    {
+      "id": "5713eb3b051a43e5",
+      "title": "ACORE Forum Underscores Grid Strain, Openings to Ease It",
+      "link": "https://www.rtoinsider.com/149642-acore-forum-underscores-grid-strain/",
+      "summary": "The American Council on Renewable Energy\u2019s grid forum offered a panoramic snapshot of a status quo under stress from soaring load growth. It also highlighted an array of options for relief.\nThe post ACORE Forum Underscores Grid Strain, Openings to Ease It appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-25T17:13:44+00:00"
     },
     {
       "id": "b378a3fb6b6cd8eb",
@@ -6111,96 +6201,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-05T07:30:00+00:00"
-    },
-    {
-      "id": "407fbff644b8d569",
-      "title": "Electric Vehicles\u2019 Grid Demand Growing More Slowly in 2026",
-      "link": "https://www.rtoinsider.com/147186-electric-vehicles-grid-demand-growing-more-slowly-in-2026/",
-      "summary": "An estimated 13.67 TWh was used to charge light-duty EVs in the first half of 2026, 8% more than was used in the second half of 2025.\nThe post Electric Vehicles\u2019 Grid Demand Growing More Slowly in 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-04T19:38:06+00:00"
-    },
-    {
-      "id": "c487672469d29bff",
-      "title": "FERC Approves Updated IBR Ride-through Standard",
-      "link": "https://www.rtoinsider.com/147301-ferc-approves-updated-ibr-ride-through-standard/",
-      "summary": "FERC approved NERC's changes to address concerns over legacy IBRs, in-progress construction and wind turbines equipped with choppers.\nThe post FERC Approves Updated IBR Ride-through Standard appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-04T18:54:44+00:00"
-    },
-    {
-      "id": "7d17934d157b7d78",
-      "title": "CAISO, PG&E Spar Over \u2018Large Loads\u2019 Definition",
-      "link": "https://www.rtoinsider.com/147193-caiso-pge-spar-over-large-loads-definition/",
-      "summary": "CAISO and Pacific Gas and Electric representatives butted heads at a meeting over the ISO\u2019s proposed \"large load\" definition as artificial intelligence data centers pound at the door of the Golden State\u2019s grid.\nThe post CAISO, PG&E Spar Over \u2018Large Loads\u2019 Definition appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-04T18:18:04+00:00"
-    },
-    {
-      "id": "965eb9c891b35821",
-      "title": "States Demand FERC Action on Year-old Complaint Against MISO Long-range Tx",
-      "link": "https://www.rtoinsider.com/147280-states-demand-ferc-action-complaint-miso-long-range-tx/",
-      "summary": "An attorney for the member states that lodged a complaint in 2025 to deconstruct MISO\u2019s $22 billion long-range transmission portfolio has called on FERC to act on the filing.\nThe post States Demand FERC Action on Year-old Complaint Against MISO Long-range Tx appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-04T18:15:34+00:00"
-    },
-    {
-      "id": "1bf39f50c41702a2",
-      "title": "FERC Leaves Fuel Question to States; Virginia\u2019s Order Doesn\u2019t Answer it",
-      "link": "https://www.rtoinsider.com/147308-ferc-leaves-fuel-question-states-virginia-order-doesnt-answer-it/",
-      "summary": "Dominion's 944 MW Chesterfield Energy Reliability Center holds an SCC certificate that is on appeal to the Supreme Court of Virginia, and the pipeline capacity its fuel subsidiary signed for after the hearing closed is before FERC with no order.\nThe post FERC Leaves Fuel Question to States; Virginia\u2019s Order Doesn\u2019t Answer it appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-04T18:08:59+00:00"
-    },
-    {
-      "id": "ec9f9d58dd7ff045",
-      "title": "D.C. Circuit Rejects Basin\u2019s Appeal of Northwest Rural\u2019s Withdrawal from Tri-State",
-      "link": "https://www.rtoinsider.com/147304-dc-circuit-rejects-basins-appeal-northwest-rural-withdrawal-tri-state/",
-      "summary": "A three-judge panel of the D.C. Circuit Court of Appeals rejected Basin Electric Power Cooperative\u2019s appeal of FERC approving Northwest Rural Public Power District\u2019s withdrawal from Tri-State Generation and Transmission Association.\nThe post D.C. Circuit Rejects Basin\u2019s Appeal of Northwest Rural\u2019s Withdrawal from Tri-State appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-04T17:25:01+00:00"
-    },
-    {
-      "id": "fde1a0dad258d327",
-      "title": "New England States See Opportunity for Nuclear Development",
-      "link": "https://www.rtoinsider.com/147337-new-england-states-see-opportunity-nuclear-development/",
-      "summary": "Amid growing interest in new nuclear resources in New England, representatives of the six New England states convened to express support for nuclear energy and discuss opportunities for nuclear development.\nThe post New England States See Opportunity for Nuclear Development appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-04T17:11:58+00:00"
-    },
-    {
-      "id": "5305de93b3b7ed5d",
-      "title": "ISO-NE Outlines 2027 Annual Work Plan",
-      "link": "https://www.rtoinsider.com/147339-iso-ne-outlines-2027-annual-work-plan/",
-      "summary": "Capacity auction reforms, large load rules, transmission planning and establishing a new dynamic operating reserve product will make up much of ISO-NE\u2019s workload in 2027.\nThe post ISO-NE Outlines 2027 Annual Work Plan appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-04T16:47:41+00:00"
-    },
-    {
-      "id": "8976e73f3be05c41",
-      "title": "FERC Rejects TransAlta\u2019s Cost-recovery Request for Centralia Coal Plant",
-      "link": "https://www.rtoinsider.com/147314-ferc-rejects-transaltas-cost-recovery-request-centralia-coal-plant/",
-      "summary": "FERC rejected TransAlta\u2019s proposal for recovering costs related to DOE orders to keep the coal-fired Centralia power plant in Washington state open past its planned retirement date.\nThe post FERC Rejects TransAlta\u2019s Cost-recovery Request for Centralia Coal Plant appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-04T16:03:56+00:00"
     }
   ]
 }
