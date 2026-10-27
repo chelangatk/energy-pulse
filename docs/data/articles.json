@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T18:16:23.110427+00:00",
-  "count": 620,
+  "generated_at": "2026-10-27T01:05:31.251360+00:00",
+  "count": 615,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-26T18:16:20.098090+00:00"
+      "published": "2026-10-27T01:05:27.773904+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-26T18:16:20.098076+00:00"
+      "published": "2026-10-27T01:05:27.773890+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-26T18:16:20.098058+00:00"
+      "published": "2026-10-27T01:05:27.773873+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-26T18:16:20.098022+00:00"
+      "published": "2026-10-27T01:05:27.773840+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-26T18:16:18.634396+00:00"
+      "published": "2026-10-27T01:05:25.968764+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,57 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-26T18:16:17.269461+00:00"
+      "published": "2026-10-27T01:05:24.881808+00:00"
+    },
+    {
+      "id": "324547f77467bbdc",
+      "title": "Small-scale Resources Presented as Grid Solutions",
+      "link": "https://www.rtoinsider.com/149779-reports-play-up-grid-benefits-distributed-solar-storage/",
+      "summary": "Two new reports promote the value of distributed energy resources in meeting the needs of a stressed grid.\nThe post Small-scale Resources Presented as Grid Solutions appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T00:13:26+00:00"
+    },
+    {
+      "id": "4e519e0df03e22e0",
+      "title": "LaCerte Lauds Southeast, Decries Politics-driven Energy Decisions",
+      "link": "https://www.rtoinsider.com/149708-lacerte-lauds-southeast-decries-politics-energy-decisions/",
+      "summary": "Speaking before a conference of energy traders, FERC Commissioner David LaCerte praised the Southeastern states for enabling infrastructure and data center buildout while criticizing New England and Texas for making decisions based on politics.\nThe post LaCerte Lauds Southeast, Decries Politics-driven Energy Decisions appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T00:05:04+00:00"
+    },
+    {
+      "id": "1b8a26c5315e5c56",
+      "title": "NERC Trustees Approve Large Loads Standards in Special Meeting",
+      "link": "https://www.rtoinsider.com/149724-nerc-trustees-approve-large-loads-standards/",
+      "summary": "NERC's board agreed to send five new standards addressing computational loads to FERC for final approval.\nThe post NERC Trustees Approve Large Loads Standards in Special Meeting appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-26T23:39:11+00:00"
+    },
+    {
+      "id": "3874f411c42c4406",
+      "title": "FERC Approves New Rules, Penalties for Demand Response in MISO",
+      "link": "https://www.rtoinsider.com/149777-ferc-approves-new-rules-penalties-demand-response-miso/",
+      "summary": "FERC approved new penalties designed to ensure demand response shows up when called upon by MISO.\nThe post FERC Approves New Rules, Penalties for Demand Response in MISO appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-26T22:58:11+00:00"
+    },
+    {
+      "id": "69e235189d25307f",
+      "title": "Leading with Leverage: BPA will Improve the ROWE",
+      "link": "https://www.rtoinsider.com/149632-leading-with-leverage-bpa-will-improve-the-rowe/",
+      "summary": "The promise of ROWE is that joining a bigger, deeper market that includes California no longer means being a house guest subject, at least at some level, to house rules, writes Spencer Gray.\nThe post Leading with Leverage: BPA will Improve the ROWE appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-26T22:09:59+00:00"
     },
     {
       "id": "e616164632a01a5d",
@@ -6101,106 +6151,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-06T06:00:00+00:00"
-    },
-    {
-      "id": "3d1a0b415d4631c7",
-      "title": "SCOTUS Considers Constitutionality of State, Local Climate Lawsuits",
-      "link": "https://www.rtoinsider.com/147436-scotus-hears-arguments-constitutionality-climate-lawsuits/",
-      "summary": "The U.S. Supreme Court\u2019s fall term opened with oral arguments over whether federal law allows communities to sue fossil fuel producers for alleged damages from climate change.\nThe post SCOTUS Considers Constitutionality of State, Local Climate Lawsuits appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T23:41:11+00:00"
-    },
-    {
-      "id": "2b6cf6717ffb4029",
-      "title": "Former DOE Employees Tabulate Stalled Grants",
-      "link": "https://www.rtoinsider.com/147442-former-doe-employees-tabulate-stalled-grants/",
-      "summary": "An organization of former Department of Energy employees said in a new report that many DOE grants remain functionally frozen.\nThe post Former DOE Employees Tabulate Stalled Grants appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T23:34:21+00:00"
-    },
-    {
-      "id": "3cdd4c7f99d3e76a",
-      "title": "ISO-NE Developers Challenge Cluster Study After \u2018Project-killing Costs\u2019",
-      "link": "https://www.rtoinsider.com/147432-iso-ne-developers-challenge-cluster-study-after-project-killing-costs/",
-      "summary": "A group of project developers filed a complaint with FERC about ISO-NE\u2019s first cluster study conducted under Order 2023 rules, arguing that structural issues with the study methodology led to exorbitant interconnection cost estimates.\nThe post ISO-NE Developers Challenge Cluster Study After \u2018Project-killing Costs\u2019 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T23:25:06+00:00"
-    },
-    {
-      "id": "9051cbc71de02408",
-      "title": "Toronto Third Line Cost Proposal Uses Capped Risk-Sharing Model",
-      "link": "https://www.rtoinsider.com/147312-toronto-third-line-cost-plan-uses-capped-risk-sharing-model/",
-      "summary": "IESO\u2019s latest proposal would determine how Target Cost overruns are divided between the winning transmitter and ratepayers and establish a ceiling on ratepayer exposure to those overruns.\nThe post Toronto Third Line Cost Proposal Uses Capped Risk-Sharing Model appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T23:03:16+00:00"
-    },
-    {
-      "id": "5aa57d1a788daa8c",
-      "title": "MISO, SPP, PJM Float Replacement for 2004 Freeze Date",
-      "link": "https://www.rtoinsider.com/147448-miso-spp-pjm-float-new-replacement-2004-freeze-date/",
-      "summary": "MISO, SPP and PJM are taking another stab at replacing a 22-year view of their systems to portion out firm rights on transmission lines.\nThe post MISO, SPP, PJM Float Replacement for 2004 Freeze Date appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T22:34:58+00:00"
-    },
-    {
-      "id": "0e9323a5f0c66519",
-      "title": "Powering the Grid from Both Ends: Why Big Tech\u2019s Nuclear Gamble Needs Energy Efficiency",
-      "link": "https://www.rtoinsider.com/147430-powering-grid-both-ends-why-big-techs-nuclear-gamble-needs-energy-efficiency/",
-      "summary": "Data centers are sprouting everywhere, bringing massive demands for electricity. In response, Google recently partnered with Georgia Power to finance capacity uprates at a nuclear power through a new subscription program.\nThe post Powering the Grid from Both Ends: Why Big Tech\u2019s Nuclear Gamble Needs Energy Efficiency appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T22:29:49+00:00"
-    },
-    {
-      "id": "636fccae769faf7a",
-      "title": "NYISO: Aging Generation \u2018No Longer a Future Concern\u2019",
-      "link": "https://www.rtoinsider.com/147318-nyiso-aging-generation-no-longer-a-future-concern/",
-      "summary": "NYISO included a dire warning in the latest draft of its 2026 Reliability Needs Assessment: \u201cImmediate action\u201d is needed to lower its future loss-of-load expectation.\nThe post NYISO: Aging Generation \u2018No Longer a Future Concern\u2019 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T22:26:18+00:00"
-    },
-    {
-      "id": "ce9fc99667c054bb",
-      "title": "DOE to Loan Vistra up to $4.2B for Nuclear Upgrades",
-      "link": "https://www.rtoinsider.com/147440-doe-to-loan-vistra-nuclear-plant-upgrades/",
-      "summary": "The Department of Energy will loan Vistra up to $4.2 billion to upgrade and uprate three of its nuclear power plants in Ohio and Pennsylvania.\nThe post DOE to Loan Vistra up to $4.2B for Nuclear Upgrades appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T22:03:53+00:00"
-    },
-    {
-      "id": "8f39cfd436d804c0",
-      "title": "SPS OK\u2019d to Replace Coal Plant with 3.7 GW New Generation",
-      "link": "https://www.rtoinsider.com/147438-sps-replace-coal-plant-new-generation/",
-      "summary": "Texas regulators have approved Southwestern Public Service Co.\u2019s request to add more than 3,700 MW of new generation to replace an aging coal plant that dates to the early 1980s.\nThe post SPS OK\u2019d to Replace Coal Plant with 3.7 GW New Generation appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T21:38:31+00:00"
-    },
-    {
-      "id": "3b81476d904b48e9",
-      "title": "Markets+ Independents Want Governance Issues Resolved",
-      "link": "https://www.rtoinsider.com/147182-spp-markets-independents-want-governance-issues-resolved/",
-      "summary": "Markets+ participants in the independent sector have been given extra time to continue working on a compromise that protects their voting rights along with the governance rights of IOUs and public power utilities.\nThe post Markets+ Independents Want Governance Issues Resolved appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-05T21:31:33+00:00"
     }
   ]
 }
