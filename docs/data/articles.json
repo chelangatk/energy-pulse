@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T17:29:18.235325+00:00",
-  "count": 614,
+  "generated_at": "2026-10-28T00:57:36.913321+00:00",
+  "count": 620,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-27T17:29:16.129216+00:00"
+      "published": "2026-10-28T00:57:34.509868+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-27T17:29:16.129202+00:00"
+      "published": "2026-10-28T00:57:34.509854+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-27T17:29:16.129184+00:00"
+      "published": "2026-10-28T00:57:34.509836+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-27T17:29:16.129160+00:00"
+      "published": "2026-10-28T00:57:34.509803+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-27T17:29:14.801080+00:00"
+      "published": "2026-10-28T00:57:33.048241+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,157 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-27T17:29:13.954115+00:00"
+      "published": "2026-10-28T00:57:31.935774+00:00"
+    },
+    {
+      "id": "415f03bb417c3df0",
+      "title": "Battery Operators Warn IESO Settlement Plan Could Encourage Misreporting",
+      "link": "https://www.rtoinsider.com/149726-ieso-advances-storage-der-market-integration-plans/",
+      "summary": "Battery operators warned IESO that proposed settlement rules could create an unintended incentive to report batteries as fully charged when they might not be, allowing operators to avoid day-ahead charging schedules and buy cheaper electricity in real time.\nThe post Battery Operators Warn IESO Settlement Plan Could Encourage Misreporting appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-28T00:40:55+00:00"
+    },
+    {
+      "id": "b83e24e59d61ec79",
+      "title": "CISA Sets Objectives for \u2018Aggressive\u2019 Strategy",
+      "link": "https://www.rtoinsider.com/149903-cisa-sets-objectives-for-aggressive-strategy/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency released a strategy document aimed at reorienting the agency toward a more active role in U.S. cyber defense.\nThe post CISA Sets Objectives for \u2018Aggressive\u2019 Strategy appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-28T00:30:40+00:00"
+    },
+    {
+      "id": "a6473c4629de1e78",
+      "title": "FERC Hears Update About Drought Impacts on Western Grid",
+      "link": "https://www.rtoinsider.com/149901-ferc-hears-update-drought-impacts-western-grid/",
+      "summary": "While the West is closely watching the impact of drought on hydropower generation, drought also can have consequences for thermal generation and wildfire risk, speakers said during a FERC conference.\nThe post FERC Hears Update About Drought Impacts on Western Grid appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T23:56:57+00:00"
+    },
+    {
+      "id": "a4b97ee94d4226e2",
+      "title": "DOE Offers Constellation Up to $5B Loan for 1.1 GW of Nuclear Uprates at Eight Plants",
+      "link": "https://www.powermag.com/doe-offers-constellation-up-to-5b-loan-for-1-1-gw-of-nuclear-uprates-at-eight-plants/",
+      "summary": "The Department of Energy (DOE) has offered Constellation Energy a conditional loan commitment of up to $5 billion to finance nuclear power uprates and modernization at eight plants in Illinois, Maryland, and Pennsylvania. The proposed investments could add nearly 1.1 GW of generating capacity to the nation\u2019s existing nuclear fleet. The commitment marks the agency\u2019s [\u2026]\nThe post DOE Offers Constell",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T23:43:23+00:00"
+    },
+    {
+      "id": "7ae2bfa9383698fa",
+      "title": "New Seams Management Process Introduced in 4th CAISO, SPP Workshop",
+      "link": "https://www.rtoinsider.com/149919-new-seams-management-process-introduced-caiso-spp/",
+      "summary": "CAISO and SPP used their fourth joint market seams workshop to introduce stakeholders to a new process for managing seams issues in the West called\u00a0Western Interconnect Loading Relief.\nThe post New Seams Management Process Introduced in 4th CAISO, SPP Workshop appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T23:21:22+00:00"
+    },
+    {
+      "id": "0341cba1180d8476",
+      "title": "Brattle, ESIG Drill Down on Large Loads\u2019 Effect on Rates",
+      "link": "https://www.rtoinsider.com/149915-brattle-esig-report-assesses-large-loads-rate-impact/",
+      "summary": "The authors conclude\u00a0grid headroom, market structure, load forecast accuracy, tariff structure and cost allocation each have bearing on whether existing customers see rate increases or decreases after the new load comes online.\nThe post Brattle, ESIG Drill Down on Large Loads\u2019 Effect on Rates appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T23:06:21+00:00"
+    },
+    {
+      "id": "10d19baff0fb5a1b",
+      "title": "ISO-NE Stakeholders Debate Treatment of Large Loads",
+      "link": "https://www.rtoinsider.com/149906-iso-ne-stakeholders-debate-large-load-design/",
+      "summary": "Prior to an upcoming vote on ISO-NE\u2019s proposed large load tariff changes, substantial disagreements remain about the RTO\u2019s proposed price-based curtailment method for flexible large loads.\nThe post ISO-NE Stakeholders Debate Treatment of Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T23:04:58+00:00"
+    },
+    {
+      "id": "66fb4af8944be8fe",
+      "title": "Electric Vehicles: It\u2019s Time to Forget Flying Cars and Focus on What Matters",
+      "link": "https://www.rtoinsider.com/149635-electric-vehicles-time-to-forget-flying-cars-focus-on-what-matters/",
+      "summary": "After being eviscerated when federal incentives expired last year, electric vehicle sales numbers suggest we may be seeing a new post-incentive equilibrium.\nThe post Electric Vehicles: It\u2019s Time to Forget Flying Cars and Focus on What Matters appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T22:48:21+00:00"
+    },
+    {
+      "id": "b4d8deb6e57c0c04",
+      "title": "9th Circuit Decision Opens Door for BPA to Join EDAM, Observers Say",
+      "link": "https://www.rtoinsider.com/149907-9th-circuit-decision-opens-door-bpa-join-edam-stakeholders-say/",
+      "summary": "Though Markets+ supporters prevailed after an appeals court tossed a challenge against BPA's day-ahead market choice, the court simultaneously opened the door for the agency to pivot to CAISO\u2019s Extended Day-Ahead Market, experts said.\nThe post 9th Circuit Decision Opens Door for BPA to Join EDAM, Observers Say appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T22:45:24+00:00"
+    },
+    {
+      "id": "9c495f66c88fbcae",
+      "title": "PG&E Data Center Applications Increase, Completed Projects Lag",
+      "link": "https://www.rtoinsider.com/149914-pge-data-center-applications-increase-completed-projects-not-as-substantial/",
+      "summary": "Pacific Gas and Electric continues to add new data centers to its project queue, but the number of facilities coming online in the past two years has been lighter than one might think.\nThe post PG&E Data Center Applications Increase, Completed Projects Lag appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T21:36:57+00:00"
+    },
+    {
+      "id": "f872fdf4dbf77ba5",
+      "title": "PJM Urges FERC to Reject Mon Power\u2019s Winter Operations Complaint",
+      "link": "https://www.rtoinsider.com/149912-pjm-responds-to-mon-power-ferc-complaint/",
+      "summary": "PJM asked FERC to reject a complaint from Mon Power seeking refunds of $145 million, with the RTO saying its operational decisions were justified and market certainty should be preserved.\nThe post PJM Urges FERC to Reject Mon Power\u2019s Winter Operations Complaint appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T20:43:24+00:00"
+    },
+    {
+      "id": "cfdd3afd43954f01",
+      "title": "Nvidia Vera Rubin and Vera CPUs now generally available on Oracle",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/",
+      "summary": "And other AI hardware deployments soon to arrive",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-27T20:41:25+00:00"
+    },
+    {
+      "id": "6bb50f6f9b55b1fe",
+      "title": "Merging Lanes: Preliminary Findings from the iQMS Cohort",
+      "link": "https://sepapower.org/knowledge/merging-lanes/",
+      "summary": "Imagine operating a semi-truck hauling a heavy load down a single-lane highway with hundreds of other semis. The traffic moves slowly but steadily, without a lot of stops and starts that make the journey feel like a slog. Overhead, the highway signs clearly show the way to final destinations and give a flashing ETA for [\u2026]\nThe post Merging Lanes: Preliminary Findings from the iQMS Cohort appeared ",
+      "source": "Smart Electric Power Alliance (SEPA)",
+      "category": "DER & Grid Modernization",
+      "region": "National",
+      "published": "2026-10-27T19:18:03+00:00"
+    },
+    {
+      "id": "53270ed2d4aded87",
+      "title": "Executive Order 14421: Managing the Risk of a Ban on Chinese Grid Equipment",
+      "link": "https://www.powermag.com/executive-order-14421-managing-the-risk-of-a-ban-on-chinese-grid-equipment/",
+      "summary": "The nation\u2019s electric grid depends heavily on foreign-made equipment, much of it from China. Depending on how the Dept. of Energy (DOE) chooses to implement Executive Order 14421 through its pending rulemaking for national security purposes, it has the potential to prohibit fully any Chinese-made equipment on the transmission grid. COMMENTARY The significance of Executive [\u2026]\nThe post Executive Or",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-27T18:46:33+00:00"
+    },
+    {
+      "id": "df7461799ddcd2ac",
+      "title": "Oracle will offer Google\u2019s TPU AI chip via OCI",
+      "link": "https://www.datacenterdynamics.com/en/news/oracle-will-offer-googles-tpu-ai-chip-via-oci/",
+      "summary": "Will be the first hyperscaler to offer Google\u2019s TPU outside of Google",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-27T17:57:17+00:00"
     },
     {
       "id": "ba293cf7500a640d",
@@ -6051,96 +6201,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-07T07:30:00+00:00"
-    },
-    {
-      "id": "5af0ca48800bf826",
-      "title": "Alabama Regulators Greenlight Framework for Data Center Decisions",
-      "link": "https://www.rtoinsider.com/147534-alabama-regulators-greenlight-framework-data-center-decisions/",
-      "summary": "The Alabama Public Service Commission approved a framework for handling large load contracts that requires Alabama Power to disclose data centers\u2019 names and their expected peak power demands, but does not include an actual tariff template.\nThe post Alabama Regulators Greenlight Framework for Data Center Decisions appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-07T00:51:45+00:00"
-    },
-    {
-      "id": "61c2d54e24037dd5",
-      "title": "EIA Releases Mixed Forecast for Winter Heating Bills",
-      "link": "https://www.rtoinsider.com/147540-eia-releases-mixed-forecast-winter-heating-bills/",
-      "summary": "The U.S. Energy Information Administration's 2026/27 Winter Fuels Outlook forecasts a mixed bag of heating bills for consumers this winter depending on their fuel and region.\nThe post EIA Releases Mixed Forecast for Winter Heating Bills appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-06T23:25:59+00:00"
-    },
-    {
-      "id": "ff62b670ff88c6a2",
-      "title": "Canada Cold Weather Standard Revisions Pass Final Ballot",
-      "link": "https://www.rtoinsider.com/147529-canada-cold-weather-standard-revisions-pass-final-ballot/",
-      "summary": "Stakeholders have approved the final ballot on a proposed Canada-specific update to one of NERC's cold weather standards.\nThe post Canada Cold Weather Standard Revisions Pass Final Ballot appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-06T23:24:43+00:00"
-    },
-    {
-      "id": "36bfa2800a8560f0",
-      "title": "Google, Constellation Sign PPAs Totaling 3,590 MW",
-      "link": "https://www.rtoinsider.com/147527-constellation-google-plan-890mw-nuclear-uprates-pjm-territory/",
-      "summary": "The power purchase agreements entail 890 MW from nuclear uprates and 2,700 MW from existing power generation in the PJM grid.\nThe post Google, Constellation Sign PPAs Totaling 3,590 MW appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-06T22:52:37+00:00"
-    },
-    {
-      "id": "1b82c54bd0d3d847",
-      "title": "OMS Shuts Down Southern Push for Neutral Docs without Unanimity",
-      "link": "https://www.rtoinsider.com/147550-oms-shuts-down-southern-push-neutral-docs-without-unanimity/",
-      "summary": "A majority of members in the Organization of MISO States abruptly halted MISO South members\u2019 attempt to make OMS position documents neutral in nature unless they are unanimously accepted.\nThe post OMS Shuts Down Southern Push for Neutral Docs without Unanimity appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-06T22:44:06+00:00"
-    },
-    {
-      "id": "1790e9f6e3832686",
-      "title": "ROE Debated at N.J. Utility Reform Hearings",
-      "link": "https://www.rtoinsider.com/147310-roe-debated-new-jersey-utility-reform-hearings/",
-      "summary": "New Jersey officials trying to create a model for determining how utilities should operate faced contentious pushback from stakeholders in a recent public hearing, particularly over how much return on equity utilities should earn.\nThe post ROE Debated at N.J. Utility Reform Hearings appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-06T22:11:17+00:00"
-    },
-    {
-      "id": "22a946eb8b789f34",
-      "title": "Ariz. Commissioner Stands Firm on Markets+ Support",
-      "link": "https://www.rtoinsider.com/147532-ariz-commissioner-stands-firm-markets-support/",
-      "summary": "Arizona Corporation Commission Chair Nick Myers is firing back on speculation that Arizona is wavering in its choice of SPP\u2019s Markets+ rather than CAISO\u2019s Extended Day-Ahead Market.\nThe post Ariz. Commissioner Stands Firm on Markets+ Support appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-06T22:05:55+00:00"
-    },
-    {
-      "id": "e164610250bcc5c5",
-      "title": "Tesla is now making more EVs that can double as a home battery",
-      "link": "https://www.canarymedia.com/articles/electric-vehicles/tesla-evs-as-home-battery",
-      "summary": "Households and the power grid run on alternating current. Batteries \u2014 including those in electric vehicles \u2014 run on direct current. That AC-DC divide has complicated the prospect of EVs as home backup batteries.  Today, almost every commercially available vehicle-to-home (V2H) backup power system in the U.S. requires\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-06T21:00:00+00:00"
-    },
-    {
-      "id": "a13e9bb48d43ebbd",
-      "title": "Denver-Based Fusion Group Receives $30.5-Million Award from DOE",
-      "link": "https://www.powermag.com/denver-based-fusion-group-receives-30-5-million-award-from-doe/",
-      "summary": "Fusion energy company Xcimer Energy said it has finalized an agreement for up to $30.5 million in additional federal funding through the U.S. Department of Energy\u2019s (DOE\u2019s) Milestone-Based Fusion Development Program. The new DOE award, announced October 6, is for the program\u2019s second budget period. It brings the total DOE funding for potential Milestone payments [\u2026]\nThe post Denver-Based Fusion Gr",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-06T19:58:54+00:00"
     }
   ]
 }
