@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T01:30:43.410068+00:00",
-  "count": 618,
+  "generated_at": "2026-10-29T18:02:15.075094+00:00",
+  "count": 622,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-29T01:30:39.011873+00:00"
+      "published": "2026-10-29T18:02:11.767737+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-29T01:30:39.011862+00:00"
+      "published": "2026-10-29T18:02:11.767729+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-29T01:30:39.011847+00:00"
+      "published": "2026-10-29T18:02:11.767719+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-29T01:30:39.011824+00:00"
+      "published": "2026-10-29T18:02:11.767700+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-29T01:30:36.994715+00:00"
+      "published": "2026-10-29T18:02:10.074005+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,327 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-29T01:30:35.562212+00:00"
+      "published": "2026-10-29T18:02:07.491413+00:00"
+    },
+    {
+      "id": "9436b6566036752f",
+      "title": "Curtiss-Wright Invests $30M to Expand Nuclear Instrumentation Manufacturing in Texas",
+      "link": "https://www.powermag.com/curtiss-wright-invests-30m-to-expand-nuclear-instrumentation-manufacturing-in-texas/",
+      "summary": "Curtiss-Wright Corp. will invest $30 million to expand its manufacturing facility in Round Rock, Texas, to increase production capacity for pressure and temperature sensors used in commercial nuclear reactors and industrial applications. The investment is part of the company\u2019s broader effort to expand its nuclear supply chain capabilities as existing reactors undergo modernization and new [\u2026]\nThe ",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T17:58:31+00:00"
+    },
+    {
+      "id": "ed6f738412f09bc3",
+      "title": "GE Vernova in $9B deal to buy high-voltage manufacturer as gas turbine orders slow",
+      "link": "https://www.utilitydive.com/news/ge-vernova-in-9b-deal-to-buy-high-voltage-manufacturer-as-gas-turbine-orde/873223/",
+      "summary": "The acquisition of Trench Group will help GE Vernova capitalize on rising electricity demand, company executives said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T17:40:22+00:00"
+    },
+    {
+      "id": "e027b03414f9a1b7",
+      "title": "DOE Closes $5.1B Loan Package for Alliant\u2019s Iowa, Wisconsin Gas Power and Battery Storage Buildout",
+      "link": "https://www.powermag.com/doe-closes-5-1b-loan-package-for-alliants-iowa-wisconsin-gas-power-and-battery-storage-buildout/",
+      "summary": "The Department of Energy (DOE) has closed a $5.1 billion federally guaranteed loan package for Alliant Energy\u2019s two regulated utilities, providing access to lower-cost financing for new natural gas-fired generation, battery energy storage, liquefied natural gas (LNG) storage, and upgrades to existing power plants in Iowa and Wisconsin. The financing arrives as Alliant prepares for [\u2026]\nThe post DOE",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T17:29:19+00:00"
+    },
+    {
+      "id": "b17bf3c46b9a7da4",
+      "title": "700MW data center project proposed outside Lansing, Michigan",
+      "link": "https://www.datacenterdynamics.com/en/news/700mw-data-center-project-proposed-outside-lansing-michigan/",
+      "summary": "Local officials blindsided by proposal from local economic development agency",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T17:07:04+00:00"
+    },
+    {
+      "id": "0c962db5713e81e1",
+      "title": "Turkish police make 85 arrests over last month's arson attack against Starlink satellite station in Poland",
+      "link": "https://www.datacenterdynamics.com/en/news/turkish-police-make-85-arrests-over-last-months-arson-attack-against-starlink-satellite-station-in-poland/",
+      "summary": "As the net widens over arson attack on September 23",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T17:03:26+00:00"
+    },
+    {
+      "id": "47db69fe58833fdb",
+      "title": "OneQode leases 14MW from AdaniConneX in India",
+      "link": "https://www.datacenterdynamics.com/en/news/oneqode-leases-14mw-from-adaniconnex-in-india/",
+      "summary": "AI cloud company's first deployment in India, more planned",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T17:01:15+00:00"
+    },
+    {
+      "id": "86a46af71ff001f5",
+      "title": "GTC Berlin: Nvidia wants you to know it cares \u2013  just don\u2019t ask too many questions",
+      "link": "https://www.datacenterdynamics.com/en/opinions/gtc-berlin-nvidia-wants-you-to-know-it-cares-just-dont-ask-too-many-questions/",
+      "summary": "The GPU giant attempted to reframe its messaging for the European market, but were they buying it?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T16:50:01+00:00"
+    },
+    {
+      "id": "5beea48053f3131d",
+      "title": "Nordic data center firm Heim secures investment from Omnes",
+      "link": "https://www.datacenterdynamics.com/en/news/nordic-data-center-firm-heim-secures-investment-from-omnes/",
+      "summary": "Investment to fund first projects in Finland",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T16:47:34+00:00"
+    },
+    {
+      "id": "4cb53e7c35410201",
+      "title": "Quantum DC cancels Australian data center community meeting over \"credible bomb threat\"",
+      "link": "https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/",
+      "summary": "The proposed gigawatt-scale has seen local pushback",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T16:30:19+00:00"
+    },
+    {
+      "id": "556f8c005ecadce3",
+      "title": "DCD Studio: Regulating data centers - what can be done? With Allison Clements, ASG",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-regulating-data-centers-what-can-be-done-with-allison-clements-asg/",
+      "summary": "Zachary Skidmore speaks with Allison Clements of ASG about evolving FERC regulations, managing large energy loads, grid interconnections, and financial safeguards against speculative data center demand.",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T16:26:51+00:00"
+    },
+    {
+      "id": "95efdc9f81a37a7f",
+      "title": "Meta to buy 200,000 tons of low carbon cement associated credits from Fortera",
+      "link": "https://www.datacenterdynamics.com/en/news/meta-to-buy-200000-tons-of-low-carbon-cement-associated-credits-from-fortera/",
+      "summary": "Multi-year deal will support development of Fortera cement plant in Missouri",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T16:00:35+00:00"
+    },
+    {
+      "id": "c0c73d5bf7efde9c",
+      "title": "Sponsored: Why data centers need to rethink copper and labor requirements at the design stage",
+      "link": "https://www.datacenterdynamics.com/en/opinions/why-data-centers-need-to-rethink-copper-and-labor-requirements-at-the-design-stage/",
+      "summary": "Copper forecasts will likely keep swinging, and the electrician shortfall is projected to begin in 2027. Developers cannot wait for either to resolve",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T16:00:00+00:00"
+    },
+    {
+      "id": "3327a690a88291da",
+      "title": "FCC to vote on whether prisons can jam contraband cellphone calls",
+      "link": "https://www.datacenterdynamics.com/en/news/fcc-to-vote-on-whether-prisons-can-jam-contraband-cellphone-calls/",
+      "summary": "A vote is set for next month",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T15:32:46+00:00"
+    },
+    {
+      "id": "995e8fb41b3cdc9b",
+      "title": "Orange seeks compensation from Nokia over outage in France earlier this month - report",
+      "link": "https://www.datacenterdynamics.com/en/news/orange-seeks-compensation-from-nokia-over-outage-in-france-earlier-this-month-report/",
+      "summary": "The outage last week impacted millions of Orange customers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T15:31:19+00:00"
+    },
+    {
+      "id": "45cbcc08518fb9f5",
+      "title": "Marwynn plots up to $500m AI data center and solar farm in Grenada",
+      "link": "https://www.datacenterdynamics.com/en/news/marwynn-plots-up-to-500m-ai-data-center-and-solar-farm-in-grenada/",
+      "summary": "Signs MoU with Grenada National Resort, a large-scale luxury tourism and real estate development",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T15:22:07+00:00"
+    },
+    {
+      "id": "8fe049eb511f953d",
+      "title": "Simplifying safety to drive savings",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/simplifying-safety-to-drive-savings/",
+      "summary": "How Fastenal used consolidation to standardize data center spend",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T15:22:04+00:00"
+    },
+    {
+      "id": "da42e6429c9c8c21",
+      "title": "BAAJA gives federal regulators \u2018bigger hammer\u2019 to break transmission blocks",
+      "link": "https://www.utilitydive.com/news/baaja-permitting-reform-interregional-transmission-harder/873041/",
+      "summary": "\u201cI think the cost-sharing elements are by far probably the most important part of this bill,\u201d Rep. Josh Harder, D-Calif., told Utility Dive.\u00a0\u201cMy hope is that can unlock a lot more collaboration as opposed to ... folks pointing the finger at each other.\u201d",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T15:21:25+00:00"
+    },
+    {
+      "id": "cccfffbea40c9c4b",
+      "title": "Conglomerate Chatterjee Group launches Cortex DC, targets 2GW of data center capacity in India",
+      "link": "https://www.datacenterdynamics.com/en/news/conglomerate-chatterjee-group-launches-cortex-dc-targets-2gw-of-data-center-capacity-in-india/",
+      "summary": "Few details about rollout shared",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T15:14:22+00:00"
+    },
+    {
+      "id": "ba16ad21ba8e2d99",
+      "title": "AEP increases investment plan 30% to $100B on gen, transmission spending",
+      "link": "https://www.utilitydive.com/news/aep-transmission-data-center-earnings/873189/",
+      "summary": "American Electric Power\u2019s contracted large loads jumped 22% to 84 GW, mainly on a 10.4-GW data center in Ohio being developed by SB Energy, company officials said Wednesday.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T15:05:24+00:00"
+    },
+    {
+      "id": "99af5ce44b1622fe",
+      "title": "PG&E sees marginal increase in data center pipeline",
+      "link": "https://www.datacenterdynamics.com/en/news/pge-sees-marginal-increase-in-data-center-pipeline/",
+      "summary": "240MW of which is in the construction phase",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T15:05:14+00:00"
+    },
+    {
+      "id": "6bc48f34cfd67b44",
+      "title": "Prime Video Sports partnerships exec joins OpenAI's compute strategy team",
+      "link": "https://www.datacenterdynamics.com/en/news/prime-video-sports-partnerships-exec-joins-openais-compute-strategy-team/",
+      "summary": "James Argiriou leaves Amazon for the AWS customer",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T14:56:45+00:00"
+    },
+    {
+      "id": "c0b76316fc105511",
+      "title": "Entel shuts down 3G network in La Paz, Bolivia",
+      "link": "https://www.datacenterdynamics.com/en/news/entel-shuts-down-3g-in-la-paz-to-strengthen-its-4g-network-in-bolivia/",
+      "summary": "As the telco seeks to boost 4G coverage instead",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T14:51:05+00:00"
+    },
+    {
+      "id": "2e95da481d8e4190",
+      "title": "Google share price slumps as AI data center build-out drives $9bn negative cashflow",
+      "link": "https://www.datacenterdynamics.com/en/news/google-share-price-slumps-as-ai-data-center-build-out-drives-9bn-negative-cashflow/",
+      "summary": "Search and cloud giant says capex spending will continue as planned",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T14:24:52+00:00"
+    },
+    {
+      "id": "94491ee628826642",
+      "title": "DCD Studio: Powering AI data centers from space, with Abdullah Al-Shakari, Overview Energy",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-powering-ai-data-centers-from-space-with-abdullah-al-shakari-overview-energy/",
+      "summary": "James Raddings speaks with Abdullah Al-Shakari of Overview Energy about space-based solar power beaming, overcoming terrestrial solar limits, near-infrared technology, and partnerships with Meta and the US Air Force.",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T14:14:00+00:00"
+    },
+    {
+      "id": "1619017964a71e18",
+      "title": "Chinese-linked solar developer loses appeal over Texas grid interconnection",
+      "link": "https://www.utilitydive.com/news/chinese-linked-solar-developer-loses-appeal-to-connect-to-texas-grid/873178/",
+      "summary": "The U.S. Court of Appeals for the 5th Circuit\u00a0said Texas has a \u201cfree lane\u201d to enforce restrictions on foreign-owned companies\u2019\u00a0access to the state\u2019s electric grid in a ruling that could have implications for other states and market participants.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T13:21:29+00:00"
+    },
+    {
+      "id": "3f6afe591eb21a61",
+      "title": "FirstEnergy data center pipeline increases 5% to 26 GW in Q3",
+      "link": "https://www.utilitydive.com/news/firstenergy-data-center-pipeline-maidsville/873149/",
+      "summary": "Two FirstEnergy utilities reserved combined cycle turbines for a 1.2-GW data center-focused project in West Virginia and issued a solicitation for an additional 3 GW, company officials said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T13:00:02+00:00"
+    },
+    {
+      "id": "6aa89fd8e7009d70",
+      "title": "Microsoft thinks its data centers can last for 25 years, reports strong cloud earnings and lower capex",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-q3-earnings-data-center-ai-azure-satya-nadella/",
+      "summary": "Extends useful life of facilities as it reports Azure revenue for the first time",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-29T12:59:58+00:00"
+    },
+    {
+      "id": "48ac762fc6567cdb",
+      "title": "Should I Stay or Should I (No) Go?",
+      "link": "https://sepapower.org/knowledge/should-i-stay-or-should-i-no-go/",
+      "summary": "Anyone who has ever tried moving a massive couch up a narrow stairwell knows the exact moment panic sets in. You grab hold of something heavy and cumbersome, completely unable to see around the corner where you are heading. You hit a tight landing, realize your original pathway is jammed, and someone desperately shouts \u201cPIVOT!\u201d [\u2026]\nThe post Should I Stay or Should I (No) Go? appeared first on SEPA",
+      "source": "Smart Electric Power Alliance (SEPA)",
+      "category": "DER & Grid Modernization",
+      "region": "National",
+      "published": "2026-10-29T12:20:16+00:00"
+    },
+    {
+      "id": "444416f9543139f6",
+      "title": "Data center purchases of electrical equipment up 80% since 2025: Hubbell",
+      "link": "https://www.utilitydive.com/news/data-center-purchases-of-electrical-equipment-up-80-since-2025-hubbell/873134/",
+      "summary": "A temporary shortage of meter components should be fully resolved by the end of the year, the electrical equipment supplier said in its third-quarter earnings call.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T12:00:00+00:00"
+    },
+    {
+      "id": "d2756cdb87f0b92d",
+      "title": "LNG imports make up increasing share of Colombia's natural gas supply",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
+      "summary": "Colombia is importing more liquefied natural gas (LNG) as domestic production continues to fall. A potential drought this fall and winter could limit the availability of hydroelectric generation and boost the country's demand for natural gas power generation. Colombia's government has declared a national disaster in anticipation of a drought resulting from an expected strong El Ni\u00f1o.",
+      "source": "EIA Today in Energy",
+      "category": "ISO/RTO",
+      "region": "National",
+      "published": "2026-10-29T09:00:00+00:00"
+    },
+    {
+      "id": "c8364702fc5d819b",
+      "title": "From zoos to craft brews, Michigan looks to spur decarbonization",
+      "link": "https://www.canarymedia.com/articles/clean-industry/zoos-brews-michigan-decarbonization",
+      "summary": "Re-creating polar habitats in Michigan is no small feat. Just ask the Detroit Zoo, where the polar bear and penguin centers require producing industrial levels of cooling from energy-intensive equipment. For the zoo, figuring out how to keep animals comfortable using less, and cleaner, energy is key to meeting its\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T07:30:00+00:00"
+    },
+    {
+      "id": "0976805185372c20",
+      "title": "PJM desperately needs grid batteries. Here\u2019s a way it could get some.",
+      "link": "https://www.canarymedia.com/articles/transmission/pjm-desperately-needs-grid-batteries-is-it-finally-about-to-act",
+      "summary": "PJM Interconnection is finally taking steps that could let a lot of new battery capacity connect to its grid without eons of delay.\u00a0 PJM is the biggest grid operator in the U.S., serving customers across 13 mid-Atlantic, Midwestern, and Southern states. Its grid is notoriously bogged down and congested, especially\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T07:30:00+00:00"
     },
     {
       "id": "17628f30f0c1ea31",
@@ -316,7 +636,7 @@
       "id": "cbf6ab7d31b6d67f",
       "title": "FERC approves tougher MISO penalties for nonperforming demand-side resources",
       "link": "https://www.utilitydive.com/news/ferc-miso-penalties-demand-side-resource-lmr/873006/",
-      "summary": "Two Federal Energy Regulatory Commission members urged parties to monitor the rules in case they drive well-performing demand response and behind-the-meter resources from the Midcontinent\u00a0grid operator\u2019s market.",
+      "summary": "Two Federal Energy Regulatory Commission members urged parties to monitor the rules in case they drive well-performing demand response and behind-the-meter resources out of the Midcontinent\u00a0grid operator\u2019s market.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -5901,286 +6221,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-08T19:00:00+00:00"
-    },
-    {
-      "id": "fe1c94c90271eceb",
-      "title": "DCD Connect | London 2026 - Post Show Report",
-      "link": "https://www.datacenterdynamics.com/en/dcd-downloads/dcdconnect-london-2026-post-show-report/",
-      "summary": "Gain insights into the key statistics and attendee demographics from this year's event",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T17:19:00+00:00"
-    },
-    {
-      "id": "cb25bf065092521d",
-      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
-      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
-      "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments \u2014 the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T16:42:42+00:00"
-    },
-    {
-      "id": "0e231ba09c2d7ba2",
-      "title": "Nokia to cut more than 250 jobs in Finland - report",
-      "link": "https://www.datacenterdynamics.com/en/news/nokia-to-cut-more-than-250-jobs-in-finland-report/",
-      "summary": "The cuts are part of the company's cost-cutting plans put forward in 2023",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T16:41:20+00:00"
-    },
-    {
-      "id": "ab1e79695f50b38c",
-      "title": "Data Centers, Gas, and Who Pays: Power Association Leaders Find Common Ground",
-      "link": "https://www.powermag.com/data-centers-gas-and-who-pays-power-association-leaders-find-common-ground/",
-      "summary": "When the heads of three of the power sector\u2019s biggest trade associations shared a stage at Experience POWER on Sept. 30, the most notable thing was how little they disagreed. Whether the question was data center backlash, grid security, or what to do about gas-plant emissions rules, the answer came back to the same point: [\u2026]\nThe post Data Centers, Gas, and Who Pays: Power Association Leaders Find",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T16:39:30+00:00"
-    },
-    {
-      "id": "696087d6778c9530",
-      "title": "KT Cloud plans 50MW data center project in Incheon, South Korea",
-      "link": "https://www.datacenterdynamics.com/en/news/kt-cloud-plans-50mw-data-center-project-in-incheon-south-korea/",
-      "summary": "KT Cloud will serve as the design, build, and operate partner",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T16:33:23+00:00"
-    },
-    {
-      "id": "3b7ae62d6a8d7380",
-      "title": "DCD Studio: Market models for SMRs with Rosa Rotko, Mott MacDonald",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-market-models-for-smrs-with-rosa-rotko-mott-macdonald/",
-      "summary": "Tam Pledger speaks with Rosa Rotko of Mott MacDonald on critical grid connection delays impacting UK energy projects",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T16:32:05+00:00"
-    },
-    {
-      "id": "0971a91c2971bfff",
-      "title": "AI cloud company Boost Run secures $525.6m contract with Cohere",
-      "link": "https://www.datacenterdynamics.com/en/news/ai-cloud-company-boost-run-secures-5256m-contract-with-cohere/",
-      "summary": "Cohere will use Boost Run's dedicated GPU cloud computing infrastructure",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T16:30:46+00:00"
-    },
-    {
-      "id": "09875a68475e2b64",
-      "title": "DCD Studio: Workforce Development with Christian Goldsmith, Arcadis",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-workforce-development-with-christian-goldsmith-arcadis/",
-      "summary": "Tom Liddy speaks with Christian Goldsmith of Arcadis about tackling critical talent shortages in the data center sector through workforce planning, strategic training, and global external accreditation.",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T16:28:59+00:00"
-    },
-    {
-      "id": "756e8ff37f0994bd",
-      "title": "Optical illusion: Is co-packaged optics the savior the data center industry has been waiting for?",
-      "link": "https://www.datacenterdynamics.com/en/analysis/optical-illusion-is-co-packaged-optics-the-savior-the-data-center-industry-has-been-waiting-for/",
-      "summary": "As demands on data center networks grow, is CPO finally ready to take center stage?",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T16:00:59+00:00"
-    },
-    {
-      "id": "33a13ea4606d5400",
-      "title": "Waste heat from Goodman data center in Frankfurt, Germany, to power district heating system",
-      "link": "https://www.datacenterdynamics.com/en/news/waste-heat-from-goodman-data-center-in-frankfurt-germany-to-power-district-heating-system/",
-      "summary": "Firm will recover and supply 50MW to warm buildings and a swimming pool",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T15:55:25+00:00"
-    },
-    {
-      "id": "2568b6e9f62714e6",
-      "title": "GlobalFoundries signs $2bn, five-year deal with TSMC for production of advanced packaging components",
-      "link": "https://www.datacenterdynamics.com/en/news/globalfoundries-signs-2bn-five-year-deal-with-tsmc-for-production-of-advanced-packaging-components/",
-      "summary": "GF\u2019s Malta, NY, fab will become first US source for supply of silicon interposers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T15:07:16+00:00"
-    },
-    {
-      "id": "5d5c1250e7a452c7",
-      "title": "Oracle, Broadcom, and SpaceX looking to secure ten of billions in financing to support AI compute purchases \u2013 report",
-      "link": "https://www.datacenterdynamics.com/en/news/oracle-broadcom-and-spacex-looking-to-secure-ten-of-billions-in-financing-to-support-ai-compute-purchases-report/",
-      "summary": "Broadcom is seeking $50bn, while SpaceX is looking to secure $40bn",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T15:06:27+00:00"
-    },
-    {
-      "id": "b2c4a33a93e7ebd4",
-      "title": "Power system plans to meet large-load demand miss near-term solutions: analysts",
-      "link": "https://www.utilitydive.com/news/power-system-plans-to-meet-large-load-demand-miss-near-term-solutions-some/832508/",
-      "summary": "Major work by regional planners is focused on flexible access to existing transmission. Some say greater emphasis on advanced transmission technologies can quickly and cost-effectively create room for new large loads.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T14:52:13+00:00"
-    },
-    {
-      "id": "e46aac67927c00d2",
-      "title": "Google's \u20ac13bn data center buildout in Finland under investigation for 300-hectare forest removal",
-      "link": "https://www.datacenterdynamics.com/en/news/googles-13bn-data-center-buildout-in-finland-under-investigation-for-300-hectare-forest-removal/",
-      "summary": "Finnish Licensing and Supervision Authority requests reports from local municipalities",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T14:15:46+00:00"
-    },
-    {
-      "id": "e950ae4fe3162bfc",
-      "title": "4-hour storage cheaper than gas peakers across global markets: WoodMac",
-      "link": "https://www.utilitydive.com/news/4-hour-storage-cheaper-than-gas-peakers-across-global-markets-woodmac/832489/",
-      "summary": "In North America, data centers are boosting the long-term investment case for energy storage and renewables as gas turbine backlogs and rising fuel volatility drive up peaking costs, according to a Thursday note from Wood Mackenzie.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T14:04:37+00:00"
-    },
-    {
-      "id": "057110c90d7af38b",
-      "title": "Empowering data centers for sustainability & cost savings",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/empowering-data-centers-for-sustainability-cost-savings/",
-      "summary": "Ablecom AbleCool helps data centers achieve sustainability and cost savings",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T13:46:00+00:00"
-    },
-    {
-      "id": "f9252d376560648b",
-      "title": "DOE presses PJM on ratepayer protections from large load costs",
-      "link": "https://www.utilitydive.com/news/doe-pjm-ferc-ratepayer-protection-large-load-data-center/832479/",
-      "summary": "\u201cA capability to continuously track whether a project enters into service ... or is delayed, reduced, or cancelled, can help assign costs for new generation to the customers responsible for those investments,\u201d the DOE said in a rare filing at FERC.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T13:31:33+00:00"
-    },
-    {
-      "id": "cbb06875027c7d3c",
-      "title": "DC\u2019s green energy mandate burdens those who can afford it least",
-      "link": "https://www.utilitydive.com/news/dc-green-energy-mandate-renewable-solar-ratepayer/831738/",
-      "summary": "The District of Columbia should review its renewable portfolio standard requirements, with solar credits adding about $20 to monthly electric bills, writes Joy Ditto, former American Public Power Association CEO.",
-      "source": "Utility Dive",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T13:07:47+00:00"
-    },
-    {
-      "id": "7e31901efb144a93",
-      "title": "India dismisses Elon Musk claims over satellite approval process in country",
-      "link": "https://www.datacenterdynamics.com/en/news/india-dismisses-elon-musk-claims-over-satellite-approval-process-in-country/",
-      "summary": "It comes after Musk had earlier said Starlink had been \"blocked by certain oligarchs\" in the market",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T13:02:58+00:00"
-    },
-    {
-      "id": "fa7cefc4ed048373",
-      "title": "Wolfspeed receives $1.5bn conditional loan commitment from US gov\u2019t to boost domestic SiC and GaN production",
-      "link": "https://www.datacenterdynamics.com/en/news/wolfspeed-receives-15bn-conditional-loan-commitment-from-us-govt-to-boost-domestic-sic-and-gan-production/",
-      "summary": "Financing will also help advance a number of DoD initiatives",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T12:37:20+00:00"
-    },
-    {
-      "id": "7d2dd00ff8bcc0bb",
-      "title": "FCC approves SpaceX's request to launch 15,000 D2D satellites",
-      "link": "https://www.datacenterdynamics.com/en/news/fcc-approves-spacexs-request-to-launch-15000-d2d-satellites/",
-      "summary": "As the space giant looks to take the cellular fight to 'Big 3' US carriers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T11:36:07+00:00"
-    },
-    {
-      "id": "63d86cb1cb1efe49",
-      "title": "Sesterce to invest $10bn in 600MW AI data center campus in J\u00e4ms\u00e4, Finland",
-      "link": "https://www.datacenterdynamics.com/en/news/sesterce-to-invest-10bn-in-600mw-ai-data-center-campus-in-j%C3%A4ms%C3%A4-finland/",
-      "summary": "Developer says it has already secured an anchor customer for the site",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T10:52:56+00:00"
-    },
-    {
-      "id": "a1883039d59ea3cb",
-      "title": "DARPA announces four companies advancing to final stage of its Quantum Benchmarking Initiative",
-      "link": "https://www.datacenterdynamics.com/en/news/darpa-announces-four-companies-advancing-to-final-stage-of-its-quantum-benchmarking-initiative/",
-      "summary": "Atom Computing, Diraq, IBM, and IonQ have all progressed to Stage C of the program",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T10:48:16+00:00"
-    },
-    {
-      "id": "1c2cf37e3b9700d2",
-      "title": "Quantum startup ZuriQ partners with Infineon for development of scalable quantum chips",
-      "link": "https://www.datacenterdynamics.com/en/news/quantum-startup-zuriq-partners-with-infineon-for-development-of-scalable-quantum-chips/",
-      "summary": "Scaling QPUs for use in commercial quantum systems",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T10:41:37+00:00"
-    },
-    {
-      "id": "5945874f3a8e3b66",
-      "title": "Yandex data center hit in drone attack in Russia",
-      "link": "https://www.datacenterdynamics.com/en/news/yandex-data-center-hit-in-drone-attack-in-russia/",
-      "summary": "Data center in Ryazan Oblast struck in drone attack",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T10:25:49+00:00"
-    },
-    {
-      "id": "1ee096c6cb219ab1",
-      "title": "Built to power data centers at scale",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/built-to-power-data-centers-at-scale/",
-      "summary": "How hyperscale data center operators can scale AI infrastructure with reliable power, advanced cooling and repeatable architectures for 1 GW deployments",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-08T08:43:31+00:00"
-    },
-    {
-      "id": "a18c41ee551bf66f",
-      "title": "A new group to help US small towns lead the clean energy transition",
-      "link": "https://www.canarymedia.com/articles/clean-energy/new-group-small-towns-clean-energy",
-      "summary": "As the mayor of tiny Enfield, North Carolina, Mondale Robinson has huge clean energy ambitions . Among them: building a solar farm to power the entire town of about 2,000, replacing the town\u2019s decrepit substation to distribute those renewable electrons, and building a thermal energy network to provide heating and\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T07:30:00+00:00"
-    },
-    {
-      "id": "acd16e3aaead381e",
-      "title": "How a reluctant Iowa farming county undid a ban on battery storage",
-      "link": "https://www.canarymedia.com/articles/food-and-farms/iowa-farm-county-battery-storage",
-      "summary": "The soil in northwest Iowa is so fertile it\u2019s referred to as \u201cblack gold.\u201d  \u201cIt\u2019s incredibly rich, wonderful topsoil from thousands of years of silty deposits from the Missouri River,\u201d said Luke Seaberg, a researcher at Iowa State University\u2019s extension program. So rich that some counties restrict development on land\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T07:30:00+00:00"
     }
   ]
 }
