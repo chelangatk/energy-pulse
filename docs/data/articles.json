@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T18:02:15.075094+00:00",
-  "count": 622,
+  "generated_at": "2026-10-30T01:31:41.534900+00:00",
+  "count": 624,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-29T18:02:11.767737+00:00"
+      "published": "2026-10-30T01:31:38.809072+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-29T18:02:11.767729+00:00"
+      "published": "2026-10-30T01:31:38.809058+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-29T18:02:11.767719+00:00"
+      "published": "2026-10-30T01:31:38.809039+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-29T18:02:11.767700+00:00"
+      "published": "2026-10-30T01:31:38.809006+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-29T18:02:10.074005+00:00"
+      "published": "2026-10-30T01:31:37.132134+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,117 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-29T18:02:07.491413+00:00"
+      "published": "2026-10-30T01:31:36.336193+00:00"
+    },
+    {
+      "id": "3cd1deb63dc6aead",
+      "title": "Regulators Amplify Call for Greater State Involvement in PJM Policy",
+      "link": "https://www.rtoinsider.com/150129-regulators-amplify-call-greater-state-involvement-pjm-policy/",
+      "summary": "Several speakers at a conference of state regulators amplified a call for PJM to adopt a governance structure that provides states a greater role in shaping grid policy as the RTO prepares a FERC filing containing broad changes to its decision-making processes.\nThe post Regulators Amplify Call for Greater State Involvement in PJM Policy appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-30T01:05:14+00:00"
+    },
+    {
+      "id": "08ca8f4d92e70c61",
+      "title": "ISO-NE Updates CAR-SA Proposal, Agrees to Extend Transition Period",
+      "link": "https://www.rtoinsider.com/150033-iso-ne-updates-car-sa-proposal/",
+      "summary": "ISO-NE has announced a series of changes to the second phase of its Capacity Auction Reform project, including extending the proposed transition period from two to three years.\nThe post ISO-NE Updates CAR-SA Proposal, Agrees to Extend Transition Period appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-30T00:38:34+00:00"
+    },
+    {
+      "id": "cbaf7e5757410dbb",
+      "title": "In Reversal, Duke Energy to Seek Large Load Tariff for South Carolina",
+      "link": "https://www.rtoinsider.com/150058-in-reversal-duke-energy-seek-large-load-tariff-south-carolina/",
+      "summary": "As Duke Energy readies a large load tariff proposal for its South Carolina operations, the utility sees \u201cbroad agreement\u201d on key principles, according to a recent regulatory filing.\nThe post In Reversal, Duke Energy to Seek Large Load Tariff for South Carolina appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-30T00:36:48+00:00"
+    },
+    {
+      "id": "3f8e5a53abe8c0a2",
+      "title": "PGE Draws \u2018Red Line\u2019 on Oregon PUC\u2019s Conditions for Holding Company",
+      "link": "https://www.rtoinsider.com/150122-pge-earnings-call-red-line-opuc-conditions/",
+      "summary": "Portland General Electric\u2019s bid to reorganize under a holding company hangs in the air as the utility called conditions imposed by the Oregon Public Utility Commission \u201cunworkable.\u201d\nThe post PGE Draws \u2018Red Line\u2019 on Oregon PUC\u2019s Conditions for Holding Company appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-30T00:32:57+00:00"
+    },
+    {
+      "id": "5c95ba0bfc95d558",
+      "title": "Stakeholders Support Proposed NERC Standards Process Changes",
+      "link": "https://www.rtoinsider.com/150127-stakeholders-accept-nerc-standards-process-changes/",
+      "summary": "Stakeholders overwhelmingly supported NERC's proposed changes to its Standard Processes Manual intended to update and modernize the ERO's standard development process.\nThe post Stakeholders Support Proposed NERC Standards Process Changes appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T23:49:41+00:00"
+    },
+    {
+      "id": "273839926db9318c",
+      "title": "AEP Looking to Capitalize on Large Load Growth",
+      "link": "https://www.rtoinsider.com/150111-aep-earnings-looking-capitalize-large-load-growth/",
+      "summary": "American Electric Power CEO Bill Fehrman says the company is at the center of the utility sector\u2019s \u201cunprecedented surge\u201d in electric demand, presenting it with an opportunity to capitalize on the situation.\nThe post AEP Looking to Capitalize on Large Load Growth appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T23:05:59+00:00"
+    },
+    {
+      "id": "a950487ed4553735",
+      "title": "Analysts Forecast Major Tx Expansion if BAAJA Passes",
+      "link": "https://www.rtoinsider.com/150116-analysts-forecast-major-transmission-expansion-if-baaja-passes/",
+      "summary": "Senators introduced the Bipartisan American Affordability and Jobs Act a month before Election Day, which gave Resources for the Future plenty of time to study and release an analysis.\nThe post Analysts Forecast Major Tx Expansion if BAAJA Passes appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T22:59:25+00:00"
+    },
+    {
+      "id": "8dcc0b33da24cdcb",
+      "title": "Past and Present OMS Regulators Seek Multi-RTO Platform to Coax Interregional Planning",
+      "link": "https://www.rtoinsider.com/150105-past-present-oms-regulators-seek-states-platform-coax-planning/",
+      "summary": "Past and present MISO state utility commissioners are discussing the possibility of reconstituting a group that would bring together regulators from the MISO and SPP footprints to help move the needle on interregional planning.\nThe post Past and Present OMS Regulators Seek Multi-RTO Platform to Coax Interregional Planning appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T22:57:47+00:00"
+    },
+    {
+      "id": "ac6d94c72d0dd2f8",
+      "title": "PJM Files Amended Reliability Backstop Proposal",
+      "link": "https://insidelines.pjm.com/pjm-files-amended-reliability-backstop-proposal/",
+      "summary": "PJM filed an amended proposal to FERC with the goal of commencing a Reliability Backstop Procurement on March 1, 2027. Central to Thursday\u2019s filing are modifications to three elements of the original filing: the method for determining the cost allocation for Reliability Backstop charges, LSE credit requirements and LSE exit responsibilities. An LSE is a [\u2026]",
+      "source": "PJM Inside Lines",
+      "category": "ISO/RTO",
+      "region": "Northeast",
+      "published": "2026-10-29T21:32:51+00:00"
+    },
+    {
+      "id": "ae5ca8b440442085",
+      "title": "Keeping America\u2019s Nuclear Fleet Reliable as Electricity Demand Grows",
+      "link": "https://www.powermag.com/keeping-americas-nuclear-fleet-reliable-as-electricity-demand-grows/",
+      "summary": "Artificial intelligence (AI), data centers, and electrification are increasing U.S. electricity demand. Lawrence Berkeley National Laboratory estimates data centers could account for 11.8% of electricity consumption by 2030, within a projected range of 9.5%\u201315.3%. The U.S. Energy Information Administration (EIA) forecasts electricity consumption to increase by approximately 2.2% in 2026 and a furt",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T21:01:26+00:00"
+    },
+    {
+      "id": "d4c4875bd4ad9274",
+      "title": "PJM\u2019s Answer to Large Load Growth Puts Interconnection Progress at Risk",
+      "link": "https://www.rtoinsider.com/150036-pjm-answer-large-load-growth-puts-interconnection-progress-at-risk/",
+      "summary": "PJM must demonstrate that the \"mega queue\" will provide the benefits PJM describes and not simply shift cost, timing and development risk onto generation, says American Clean Power's Brett White.\nThe post PJM\u2019s Answer to Large Load Growth Puts Interconnection Progress at Risk appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T18:56:30+00:00"
     },
     {
       "id": "9436b6566036752f",
@@ -121,6 +231,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-29T17:01:15+00:00"
+    },
+    {
+      "id": "4a66842d0368e514",
+      "title": "California\u2019s long road to make EV charging more reliable",
+      "link": "https://www.canarymedia.com/articles/ev-charging/california-ev-charging-reliable",
+      "summary": "This is  \u00a0California Wire  , a weekly newsletter from Jeff St. John on the state\u2019s clean energy transition.  Subscribe to get it every Thursday via Substack.  Welcome back to California Wire! Today\u2019s topic is public EV chargers and California\u2019s long and winding road to make them reliable. In 2023, I wrote a\u00a0\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T17:00:00+00:00"
     },
     {
       "id": "86a46af71ff001f5",
@@ -253,6 +373,16 @@
       "published": "2026-10-29T15:05:24+00:00"
     },
     {
+      "id": "ba3f6e30163f268e",
+      "title": "AEP increases investment plan 30% on generation, transmission spending",
+      "link": "https://www.utilitydive.com/news/aep-transmission-data-center-earnings/873189/",
+      "summary": "American Electric Power\u2019s contracted large loads jumped 22%, to 84 GW, mainly on a 10.4-GW data center in Ohio being developed by SB Energy, company officials said Wednesday.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T15:05:24+00:00"
+    },
+    {
       "id": "99af5ce44b1622fe",
       "title": "PG&E sees marginal increase in data center pipeline",
       "link": "https://www.datacenterdynamics.com/en/news/pge-sees-marginal-increase-in-data-center-pipeline/",
@@ -317,6 +447,16 @@
       "title": "FirstEnergy data center pipeline increases 5% to 26 GW in Q3",
       "link": "https://www.utilitydive.com/news/firstenergy-data-center-pipeline-maidsville/873149/",
       "summary": "Two FirstEnergy utilities reserved combined cycle turbines for a 1.2-GW data center-focused project in West Virginia and issued a solicitation for an additional 3 GW, company officials said.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-29T13:00:02+00:00"
+    },
+    {
+      "id": "29b085ed293cfa88",
+      "title": "FirstEnergy data center pipeline increases to 26 GW in Q3",
+      "link": "https://www.utilitydive.com/news/firstenergy-data-center-pipeline-maidsville/873149/",
+      "summary": "Two FirstEnergy utilities reserved combined-cycle turbines for a 1.2-GW data center-focused project in West Virginia and issued a solicitation for an additional 3 GW, company officials said.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6101,126 +6241,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-09T07:30:00+00:00"
-    },
-    {
-      "id": "45be63cf3b5eb8db",
-      "title": "ISO-NE Puts Finishing Touches on CAR-SA Proposal Prior to Nov. Votes",
-      "link": "https://www.rtoinsider.com/147722-iso-ne-car-stakeholder-proposals-nov-votes/",
-      "summary": "ISO-NE discussed late-stage tweaks and stakeholders made their cases for amendments to the RTO\u2019s wide-ranging proposal of capacity accreditation and seasonal capacity auction reforms in preparation for upcoming votes.\nThe post ISO-NE Puts Finishing Touches on CAR-SA Proposal Prior to Nov. Votes appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-09T01:21:09+00:00"
-    },
-    {
-      "id": "d702780b10d044a9",
-      "title": "New Aurora Report Analyzes Cost of Western Market Seams",
-      "link": "https://www.rtoinsider.com/147728-new-aurora-report-analyzes-western-seams-impacts/",
-      "summary": "Best management practices for seams would save up to $840 million per year across the West in a split day-ahead market scenario, Aurora Energy Research found in a new study.\nThe post New Aurora Report Analyzes Cost of Western Market Seams appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-09T00:39:30+00:00"
-    },
-    {
-      "id": "f0d27df0cb31c2fe",
-      "title": "Google\u2019s Corio Says Data Centers are Future of Power",
-      "link": "https://www.rtoinsider.com/147726-google-corio-says-data-centers-future-of-power/",
-      "summary": "The head of Google\u2019s infrastructure and strategy division says she isn't tired of talking about data centers and that they are the future of the power industry.\nThe post Google\u2019s Corio Says Data Centers are Future of Power appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-09T00:30:37+00:00"
-    },
-    {
-      "id": "2588af00617f4ab7",
-      "title": "AESO to Launch New Market Without Ramping-reserve Deliverability Constraint",
-      "link": "https://www.rtoinsider.com/147575-aeso-launch-new-market-without-ramping-reserve-deliverability-constraint/",
-      "summary": "AESO plans to launch Alberta\u2019s Restructured Energy Market without a real-time deliverability constraint for its 30-minute ramping reserve product.\nThe post AESO to Launch New Market Without Ramping-reserve Deliverability Constraint appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-09T00:14:57+00:00"
-    },
-    {
-      "id": "86cda64db7d50e8f",
-      "title": "WRAP Approves New Penalty Structure, Subregion as 1st Binding Season Looms",
-      "link": "https://www.rtoinsider.com/147700-wrap-approves-penalty-structure-subregion/",
-      "summary": "In anticipation of its first binding season, WPP's WRAP has created a third subregion to onboard additional participants and implemented a new penalty mechanism aimed at boosting investments in resources.\nThe post WRAP Approves New Penalty Structure, Subregion as 1st Binding Season Looms appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T23:54:08+00:00"
-    },
-    {
-      "id": "0a0ebc7cdfdf50ea",
-      "title": "DOE Awards PSE $40M for Grid Upgrades",
-      "link": "https://www.rtoinsider.com/147702-doe-awards-pse-40m-grid-upgrades/",
-      "summary": "The U.S. Department of Energy awarded about $40.2 million to Puget Sound Energy to strengthen the utility\u2019s grid.\nThe post DOE Awards PSE $40M for Grid Upgrades appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T23:51:31+00:00"
-    },
-    {
-      "id": "98b8fd23cd420fc8",
-      "title": "FERC Upholds 11 Years of Refunds for PJM in Linden VFT Cases",
-      "link": "https://www.rtoinsider.com/147730-ferc-upholds-11-years-refunds-pjm-linden-vft-cases/",
-      "summary": "FERC upheld an earlier decision requiring 11 years of refunds in a long-running dispute over cost allocation for projects that export power from PJM to New York.\nThe post FERC Upholds 11 Years of Refunds for PJM in Linden VFT Cases appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T23:39:38+00:00"
-    },
-    {
-      "id": "b030595eaddcb998",
-      "title": "NERC Trustees Applaud Cross-border Collaboration at Open Meeting",
-      "link": "https://www.rtoinsider.com/147718-nerc-trustees-applaud-cross-border-collab-canada-meeting/",
-      "summary": "NERC trustees approved a slate of standards actions and updates to the ERO's Rules of Procedure at their open meeting in Toronto.\nThe post NERC Trustees Applaud Cross-border Collaboration at Open Meeting appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T23:20:18+00:00"
-    },
-    {
-      "id": "5685f9631020b708",
-      "title": "Ontario Energy Conference Returns with New Faces Atop IESO, Hydro One",
-      "link": "https://www.rtoinsider.com/147654-ontario-energy-conference-returns-new-faces-atop-ieso-hydro-one/",
-      "summary": "Ontario\u2019s energy sector will gather in Toronto as the province weighs how much electricity demand to build for and how quickly to expand its power system.\nThe post Ontario Energy Conference Returns with New Faces Atop IESO, Hydro One appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T23:02:32+00:00"
-    },
-    {
-      "id": "b9a1e429b0c91d6f",
-      "title": "NERC Committees Highlight Importance of Canada Outreach",
-      "link": "https://www.rtoinsider.com/147648-nerc-committees-highlight-importance-canada-outreach/",
-      "summary": "At their meeting in Toronto, NERC's trustees discussed the latest outreach efforts to Canadian utilities and policymakers.\nThe post NERC Committees Highlight Importance of Canada Outreach appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T20:39:41+00:00"
-    },
-    {
-      "id": "29b21c9690552cc4",
-      "title": "PJM Accepts First Expedited Interconnection Track Projects",
-      "link": "https://insidelines.pjm.com/pjm-accepts-first-expedited-interconnection-track-projects/",
-      "summary": "PJM has accepted the first three projects in a new, temporary process designed to get large generation resources online quickly to address the urgent growth in demand for electricity. The projects are two battery storage projects and one natural gas generator upgrade with more than 2,100 MW in combined nameplate capacity. Nameplate capacity refers to [\u2026]",
-      "source": "PJM Inside Lines",
-      "category": "ISO/RTO",
-      "region": "Northeast",
-      "published": "2026-10-08T19:15:43+00:00"
-    },
-    {
-      "id": "ea770946e3802b3f",
-      "title": "Constellation and Google go in on nuclear uprates to unlock clean power",
-      "link": "https://www.canarymedia.com/articles/nuclear/constellation-google-nuclear-uprates",
-      "summary": "The Trump administration wants to add 5 gigawatts of carbon-free nuclear power capacity by 2029 without deploying a single new reactor. An announcement this week by the United States\u2019 biggest nuclear power plant operator brings that lofty goal a bit closer to reality.  On Tuesday, Constellation Energy said it would\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-08T19:00:00+00:00"
     }
   ]
 }
