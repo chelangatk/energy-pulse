@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T17:44:42.520529+00:00",
-  "count": 626,
+  "generated_at": "2026-10-31T01:24:46.971142+00:00",
+  "count": 630,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-30T17:43:37.797357+00:00"
+      "published": "2026-10-31T01:24:43.334359+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-30T17:43:37.797342+00:00"
+      "published": "2026-10-31T01:24:43.334351+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-30T17:43:37.797325+00:00"
+      "published": "2026-10-31T01:24:43.334342+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-30T17:43:37.797293+00:00"
+      "published": "2026-10-31T01:24:43.334315+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-30T17:43:36.005323+00:00"
+      "published": "2026-10-31T01:24:41.742589+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,47 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-30T17:43:34.972531+00:00"
+      "published": "2026-10-31T01:24:40.440874+00:00"
+    },
+    {
+      "id": "24daddb18f5b4e2e",
+      "title": "BPA to Issue Draft Day-ahead Market Decision in Early December",
+      "link": "https://www.rtoinsider.com/150279-bpa-to-issue-draft-day-ahead-market-decision-in-early-december/",
+      "summary": "The Bonneville Power Administration expects to issue a draft decision on its day-ahead market choice in early December and a final record of decision in February 2027.\n\nThe post BPA to Issue Draft Day-ahead Market Decision in Early December appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-30T23:13:46+00:00"
+    },
+    {
+      "id": "e755262c0451f8be",
+      "title": "PJM Refiles Reliability Backstop Procurement",
+      "link": "https://www.rtoinsider.com/150274-pjm-refiles-reliability-backstop-procurement/",
+      "summary": "PJM has refiled its Reliability Backstop Procurement a month after FERC recommended the RTO submit a revised proposal or face a five-month paper hearing.\nThe post PJM Refiles Reliability Backstop Procurement appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-30T21:37:09+00:00"
+    },
+    {
+      "id": "cfc5a428d11e4e18",
+      "title": "Meta strikes deal to help bring a low-carbon cement plant to Missouri",
+      "link": "https://www.canarymedia.com/articles/clean-industry/meta-fortera-deal-cement-plant-missouri",
+      "summary": "Tech companies say they're seeking low-carbon construction materials to limit the climate impact of their data centers. But very little clean cement or green steel is actually being produced in the U.S. today, and only in a handful of locations. To tackle that dilemma, Meta recently\u00a0 struck a deal with\u00a0 Fortera to\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-30T20:00:00+00:00"
+    },
+    {
+      "id": "e56ea9392ff16adc",
+      "title": "Data Centers\u2019 Futures Hinge on What Governors Will Do",
+      "link": "https://www.rtoinsider.com/data-centers-futures-hinge-on-what-governors-will-do/",
+      "summary": "The midterm elections could leave Democrats leading a majority of states and potentially heating up tensions between the party\u2019s left and center over data center and AI development.\nThe post Data Centers\u2019 Futures Hinge on What Governors Will Do appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-10-30T18:20:38+00:00"
     },
     {
       "id": "ffc1fd7ecb41f28d",
@@ -70,7 +110,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-10-30T17:39:06+00:00"
+      "published": "2026-10-30T17:39:00+00:00"
     },
     {
       "id": "e0d43ee00e6fd7d3",
