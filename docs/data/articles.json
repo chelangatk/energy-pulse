@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T01:24:46.971142+00:00",
-  "count": 630,
+  "generated_at": "2026-10-31T16:51:00.554248+00:00",
+  "count": 629,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-31T01:24:43.334359+00:00"
+      "published": "2026-10-31T16:50:57.108006+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-31T01:24:43.334351+00:00"
+      "published": "2026-10-31T16:50:57.107992+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-31T01:24:43.334342+00:00"
+      "published": "2026-10-31T16:50:57.107975+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-10-31T01:24:43.334315+00:00"
+      "published": "2026-10-31T16:50:57.107943+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-10-31T01:24:41.742589+00:00"
+      "published": "2026-10-31T16:50:55.249018+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-10-31T01:24:40.440874+00:00"
+      "published": "2026-10-31T16:50:54.240869+00:00"
+    },
+    {
+      "id": "788ec1a4702a950a",
+      "title": "Sponsored: One security strategy. Four different data center realities.",
+      "link": "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/",
+      "summary": "The strongest data center security strategies do not deploy identical controls everywhere",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-31T16:00:00+00:00"
+    },
+    {
+      "id": "516b495d7ba8a250",
+      "title": "Europe\u2019s AI ambitions are hitting a power bottleneck",
+      "link": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+      "summary": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-10-31T11:00:39+00:00"
     },
     {
       "id": "24daddb18f5b4e2e",
@@ -6271,36 +6291,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-11T11:00:49+00:00"
-    },
-    {
-      "id": "ee4aa66ae0346b86",
-      "title": "Sponsored: Why do liquid-cooled AI data centers require different backup power strategy?",
-      "link": "https://www.datacenterdynamics.com/en/opinions/why-do-liquid-cooled-ai-data-centers-require-different-backup-power-strategy/",
-      "summary": "AI-focused data centers require new backup power strategies as their rack power density is rising sharply and their workloads fluctuate rapidly",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-10T15:00:00+00:00"
-    },
-    {
-      "id": "409cd22f8e91ce2e",
-      "title": "Cipher extends Barber Lake data center lease commitments to 20 years",
-      "link": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/",
-      "summary": "Fluidstack and unnamed AI lab agree lengthy leases",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-10T11:00:34+00:00"
-    },
-    {
-      "id": "b2954aa3dfed1147",
-      "title": "Sponsored: W\u00e4rtsil\u00e4, Schneider Electric, and Stanley Consultants launch coordinated approach for faster US data center power delivery",
-      "link": "https://www.datacenterdynamics.com/en/product-news/w%C3%A4rtsil%C3%A4-schneider-electric-and-stanley-consultants-launch-coordinated-approach-for-faster-us-data-center-power-delivery/",
-      "summary": "Coordinated 'generator-to-chip' approach integrates onsite generation, electrical infrastructure, and engineering to help data center customers streamline development and save time compared to traditional delivery models",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-10T07:00:00+00:00"
     }
   ]
 }
