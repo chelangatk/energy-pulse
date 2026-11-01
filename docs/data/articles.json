@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T00:40:14.402861+00:00",
-  "count": 629,
+  "generated_at": "2026-11-01T17:39:18.616858+00:00",
+  "count": 633,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-01T00:40:12.138473+00:00"
+      "published": "2026-11-01T17:39:16.309205+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-01T00:40:12.138459+00:00"
+      "published": "2026-11-01T17:39:16.309190+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-01T00:40:12.138442+00:00"
+      "published": "2026-11-01T17:39:16.309172+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-01T00:40:12.138414+00:00"
+      "published": "2026-11-01T17:39:16.309137+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-01T00:40:11.152259+00:00"
+      "published": "2026-11-01T17:39:14.851380+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-01T00:40:10.290800+00:00"
+      "published": "2026-11-01T17:39:13.805307+00:00"
+    },
+    {
+      "id": "e197ec1faaf5dbe3",
+      "title": "Xcel Joins Industry\u2019s Capital Investment Binge",
+      "link": "https://www.rtoinsider.com/150235-xcel-energy-3q-earnings-call/",
+      "summary": "Xcel Energy updated its five-year capital expenditure plan to $70B as it joins America's energy renaissance building out and modernizing the electric grid to meet ever-growing demand.\nThe post Xcel Joins Industry\u2019s Capital Investment Binge appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T17:01:56+00:00"
+    },
+    {
+      "id": "8a0122a1eaccc693",
+      "title": "PJM\u2019s Tx Owners Would Lock In What a Data Center Pays",
+      "link": "https://www.rtoinsider.com/150118-pjm-transmission-owners-would-lock-in-what-data-center-pays/",
+      "summary": "The plan secures a minimum payment on behalf of each large load. It leaves the local upgrades built for that load in the zone's shared rate, with no test of whether the payment covers them.\nThe post PJM\u2019s Tx Owners Would Lock In What a Data Center Pays appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T16:47:18+00:00"
+    },
+    {
+      "id": "eb4ae5d066bc9015",
+      "title": "MISO Initiates 2 More Tx Reviews as ATC and Xcel Face Delays, Cost Overruns",
+      "link": "https://www.rtoinsider.com/150108-miso-initiates-2-more-tx-reviews-atc-xcel-face-delays-cost-overruns/",
+      "summary": "MISO has opened two more reviews into long-range transmission projects in Wisconsin that developers are struggling to complete on their original terms.\nThe post MISO Initiates 2 More Tx Reviews as ATC and Xcel Face Delays, Cost Overruns appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T15:59:33+00:00"
+    },
+    {
+      "id": "e0d7fc6e5646f855",
+      "title": "Dominion Holds Earnings Call as Merger Review in Virginia Ramps Up",
+      "link": "https://www.rtoinsider.com/150267-dominion-holds-earnings-call-as-merger-review-ramps-up/",
+      "summary": "Dominion's third quarter earnings call focused on its proposed merger with NextEra Energy as the regulatory review in Virginia ramps up.\nThe post Dominion Holds Earnings Call as Merger Review in Virginia Ramps Up appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T15:54:51+00:00"
+    },
+    {
+      "id": "2c093051c36061c9",
+      "title": "Oregon PUC Rejects Penalty Waiver for PGE, PacifiCorp as EDAM RA Program Develops",
+      "link": "https://www.rtoinsider.com/150024-oregon-puc-rejects-penalty-waiver-pge-pacificorp/",
+      "summary": "The Oregon Public Utility Commission declined granting Portland General Electric and PacifiCorp penalty waivers from the state\u2019s resource adequacy program, saying development of a new program aligned with CAISO\u2019s Extended Day-Ahead Market is too far from being finished.\nThe post Oregon PUC Rejects Penalty Waiver for PGE, PacifiCorp as EDAM RA Program Develops appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T15:48:00+00:00"
+    },
+    {
+      "id": "f6486712f3a473bb",
+      "title": "DOE Offers $237M to Boost Domestic Supply of Grid Components",
+      "link": "https://www.rtoinsider.com/150270-doe-offers-237m-boost-domestic-supply-grid-components/",
+      "summary": "DOE is offering $237 million to boost the domestic supply of key grid components.\nThe post DOE Offers $237M to Boost Domestic Supply of Grid Components appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T15:32:46+00:00"
+    },
+    {
+      "id": "f4a86a125c1a2ceb",
+      "title": "What could 1,000x more reliable quantum computation unlock?",
+      "link": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
+      "summary": "And why you should start thinking about quantum computing as an element of the broader data center ecosystem",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-01T15:00:31+00:00"
+    },
+    {
+      "id": "0e175ff699426d1f",
+      "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
+      "link": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
+      "summary": "Building maintenance needs more attention",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-01T11:00:47+00:00"
     },
     {
       "id": "788ec1a4702a950a",
@@ -6251,46 +6331,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-11T18:01:31+00:00"
-    },
-    {
-      "id": "c5579bde1e75b152",
-      "title": "Strengths, Gaps in U.S. Clean Energy Manufacturing Examined",
-      "link": "https://www.rtoinsider.com/147720-strengths-gaps-us-clean-energy-manufacturing-examined/",
-      "summary": "The U.S. clean economy supply chain has grown extensively but unevenly, a new report concludes, and as a result it is still vulnerable to foreign disruptions.\nThe post Strengths, Gaps in U.S. Clean Energy Manufacturing Examined appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-11T17:23:56+00:00"
-    },
-    {
-      "id": "2631514e306b7efa",
-      "title": "Why PJM\u2019s Proposed Backstop Auction Is a Bad Idea",
-      "link": "https://www.rtoinsider.com/147732-why-pjms-proposed-backstop-auction-is-a-bad-idea/",
-      "summary": "It\u2019s no secret that data centers are putting enormous strain on our nation\u2019s aging electric grid. But PJM's proposed backstop auction is not a good option, write two members of the NYU Law School's Institute of Policy Integrity.\nThe post Why PJM\u2019s Proposed Backstop Auction Is a Bad Idea appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-11T16:27:08+00:00"
-    },
-    {
-      "id": "0558628648960d89",
-      "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
-      "link": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
-      "summary": "Why efficiency in existing facilities has shifted from good intention to obligation",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-11T15:00:00+00:00"
-    },
-    {
-      "id": "29f72bdb385f0104",
-      "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
-      "link": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
-      "summary": "Will transfer Montana data center to new company",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-11T11:00:49+00:00"
     }
   ]
 }
