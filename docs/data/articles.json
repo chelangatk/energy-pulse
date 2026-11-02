@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T17:39:18.616858+00:00",
-  "count": 633,
+  "generated_at": "2026-11-02T01:13:50.411424+00:00",
+  "count": 635,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-01T17:39:16.309205+00:00"
+      "published": "2026-11-02T01:13:47.310578+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-01T17:39:16.309190+00:00"
+      "published": "2026-11-02T01:13:47.310571+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-01T17:39:16.309172+00:00"
+      "published": "2026-11-02T01:13:47.310562+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-01T17:39:16.309137+00:00"
+      "published": "2026-11-02T01:13:47.310545+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-01T17:39:14.851380+00:00"
+      "published": "2026-11-02T01:13:45.451528+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,67 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-01T17:39:13.805307+00:00"
+      "published": "2026-11-02T01:13:44.165300+00:00"
+    },
+    {
+      "id": "5451c0ec6134e94c",
+      "title": "MISO, SPP Commit to Improve Joint Study",
+      "link": "https://www.rtoinsider.com/150237-miso-spp-commit-improve-joint-study/",
+      "summary": "MISO and SPP have told their stakeholders they are committed to improving their Coordinated System Plan process after yet another joint study was unable to agree upon joint transmission projects.\nThe post MISO, SPP Commit to Improve Joint Study appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T20:35:09+00:00"
+    },
+    {
+      "id": "e9d6b2b39c17d69b",
+      "title": "State Regulators Displeased with MISO Large Load Cost-shifting Plan",
+      "link": "https://www.rtoinsider.com/150245-state-regulators-displeased-miso-large-load-cost-shifting-plan/",
+      "summary": "MISO state regulators said MISO\u2019s plan to prevent cost shifts from data centers onto existing customers isn\u2019t up to scratch, with states in the dark on key aspects.\nThe post State Regulators Displeased with MISO Large Load Cost-shifting Plan appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T19:47:39+00:00"
+    },
+    {
+      "id": "1ab27a6eef08a63e",
+      "title": "N.Y. Gives AES Final Siting Permits to Repower 6 Wind Farms",
+      "link": "https://www.rtoinsider.com/150265-ny-gives-aes-final-siting-permits-repower-wind-farms/",
+      "summary": "The six repowered wind farms would contribute up to 672 MW to the grid and help move the state closer to its elusive decarbonization goals.\nThe post N.Y. Gives AES Final Siting Permits to Repower 6 Wind Farms appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T19:44:20+00:00"
+    },
+    {
+      "id": "70f348fab96bbd03",
+      "title": "Ameren Mo. Exec Advises Responsible Growth While Adding 5 St. Louises\u2019 Worth of Demand to Territory",
+      "link": "https://www.rtoinsider.com/150272-ameren-mo-exec-advises-responsible-growth/",
+      "summary": "Melda told MISO state regulators to approach load growth responsibly as Ameren Missouri prepares to serve 30% more load within four years.\nThe post Ameren Mo. Exec Advises Responsible Growth While Adding 5 St. Louises\u2019 Worth of Demand to Territory appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T18:46:56+00:00"
+    },
+    {
+      "id": "8aa325af62a38a81",
+      "title": "With Rapid Advances in AI, Future Data Center Load Profile Uncertain",
+      "link": "https://www.rtoinsider.com/150289-with-rapid-advances-ai-future-data-center-load-profile-uncertain/",
+      "summary": "Grid operators, utilities and regulators have been grappling for years with the question of just how much data center load will come online, and when, but the question of how that load will behave is just as complex and uncertain.\nThe post With Rapid Advances in AI, Future Data Center Load Profile Uncertain appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T18:21:21+00:00"
+    },
+    {
+      "id": "ce97621aa678bb7b",
+      "title": "BPA Reveals RA Position Not as Long as \u2018Many Might Assume\u2019",
+      "link": "https://www.rtoinsider.com/150303-bpa-reveals-ra-position-not-as-long-as-might-assume/",
+      "summary": "BPA Administrator Travis Kavulla revealed the agency is not as long on capacity as many in the industry might expect.\nThe post BPA Reveals RA Position Not as Long as \u2018Many Might Assume\u2019 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-01T17:43:45+00:00"
     },
     {
       "id": "e197ec1faaf5dbe3",
@@ -6291,46 +6351,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-12T07:30:00+00:00"
-    },
-    {
-      "id": "d92ff39a5989a2f0",
-      "title": "NYISO\u2019s Final RNA Draft Draws Criticism from NYC over Repowering",
-      "link": "https://www.rtoinsider.com/147825-nyiso-final-rna-draws-stakeholder-questions/",
-      "summary": "NYISO\u2019s final draft of its latest Reliability Needs Assessment drew questions from stakeholders regarding the way it presented possible solutions to looming reliability needs in the appendices.\nThe post NYISO\u2019s Final RNA Draft Draws Criticism from NYC over Repowering appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-11T19:06:08+00:00"
-    },
-    {
-      "id": "e859c66be2e7a509",
-      "title": "NYISO Study Shows High Upgrade Costs for Arthur Kill Battery Project",
-      "link": "https://www.rtoinsider.com/147827-nyiso-study-shows-high-upgrade-costs-arthur-kill-battery-project/",
-      "summary": "NYISO staff have found that system deliverability upgrades for the Elevate Arthur Kill II battery project could cost roughly $216 million.\nThe post NYISO Study Shows High Upgrade Costs for Arthur Kill Battery Project appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-11T18:50:25+00:00"
-    },
-    {
-      "id": "d6b222fc1262c8ab",
-      "title": "From RTO Skepticism to ROWE Embrace: 10 Years Later at the CAISO Symposium",
-      "link": "https://www.rtoinsider.com/147836-rto-skepticism-rowe-embrace-10-years-later-caiso-symposium/",
-      "summary": "Two CAISO stakeholder symposiums held 10 years apart show how the West's thinking about organized electricity markets has evolved.\nThe post From RTO Skepticism to ROWE Embrace: 10 Years Later at the CAISO Symposium appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-11T18:03:46+00:00"
-    },
-    {
-      "id": "b78eab7311f8399a",
-      "title": "IMM Patton Appears Unfazed by MISO 3rd-party Review",
-      "link": "https://www.rtoinsider.com/147839-patton-appears-unfazed-miso-3rd-party-review/",
-      "summary": "Potomac Economics President David Patton apparently is not worried that the third-party \u201cbest practices\u201d review of his role as Independent Market Monitor for MISO will result in any significant changes.\nThe post IMM Patton Appears Unfazed by MISO 3rd-party Review appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-11T18:01:31+00:00"
     }
   ]
 }
