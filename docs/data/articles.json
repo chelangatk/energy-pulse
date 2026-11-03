@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T21:24:42.678698+00:00",
-  "count": 633,
+  "generated_at": "2026-11-03T03:17:51.388663+00:00",
+  "count": 634,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-02T21:24:40.317531+00:00"
+      "published": "2026-11-03T03:17:47.479106+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-02T21:24:40.317517+00:00"
+      "published": "2026-11-03T03:17:47.479092+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-02T21:24:40.317499+00:00"
+      "published": "2026-11-03T03:17:47.479075+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-02T21:24:40.317464+00:00"
+      "published": "2026-11-03T03:17:47.479047+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-02T21:24:38.664737+00:00"
+      "published": "2026-11-03T03:17:45.703863+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-02T21:24:37.363452+00:00"
+      "published": "2026-11-03T03:17:44.550479+00:00"
+    },
+    {
+      "id": "6e55b67c882b3974",
+      "title": "FERC Approves $544K in NERC Penalties",
+      "link": "https://www.rtoinsider.com/150400-ferc-approves-544k-nerc-penalties/",
+      "summary": "FERC commissioners approved penalties against utilities in the territories of SERC, RF, WECC and MRO.\nThe post FERC Approves $544K in NERC Penalties appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T02:01:45+00:00"
+    },
+    {
+      "id": "6e2472c9fe3f9268",
+      "title": "ISO-NE Argues Transitional Cluster Costs Fair, Cites Shrinking Headroom",
+      "link": "https://www.rtoinsider.com/150393-iso-ne-argues-transitional-cluster-costs-fair/",
+      "summary": "ISO-NE defended its cluster study methodology and argued that the high network upgrade cost estimates stemmed from shrinking headroom on its transmission system.\nThe post ISO-NE Argues Transitional Cluster Costs Fair, Cites Shrinking Headroom appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T02:00:04+00:00"
+    },
+    {
+      "id": "411c27bddcc78137",
+      "title": "N.J. Solar Sector Sees Opportunity in State\u2019s Energy Straits",
+      "link": "https://www.rtoinsider.com/150152-nj-solar-sector-sees-opportunity-states-energy-straits/",
+      "summary": "Solar developers say New Jersey\u2019s extensive untapped roof space and the potential for installing storage on existing solar sites means the sector could be a key solution to the state\u2019s effort to rapidly create new electricity generation sources.\nThe post N.J. Solar Sector Sees Opportunity in State\u2019s Energy Straits appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T01:31:21+00:00"
+    },
+    {
+      "id": "4a3974f8b8c268d7",
+      "title": "FERC Revokes Tucson Electric Power\u2019s MBRA Within its Own BAA",
+      "link": "https://www.rtoinsider.com/150410-ferc-revokes-tucson-electric-powers-mbra/",
+      "summary": "FERC revoked Tucson Electric Power\u2019s market-based rate authority within the TEP balancing authority area following the addition of generating capacity from two projects.\nThe post FERC Revokes Tucson Electric Power\u2019s MBRA Within its Own BAA appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T01:22:45+00:00"
+    },
+    {
+      "id": "4eef4f13becb6179",
+      "title": "Analyses Find Senate Permitting Bill Would Benefit Consumers",
+      "link": "https://www.rtoinsider.com/150395-grid-strategies-rhodium-finds-consumer-benefits-from-baaja/",
+      "summary": "The Bipartisan American Affordability and Jobs Act would benefit electricity consumers by having data centers pay for upgraded and expanded transmission infrastructure, which in turn would allow for more generation resources to interconnect, according to two analyses.\nThe post Analyses Find Senate Permitting Bill Would Benefit Consumers appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T00:38:15+00:00"
+    },
+    {
+      "id": "790c74a3cd60640e",
+      "title": "The Grid is not Half Empty",
+      "link": "https://www.rtoinsider.com/150258-the-grid-is-not-half-empty/",
+      "summary": "We have built a large electricity system that, for many hours of the year, carries well below its full capacity. Using more of it would be beneficial, but it is not as simple as it sounds, says Arshad Mansoor of EPRI.\nThe post The Grid is not Half Empty appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-02T23:43:01+00:00"
+    },
+    {
+      "id": "e7eb5edc08afe2f7",
+      "title": "NYISO Large Load Proposal Passes with \u2018State Exempt\u2019 Provision",
+      "link": "https://www.rtoinsider.com/150139-nyiso-large-load-proposal-passes-mc/",
+      "summary": "The NYISO Management Committee approved proposed tariff revisions intended to satisfy FERC\u2019s Order to Show Cause on large load interconnections after the ISO added a \u201cState Exempt Large Load\u201d category to account for to-be-issued rules by New York state.\nThe post NYISO Large Load Proposal Passes with \u2018State Exempt\u2019 Provision appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-02T23:39:11+00:00"
+    },
+    {
+      "id": "5d000961a900dcb1",
+      "title": "Consumer Groups File FERC Complaint Against SPP",
+      "link": "https://www.rtoinsider.com/150239-consumer-groups-file-ferc-complaint-against-spp/",
+      "summary": "Two consumer groups focused on power costs have filed a complaint with FERC under the Federal Power Act, challenging SPP\u2019s decision to exempt nearly $3.8 billion in transmission projects from competitive bidding.\nThe post Consumer Groups File FERC Complaint Against SPP appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-02T23:03:39+00:00"
     },
     {
       "id": "9940dcabefb0118f",
@@ -6261,76 +6341,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-13T07:00:00+00:00"
-    },
-    {
-      "id": "f21e41ba1880b5c1",
-      "title": "FERC Rejects PJM Interim Resource Adequacy Service Proposal",
-      "link": "https://www.rtoinsider.com/147920-ferc-rejects-pjm-interim-resource-adequacy-service-proposal/",
-      "summary": "FERC rejected PJM\u2019s Interim Resource Adequacy Service framework for requiring new large loads to either bring their own new capacity or be subject to curtailment.\nThe post FERC Rejects PJM Interim Resource Adequacy Service Proposal appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-13T00:42:24+00:00"
-    },
-    {
-      "id": "13da15b8a24663b0",
-      "title": "FERC General Counsel: Commission in \u2018Era of Good Feelings\u2019",
-      "link": "https://www.rtoinsider.com/147887-ferc-general-counsel-commission-in-era-of-good-feelings/",
-      "summary": "Amid increased political tension and division in U.S. government, FERC has been a \u201cheartening outlier\u201d that is enjoying unusual unanimity among its members, creating an \u201cera of good feelings\u201d in commission history, according to General Counsel James Dawson.\nThe post FERC General Counsel: Commission in \u2018Era of Good Feelings\u2019 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-13T00:40:44+00:00"
-    },
-    {
-      "id": "04f75124852f6d9e",
-      "title": "FERC OKs Duke Energy Carolinas\u2019 Large Load Network Upgrade Rules",
-      "link": "https://www.rtoinsider.com/147912-ferc-oks-duke-energy-carolinas-large-load-network-upgrade-rules/",
-      "summary": "FERC accepted rule changes from Duke Energy Carolinas to cut the risk of cost shifts from network upgrades to serve large loads, but three commissioners agreed that the industry needs more reforms to ensure that does not happen.\nThe post FERC OKs Duke Energy Carolinas\u2019 Large Load Network Upgrade Rules appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-13T00:16:30+00:00"
-    },
-    {
-      "id": "aaa21b1758a384d3",
-      "title": "Summary of FERC Meeting Agenda for October 2026",
-      "link": "https://www.rtoinsider.com/147832-summary-ferc-meeting-agenda-october-2026/",
-      "summary": "Following are summaries of the agenda items for\u00a0FERC\u2019s monthly open meeting, to be held Oct. 15. It was furnished by the White & Case law firm.\nThe post Summary of FERC Meeting Agenda for October 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-12T23:24:51+00:00"
-    },
-    {
-      "id": "d02807517ba66fe1",
-      "title": "U.S. Seizes More Alleged China Hacking Domains",
-      "link": "https://www.rtoinsider.com/147905-us-seizes-more-china-hacking-domains/",
-      "summary": "The FBI reported seizing more tools used by China-affiliated hackers against critical infrastructure, as CISA warned that the company responsible remains dangerous.\nThe post U.S. Seizes More Alleged China Hacking Domains appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-12T23:21:45+00:00"
-    },
-    {
-      "id": "625cc26e079887da",
-      "title": "Regional Issues Forum Faces \u2018Transitional\u2019 Year Before Dissolving",
-      "link": "https://www.rtoinsider.com/147921-regional-issues-forum-faces-transitional-year-before-dissolving/",
-      "summary": "2027 should be a \u201ctransitional\u201d year for the body that meets three times yearly to educate stakeholders about issues affecting CAISO\u2019s West-wide energy markets and provides them a venue for sharing views outside the normal stakeholder process for market initiatives.\nThe post Regional Issues Forum Faces \u2018Transitional\u2019 Year Before Dissolving appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-12T22:38:42+00:00"
-    },
-    {
-      "id": "7b2f86ef27c63b66",
-      "title": "SPP CARE Delays Vote on Potential Highway/byway Replacement",
-      "link": "https://www.rtoinsider.com/147909-spp-care-delays-vote-potential-highway-byway-replacement/",
-      "summary": "SPP's Care Team has delayed a vote on a potential replacement to the grid operator's highway/byway method for transmission cost allocation as the stakeholder group wraps up its assigned work.\nThe post SPP CARE Delays Vote on Potential Highway/byway Replacement appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-12T22:11:43+00:00"
     }
   ]
 }
