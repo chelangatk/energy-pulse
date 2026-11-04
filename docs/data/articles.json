@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T19:03:57.813971+00:00",
-  "count": 639,
+  "generated_at": "2026-11-04T01:52:30.926820+00:00",
+  "count": 645,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-03T19:03:55.032204+00:00"
+      "published": "2026-11-04T01:52:27.358791+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-03T19:03:55.032190+00:00"
+      "published": "2026-11-04T01:52:27.358779+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-03T19:03:55.032172+00:00"
+      "published": "2026-11-04T01:52:27.358766+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-03T19:03:55.032143+00:00"
+      "published": "2026-11-04T01:52:27.358738+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-03T19:03:53.290785+00:00"
+      "published": "2026-11-04T01:52:25.194834+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,107 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-03T19:03:52.496655+00:00"
+      "published": "2026-11-04T01:52:24.032454+00:00"
+    },
+    {
+      "id": "c6c8b957d7fd5c50",
+      "title": "AESO/AUC Briefs: Nov. 3, 2026",
+      "link": "https://www.rtoinsider.com/150402-aeso-auc-briefs-110326/",
+      "summary": "AESO issued a formal rebuttal to Alberta\u2019s Market Surveillance Administrator over its findings that the ISO inadequately monitored generator primary frequency response compliance and failed to refer suspected violations.\nThe post AESO/AUC Briefs: Nov. 3, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-04T01:50:12+00:00"
+    },
+    {
+      "id": "b9a8d92bfea5e275",
+      "title": "Florida Regulators Deal Setback to Duke Energy on Large Load Tariff",
+      "link": "https://www.rtoinsider.com/150581-florida-regulators-deal-setback-duke-energy-large-load-tariff/",
+      "summary": "The Florida Public Service Commission has unanimously denied Duke Energy Florida\u2019s proposed large load tariff in a first test of a state law intended to shield state residents from the cost of meeting hypescale data centers\u2019 electricity demands.\nThe post Florida Regulators Deal Setback to Duke Energy on Large Load Tariff appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-04T01:34:04+00:00"
+    },
+    {
+      "id": "020f43fc261f5b24",
+      "title": "Data Center Devs Struggle with Conflicting Desires: Speed to Power and \u2018Five 9s\u2019",
+      "link": "https://www.rtoinsider.com/150291-with-rapid-advances-in-ai-future-data-center-load-profile-uncertain/",
+      "summary": "Data center developers and financiers express the desire for near constant availability from their facilities using terms that may not be as well known to the electricity industry: \u201cthree\u201d or \u201cfive 9s.\u201d\nThe post Data Center Devs Struggle with Conflicting Desires: Speed to Power and \u2018Five 9s\u2019 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-04T01:07:40+00:00"
+    },
+    {
+      "id": "e8be5202c31641f9",
+      "title": "NextEra, Dominion Agree to More Conditions in Va. Merger Case",
+      "link": "https://www.rtoinsider.com/150556-nextera-dominion-agree-more-conditions-rebuttal-testimony-scc/",
+      "summary": "Dominion Energy and NextEra Energy agreed to more conditions in an effort to win approval for their merger in Virginia, but pushed back on some requests that they said would place too many limits on accessing NextEra's capital or were just outside the scope of the merger review.\nThe post NextEra, Dominion Agree to More Conditions in Va. Merger Case appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-04T00:49:35+00:00"
+    },
+    {
+      "id": "6b4822030a1d12a6",
+      "title": "NEPOOL Technical Committees Approve ISO-NE Large Load Proposal",
+      "link": "https://www.rtoinsider.com/150555-nepool-technical-committees-approve-iso-ne-large-load-proposal/",
+      "summary": "NEPOOL technical committees supported ISO-NE\u2019s proposed treatment of large loads Nov. 3 despite opposition from the generation sector.\nThe post NEPOOL Technical Committees Approve ISO-NE Large Load Proposal appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T23:51:14+00:00"
+    },
+    {
+      "id": "ecaf730fe81ab649",
+      "title": "Shoulder Season Scarcity a Deeper Issue than Typical Outage Season Dynamics",
+      "link": "https://www.rtoinsider.com/150301-high-shoulder-season-pricing-pjm-miso-result-of-deeper-issue/",
+      "summary": "Abnormally hot fall weather hit the Midwest and East Coast this October, sending energy prices above $1,000/MWh in PJM and MISO.\nThe post Shoulder Season Scarcity a Deeper Issue than Typical Outage Season Dynamics appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T23:40:50+00:00"
+    },
+    {
+      "id": "fee28de884a820df",
+      "title": "MISO Foresees Low-risk Winter 2026/27",
+      "link": "https://www.rtoinsider.com/150544-miso-foresees-low-risk-26-27-winter/",
+      "summary": "MISO said it should have almost 25 GW of spare capacity even on the most challenging day of winter 2026/27, with an El Ni\u00f1o weather pattern giving rise to a relatively warm season.\nThe post MISO Foresees Low-risk Winter 2026/27 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T23:16:23+00:00"
+    },
+    {
+      "id": "080119f0cb50c7c4",
+      "title": "Grid Operators Need an AI Incident Protocol Before Agents Touch the Energy Market",
+      "link": "https://www.rtoinsider.com/150255-grid-operators-need-ai-incident-protocol-before-agents-touch-energy-market/",
+      "summary": "For the operators of regional electricity markets, if an autonomous agent changes a consequential record or submits an unauthorized instruction, who can reconstruct and stop the transaction before it spreads?\nThe post Grid Operators Need an AI Incident Protocol Before Agents Touch the Energy Market appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T22:57:27+00:00"
+    },
+    {
+      "id": "7d73796fbac9bcc1",
+      "title": "CAISO Battery Capacity Increased 42% in 2025, Report Finds",
+      "link": "https://www.rtoinsider.com/150407-caiso-battery-capacity-increased-2025-dmm-report/",
+      "summary": "Batteries are supplying more energy than ever to CAISO\u2019s grid \u2014 almost twice as much in 2025 compared with the year before.\nThe post CAISO Battery Capacity Increased 42% in 2025, Report Finds appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T22:44:57+00:00"
+    },
+    {
+      "id": "bf32f858d0dbba88",
+      "title": "NTT Data opens JKT2A data center in Indonesia",
+      "link": "https://www.datacenterdynamics.com/en/news/ntt-data-opens-jkt2a-data-center-in-indonesia/",
+      "summary": "Facility is designed for AI workloads",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-03T22:17:57+00:00"
     },
     {
       "id": "ce2bc91a5a1da7d7",
@@ -151,6 +251,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-11-03T16:42:11+00:00"
+    },
+    {
+      "id": "5f690261fd8a2939",
+      "title": "Caterpillar expands production of engines and turbines to meet data center demand",
+      "link": "https://www.utilitydive.com/news/caterpillar-posts-highest-sales-quarter-ever-data-centers-q3-2026/873586/",
+      "summary": "The heavy machinery and power equipment maker saw its order backlog reach $78 billion during the third quarter, almost double what it was a year ago.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T16:42:00+00:00"
     },
     {
       "id": "e7c44386c30a7927",
@@ -271,6 +381,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-11-03T15:58:06+00:00"
+    },
+    {
+      "id": "18e7b0f527794bca",
+      "title": "Energy affordability tops voter concerns in election set to shake up Congress",
+      "link": "https://www.utilitydive.com/news/energy-affordability-voter-election-midterm-congress-energy-policy/873596/",
+      "summary": "\u201cHistory shows us that energy crises create policy openings, and we think the conditions are probably in place for a window of policymaking,\u201d Hasan Nazar, head of policy at Crux, told Utility Dive.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-03T15:23:13+00:00"
     },
     {
       "id": "3f7419bcaa8d46cc",
@@ -685,6 +805,16 @@
     {
       "id": "88ab8d3f3976b1a5",
       "title": "Exelon eyes $8B in energy storage, partly to address PJM supply crunch",
+      "link": "https://www.utilitydive.com/news/exelon-energy-storage-new-jersey-earnings/873423/",
+      "summary": "President and CEO Calvin Butler said the grid operator isn\u2019t adding generation fast enough, but the utility\u2019s plan to invest in\u00a0energy storage and transmission can help address the issue.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-02T14:26:00+00:00"
+    },
+    {
+      "id": "1a70e843e7aab42a",
+      "title": "Exelon eyes $8B in energy storage, in part to address PJM supply crunch",
       "link": "https://www.utilitydive.com/news/exelon-energy-storage-new-jersey-earnings/873423/",
       "summary": "President and CEO Calvin Butler said the grid operator isn\u2019t adding generation fast enough, but the utility\u2019s plan to invest in\u00a0energy storage and transmission can help address the issue.",
       "source": "Utility Dive",
@@ -6321,76 +6451,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "id": "330a70ef25f3c5f3",
-      "title": "FERC: MISO Zero-injection Gen Plan for Large Loads Incomplete",
-      "link": "https://www.rtoinsider.com/147967-ferc-miso-zero-inject-gen-plan-large-loads-incomplete/",
-      "summary": "FERC said MISO\u2019s plan to accelerate interconnections for large loads to be served exclusively by generators that pledge not to inject power onto the larger system is unfinished as filed.\nThe post FERC: MISO Zero-injection Gen Plan for Large Loads Incomplete appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T00:31:50+00:00"
-    },
-    {
-      "id": "e2e7fcb95cff256a",
-      "title": "States Increase Policy Actions for New Nuclear in 2026",
-      "link": "https://www.rtoinsider.com/148199-nccetc-on-recent-state-nuclear-policies/",
-      "summary": "The NC Clean Energy Technology Center says the vast majority of states in the U.S. have taken policy actions in 2026 to advance nuclear power.\nThe post States Increase Policy Actions for New Nuclear in 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T00:04:36+00:00"
-    },
-    {
-      "id": "2e7829fb07e5ca0d",
-      "title": "New Jersey\u2019s Nuclear Ambitions Under Scrutiny",
-      "link": "https://www.rtoinsider.com/147986-new-jersey-nuclear-ambitions-under-scrutiny/",
-      "summary": "Any new nuclear project in New Jersey would face substantive obstacles, speakers said at the Nuclear Energy Seminar, who discussed\u00a0how to fund the projects, spread the investment risk and line up power purchases.\nThe post New Jersey\u2019s Nuclear Ambitions Under Scrutiny appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-13T22:50:51+00:00"
-    },
-    {
-      "id": "f57f961074d05832",
-      "title": "Virginia Decides Who Pays for Data Center Hookups but not the Upgrades",
-      "link": "https://www.rtoinsider.com/148184-virginia-decides-who-pays-data-center-hookups-but-not-upgrades/",
-      "summary": "Virginia regulators have settled the simple part of who pays for the power lines that data centers need and put off the expensive part. The simple part is the hookup, says opinion writer Tommy Turner.\nThe post Virginia Decides Who Pays for Data Center Hookups but not the Upgrades appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-13T22:16:34+00:00"
-    },
-    {
-      "id": "6645a09c0dab3142",
-      "title": "What to say to Californians worried about grid batteries",
-      "link": "https://www.canarymedia.com/articles/batteries/how-to-counter-californians-grid-battery-fears-with-safety-facts",
-      "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state\u2019s clean energy transition.  Subscribe to get it every Wednesday via Substack.   Hi everyone! Welcome back to California Wire. Last Thursday, I took the train up to Sacramento to participate in a panel at the California Energy Storage\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-13T22:06:00+00:00"
-    },
-    {
-      "id": "35dcbe193b716905",
-      "title": "Operations Update: PJM Extends Maximum Generation Alert to Oct. 14, Calls on Demand Response",
-      "link": "https://insidelines.pjm.com/operations-update-extends-maximum-generation-alert-calls-on-demand-response/",
-      "summary": "PJM has extended a Maximum Generation Alert and Load Management Alert, originally issued for Oct. 13, to remain in effect through Oct. 14. This alert does not require any action from customers. PJM continues to proactively implement procedures to reliably serve increased electricity demand caused by unusually warm fall weather amid planned equipment outages required [\u2026]",
-      "source": "PJM Inside Lines",
-      "category": "ISO/RTO",
-      "region": "Northeast",
-      "published": "2026-10-13T21:51:25+00:00"
-    },
-    {
-      "id": "44511dddaeaff6f7",
-      "title": "Trump goes after an offshore wind farm that\u2019s already up and running",
-      "link": "https://www.canarymedia.com/articles/offshore-wind/trump-reevaluate-permit-revolution-wind-orsted",
-      "summary": "After halting construction on offshore wind farms and canceling leases for future projects, the Trump administration just took another step to erode America\u2019s troubled offshore wind industry.  The Interior Department wants to reevaluate a key approval for Revolution Wind \u2014 a $6.2 billion project that is already\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-13T20:00:00+00:00"
     }
   ]
 }
