@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T19:23:27.635177+00:00",
-  "count": 642,
+  "generated_at": "2026-11-05T01:58:40.831024+00:00",
+  "count": 648,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-04T19:23:23.138005+00:00"
+      "published": "2026-11-05T01:58:38.140574+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-04T19:23:23.137990+00:00"
+      "published": "2026-11-05T01:58:38.140560+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-04T19:23:23.137972+00:00"
+      "published": "2026-11-05T01:58:38.140543+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-04T19:23:23.137942+00:00"
+      "published": "2026-11-05T01:58:38.140512+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-04T19:23:21.594687+00:00"
+      "published": "2026-11-05T01:58:36.595524+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,177 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-04T19:23:20.320383+00:00"
+      "published": "2026-11-05T01:58:35.804112+00:00"
+    },
+    {
+      "id": "804bb6eaf37f1943",
+      "title": "Republicans\u2019 Red Wall Holds Up in Regulatory Elections",
+      "link": "https://www.rtoinsider.com/150693-republicans-red-wall-holds-up-in-regulatory-elections/",
+      "summary": "The Democrats\u2019 blue wave affected some of the elections for state regulatory commissions, but not all.\nThe post Republicans\u2019 Red Wall Holds Up in Regulatory Elections appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T01:40:14+00:00"
+    },
+    {
+      "id": "b73e787339b3a619",
+      "title": "Global Cyber Threats Growing, Security Consultant Warns SERC",
+      "link": "https://www.rtoinsider.com/150684-global-cyber-threats-growing-serc-speaker-warns/",
+      "summary": "A speaker at SERC's Fall Reliability and Security Seminar highlighted the biggest cyber threats from nation-state actors.\nThe post Global Cyber Threats Growing, Security Consultant Warns SERC appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T01:34:54+00:00"
+    },
+    {
+      "id": "d49cc588facbe992",
+      "title": "BPA, Earthjustice Reach Settlement to Reduce $250M Rate Hike",
+      "link": "https://www.rtoinsider.com/150709-bpa-earthjustice-reach-settlement-reduce-rate-hike/",
+      "summary": "Bonneville Power Administration has reached a settlement with conservation and clean energy groups that would decrease a $250 million rate hike the agency proposed after being ordered to increase water spills over dams to protect migrating salmon.\nThe post BPA, Earthjustice Reach Settlement to Reduce $250M Rate Hike appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T01:11:13+00:00"
+    },
+    {
+      "id": "cdbedd01ce2d1352",
+      "title": "Midterms Signal Looming Data Center Bans in Western States",
+      "link": "https://www.rtoinsider.com/150665-big-electoral-wins-for-governors-pushing-data-center-bans/",
+      "summary": "The data center industry can expect to see the pace of development slow dramatically, as several Western states are expected to consider statewide moratoriums after the midterm elections that saw Democrats win numerous governor\u2019s races.\nThe post Midterms Signal Looming Data Center Bans in Western States appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T01:10:11+00:00"
+    },
+    {
+      "id": "764de4b5c068cc97",
+      "title": "Data Centers Lose Big in Local Referenda",
+      "link": "https://www.rtoinsider.com/150698-2026-midterms-data-centers-lose-big-in-local-elections/",
+      "summary": "Of the 47 data center ballot measures in cities, towns and counties, 38 were approved by voters, according to a tracker. Votes are still being counted on six, while one was rejected by voters in the city of Harwood, N.D.\nThe post Data Centers Lose Big in Local Referenda appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T00:55:38+00:00"
+    },
+    {
+      "id": "fcfb06984a7a6fbb",
+      "title": "Election Breaks GOP Hold on Georgia PSC",
+      "link": "https://www.rtoinsider.com/150663-democrats-will-control-georgia-psc-for-the-first-time-since-the-1990s/",
+      "summary": "Democrats have gained majority control of the Georgia Public Service Commission for the first time in decades, a landmark win that could lead to heightened regulatory scrutiny of Georgia Power and its corporate parent, Southern Co.\nThe post Election Breaks GOP Hold on Georgia PSC appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T00:50:00+00:00"
+    },
+    {
+      "id": "371dcfa6c47fff8e",
+      "title": "What Democrats\u2019 Blue Wave Means for Permitting and Energy Policy",
+      "link": "https://www.rtoinsider.com/150687-what-democrats-blue-wave-means-for-permitting-and-energy-policy/",
+      "summary": "Democrats\u2019 blowout performance in midterm elections increases the likelihood that Senate permitting legislation under consideration will not make it into law.\nThe post What Democrats\u2019 Blue Wave Means for Permitting and Energy Policy appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T00:47:43+00:00"
+    },
+    {
+      "id": "7180d12430f1bbc2",
+      "title": "Exelon Asks FERC for Prompt Capacity Auction in PJM",
+      "link": "https://www.rtoinsider.com/150688-exelon-ask-ferc-prompt-capacity-auction-pjm/",
+      "summary": "Exelon has filed a complaint with FERC arguing that PJM\u2019s three-year forward Base Residual Auction no longer is just and reasonable and is requesting that it order the RTO to hold a prompt auction just two months before the delivery year.\nThe post Exelon Asks FERC for Prompt Capacity Auction in PJM appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T00:44:12+00:00"
+    },
+    {
+      "id": "b7e0d18efb4ceff9",
+      "title": "Making Energy Data Count: From Industry Investment to Customer Action",
+      "link": "https://www.rtoinsider.com/150397-making-energy-data-count-from-industry-investment-to-customer-action/",
+      "summary": "Smart meters, increasingly detailed electricity use data, sophisticated forecasting models and advanced grid management systems have transformed what utilities know about their networks and customers.\nThe post Making Energy Data Count: From Industry Investment to Customer Action appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-04T23:53:49+00:00"
+    },
+    {
+      "id": "cc8437b619589686",
+      "title": "Generational Change in Texas Politics Could Affect 765-kV Lines, Data Centers",
+      "link": "https://www.rtoinsider.com/150672-blue-wave-swamps-gop-in-texas/",
+      "summary": "Election night's blue wave has swept Republicans from power in Texas, giving the Democrats their first opportunity to govern in more than a generation.\nThe post Generational Change in Texas Politics Could Affect 765-kV Lines, Data Centers appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-04T23:52:17+00:00"
+    },
+    {
+      "id": "2d74d5b8964c8008",
+      "title": "Top clean energy wins from the midterm elections",
+      "link": "https://www.canarymedia.com/articles/politics/top-clean-energy-wins-midterms",
+      "summary": "The top story from Tuesday\u2019s elections is clear: Democrats won big-time on the national level, dominating U.S. Senate and House races across the country. And on the state level, clean energy could get a jolt from Democratic wins for state offices and utility commissions and new approved ballot measures. Here\u2019s a\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-04T22:30:00+00:00"
+    },
+    {
+      "id": "fff563fac7bda8fd",
+      "title": "VodafoneThree kicks off rollout of Ericsson's AI-ready Massive MIMO radio in London",
+      "link": "https://www.datacenterdynamics.com/en/news/vodafonethree-kicks-off-rollout-of-ericssons-ai-ready-massive-mimo-radio-in-london/",
+      "summary": "The telco kicked off the deployment last month",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-04T21:40:38+00:00"
+    },
+    {
+      "id": "791810bddc18d751",
+      "title": "atNorth signs deal with Calentix for heat reuse at SWE04 data center in Sollefte\u00e5, Sweden",
+      "link": "https://www.datacenterdynamics.com/en/news/atnorth-signs-deal-with-calentix-for-heat-reuse-at-swe04-data-center-in-sollefte%C3%A5-sweden/",
+      "summary": "First delivery of heat expected in 2029",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-04T21:30:35+00:00"
+    },
+    {
+      "id": "f586129f8e13244e",
+      "title": "AWS set to secure \u00a31.05bn contract renewal from UK Home Office",
+      "link": "https://www.datacenterdynamics.com/en/news/aws-set-to-secure-105bn-contract-renewal-from-uk-home-office/",
+      "summary": "BidSkim analysis finds \u00a3444.6m spent on AWS since 2020",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-04T21:00:39+00:00"
+    },
+    {
+      "id": "13c0a8e3434bdee9",
+      "title": "SoftBank to commercialize aerial cell towers with Japanese fleet",
+      "link": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
+      "summary": "Sceye deal brings HAPS from prototypes to happening",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-04T20:55:06+00:00"
+    },
+    {
+      "id": "b1f86c2635071985",
+      "title": "Verizon AI-RAN work rides nationwide Ericsson Intelligent Controller deployment",
+      "link": "https://www.datacenterdynamics.com/en/news/verizon-ai-ran-work-rides-nationwide-ericsson-intelligent-controller-deployment/",
+      "summary": "CTO Yago Tenorio hinted at the move earlier this year",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-04T20:49:07+00:00"
+    },
+    {
+      "id": "31e2f7b414dc7e6e",
+      "title": "F1 regulator signs cloud agreement with AWS",
+      "link": "https://www.datacenterdynamics.com/en/news/f1-regulator-signs-cloud-agreement-with-aws/",
+      "summary": "While Alibaba Cloud teams up with International Olympic Committee on youth games in Senegal",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-04T20:34:45+00:00"
     },
     {
       "id": "cb21eea76851c1b4",
@@ -100,7 +270,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-11-04T17:26:55+00:00"
+      "published": "2026-11-04T17:26:00+00:00"
     },
     {
       "id": "8a7eec5f05151a79",
@@ -6311,116 +6481,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-15T07:30:00+00:00"
-    },
-    {
-      "id": "b54104b0c31c6b70",
-      "title": "FERC Auditors Warn of AI, Registration Risks",
-      "link": "https://www.rtoinsider.com/148240-ferc-released-cip-audits-report/",
-      "summary": "FERC's latest round of audits on compliance with NERC's CIP standards revealed increasing use of artificial intelligence tools at many registered entities.\nThe post FERC Auditors Warn of AI, Registration Risks appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T01:16:28+00:00"
-    },
-    {
-      "id": "abd93f43aedf30e3",
-      "title": "Markets+ is \u2018Proven Path\u2019 for West, BPA, SPP Contends",
-      "link": "https://www.rtoinsider.com/148398-markets-is-proven-path-for-west-bpa-spp-contends/",
-      "summary": "SPP's white paper contends that BPA should stick with its 2025 decision to join Markets+ because the day-ahead offering already meets all the criteria new Administrator Travis Kavulla said he wants to examine after ordering the agency to revisit its market choice.\nThe post Markets+ is \u2018Proven Path\u2019 for West, BPA, SPP Contends appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T00:59:43+00:00"
-    },
-    {
-      "id": "943ee0fab45d2599",
-      "title": "CPUC Delays Google Data Center Vote for 4th Time",
-      "link": "https://www.rtoinsider.com/148192-cpuc-delays-vote-on-google-data-center-again/",
-      "summary": "For the fourth month in a row, the California Public Utilities Commission has postponed its vote on an \u201cexceptional\u201d case agreement for a large Google data center in San Jose.\nThe post CPUC Delays Google Data Center Vote for 4th Time appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T00:57:32+00:00"
-    },
-    {
-      "id": "14c91933b1add13a",
-      "title": "Arizona Utilities Outline Reasons for Markets+ Support",
-      "link": "https://www.rtoinsider.com/148242-arizona-utilities-file-day-ahead-market-responses/",
-      "summary": "While several Arizona utilities are doubling down on their commitment to SPP\u2019s Markets+, interest in CAISO\u2019s competing Extended Day-Ahead Market may be bubbling up in part of the state.\nThe post Arizona Utilities Outline Reasons for Markets+ Support appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T23:46:23+00:00"
-    },
-    {
-      "id": "f0ebecb8306e146e",
-      "title": "Oregon Pauses Data Center Permitting Until July 2027",
-      "link": "https://www.rtoinsider.com/148459-oregon-pauses-data-center-permitting-until-july-2027/",
-      "summary": "Oregon Gov. Tina Kotek has dealt a major blow to Big Tech developers looking to build or expand data centers in the state. She directed the Department of Environmental Quality to pause issuing any new air or water quality permits associated with data center projects until July 2027.\nThe post Oregon Pauses Data Center Permitting Until July 2027 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T23:25:57+00:00"
-    },
-    {
-      "id": "e105f22bce84a987",
-      "title": "Trump Administration Renews Challenge to Revolution Wind",
-      "link": "https://www.rtoinsider.com/148248-trump-administration-renews-challenge-to-revolution-wind/",
-      "summary": "A late-stage challenge by the Trump administration to the Revolution Wind project has been met with widespread condemnation in New England.\nThe post Trump Administration Renews Challenge to Revolution Wind appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T23:16:19+00:00"
-    },
-    {
-      "id": "e2806384784a102c",
-      "title": "Permitting Bill Only Part of the Solution on Transmission, EBA Panelists Say",
-      "link": "https://www.rtoinsider.com/148254-permitting-bill-only-part-of-solution-transmission-eba-panel-says/",
-      "summary": "Congress\u2019 latest proposal to streamline permitting of energy infrastructure could remove some hurdles but fails to address jurisdictional obstacles hindering regional transmission development, panelists at the Energy Bar Association\u2019s Energy Forum said.\nThe post Permitting Bill Only Part of the Solution on Transmission, EBA Panelists Say appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T23:00:14+00:00"
-    },
-    {
-      "id": "4cec6d9ba02c7cab",
-      "title": "Brattle Report: Growing VPPs Can Offset Residential Bill Increases",
-      "link": "https://www.rtoinsider.com/148263-brattle-report-growing-vpps-offset-residential-bill-increases/",
-      "summary": "Scaling up residential virtual power plants rapidly over the next five years could cut expected bill increases in half while providing hundreds of megawatts of capacity, the Brattle Group found in a report.\nThe post Brattle Report: Growing VPPs Can Offset Residential Bill Increases appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T22:57:30+00:00"
-    },
-    {
-      "id": "0b7c8c0bf174be9e",
-      "title": "DOE, TVA Spending $581M to Add 2.5 GW of Grid Capacity",
-      "link": "https://www.rtoinsider.com/148252-doe-tva-spending-581m-add-25gw-grid-capacity/",
-      "summary": "DOE and TVA are putting up a combined $581 million to expand grid capacity across eight states in the federal utility's footprint.\nThe post DOE, TVA Spending $581M to Add 2.5 GW of Grid Capacity appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T21:58:53+00:00"
-    },
-    {
-      "id": "7842f966f524ce0a",
-      "title": "Large Loads a Force Behind Nearly $15B in MTEP 26",
-      "link": "https://www.rtoinsider.com/147660-large-load-related-projects-force-behind-15b-mtep-26/",
-      "summary": "MISO\u2019s 2026 Transmission Expansion Plan has dropped to $14.74 billion from an earlier $17 billion portfolio and remains driven by large load additions.\nThe post Large Loads a Force Behind Nearly $15B in MTEP 26 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T21:57:31+00:00"
-    },
-    {
-      "id": "a278c53fafb01171",
-      "title": "Beyond the Contract: How Rabigh Reinforcement Reached First Fire 14 Months After Award",
-      "link": "https://www.powermag.com/beyond-the-contract-how-rabigh-reinforcement-reached-first-fire-14-months-after-award/",
-      "summary": "When no suitable vessel was available to carry its gas turbine generators from the U.S. to Saudi Arabia\u2019s Red Sea coast, the Rabigh Reinforcement project team turned to the heavy-lift charter market at a time when shipping conditions were already challenging. Drawing on its logistics experience and global agreements, the consortium engaged one of the [\u2026]\nThe post Beyond the Contract: How Rabigh Re",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-14T19:25:31+00:00"
     }
   ]
 }
