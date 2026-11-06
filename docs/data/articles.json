@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T19:30:26.967524+00:00",
-  "count": 652,
+  "generated_at": "2026-11-06T01:58:23.473522+00:00",
+  "count": 648,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-05T19:30:23.433865+00:00"
+      "published": "2026-11-06T01:58:21.154159+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-05T19:30:23.433854+00:00"
+      "published": "2026-11-06T01:58:21.154144+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-05T19:30:23.433841+00:00"
+      "published": "2026-11-06T01:58:21.154127+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,107 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-05T19:30:23.433812+00:00"
+      "published": "2026-11-06T01:58:21.154090+00:00"
+    },
+    {
+      "id": "bbedce0439e84787",
+      "title": "February 2021 Extreme Weather Event",
+      "link": "https://www.ercot.com/news/february2021",
+      "summary": "",
+      "source": "ERCOT News",
+      "category": "ISO/RTO",
+      "region": "Texas / South Central",
+      "published": "2026-11-06T01:58:19.004587+00:00"
+    },
+    {
+      "id": "e99512ed6e77f69b",
+      "title": "Ohio Advocates Press FERC to Protect Ratepayers in Data Center Study Agreement",
+      "link": "https://www.rtoinsider.com/150680-ohio-advocates-press-ferc-protect-ratepayers-data-center-study/",
+      "summary": "Ohio\u2019s ratepayer advocate is urging FERC to erect strong customer safeguards before allowing PJM to proceed with a largely untested approach to assess the expected transmission needs of a mammoth data center complex in the south of the state.\nThe post Ohio Advocates Press FERC to Protect Ratepayers in Data Center Study Agreement appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-06T01:54:34+00:00"
+    },
+    {
+      "id": "959c0f379f9c2a49",
+      "title": "CAISO Reports $33M in EDAM Benefits Since Launch",
+      "link": "https://www.rtoinsider.com/150830-caiso-edam-weim-benefits-report/",
+      "summary": "CAISO\u2019s third-quarter joint energy markets report shows EDAM recording almost $33 million in benefits since launching in spring 2026.\nThe post CAISO Reports $33M in EDAM Benefits Since Launch appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-06T01:03:11+00:00"
+    },
+    {
+      "id": "a18fb1b0c7fb6aa1",
+      "title": "FERC Chairs: No Impact from SCOTUS\u2019 Slaughter Decision, Yet",
+      "link": "https://www.rtoinsider.com/150843-four-ferc-chairs-discuss-scotus-slaughter-decision-wires/",
+      "summary": "FERC has not seen much of an impact so far from the Supreme Court's Trump v. Slaughter decision, but the long-term effects remain to be seen.\nThe post FERC Chairs: No Impact from SCOTUS\u2019 Slaughter Decision, Yet appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-06T00:32:28+00:00"
+    },
+    {
+      "id": "979482f520adba36",
+      "title": "Dems Flip New Hampshire Legislature, Pick up Seats Across New England",
+      "link": "https://www.rtoinsider.com/150826-dems-flip-new-hampshire-legislature-pick-up-seats-new-england/",
+      "summary": "While no governorships in New England changed party control during the midterms, Democrats picked up seats in state legislatures throughout the region and flipped control of both the New Hampshire House and Senate.\nThe post Dems Flip New Hampshire Legislature, Pick up Seats Across New England appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-06T00:30:53+00:00"
+    },
+    {
+      "id": "c756319fdb8004a7",
+      "title": "Democrats' state wins open the door for major clean energy progress",
+      "link": "https://www.canarymedia.com/articles/politics/democrat-state-wins-clean-energy-progress",
+      "summary": "Democrats' historic wins in Tuesday\u2019s midterm elections will give them control of Congress and a\u00a0 chance to combat the Trump administration\u2019s anti-climate agenda, but the president\u2019s\u00a0 veto power will limit their options.\u00a0 At the state level, however, Democrats\u2019 victories offer immediate opportunities to advance clean\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-06T00:30:00+00:00"
+    },
+    {
+      "id": "55f3ceb7d70c7b54",
+      "title": "Is There a Gold Standard for Hedging New Capacity in Power Markets?",
+      "link": "https://www.rtoinsider.com/150677-is-there-a-gold-standard-for-hedging-new-capacity-in-power-markets/",
+      "summary": "As power markets transition from managing surplus supply to navigating scarcity conditions with tight reserve margins, the risks associated with resource adequacy and capital investment have changed.\nThe post Is There a Gold Standard for Hedging New Capacity in Power Markets? appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T23:56:14+00:00"
+    },
+    {
+      "id": "8c649aff4a2666c1",
+      "title": "DTE Selling Vantage to Focus on Electricity, Data Centers",
+      "link": "https://www.rtoinsider.com/150828-dte-selling-vantage-focus-on-electricity-data-centers/",
+      "summary": "DTE Energy is selling its energy solutions business to sharpen its focus instead on regulated utility operations as it courts large load customers.\nThe post DTE Selling Vantage to Focus on Electricity, Data Centers appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T23:54:17+00:00"
+    },
+    {
+      "id": "03ab759a729f429f",
+      "title": "Entergy Examining Non-traditional Funding Options for Data Center Groundswell",
+      "link": "https://www.rtoinsider.com/150832-entergy-examining-non-traditional-funding-options-data-centers/",
+      "summary": "Entergy leadership said the utility will likely pursue alternative funding avenues to secure capital to finance investments for data centers.\nThe post Entergy Examining Non-traditional Funding Options for Data Center Groundswell appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T23:17:24+00:00"
+    },
+    {
+      "id": "98df36f41f3c54c4",
+      "title": "Even if Additional Capacity Resources Aren\u2019t Needed, New Data Loads Are Likely to Increase Market Prices",
+      "link": "https://www.rtoinsider.com/150839-even-if-additional-capacity-resources-arent-needed-data-loads-likely-increase-market-prices/",
+      "summary": "New research suggests that even when data centers avoid increasing peak demand, they can still drive up wholesale electricity prices by pushing demand toward more expensive generation resources.\nThe post Even if Additional Capacity Resources Aren\u2019t Needed, New Data Loads Are Likely to Increase Market Prices appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T21:12:40+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -51,16 +151,6 @@
       "category": "ISO/RTO",
       "region": "Midwest",
       "published": "2026-11-05T19:30:21.579826+00:00"
-    },
-    {
-      "id": "bbedce0439e84787",
-      "title": "February 2021 Extreme Weather Event",
-      "link": "https://www.ercot.com/news/february2021",
-      "summary": "",
-      "source": "ERCOT News",
-      "category": "ISO/RTO",
-      "region": "Texas / South Central",
-      "published": "2026-11-05T19:30:19.908512+00:00"
     },
     {
       "id": "6752a9122115ab0d",
@@ -143,6 +233,16 @@
       "published": "2026-11-05T17:00:47+00:00"
     },
     {
+      "id": "e314f5454bf8b08b",
+      "title": "Will PG&E\u2019s $2B grid cutbacks derail California\u2019s clean energy buildout?",
+      "link": "https://www.canarymedia.com/articles/utilities/pge-2b-cut-in-grid-investments",
+      "summary": "This is  \u00a0California Wire  , a weekly newsletter from Jeff St. John on the state\u2019s clean energy transition.  Subscribe to get it every Thursday via Substack.  Hello, everyone! We\u2019ve got a lot of postelection news to cover this week. But I want to start with another hugely important issue, one that poses an\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T17:00:00+00:00"
+    },
+    {
       "id": "b43431f441090d13",
       "title": "Quint Computing raises \u20ac9.1 million for development of fault tolerant quantum computing architecture",
       "link": "https://www.datacenterdynamics.com/en/news/quint-computing-raises-91-million-for-development-of-fault-tolerant-quantum-computing-architecture/",
@@ -151,6 +251,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-11-05T16:59:17+00:00"
+    },
+    {
+      "id": "e5a2332b00c54104",
+      "title": "Co-located solar, storage jumps to 16% of all installations, up from 2% in 2017: EIA",
+      "link": "https://www.utilitydive.com/news/storage-solar-colocation-eia-seia/873882/",
+      "summary": "The share of solar projects co-located with storage is projected to pass 30% over the next two years, based on planned additions, according to a report from the\u00a0U.S. Energy Information Administration.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-05T16:37:03+00:00"
     },
     {
       "id": "3bd5a6822f45eb33",
@@ -311,6 +421,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-11-05T12:04:49+00:00"
+    },
+    {
+      "id": "4713032094fd44e6",
+      "title": "Universal Quantum launches iQPU to help efficiently scale quantum computers",
+      "link": "https://www.datacenterdynamics.com/en/news/universal-quantum-launches-iqpu-to-make-help-efficiently-scale-quantum-computers/",
+      "summary": "Company says the processor with be integrated into the systems its currently making for customers",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-05T12:04:00+00:00"
     },
     {
       "id": "832ad2905917cd16",
@@ -6361,166 +6481,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-16T07:30:00+00:00"
-    },
-    {
-      "id": "c34c9e0fe82a3859",
-      "title": "Reliability Officials Urge Proper Cyber Hygiene amid AI Era",
-      "link": "https://www.rtoinsider.com/148246-reliability-officials-urge-proper-cyber-hygiene-amid-ai-era/",
-      "summary": "Even as AI becomes more prevalent in cyber crime, and the risks posed by agentic AI emerge from the pages of science fiction into reality, the best defense remains maintaining good cyber hygiene, speakers at the EBA's Energy Forum said.\nThe post Reliability Officials Urge Proper Cyber Hygiene amid AI Era appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-16T00:57:15+00:00"
-    },
-    {
-      "id": "88c39ad053c3e022",
-      "title": "The Exxon Case: A Battle over Climate Reparations",
-      "link": "https://www.rtoinsider.com/148550-exxon-case-a-battle-over-climate-reparations/",
-      "summary": "Natural disasters often are called \u201cacts of God,\u201d even when climate change is implicated. Should they also be considered \u201cacts of Exxon\u201d?\nThe post The Exxon Case: A Battle over Climate Reparations appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-16T00:40:15+00:00"
-    },
-    {
-      "id": "554b3f2c8c3b652e",
-      "title": "PJM PC/TEAC Briefs: Oct. 6, 2026",
-      "link": "https://www.rtoinsider.com/148555-pjm-pc-teac-briefs-100626/",
-      "summary": "PJM presented updates to its proposal to establish voltage and frequency ride-through requirements for large computational loads.\nThe post PJM PC/TEAC Briefs: Oct. 6, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-16T00:37:05+00:00"
-    },
-    {
-      "id": "a41ee344521847ff",
-      "title": "PJM OC Briefs: Oct. 8, 2026",
-      "link": "https://www.rtoinsider.com/148553-pjm-oc-briefs-100826/",
-      "summary": "PJM\u2019s Joe Ciabattoni presented a problem statement and issue charge to explore how it can send advance notice that system conditions are expected to be tight during periods of moderate temperature or light load.\nThe post PJM OC Briefs: Oct. 8, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-16T00:25:35+00:00"
-    },
-    {
-      "id": "ab18027803d552ff",
-      "title": "FERC Approves ERO 2027 Budgets, Reserve Withdrawals",
-      "link": "https://www.rtoinsider.com/148538-ferc-approves-ero-2027-budgets/",
-      "summary": "FERC approved the budgets for NERC and the regional entities at its October open meeting.\nThe post FERC Approves ERO 2027 Budgets, Reserve Withdrawals appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-16T00:22:42+00:00"
-    },
-    {
-      "id": "ee5db2fef3b8d2d5",
-      "title": "Northwest Cautiously Awaits BPA\u2019s \u2018Open Season\u2019 Proposal",
-      "link": "https://www.rtoinsider.com/148536-bpa-seeks-to-connect-large-loads-under-open-season/",
-      "summary": "Stakeholders responded with cautious optimism to the Bonneville Power Administration\u2019s proposal to connect large loads to the grid faster through an open season process, with the Public Power Council saying money shouldn\u2019t be the only determinant of who gets transmission.\nThe post Northwest Cautiously Awaits BPA\u2019s \u2018Open Season\u2019 Proposal appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T23:59:45+00:00"
-    },
-    {
-      "id": "498ff581baf8348c",
-      "title": "AEPCO, WAPA Team Up on Day-ahead Market Decision",
-      "link": "https://www.rtoinsider.com/148547-aepco-wapa-team-up-day-ahead-market-decision/",
-      "summary": "Arizona Electric Power Cooperative said it is working with the Western Area Power Administration to analyze the costs and benefits of joining either CAISO\u2019s Extended Day-Ahead Market or SPP\u2019s Markets+.\nThe post AEPCO, WAPA Team Up on Day-ahead Market Decision appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T23:42:39+00:00"
-    },
-    {
-      "id": "7c06066857db961c",
-      "title": "FERC Proposes \u2018Landmark\u2019 Changes to How it Reviews LNG, Gas Pipelines",
-      "link": "https://www.rtoinsider.com/148542-ferc-proposes-landmark-changes-how-reviews-lng-gas-pipelines/",
-      "summary": "FERC proposed streamlined review of smaller upgrades to LNG facilities and to end its own air pollution tests for Natural Gas Act infrastructure approvals.\nThe post FERC Proposes \u2018Landmark\u2019 Changes to How it Reviews LNG, Gas Pipelines appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T22:43:54+00:00"
-    },
-    {
-      "id": "dd5a13882bce5fdf",
-      "title": "State-regulated IRP Model Superior for Democratic Accountability, Consumer Protection",
-      "link": "https://www.rtoinsider.com/148244-state-regulated-irp-model-superior-for-democratic-accountability-consumer-protection/",
-      "summary": "Former FERC Chair Mark Christie says that keeping responsibility for the all-important electric power grid at the state level best serves democratic accountability, and that means best serving the people who pay the bills.\nThe post State-regulated IRP Model Superior for Democratic Accountability, Consumer Protection appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T22:02:30+00:00"
-    },
-    {
-      "id": "07b0793df6809c0e",
-      "title": "National Ramifications Seen in Ohio AEP Tariff Suit",
-      "link": "https://www.rtoinsider.com/148560-national-ramifications-seen-in-ohio-aep-tariff-suit/",
-      "summary": "The Ohio Supreme Court is weighing an industry group\u2019s challenge to the American Electric Power data center tariff that Ohio utility regulators approved in 2025.\nThe post National Ramifications Seen in Ohio AEP Tariff Suit appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T21:59:31+00:00"
-    },
-    {
-      "id": "ae896d40c092f29b",
-      "title": "FERC Approves Sale of FirstLight Resources to Hull Street Energy",
-      "link": "https://www.rtoinsider.com/148543-ferc-approves-sale-firstlight-resources-to-hull-street-energy/",
-      "summary": "FERC approved the sale of FirstLight Power\u2019s U.S. generation resources to Hull Street Energy, finding that the transaction would not adversely affect competition, rates or regulation.\nThe post FERC Approves Sale of FirstLight Resources to Hull Street Energy appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T21:57:56+00:00"
-    },
-    {
-      "id": "be3864b6458495ea",
-      "title": "NERC Reliability Standards for Data Centers and Crypto Loads Pass Final Ballot, Advance to Board Review",
-      "link": "https://www.powermag.com/nerc-reliability-standards-for-data-centers-and-crypto-loads-pass-final-ballot-advance-to-board-review/",
-      "summary": "Proposed reliability standards that would require qualifying data centers, artificial intelligence facilities, and cryptocurrency operations to provide grid data, coordinate protection settings, and respond to grid operators\u2019 instructions have passed their final stakeholder ballot, the North American Electric Reliability Corporation (NERC) announced Oct. 15. The standards and associated implementa",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T21:49:11+00:00"
-    },
-    {
-      "id": "672b80c67e05ca41",
-      "title": "Canadian Policymakers Using U.S. Experience to Address Data Center Demand",
-      "link": "https://www.rtoinsider.com/148516-canadian-policymakers-using-us-experience-address-data-center-demand/",
-      "summary": "Canadian policymakers are learning from the U.S.\u2019s experience with data centers \u2014 and offering their southern neighbors some lessons as well.\nThe post Canadian Policymakers Using U.S. Experience to Address Data Center Demand appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T21:39:08+00:00"
-    },
-    {
-      "id": "d0385db7ee94bdcb",
-      "title": "AEP Plans $4 Billion Fuel Cell Power Plant for Google, Signs Up to 1.6 GW Mainspring Generator Deal",
-      "link": "https://www.powermag.com/aep-plans-4-billion-fuel-cell-power-plant-for-google-signs-up-to-1-6-gw-mainspring-generator-deal/",
-      "summary": "American Electric Power (AEP), which said in July that it had secured about 13 GW of gas turbines for deployment through 2031, this week announced plans for a $4 billion, 702-MW Bloom Energy fuel cell plant in Wyoming to supply Google and purchased 190 MW of Mainspring Energy linear generators under an agreement for up [\u2026]\nThe post AEP Plans $4 Billion Fuel Cell Power Plant for Google, Signs Up to",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T21:35:31+00:00"
-    },
-    {
-      "id": "940e9014a274ee15",
-      "title": "PJM Regional Transmission Cost Adjustments Increase by Hundreds of Millions of Dollars",
-      "link": "https://www.rtoinsider.com/148557-pjm-regional-transmission-cost-adjustments-increase-hundreds-of-millions/",
-      "summary": "PJM presented changes to several projects approved in previous Regional Transmission Expansion Plan windows, increasing transmission costs by about $783 million for projects within Exelon\u2019s regions, $60 million for projects within Dominion and $25 million within PPL.\nThe post PJM Regional Transmission Cost Adjustments Increase by Hundreds of Millions of Dollars appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T21:30:59+00:00"
-    },
-    {
-      "id": "4253e6f179c4b2de",
-      "title": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
-      "link": "https://www.canarymedia.com/articles/data-centers/tech-giants-want-clean-energy-in-n-c-is-duke-finally-ready-to-help",
-      "summary": "In North Carolina, tech giants and other large corporations that want their own 24/7 carbon-free electricity have a problem. Across most of the state, only Duke Energy, the state\u2019s vertically integrated utility, can sell them power, and the company\u2019s grid isn\u2019t required to be 100% clean until mid-century.  For the\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-15T20:25:00+00:00"
     }
   ]
 }
