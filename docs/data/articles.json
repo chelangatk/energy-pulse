@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T18:54:41.340385+00:00",
-  "count": 651,
+  "generated_at": "2026-11-07T01:35:30.563648+00:00",
+  "count": 652,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-06T18:54:37.951940+00:00"
+      "published": "2026-11-07T01:35:26.432006+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-06T18:54:37.951926+00:00"
+      "published": "2026-11-07T01:35:26.431995+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-06T18:54:37.951908+00:00"
+      "published": "2026-11-07T01:35:26.431981+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-06T18:54:37.951875+00:00"
+      "published": "2026-11-07T01:35:26.431954+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-06T18:54:36.575372+00:00"
+      "published": "2026-11-07T01:35:24.668280+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-06T18:54:35.751484+00:00"
+      "published": "2026-11-07T01:35:23.818738+00:00"
     },
     {
       "id": "a3010da4d7330800",
@@ -95,6 +95,16 @@
     {
       "id": "53c2254ce71d1b04",
       "title": "Sempra expects 20% increase to Oncor\u2019s spending plan, driven by load growth",
+      "link": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
+      "summary": "\u201cIt's too soon to tell exactly\u201d how the results of the midterm elections will impact Oncor, said CEO Allen Nye. \u201cWe continue to believe that both parties want a strong and growing Texas.\u201d",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-06T16:10:36+00:00"
+    },
+    {
+      "id": "7f6d522e264883a7",
+      "title": "Sempra expects 20% increase to Oncor\u2019s capex plan, driven by load growth",
       "link": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
       "summary": "\u201cIt's too soon to tell exactly\u201d how the results of the midterm elections will impact Oncor, said CEO Allen Nye. \u201cWe continue to believe that both parties want a strong and growing Texas.\u201d",
       "source": "Utility Dive",
@@ -216,7 +226,7 @@
       "id": "0d8d02bacd10e244",
       "title": "Eversource\u2019s financial risk eases as Revolution Wind hits full commercial operations: CEO",
       "link": "https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/",
-      "summary": "Eversource Energy\u2019s third-quarter income fell 22% year over year, to $346 million, driven in part by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
+      "summary": "Eversource Energy\u2019s third-quarter income fell 22% year over year to $346 million, partly driven by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -226,7 +236,7 @@
       "id": "0cb4d8e02237e035",
       "title": "DTE expands investment plan 30%, will sell unregulated subsidiary to fund growth",
       "link": "https://www.utilitydive.com/news/dte-expands-5-year-electric-investment-plan-sells-unregulated-vantage/873974/",
-      "summary": "After the $3 billion sale of DTE Vantage,\u00a0DTE \u201cbecomes a higher growth premium utility\u201d and \u201ca simpler business,\u201d CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multiyear rate making.",
+      "summary": "After the $3 billion sale of DTE Vantage,\u00a0DTE \u201cbecomes a higher growth premium utility\u201d and \u201ca simpler business,\u201d CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multi-year rate making.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
