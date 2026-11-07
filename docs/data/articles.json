@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T01:35:30.563648+00:00",
-  "count": 652,
+  "generated_at": "2026-11-07T17:26:49.218588+00:00",
+  "count": 648,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-07T01:35:26.432006+00:00"
+      "published": "2026-11-07T17:26:46.948388+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-07T01:35:26.431995+00:00"
+      "published": "2026-11-07T17:26:46.948374+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-07T01:35:26.431981+00:00"
+      "published": "2026-11-07T17:26:46.948355+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-07T01:35:26.431954+00:00"
+      "published": "2026-11-07T17:26:46.948320+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-07T01:35:24.668280+00:00"
+      "published": "2026-11-07T17:26:45.492027+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,17 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-07T01:35:23.818738+00:00"
+      "published": "2026-11-07T17:26:44.682039+00:00"
+    },
+    {
+      "id": "fd8f66890e2449be",
+      "title": "Sponsored: Water stewardship starts with design, not offsets",
+      "link": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
+      "summary": "How can data center development not only minimize its impact on local water resources, but contribute to the long-term resilience of the watersheds in which we operate?",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-07T16:00:00+00:00"
     },
     {
       "id": "a3010da4d7330800",
@@ -226,7 +236,7 @@
       "id": "0d8d02bacd10e244",
       "title": "Eversource\u2019s financial risk eases as Revolution Wind hits full commercial operations: CEO",
       "link": "https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/",
-      "summary": "Eversource Energy\u2019s third-quarter income fell 22% year over year to $346 million, partly driven by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
+      "summary": "Eversource Energy\u2019s third-quarter income fell 22% year over year, to $346 million, driven in part by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -236,7 +246,7 @@
       "id": "0cb4d8e02237e035",
       "title": "DTE expands investment plan 30%, will sell unregulated subsidiary to fund growth",
       "link": "https://www.utilitydive.com/news/dte-expands-5-year-electric-investment-plan-sells-unregulated-vantage/873974/",
-      "summary": "After the $3 billion sale of DTE Vantage,\u00a0DTE \u201cbecomes a higher growth premium utility\u201d and \u201ca simpler business,\u201d CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multi-year rate making.",
+      "summary": "After the $3 billion sale of DTE Vantage,\u00a0DTE \u201cbecomes a higher growth premium utility\u201d and \u201ca simpler business,\u201d CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multiyear rate making.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6471,56 +6481,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-18T06:00:53+00:00"
-    },
-    {
-      "id": "a4431f8da301a262",
-      "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
-      "summary": "How prioritizing the small things with sustained investment and follow-through can help to pave the way to achieving true data center sustainability goals",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-17T15:00:00+00:00"
-    },
-    {
-      "id": "36c65a2514fa08ca",
-      "title": "Google's EMEA energy team hiring for range of new positions",
-      "link": "https://www.datacenterdynamics.com/en/news/googles-emea-energy-team-hiring-for-range-of-new-positions/",
-      "summary": "Further opportunities in the energy space at Google",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-17T10:00:25+00:00"
-    },
-    {
-      "id": "1815069358702122",
-      "title": "Why data sovereignty is about control, not geography",
-      "link": "https://www.datacenterdynamics.com/en/opinions/why-data-sovereignty-is-about-control-not-geography/",
-      "summary": "The gap between residency and sovereignty is where most organizations get into trouble.",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-17T10:00:25+00:00"
-    },
-    {
-      "id": "07827a0022019a5e",
-      "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
-      "link": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
-      "summary": "Before its application was halted, the project was billed as Italy\u2019s \u2018largest\u2019 data center",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-17T09:00:36+00:00"
-    },
-    {
-      "id": "c87916abfe844c6d",
-      "title": "Everton Football Club launches MVNO service",
-      "link": "https://www.datacenterdynamics.com/en/news/everton-football-club-launches-mvno-service/",
-      "summary": "The English football club has phoned it in",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-17T08:00:26+00:00"
     }
   ]
 }
