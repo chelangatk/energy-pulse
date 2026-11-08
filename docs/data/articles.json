@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T01:03:13.021879+00:00",
-  "count": 648,
+  "generated_at": "2026-11-08T17:37:33.893019+00:00",
+  "count": 652,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-08T01:03:09.364649+00:00"
+      "published": "2026-11-08T17:37:30.933997+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-08T01:03:09.364634+00:00"
+      "published": "2026-11-08T17:37:30.933986+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-08T01:03:09.364615+00:00"
+      "published": "2026-11-08T17:37:30.933973+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-08T01:03:09.364561+00:00"
+      "published": "2026-11-08T17:37:30.933944+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-08T01:03:07.606722+00:00"
+      "published": "2026-11-08T17:37:29.063942+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,67 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-08T01:03:06.624637+00:00"
+      "published": "2026-11-08T17:37:27.606551+00:00"
+    },
+    {
+      "id": "24e274d083bce36f",
+      "title": "With Batch Zero Paused, ERCOT Refines Planning Process",
+      "link": "https://www.rtoinsider.com/150247-with-batch-zero-paused-ercot-refines-planning-process/",
+      "summary": "With Batch Zero essentially in a holding pattern, ERCOT and its stakeholders are plugging away at developing a comprehensive transmission planning process that eventually will take over for Batch studies.\nThe post With Batch Zero Paused, ERCOT Refines Planning Process appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-08T16:26:37+00:00"
+    },
+    {
+      "id": "9e1376f2173f46c4",
+      "title": "Revolution Wind, Vineyard Wind Reach Grid Milestones",
+      "link": "https://www.rtoinsider.com/150925-revolution-wind-vineyard-wind-reach-grid-milestones/",
+      "summary": "The facilities are the culmination of more than two decades of battling, planning and working to erect utility-scale power generation off the coast of a region with a pressing need for more electrons on its grid.\nThe post Revolution Wind, Vineyard Wind Reach Grid Milestones appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-08T16:24:12+00:00"
+    },
+    {
+      "id": "5289d87580a77d71",
+      "title": "BPA Urges CAISO to Prioritize its EDAM Requirements",
+      "link": "https://www.rtoinsider.com/150929-bpa-urges-caiso-prioritize-edam-requirements/",
+      "summary": "The Bonneville Power Administration is asking CAISO to prioritize initiatives that address the agency\u2019s conditions for joining the ISO\u2019s Extended Day-Ahead Market \u2014 and to consider how to align California\u2019s resource adequacy program with one serving the broader West.\nThe post BPA Urges CAISO to Prioritize its EDAM Requirements appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-08T16:22:10+00:00"
+    },
+    {
+      "id": "aec6bf7a29fe42e8",
+      "title": "Meeting ROE Refund Deadline Will Be \u2018Challenging,\u2019 Eversource Says",
+      "link": "https://www.rtoinsider.com/150935-meeting-roe-refund-deadline-challenging-eversource-says/",
+      "summary": "Facing questions about its looming return on equity refund obligations at its third quarter earnings call, Eversource told investors that it will be challenging to meet FERC\u2019s May 2027 refund deadline.\nThe post Meeting ROE Refund Deadline Will Be \u2018Challenging,\u2019 Eversource Says appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-08T16:19:46+00:00"
+    },
+    {
+      "id": "388d5b776542e754",
+      "title": "Sponsored: Why contamination control is now critical",
+      "link": "https://www.datacenterdynamics.com/en/opinions/why-contamination-control-is-now-critical/",
+      "summary": "Contamination control in a live data hall is critical maintenance and should be treated as such",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-08T16:00:00+00:00"
+    },
+    {
+      "id": "30653863585232fb",
+      "title": "What data centers need to consider when storing produced water",
+      "link": "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
+      "summary": "A possible alternative to portable supplies",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-08T11:00:48+00:00"
     },
     {
       "id": "fd8f66890e2449be",
@@ -236,7 +296,7 @@
       "id": "0d8d02bacd10e244",
       "title": "Eversource\u2019s financial risk eases as Revolution Wind hits full commercial operations: CEO",
       "link": "https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/",
-      "summary": "Eversource Energy\u2019s third-quarter income fell 22% year over year, to $346 million, driven in part by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
+      "summary": "Eversource Energy\u2019s third-quarter income fell 22% year over year to $346 million, partly driven by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -246,7 +306,7 @@
       "id": "0cb4d8e02237e035",
       "title": "DTE expands investment plan 30%, will sell unregulated subsidiary to fund growth",
       "link": "https://www.utilitydive.com/news/dte-expands-5-year-electric-investment-plan-sells-unregulated-vantage/873974/",
-      "summary": "After the $3 billion sale of DTE Vantage,\u00a0DTE \u201cbecomes a higher growth premium utility\u201d and \u201ca simpler business,\u201d CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multiyear rate making.",
+      "summary": "After the $3 billion sale of DTE Vantage,\u00a0DTE \u201cbecomes a higher growth premium utility\u201d and \u201ca simpler business,\u201d CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multi-year rate making.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6461,26 +6521,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-18T18:24:29+00:00"
-    },
-    {
-      "id": "a9719e4ee7e2cc1a",
-      "title": "The end of independent infrastructure roadmaps: how AI is forcing data center co-design",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/",
-      "summary": "Idle accelerators represent stranded capital, wasted energy, and lower returns on some of the most expensive infrastructure investments in the data center",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-18T14:00:43+00:00"
-    },
-    {
-      "id": "3262c645495ba72b",
-      "title": "Cloud-first served its purpose. Now it's time for workload-first",
-      "link": "https://www.datacenterdynamics.com/en/opinions/cloud-first-served-its-purpose-now-its-time-for-workload-first/",
-      "summary": "A workload first approach",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-18T06:00:53+00:00"
     }
   ]
 }
