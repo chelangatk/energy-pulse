@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T21:56:38.891823+00:00",
-  "count": 643,
+  "generated_at": "2026-11-10T03:58:27.314953+00:00",
+  "count": 646,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-09T21:56:35.793629+00:00"
+      "published": "2026-11-10T03:57:04.709769+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-09T21:56:35.793621+00:00"
+      "published": "2026-11-10T03:57:04.709761+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-09T21:56:35.793612+00:00"
+      "published": "2026-11-10T03:57:04.709752+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-09T21:56:35.793585+00:00"
+      "published": "2026-11-10T03:57:04.709724+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-09T21:56:33.744387+00:00"
+      "published": "2026-11-10T03:57:02.488095+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,107 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-09T21:56:32.961936+00:00"
+      "published": "2026-11-10T03:57:01.528739+00:00"
+    },
+    {
+      "id": "b6e592070056d125",
+      "title": "Timing Unclear on El Paso Electric\u2019s Markets+ Entry",
+      "link": "https://www.rtoinsider.com/151007-timing-unclear-on-el-paso-electrics-markets-entry/",
+      "summary": "Although El Paso Electric has stated its intention to join SPP\u2019s Markets+, the company missed a deadline to sign a funding agreement to go live with the day-ahead market in October 2028.\nThe post Timing Unclear on El Paso Electric\u2019s Markets+ Entry appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-10T01:01:37+00:00"
+    },
+    {
+      "id": "f44b0e19d146f47b",
+      "title": "Senate Permitting Reform Bill Comfortably Clears Cloture Vote",
+      "link": "https://www.rtoinsider.com/151021-senate-permitting-reform-bill-comfortably-clears-cloture-vote/",
+      "summary": "The Senate comfortably moved the permitting bill known as BAAJA through cloture, a key hurdle in the lame duck push to enact permitting and transmission reform.\nThe post Senate Permitting Reform Bill Comfortably Clears Cloture Vote appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-10T00:49:22+00:00"
+    },
+    {
+      "id": "4c9dda8c2b994583",
+      "title": "FERC Approves WRAP Rule Changes to Integrate Rockies Subregion",
+      "link": "https://www.rtoinsider.com/151009-ferc-approves-wrap-rule-changes-integrate-rockies-subregion/",
+      "summary": "FERC approved Western Power Pool\u2019s request to revise the Western Resource Adequacy Program\u2019s forward showing schedules to facilitate the creation of a third subregion called the Rockies.\nThe post FERC Approves WRAP Rule Changes to Integrate Rockies Subregion appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-10T00:18:38+00:00"
+    },
+    {
+      "id": "cf939c716f80d6ad",
+      "title": "OEB Leaves Scope of Toronto Third Line Cost Review Open",
+      "link": "https://www.rtoinsider.com/151005-oeb-yet-to-decide-early-cost-recovery-toronto-third-line/",
+      "summary": "The Ontario Energy Board has yet to say whether the capital cost ultimately set in the Toronto Third Line contract will face prudency review. IESO has said the amount is exempt.\nThe post OEB Leaves Scope of Toronto Third Line Cost Review Open appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-10T00:08:16+00:00"
+    },
+    {
+      "id": "9beb5ba40bbed0b2",
+      "title": "ERCOT Expands Batch Verification, Audit to Medium Loads",
+      "link": "https://www.rtoinsider.com/150927-ercot-expands-batch-verification-audit-medium-loads/",
+      "summary": "ERCOT has divided the work to verify and audit large loads seeking to interconnect with the Texas grid into three workstreams, ensuring even the smaller loads are accounted for.\nThe post ERCOT Expands Batch Verification, Audit to Medium Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-09T23:42:17+00:00"
+    },
+    {
+      "id": "73dc25d90be8192c",
+      "title": "LS Power to Buy 4.9 GW of Gas-fired Generation Back from NRG Energy",
+      "link": "https://www.rtoinsider.com/151015-ls-power-buys-power-plants-from-nrg-energy/",
+      "summary": "LS Power has agreed to acquire six natural gas generation plants with a combined 4.9 GW of capacity from NRG Energy for $4 billion.\nThe post LS Power to Buy 4.9 GW of Gas-fired Generation Back from NRG Energy appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-09T23:38:59+00:00"
+    },
+    {
+      "id": "6835c4b3c49e34ff",
+      "title": "Judge the Transmission Grid by its Worst Day",
+      "link": "https://www.rtoinsider.com/150561-judge-transmission-grid-by-worst-day/",
+      "summary": "Transmission utilization should be measured by the way the system is actually operated, against what happens after something fails, and it should point to a specific constraint and a specific action, writes Arshad Mansoor, CEO of EPRI.\nThe post Judge the Transmission Grid by its Worst Day appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-09T23:09:55+00:00"
+    },
+    {
+      "id": "36c036f9fc729eb0",
+      "title": "NYISO Considering Abandoning Demand Curve Reform Project",
+      "link": "https://www.rtoinsider.com/150933-nyiso-should-demand-curve-reforms-be-abandoned/",
+      "summary": "NYISO staff at the Installed Capacity Working Group meeting asked stakeholders whether they should abandon or continue with the Demand Curve Reset improvements project.\nThe post NYISO Considering Abandoning Demand Curve Reform Project appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-09T23:04:49+00:00"
+    },
+    {
+      "id": "238e1ca3bd0a70fe",
+      "title": "Invenergy Challenges Treatment of Merchant HVDC in MISO Capacity Market",
+      "link": "https://www.rtoinsider.com/151017-invenergy-challenges-miso-block-merchant-hvdc-capacity-market/",
+      "summary": "Invenergy filed a complaint with FERC contesting MISO\u2019s stance that merchant HVDC resources are not capacity resources and arguing the RTO is taking advantage of the contributions of private transmission lines without paying for them.\nThe post Invenergy Challenges Treatment of Merchant HVDC in MISO Capacity Market appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-09T22:49:29+00:00"
+    },
+    {
+      "id": "3252af99f79f80e0",
+      "title": "NYISO Finds No Difference in Granular TCCs",
+      "link": "https://www.rtoinsider.com/150940-nyiso-finds-no-benefit-consumers-from-proposed-tcc-auction-reforms/",
+      "summary": "A NYISO consumer impact analysis could not find any benefits from breaking transmission congestion contracts into blocks smaller than 24 hours.\nThe post NYISO Finds No Difference in Granular TCCs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-09T22:42:39+00:00"
     },
     {
       "id": "63ab0e72bd74fdaf",
@@ -223,6 +323,16 @@
       "published": "2026-11-09T16:39:22+00:00"
     },
     {
+      "id": "429379c8d376e495",
+      "title": "PPL increases capital plan to $25B with proposed Kentucky gas plant",
+      "link": "https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/",
+      "summary": "The company projects some 50 GW of potential load growth, mostly from data centers, across Kentucky and Pennsylvania.\u00a0CEO Vincent Sorgi suggested those states could see a influx of projects due to restrictions in other regions.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-09T16:38:05+00:00"
+    },
+    {
       "id": "735f9e875d3942ff",
       "title": "New Jersey Senate passes bill banning data center-related NDAs",
       "link": "https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/",
@@ -371,6 +481,16 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-11-09T13:30:30+00:00"
+    },
+    {
+      "id": "03521895c31ff11d",
+      "title": "Inside the \u2018pressure cooker\u2019: Electric utility regulators gather in wake of electoral earthquake",
+      "link": "https://www.utilitydive.com/news/grid-investment-affordability-naruc-state-policy/874080/",
+      "summary": "Newly elected leaders and customers are \u201cquestioning our foundational regulatory approaches,\u201d Ann Rendahl, president of the National Association of Regulatory Utility Commissioners, told her peers and industry stakeholders.",
+      "source": "Utility Dive",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-09T13:16:11+00:00"
     },
     {
       "id": "56345d8e3b9f2a60",
@@ -6341,96 +6461,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-20T07:30:00+00:00"
-    },
-    {
-      "id": "5312c56312eebe04",
-      "title": "Ontario Energy Conference Attendees Seek Aggressive Development",
-      "link": "https://www.rtoinsider.com/148564-dispatch-from-the-2026-ontario-energy-conference/",
-      "summary": "The specter of Donald Trump and Canada\u2019s increasingly strained relationship with the U.S. hovered over much of the fifth annual Ontario Energy Conference, but attendees also discussed plans for aggressive energy infrastructure development.\nThe post Ontario Energy Conference Attendees Seek Aggressive Development appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T01:17:08+00:00"
-    },
-    {
-      "id": "f5195ab79c4d0be2",
-      "title": "MRO Engineer Urges Strong Oversight of AI Adoption",
-      "link": "https://www.rtoinsider.com/148948-mro-engineer-urges-strong-oversight-ai-adoption/",
-      "summary": "In a webinar, a CIP expert with MRO recommended utilities exercise control over their employees' use of AI tools.\nThe post MRO Engineer Urges Strong Oversight of AI Adoption appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T01:02:15+00:00"
-    },
-    {
-      "id": "4901be68e23718d7",
-      "title": "Spanberger, Va. SCC Staff Seek More Conditions for NextEra-Dominion Merger",
-      "link": "https://www.rtoinsider.com/148955-spanberger-va-scc-seek-more-conditions-nextera-dominion-merger/",
-      "summary": "Virginia Gov. Abigail Spanberger called on NextEra Energy and Dominion Energy to freeze residential rates for six years and triple monthly customer bill credits as conditions to win approval for their proposed merger.\nThe post Spanberger, Va. SCC Staff Seek More Conditions for NextEra-Dominion Merger appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T00:32:25+00:00"
-    },
-    {
-      "id": "77eee022deea538d",
-      "title": "Deseret Power Cleared to Participate in SPP\u2019s RTOE, CAISO\u2019s EDAM",
-      "link": "https://www.rtoinsider.com/148694-deseret-power-cleared-participate-spp-rtoe-caiso-edam/",
-      "summary": "FERC has conditionally accepted Deseret Power Electric Cooperative\u2019s status change and authorized it to participate in both SPP\u2019s RTO Expansion and CAISO\u2019s Extended Day-ahead Market.\nThe post Deseret Power Cleared to Participate in SPP\u2019s RTOE, CAISO\u2019s EDAM appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T00:09:37+00:00"
-    },
-    {
-      "id": "62e3b2b3446dd22a",
-      "title": "FERC Approves ISO-NE\u2019s \u2018First-of-its-kind\u2019 Asset Condition Reviewer",
-      "link": "https://www.rtoinsider.com/148960-ferc-approves-iso-ne-first-asset-condition-reviewer/",
-      "summary": "FERC approved ISO-NE\u2019s proposal to create an asset condition project reviewer, a role within the RTO intended to add transparency and scrutiny to local transmission upgrades in the region.\nThe post FERC Approves ISO-NE\u2019s \u2018First-of-its-kind\u2019 Asset Condition Reviewer appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-19T23:28:16+00:00"
-    },
-    {
-      "id": "7e35b0192cfad664",
-      "title": "N.J. Utilities\u2019 Response to PJM Vote Inquiry Sparks Concern",
-      "link": "https://www.rtoinsider.com/148683-nj-utilities-response-to-pjm-vote-inquiry-sparks-concern/",
-      "summary": "The New Jersey Board of Public Utilities says state utilities \u201csubmitted incomplete and deficient reports on their PJM voting history\u201d in the first report required under a law.\nThe post N.J. Utilities\u2019 Response to PJM Vote Inquiry Sparks Concern appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-19T23:25:43+00:00"
-    },
-    {
-      "id": "9fee67728f083fe6",
-      "title": "SPP Stakeholders Endorse $23.7B Transmission Plan",
-      "link": "https://www.rtoinsider.com/148559-spp-stakeholders-approve-23b-itp-2026/",
-      "summary": "SPP's MOPC has endorsed a $23.7 billion transmission plan that includes six more 765-kV projects to address increasing load growth and has a projected baseline value of $86 billion.\nThe post SPP Stakeholders Endorse $23.7B Transmission Plan appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-19T23:06:02+00:00"
-    },
-    {
-      "id": "5d58113b5bc5363d",
-      "title": "Maintaining Uninterrupted Operations Amid Persistent Drastic Weather Conditions",
-      "link": "https://www.powermag.com/maintaining-uninterrupted-operations-amid-persistent-drastic-weather-conditions/",
-      "summary": "Severe weather conditions have become constant. Cyclones, storms, heatwaves, floods, and droughts continue to put critical infrastructure, homes, livelihoods, and lives at risk in the U.S. and around the world. Heat waves and droughts are the second-deadliest weather category, causing critical infrastructure instability, power line inefficiency, thermal sagging, and overloaded transformers that ca",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-19T22:06:39+00:00"
-    },
-    {
-      "id": "46d98752ff21407f",
-      "title": "Before the Grid Relies on New Load, What Evidence is Required?",
-      "link": "https://www.rtoinsider.com/148476-before-the-grid-relies-on-new-load-what-evidence-is-required/",
-      "summary": "To connect large loads, speed matters. But it does not answer a more fundamental question: What evidence justifies relying on a forecast, proposed project, or assumed operating arrangement in the first place?\nThe post Before the Grid Relies on New Load, What Evidence is Required? appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-19T21:59:15+00:00"
     }
   ]
 }
