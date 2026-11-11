@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:19:51.684220+00:00",
+  "generated_at": "2026-11-11T01:41:34.868394+00:00",
   "count": 649,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-10T19:19:49.399196+00:00"
+      "published": "2026-11-11T01:41:32.905366+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-10T19:19:49.399182+00:00"
+      "published": "2026-11-11T01:41:32.905351+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-10T19:19:49.399165+00:00"
+      "published": "2026-11-11T01:41:32.905333+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-10T19:19:49.399136+00:00"
+      "published": "2026-11-11T01:41:32.905303+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-10T19:19:48.144393+00:00"
+      "published": "2026-11-11T01:41:31.430735+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-10T19:19:47.240565+00:00"
+      "published": "2026-11-11T01:41:30.403228+00:00"
+    },
+    {
+      "id": "8d8e39dc073cedf5",
+      "title": "WoodMac Finds World Prioritizing Energy Security over Climate Protection",
+      "link": "https://www.rtoinsider.com/151137-woodmac-energy-transition-outlook-security-over-climate/",
+      "summary": "In its latest energy transition outlook, Wood Mackenzie predicts the worldwide drive for energy security could inadvertently benefit the planet if it speeds electrification.\nThe post WoodMac Finds World Prioritizing Energy Security over Climate Protection appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-11T01:01:07+00:00"
+    },
+    {
+      "id": "4ddb6fca99f5d70a",
+      "title": "Nevada PUC Approves Greenlink North Construction Permit",
+      "link": "https://www.rtoinsider.com/151151-nevada-puc-approves-greenlink-north-construction-permit/",
+      "summary": "Nevada regulators have approved a construction permit for Greenlink North, a 235-mile, 525-kV transmission line that will complete NV Energy\u2019s transmission triangle around the state.\nThe post Nevada PUC Approves Greenlink North Construction Permit appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-11T00:46:10+00:00"
+    },
+    {
+      "id": "2043f0989da6ad0e",
+      "title": "FERC OKs Proposal for 2 Subregions in SPP West",
+      "link": "https://www.rtoinsider.com/150948-ferc-oks-proposal-2-subregions-spp-west/",
+      "summary": "FERC has approved tariff revisions that establish two new subregions in SPP\u2019s Western Interconnection footprint and apply the RTO\u2019s Consolidated Planning Process to its newest members.\nThe post FERC OKs Proposal for 2 Subregions in SPP West appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-11T00:43:04+00:00"
+    },
+    {
+      "id": "27464a8c25d2e381",
+      "title": "PJM TEAC Discusses Valley Link Tx Cost Increases",
+      "link": "https://www.rtoinsider.com/151145-pjm-teac-discusses-valley-link-tx-cost-increases/",
+      "summary": "Cost estimates for the Valley Link Transmission package of projects have increased by more than $2 billion and the in-service date has been shifted back by two years.\nThe post PJM TEAC Discusses Valley Link Tx Cost Increases appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-11T00:03:01+00:00"
+    },
+    {
+      "id": "26a5473f51699e24",
+      "title": "DOE Grants Pacific Power $50M to Modernize Grid",
+      "link": "https://www.rtoinsider.com/151141-doe-grants-pacific-power-50m-modernize-grid/",
+      "summary": "The U.S. Department of Energy issued $50 million to Pacific Power to modernize the utility\u2019s transmission systems in Oregon and Washington.\nThe post DOE Grants Pacific Power $50M to Modernize Grid appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-10T23:53:38+00:00"
+    },
+    {
+      "id": "51766ff7ff7323a5",
+      "title": "Valley Link at $5.1B; Who Pays is Settled",
+      "link": "https://www.rtoinsider.com/151121-valley-link-at-5-1b-who-pays-is-settled/",
+      "summary": "PJM\u2019s new estimate puts Valley Link at $5.1 billion and moves its lines past 2029, but the formula that splits the bill has not changed, writes Tommy Turner.\nThe post Valley Link at $5.1B; Who Pays is Settled appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-10T22:56:22+00:00"
+    },
+    {
+      "id": "3bea0e8583dabe19",
+      "title": "Constellation Energy Debuts Hybrid Demand Response Offering",
+      "link": "https://www.rtoinsider.com/151013-constellation-3q-earnings-report/",
+      "summary": "Constellation Energy reported solid third-quarter financials and announced the first deal for its new Peak+ product, which combines new capacity with demand response.\nThe post Constellation Energy Debuts Hybrid Demand Response Offering appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-10T22:54:16+00:00"
+    },
+    {
+      "id": "303c133ec8e42500",
+      "title": "Another novel nuclear project gets green light to start construction",
+      "link": "https://www.canarymedia.com/articles/nuclear/novel-nuclear-project-green-light-construction",
+      "summary": "The United States just cleared another novel nuclear energy project to begin construction. On Monday, the U.S. Nuclear Regulatory Commission\u00a0 approved a joint application by X-energy and Dow Chemical to build four Xe-100 advanced nuclear reactors at a Texas industrial site owned by the Michigan-based chemicals giant.\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-10T20:30:00+00:00"
     },
     {
       "id": "f5082b0a2e9b7db9",
@@ -916,7 +996,7 @@
       "id": "39aa7343fce74ea4",
       "title": "After a gas furnace leak, this retiree went all-electric \u2014 for free",
       "link": "https://www.canarymedia.com/articles/electrification/gas-furnace-leak-to-all-electric",
-      "summary": "A few years ago, a gas leak from Sherry Frazier's furnace forced her and her daughter out of Frazier\u2019s Baltimore home. \u201cOh, it was awful,\u201d said Frazier, a retired educator who worked with students with disabilities in Baltimore public schools. \u201cWe had bad headaches and were kind of dizzy, wobbly on our feet.\u201d Had\u2026",
+      "summary": "Canary Media\u2019s  Electrified Life  column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and communities to clean electric power.  A few years ago, a gas leak from Sherry Frazier's furnace forced her and her daughter out of Frazier\u2019s Baltimore home. \u201cOh, it was\u2026",
       "source": "Canary Media",
       "category": "Trade Press",
       "region": "National",
@@ -6411,86 +6491,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-21T07:30:00+00:00"
-    },
-    {
-      "id": "4eb54e8b01ffd92a",
-      "title": "Feds, Environmentalists Clash at 9th Circ. over Northwest Dams Spill",
-      "link": "https://www.rtoinsider.com/148957-feds-environmentalists-clash-9th-circ-over-northwest-dams-spill/",
-      "summary": "The 9th U.S. Circuit Court of Appeals heard arguments in a suit over spill levels at federal hydroelectric dams in the Northwest, with the opposing sides clashing over whether a 2020 biological opinion does enough to protect imperiled salmon.\nThe post Feds, Environmentalists Clash at 9th Circ. over Northwest Dams Spill appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-21T01:11:00+00:00"
-    },
-    {
-      "id": "97cdc27758aa1678",
-      "title": "NV Energy\u2019s Standard Large Load Agreement Scrutinized",
-      "link": "https://www.rtoinsider.com/148540-nv-energy-standard-large-load-agreement-raises-questions/",
-      "summary": "Debate is swirling around NV Energy\u2019s proposal for a standard energy supply agreement for large load customers, with some parties saying regulators should scrap the idea and focus on a large load tariff instead.\nThe post NV Energy\u2019s Standard Large Load Agreement Scrutinized appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-21T01:04:53+00:00"
-    },
-    {
-      "id": "2ee93f9385fb48b6",
-      "title": "ISO-NE Announces Further Reduction to Non-performance Factor",
-      "link": "https://www.rtoinsider.com/149076-iso-ne-further-reduction-non-performance-factor/",
-      "summary": "ISO-NE announced the reduction of its non-performance factor from 115% to 110%, a change that will reduce its operating reserve requirements in the real-time and day-ahead energy markets.\nThe post ISO-NE Announces Further Reduction to Non-performance Factor appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T23:53:39+00:00"
-    },
-    {
-      "id": "e2e097d660882d99",
-      "title": "Permitting Bill\u2019s Lame Duck Fate Depends on Countervailing Issues",
-      "link": "https://www.rtoinsider.com/149050-permitting-bills-lame-duck-fate-depends-countervailing-issues/",
-      "summary": "While Senators hope to vote on a bipartisan permitting bill meant to speed up energy deployment and Congress members have been in their home states seeking re-election, groups have firmed up their views of the bill.\nThe post Permitting Bill\u2019s Lame Duck Fate Depends on Countervailing Issues appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T23:47:42+00:00"
-    },
-    {
-      "id": "180d76c9aa7e5c59",
-      "title": "BLM to Revisit Approval of Controversial Data Center in Nevada",
-      "link": "https://www.rtoinsider.com/149063-blm-revisit-approval-controversial-data-center-nevada-blm/",
-      "summary": "A hotly contested data center project proposed on federal land in Nevada is going back to the drawing board.\nThe post BLM to Revisit Approval of Controversial Data Center in Nevada appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T22:50:50+00:00"
-    },
-    {
-      "id": "e4cf247e78f66e67",
-      "title": "FERC Rejects Centralia Cost Recovery for 2nd Time, Keeps Door Open",
-      "link": "https://www.rtoinsider.com/149074-ferc-rejects-centralia-cost-recovery-but-holds-door-open/",
-      "summary": "FERC for the second time in a month rejected a TransAlta proposal to recover costs stemming from the U.S. Department of Energy\u2019s order to keep Unit 2 of the coal-fired Centralia Power Plant open past its planned retirement at the end of 2025.\nThe post FERC Rejects Centralia Cost Recovery for 2nd Time, Keeps Door Open appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T22:34:03+00:00"
-    },
-    {
-      "id": "61909691a641c794",
-      "title": "CEC Boosts VPP Funding Amidst Accelerated AI Data Center Growth",
-      "link": "https://www.rtoinsider.com/148950-cec-boosts-vpp-funding-wildfire-mitigation/",
-      "summary": "The California Energy Commission approved funding for two large virtual power plant projects as the state tries to offset a huge increase in AI data center demand.\nThe post CEC Boosts VPP Funding Amidst Accelerated AI Data Center Growth appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T22:15:47+00:00"
-    },
-    {
-      "id": "75a46d1a7759cfb9",
-      "title": "Building America\u2019s Next Grid Starts with Understanding the One We Have",
-      "link": "https://www.rtoinsider.com/148854-building-americas-next-grid-understanding-one-we-have/",
-      "summary": "Dominion Energy and Appalachian Power must answer a question now that no state had required of utilities until 2026: \u201cHow much of the grid are you actually using?\u201d\nThe post Building America\u2019s Next Grid Starts with Understanding the One We Have appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-20T21:34:50+00:00"
     }
   ]
 }
