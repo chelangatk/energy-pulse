@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:15:52.430116+00:00",
+  "generated_at": "2026-11-12T02:40:26.447331+00:00",
   "count": 649,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-11T19:15:49.371407+00:00"
+      "published": "2026-11-12T02:40:23.029474+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-11T19:15:49.371399+00:00"
+      "published": "2026-11-12T02:40:23.029466+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-11T19:15:49.371391+00:00"
+      "published": "2026-11-12T02:40:23.029456+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-11T19:15:49.371372+00:00"
+      "published": "2026-11-12T02:40:23.029428+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-11T19:15:47.803110+00:00"
+      "published": "2026-11-12T02:40:21.376138+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,107 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-11T19:15:44.369695+00:00"
+      "published": "2026-11-12T02:40:20.387625+00:00"
+    },
+    {
+      "id": "41ed8588b88da615",
+      "title": "ISO-NE CEO Chadalavada Presents 5-year Plan at Open Board Meeting",
+      "link": "https://www.rtoinsider.com/151233-iso-ne-ceo-chadalavada-presents-5-year-plan/",
+      "summary": "ISO-NE CEO Vamsi Chadalavada outlined plans to develop a forward trading platform, improve data access, incentivize dual-fuel capabilities and optimize the use of demand flexibility.\nThe post ISO-NE CEO Chadalavada Presents 5-year Plan at Open Board Meeting appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-12T02:01:46+00:00"
+    },
+    {
+      "id": "79ad2b37fa70c687",
+      "title": "OEB Approves 37% Increase in IESO\u2019s 2026 Domestic Usage Fee",
+      "link": "https://www.rtoinsider.com/151128-oeb-approves-higher-ieso-usage-fees-2027/",
+      "summary": "The Ontario Energy Board approved a 37% increase in IESO\u2019s domestic usage fee for 2026 under a settlement that grants its requested revenue requirements but lowers its proposed fees using updated domestic and export volumes.\nThe post OEB Approves 37% Increase in IESO\u2019s 2026 Domestic Usage Fee appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-12T01:49:57+00:00"
+    },
+    {
+      "id": "01da7abd2ef532cc",
+      "title": "Stakeholders Predict \u2018Cumbersome\u2019 Efforts on Large Loads",
+      "link": "https://www.rtoinsider.com/151234-stakeholders-predict-cumbersome-efforts-large-loads/",
+      "summary": "NERC reported on 'concerning' responses to its Level 3 alert on computational large loads issued in May.\nThe post Stakeholders Predict \u2018Cumbersome\u2019 Efforts on Large Loads appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-12T01:34:04+00:00"
+    },
+    {
+      "id": "ad5f1d1e2c68db2a",
+      "title": "BNEF Urges Policy Changes to Better Power New Data Centers",
+      "link": "https://www.rtoinsider.com/151245-bnef-urges-policy-changes-better-power-data-centers/",
+      "summary": "A new BloombergNEF report calculates the 165 GW of gas-fired generation capacity proposed to be built beside U.S. data centers would give the data centers a carbon footprint 79% greater than if they took power from the grid.\nThe post BNEF Urges Policy Changes to Better Power New Data Centers appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-12T00:28:44+00:00"
+    },
+    {
+      "id": "0fbc6cd62d21f272",
+      "title": "Earthjustice: Elections Signal Support for Stricter Data Center Regulations",
+      "link": "https://www.rtoinsider.com/151241-earthjustice-elections-support-stricter-data-center-regs/",
+      "summary": "U.S. midterm election results should give new momentum to the movement against fueling AI with inefficient natural gas-fired generation, Earthjustice said.\nThe post Earthjustice: Elections Signal Support for Stricter Data Center Regulations appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-12T00:14:33+00:00"
+    },
+    {
+      "id": "7879091f036ce326",
+      "title": "ROWE Moving to Secure $8.5M Loan, Fill Top Positions",
+      "link": "https://www.rtoinsider.com/151011-rowe-moving-to-secure-loan-fill-positions/",
+      "summary": "The ROWE board expects to finalize a loan agreement with Wells Fargo and is slated to conduct interviews in December to find the organization\u2019s first CEO.\nThe post ROWE Moving to Secure $8.5M Loan, Fill Top Positions appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-11T23:31:31+00:00"
+    },
+    {
+      "id": "5c379462a00a5ca3",
+      "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/",
+      "summary": "The central figure of the AI boom could be set to lose his job",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-11T23:27:37+00:00"
+    },
+    {
+      "id": "f91bbeca0e5325bb",
+      "title": "Trystar Introduces Five New Series of 17.5mm Relays for Space-Efficient Control Panel Design",
+      "link": "https://www.powermag.com/trystar-introduces-five-new-series-of-17-5mm-relays-for-space-efficient-control-panel-design/",
+      "summary": "Trystar, LLC is introducing five (5) new series of relays in a narrow 17.5mm wide DIN-rail form factor, with dedicated solutions for timing, load alternation, and voltage and phase monitoring. Designed for OEMs, panel builders, and industrial users (including water/wastewater management, automation, HVAC, refrigeration, petrochemical, and agriculture), this new portfolio of compact relays helps co",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-11T23:22:41+00:00"
+    },
+    {
+      "id": "1f1e3165af71abe3",
+      "title": "MISO Board Mulls Hybrid External/Internal IMM Design Under 3rd-party Review",
+      "link": "https://www.rtoinsider.com/151248-miso-board-mulls-hybrid-external-internal-imm-design-under-3rd-party-review/",
+      "summary": "Members of MISO\u2019s Board of Directors are considering splitting MISO market monitoring duties between an external market monitor and a market monitoring division internal to the RTO.\nThe post MISO Board Mulls Hybrid External/Internal IMM Design Under 3rd-party Review appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-11T20:51:24+00:00"
+    },
+    {
+      "id": "c85830a67bf57157",
+      "title": "Leading small modular nuclear reactor will be late and over budget",
+      "link": "https://www.canarymedia.com/articles/nuclear/small-modular-nuclear-reactor-late-canada",
+      "summary": "North America\u2019s first small modular reactor project is running into two familiar challenges for the nuclear industry: timing and cost. Ontario Power Generation said in a Tuesday earnings release that the first BWRX-300 unit at its Darlington site will not come online by its October 2030 target and will blow past its\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-11T19:00:00+00:00"
     },
     {
       "id": "6b61e91600defa9d",
@@ -6391,106 +6491,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-22T07:30:00+00:00"
-    },
-    {
-      "id": "ee4cc8544ef50b8e",
-      "title": "Ontario Data Center Developers Focus on Grid Access as Province Weighs Higher Rates",
-      "link": "https://www.rtoinsider.com/149047-ontario-data-center-developers-focus-grid-access/",
-      "summary": "Data center developers at the Ontario Energy Conference expressed more concern about potential restrictions on grid access than the prospect of higher electricity rates, as the province considers new requirements for large facilities.\nThe post Ontario Data Center Developers Focus on Grid Access as Province Weighs Higher Rates appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-22T00:32:52+00:00"
-    },
-    {
-      "id": "38d1e81d24084edc",
-      "title": "Balcony solar bill introduced in Congress for the first time",
-      "link": "https://www.canarymedia.com/articles/balcony-solar/balcony-solar-bill-introduced-in-congress-for-the-first-time",
-      "summary": "Balcony solar legislation has finally arrived on Capitol Hill. On Monday, U.S. Rep. Rob Menendez, Democrat of New Jersey, introduced the first federal bill aimed at legalizing solar panels that simply plug into an outlet. The legislation would require all state\u00a0 public utility commissions to consider rules that would\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-22T00:23:00+00:00"
-    },
-    {
-      "id": "362e3265551175f1",
-      "title": "NERC Committee Approves Next Large Loads Project",
-      "link": "https://www.rtoinsider.com/149147-nerc-standards-committee-approves-large-load-project/",
-      "summary": "NERC's Standards Committee approved a new standards project focused on ride-through and active power recovery requirements for computational loads.\nThe post NERC Committee Approves Next Large Loads Project appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-22T00:15:01+00:00"
-    },
-    {
-      "id": "92b5cb5504f07904",
-      "title": "FERC Tech Conference Explores the Nitty Gritty of Data Center Flexibility",
-      "link": "https://www.rtoinsider.com/149155-ferc-tech-conference-explores-nitty-gritty-data-center-flexibility/",
-      "summary": "A FERC reliability technical conference turned into a lengthy discussion on how to reliably integrate flexible data centers onto the grid.\nThe post FERC Tech Conference Explores the Nitty Gritty of Data Center Flexibility appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-21T23:52:25+00:00"
-    },
-    {
-      "id": "8456f451a13e3966",
-      "title": "BPA Kickstarts Large Load Initiative Under \u2018Aggressive\u2019 Schedule",
-      "link": "https://www.rtoinsider.com/149151-bpa-kickstarts-large-load-initiative-under-aggressive-schedule/",
-      "summary": "The Bonneville Power Administration provided more details on its plan to speed up the connection of large loads, with the goal of having a final record of decision by Spring 2027.\nThe post BPA Kickstarts Large Load Initiative Under \u2018Aggressive\u2019 Schedule appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-21T23:34:24+00:00"
-    },
-    {
-      "id": "cef53cdefc90f42a",
-      "title": "Trump admin finds yet another way to attack offshore wind",
-      "link": "https://www.canarymedia.com/articles/offshore-wind/trump-admin-another-attack-offshore-wind",
-      "summary": "The Trump administration is widening its attacks on U.S. offshore wind development, this time by siding with anti-wind groups that are seeking to strip projects of existing federal approvals. Its latest target is New England Wind, a 2-gigawatt development proposed off the coast of Massachusetts. On Tuesday, the\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-21T23:11:00+00:00"
-    },
-    {
-      "id": "8758729cb845f58b",
-      "title": "NextEra\u2019s Ketchum Discusses Dominion Deal During Q3 Earnings Call",
-      "link": "https://www.rtoinsider.com/149153-nextera-talks-va-merger-case-q3-call/",
-      "summary": "NextEra Energy reported third-quarter earnings of about $4.78 billion, holding a call with analysts just days after the Virginia State Corporation Commission heard initial testimony on the company\u2019s proposed merger with Dominion Energy.\nThe post NextEra\u2019s Ketchum Discusses Dominion Deal During Q3 Earnings Call appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-21T22:14:04+00:00"
-    },
-    {
-      "id": "420944ce423c657d",
-      "title": "EQR Data Governance: FERC Order 917 will Put it to the Test",
-      "link": "https://www.rtoinsider.com/148519-eqr-data-governance-ferc-order-917-will-put-it-to-the-test/",
-      "summary": "FERC\u2019s Order 917 is triggering major changes to Electric Quarterly Report filing requirements for public utilities and certain non-public utilities.\nThe post EQR Data Governance: FERC Order 917 will Put it to the Test appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-21T22:12:36+00:00"
-    },
-    {
-      "id": "2023718ebbc26d82",
-      "title": "Virginia Officials Give Go-Ahead for 3-GW Dominion Energy Gas-Fired Power Station",
-      "link": "https://www.powermag.com/virginia-officials-give-go-ahead-for-3-gw-dominion-energy-gas-fired-power-station/",
-      "summary": "Officials in Virginia have voted to approve a plan for a massive natural gas-fired power plant in the central part of the state near the James River. Supervisors in Cumberland County, about an hour west of the state capital Richmond, on October 20 voted 3-1 in support of the Cumberland Energy Center, a 3,000-MW gas-fired [\u2026]\nThe post Virginia Officials Give Go-Ahead for 3-GW Dominion Energy Gas-Fi",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-21T20:55:26+00:00"
-    },
-    {
-      "id": "d16b19367a8e4939",
-      "title": "Agency Says India Coal-Fired Units Running Critically Low on Fuel as Power Demand Soars",
-      "link": "https://www.powermag.com/agency-says-india-coal-fired-units-running-critically-low-on-fuel-as-power-demand-soars/",
-      "summary": "Data released by energy officials in India shows that more than half of the country\u2019s coal-fired power units are operating with low stockpiles of fuel, as power demand surges and generation from other resources lags. The country\u2019s Central Electricity Authority (CEA) on October 19 said 96 coal-fired units have critically low amounts of coal on [\u2026]\nThe post Agency Says India Coal-Fired Units Running",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-21T20:14:06+00:00"
     }
   ]
 }
