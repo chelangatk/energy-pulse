@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T19:33:25.621098+00:00",
-  "count": 648,
+  "generated_at": "2026-11-13T02:21:38.189408+00:00",
+  "count": 647,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-12T19:33:21.786511+00:00"
+      "published": "2026-11-13T02:21:34.400853+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-12T19:33:21.786497+00:00"
+      "published": "2026-11-13T02:21:34.400841+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-12T19:33:21.786479+00:00"
+      "published": "2026-11-13T02:21:34.400825+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-12T19:33:21.786448+00:00"
+      "published": "2026-11-13T02:21:34.400793+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-12T19:33:20.003824+00:00"
+      "published": "2026-11-13T02:21:32.452790+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,107 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-12T19:33:18.866607+00:00"
+      "published": "2026-11-13T02:21:31.691245+00:00"
+    },
+    {
+      "id": "38d0e324e4e033ac",
+      "title": "N.Y. Launches Procurement Seeking Another Gigawatt of Storage",
+      "link": "https://www.rtoinsider.com/151345-ny-launches-second-battery-energy-storage-solicitation/",
+      "summary": "The Nov. 12 announcement by the New York State Energy Research and Development Authority comes two months after NYSERDA announced eight contracts totaling 950 MW from its first bulk storage solicitation.\nThe post N.Y. Launches Procurement Seeking Another Gigawatt of Storage appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T02:01:38+00:00"
+    },
+    {
+      "id": "e98856c60cf88bc5",
+      "title": "IESO Expects More Battery Make-whole Payments Under Revised Plan",
+      "link": "https://www.rtoinsider.com/151126-ieso-expects-more-battery-make-whole-payments-under-revised-proposal/",
+      "summary": "IESO expects its revised day-ahead settlement proposal for batteries to result in more make-whole payments than the previous design.\nThe post IESO Expects More Battery Make-whole Payments Under Revised Plan appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T01:20:54+00:00"
+    },
+    {
+      "id": "46c56029fdb0960d",
+      "title": "CISA, Peers Issue Quantum Security Guidance",
+      "link": "https://www.rtoinsider.com/151333-cisa-peers-issue-quantum-security-guidance/",
+      "summary": "U.S. and Australian cybersecurity agencies have published guidelines for evaluating vendors' preparedness for the transition to post-quantum cryptography.\nThe post CISA, Peers Issue Quantum Security Guidance appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T01:19:18+00:00"
+    },
+    {
+      "id": "65dcd3b3704c308a",
+      "title": "PJM OC Briefs: Nov. 5, 2026",
+      "link": "https://www.rtoinsider.com/151349-pjm-operating-committee-briefs-110526/",
+      "summary": "PJM\u2019s Operating Committee endorsed by acclamation revisions to the RTO\u2019s resource outage reporting guidelines, which were drafted through the document\u2019s periodic review.\nThe post PJM OC Briefs: Nov. 5, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T00:41:39+00:00"
+    },
+    {
+      "id": "f9d8d8aed0821633",
+      "title": "BPA CEO Wants Deal on Residential Exchange Program to Avoid Litigation",
+      "link": "https://www.rtoinsider.com/151340-bpa-kavulla-wants-deal-residential-exchange-program/",
+      "summary": "Bonneville Power Administration CEO Travis Kavulla urged investor-owned utilities and public power to reach a deal on how the Northwest region should move forward with the Residential Exchange Program, saying a settlement would be better than \u201carduous and uncertain litigation.\u201d\nThe post BPA CEO Wants Deal on Residential Exchange Program to Avoid Litigation appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T00:39:17+00:00"
+    },
+    {
+      "id": "05877e15f5666eb0",
+      "title": "Trump Admin. Prepping More Federal Land for Data Centers",
+      "link": "https://www.rtoinsider.com/151327-trump-admin-prepping-more-federal-land-for-data-centers/",
+      "summary": "The Trump administration appears to be gearing up to advance data centers on federal lands despite the recent midterm elections results that saw Big Tech industry supporters voted out of office.\nThe post Trump Admin. Prepping More Federal Land for Data Centers appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T00:25:58+00:00"
+    },
+    {
+      "id": "b87dcb2ea450aac8",
+      "title": "Mass. and Nova Scotia Issue Offshore Wind Request for Information",
+      "link": "https://www.rtoinsider.com/151328-mass-nova-scotia-issue-offshore-wind-request-for-information/",
+      "summary": "Massachusetts and Nova Scotia are jointly seeking input on the potential development of offshore wind in Nova Scotia for delivery to New England.\nThe post Mass. and Nova Scotia Issue Offshore Wind Request for Information appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-12T23:39:31+00:00"
+    },
+    {
+      "id": "de4a7abece179a87",
+      "title": "PJM Winter 2026/27 Study Finds No Reliability Issues",
+      "link": "https://www.rtoinsider.com/151347-pjm-winter-2026-27-study-foresees-no-reliability-issues/",
+      "summary": "PJM is poised to maintain adequate reserve margins and face no reliability issues during the 2026/27 winter, although load management deployments may be needed during some scenarios, according to a study by the RTO\u2019s Operations Assessment Task Force.\nThe post PJM Winter 2026/27 Study Finds No Reliability Issues appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-12T23:30:47+00:00"
+    },
+    {
+      "id": "ebfed3e64fddbdf0",
+      "title": "Ohio GOP circulates bill that would stymie coal plant closures",
+      "link": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
+      "summary": "Republican lawmakers in Ohio are circulating a plan to keep coal plants open, even if an owner has a contractual obligation to close a facility. And they hope to pass it fast, before the new Democratic governor-elect, Amy Acton, takes office. A\u00a0 draft bill obtained by Canary Media would block coal-fired power plants\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-12T22:00:00+00:00"
+    },
+    {
+      "id": "aa64ea09d02dcc7f",
+      "title": "Ousted Nvidia CEO Jensen Huang accused of third affair, with another staffer",
+      "link": "https://www.datacenterdynamics.com/en/news/ousted-nvidia-ceo-jensen-huang-accused-of-third-affair-with-another-staffer/",
+      "summary": "He's departed Nvidia, but the revelations won't stop coming",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-12T21:02:00+00:00"
     },
     {
       "id": "20bdd6b82e467999",
@@ -6371,116 +6471,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-23T07:30:00+00:00"
-    },
-    {
-      "id": "833cdcfb6f9c2ec2",
-      "title": "MISO, SPP Say JTIQ Portfolio \u2018Fully Subscribed\u2019",
-      "link": "https://www.rtoinsider.com/149237-miso-spp-say-jtiq-portfolio-now-fully-subscribed/",
-      "summary": "MISO and SPP say their mutual transmission planning initiative to relieve congestion and connect new generation projects along their seam \u2014 the Joint Targeted Interconnection Queue \u2014 has been fully subscribed.\nThe post MISO, SPP Say JTIQ Portfolio \u2018Fully Subscribed\u2019 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-23T02:07:01+00:00"
-    },
-    {
-      "id": "efffff4abdc6c165",
-      "title": "Lukewarm Stakeholder Support for NYISO Large Load Interconnection Framework",
-      "link": "https://www.rtoinsider.com/149222-nyiso-large-load-reform-framework-passes-bic-fails-oc/",
-      "summary": "NYISO\u2019s proposed framework to comply with FERC\u2019s Order to Show Cause on large load interconnections does not have the full endorsement of stakeholders, with most abstaining from votes recommending its approval and some state agencies in opposition.\nThe post Lukewarm Stakeholder Support for NYISO Large Load Interconnection Framework appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-23T01:32:29+00:00"
-    },
-    {
-      "id": "878f8a88d73e86b5",
-      "title": "Ontario Distribution Utilities Face Potentially Sweeping Policy Changes",
-      "link": "https://www.rtoinsider.com/149214-ontario-distribution-utilities-face-potentially-sweeping-reforms/",
-      "summary": "Ontario Energy and Mines Minister Stephen Lecce is preparing a series of \u201creforms\u201d to the province\u2019s local electricity distribution sector, including changes to board qualifications and municipal shareholder practices.\nThe post Ontario Distribution Utilities Face Potentially Sweeping Policy Changes appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-23T00:47:39+00:00"
-    },
-    {
-      "id": "767e3675770be9ed",
-      "title": "Ransomware Group Targeting Infrastructure, CISA Warns",
-      "link": "https://www.rtoinsider.com/149216-ransomware-group-targeting-infrastructure-cisa-warns/",
-      "summary": "CISA and its partners said the SafePay ransomware group has targeted around 600 critical infrastructure organizations worldwide since 2024.\nThe post Ransomware Group Targeting Infrastructure, CISA Warns appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-23T00:34:36+00:00"
-    },
-    {
-      "id": "b74e758a9ef790da",
-      "title": "ACORE Grid Forum Examines Transmission Policy at a Time of Change",
-      "link": "https://www.rtoinsider.com/149220-acore-grid-forum-examines-transmission-policy-time-of-change/",
-      "summary": "U.S. transmission policy is changing as regions implement FERC Order 1920 and Congress weighs passage of the Bipartisan American Affordability and Jobs Act during a lame duck session.\nThe post ACORE Grid Forum Examines Transmission Policy at a Time of Change appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-22T23:54:12+00:00"
-    },
-    {
-      "id": "8fd56e611dcef806",
-      "title": "Majority of New Projects in ISO-NE Transitional Cluster have Withdrawn",
-      "link": "https://www.rtoinsider.com/149149-new-iso-ne-projects-transitional-cluster-study-withdrawn/",
-      "summary": "Facing interconnection cost estimates averaging over $100 million, most new projects and the majority of new capacity participating in ISO-NE\u2019s Transitional Cluster Study have withdrawn from the RTO\u2019s interconnection queue.\nThe post Majority of New Projects in ISO-NE Transitional Cluster have Withdrawn appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-22T23:22:19+00:00"
-    },
-    {
-      "id": "b7fcdf42229895c7",
-      "title": "MISO Advisory Committee Asks for Role in IMM Best Practices Review",
-      "link": "https://www.rtoinsider.com/149160-miso-advisory-committee-asks-for-role-imm-review/",
-      "summary": "MISO\u2019s Advisory Committee is seeking involvement in the ongoing third-party best practices review of the RTO's Independent Market Monitor, which could reshape the boundaries of the IMM\u2019s role and strengthen board oversight.\nThe post MISO Advisory Committee Asks for Role in IMM Best Practices Review appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-22T22:58:53+00:00"
-    },
-    {
-      "id": "7ccfe453af4a00e5",
-      "title": "N.J. Using $500M of RGGI Funds to Ease Energy Bills as Critics Question Participation",
-      "link": "https://www.rtoinsider.com/148680-nj-500m-rggi-funds-ease-energy-bills-critics-question-participation/",
-      "summary": "New Jersey is directing $500 million in funds from the state\u2019s Regional Greenhouse Gas Initiative allocation to help ease surging electricity bills amid a growing debate about whether the cap-and-invest program is no longer effective and has become a ratepayer burden.\nThe post N.J. Using $500M of RGGI Funds to Ease Energy Bills as Critics Question Participation appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-22T22:43:25+00:00"
-    },
-    {
-      "id": "13b8736ce1b60392",
-      "title": "\u2018The Market is Working\u2019: EDAM Operations Successful, PacifiCorp Says",
-      "link": "https://www.rtoinsider.com/148953-edam-market-is-working-pacificorp-pge/",
-      "summary": "Six months in, PacifiCorp said CAISO\u2019s Extended Day-Ahead Market is working well for the utility, with many operational kinks now resolved and natural gas-fired exports reaching new highs.\nThe post \u2018The Market is Working\u2019: EDAM Operations Successful, PacifiCorp Says appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-22T22:27:55+00:00"
-    },
-    {
-      "id": "efd2bb36d407bc94",
-      "title": "NRC Finalizes Rule Allowing Reactor Applicants to Use DOE, DOW Demonstration Data",
-      "link": "https://www.powermag.com/nrc-finalizes-rule-allowing-reactor-applicants-to-use-doe-dow-demonstration-data/",
-      "summary": "The Nuclear Regulatory Commission (NRC) on Oct. 22 finalized a rule that allows commercial nuclear reactor applicants to use analyses, test data, and other technical evidence from reactor demonstrations previously authorized by the Department of Energy (DOE) or Department of War (DOW) to support license applications. The measure establishes a more direct means of incorporating [\u2026]\nThe post NRC Fin",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-22T21:27:16+00:00"
-    },
-    {
-      "id": "e374912eca091cd6",
-      "title": "PJM, FERC Focus on Large Load Challenges at Tech Conference",
-      "link": "https://insidelines.pjm.com/pjm-ferc-focus-on-large-load-challenges-at-tech-conference/",
-      "summary": "PJM joined industry leaders Wednesday to discuss the novel and significant operating and planning challenges associated with the accelerating growth and energy use patterns of data centers. Mounting supply concerns caused by the demand growth from these large load customers, combined with the lag in development of new generation and transmission facilities required to serve [\u2026]",
-      "source": "PJM Inside Lines",
-      "category": "ISO/RTO",
-      "region": "Northeast",
-      "published": "2026-10-22T20:01:54+00:00"
     }
   ]
 }
