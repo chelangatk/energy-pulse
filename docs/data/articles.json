@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T01:57:36.319176+00:00",
-  "count": 651,
+  "generated_at": "2026-11-14T17:42:35.288255+00:00",
+  "count": 655,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-14T01:57:32.435005+00:00"
+      "published": "2026-11-14T17:42:32.132651+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-14T01:57:32.434992+00:00"
+      "published": "2026-11-14T17:42:32.132642+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-14T01:57:32.434975+00:00"
+      "published": "2026-11-14T17:42:32.132632+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-14T01:57:32.434946+00:00"
+      "published": "2026-11-14T17:42:32.132610+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-14T01:57:30.721767+00:00"
+      "published": "2026-11-14T17:40:15.483866+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,77 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-14T01:57:29.502663+00:00"
+      "published": "2026-11-14T17:40:14.446789+00:00"
+    },
+    {
+      "id": "67475a1b91eca872",
+      "title": "Developer Westend Real Assets buys two data centers in Hamburg",
+      "link": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
+      "summary": "The facilities were acquired from private equity firm Deutsche Beteiligungs",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-14T14:00:47+00:00"
+    },
+    {
+      "id": "0a49a9d7c0732fbc",
+      "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "link": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+      "summary": "Company targets two projects outside Vizag",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-14T11:00:55+00:00"
+    },
+    {
+      "id": "421b111c8e5c24b0",
+      "title": "European Union offers to build data center for Moldova",
+      "link": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
+      "summary": "The facility would help to protect the personal data of Moldovan citizens from cyberattacks",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-14T10:00:44+00:00"
+    },
+    {
+      "id": "049bc1796faaff11",
+      "title": "US flights resume after \"telecommunications outage\" causes nationwide ground stop, new tech rollout blamed",
+      "link": "https://www.datacenterdynamics.com/en/news/us-flights-resume-after-telecommunications-outage-causes-nationwide-ground-stop/",
+      "summary": "Routers \"overloaded with data\"",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-14T09:07:00+00:00"
+    },
+    {
+      "id": "c75486b32b29ea48",
+      "title": "Sponsored: When the pressure heats up, what really cools servers down?",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/",
+      "summary": "Demand is leading to cooling constraints across the data center. Joint ventures and more sustainable chillers could provide the long-term answer",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-14T08:00:00+00:00"
+    },
+    {
+      "id": "62786bf78e358fa3",
+      "title": "Humain raises $667m for AI buildout in Saudi Arabia",
+      "link": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+      "summary": "Funding secured alongside the National Infrastructure Fund",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-14T07:00:48+00:00"
+    },
+    {
+      "id": "f1b016525d02ccf4",
+      "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+      "link": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+      "summary": "Part of Tokyo city initiative to find uses for data center heat",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-14T05:00:42+00:00"
     },
     {
       "id": "2e9312d1c7c8b817",
@@ -156,7 +226,7 @@
       "id": "3bea5ce3176b1f83",
       "title": "What\u2019s next for California\u2019s climate laws following an appeals court split decision",
       "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
-      "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+      "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6481,36 +6551,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-25T11:00:30+00:00"
-    },
-    {
-      "id": "8e54f7ec7f01c4ff",
-      "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
-      "link": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
-      "summary": "UK-based Fuse Energy also brings GPU compute online for customers",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-24T13:00:21+00:00"
-    },
-    {
-      "id": "d429db0899d7d11c",
-      "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
-      "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
-      "summary": "Elon Musk's firm will also be back in court over problematic gas turbines",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-24T10:00:21+00:00"
-    },
-    {
-      "id": "7a5067d543c532fe",
-      "title": "Sponsored: GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency",
-      "link": "https://www.datacenterdynamics.com/en/product-news/gf-completes-liquidcore-portfolio-with-intelligent-multi-control-valve-to-maximize-direct-liquid-cooling-efficiency/",
-      "summary": "The introduction of the Multi Control Valve serves as the vital active intelligence layer that completes GF\u2019s single-source LiquidCore system offering",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-24T07:00:00+00:00"
     }
   ]
 }
