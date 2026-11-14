@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T19:13:51.520560+00:00",
-  "count": 650,
+  "generated_at": "2026-11-14T01:57:36.319176+00:00",
+  "count": 651,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-13T19:13:48.908705+00:00"
+      "published": "2026-11-14T01:57:32.435005+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-13T19:13:48.908693+00:00"
+      "published": "2026-11-14T01:57:32.434992+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-13T19:13:48.908676+00:00"
+      "published": "2026-11-14T01:57:32.434975+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-13T19:13:48.908643+00:00"
+      "published": "2026-11-14T01:57:32.434946+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-13T19:13:47.253950+00:00"
+      "published": "2026-11-14T01:57:30.721767+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,37 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-13T19:13:45.881816+00:00"
+      "published": "2026-11-14T01:57:29.502663+00:00"
+    },
+    {
+      "id": "2e9312d1c7c8b817",
+      "title": "Appalachian Power Investing Nearly $25 Billion For Gas and Coal Power Plants",
+      "link": "https://www.powermag.com/appalachian-power-investing-nearly-25-billion-for-gas-and-coal-power-plants/",
+      "summary": "West Virginia Gov. Patrick Morrisey said major state electric utility Appalachian Power will invest $17 billion to build new natural gas-fired power plants in the state. The Republican governor on November 12 also announced that the generator is making a separate $7.5-billion commitment to upgrade existing coal-fired power plants in the state. \u201cWest Virginia has [\u2026]\nThe post Appalachian Power Inve",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T21:05:31+00:00"
+    },
+    {
+      "id": "2b42811b0dadaf98",
+      "title": "How California Gov.-elect Becerra could be better on climate than Newsom",
+      "link": "https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate",
+      "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state\u2019s clean energy transition.  Subscribe to get it weekly via Substack.  Welcome back, everyone! Well, we may have finally caught a break when it comes to making progress on climate and energy. The midterm elections have given Democrats\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T20:00:00+00:00"
+    },
+    {
+      "id": "542931867422e206",
+      "title": "Stakeholders Partially Support CPUC\u2019s AB 825 Implementation Plan",
+      "link": "https://www.rtoinsider.com/151242-tbd-cpuc-ab-825-kick-off-meeting/",
+      "summary": "Stakeholders generally agree about how the CPUC should implement certain requirements of AB 825, but some are expressing reservations around how the shift in CAISO market oversight could affect resource adequacy arrangements and access to data.\nThe post Stakeholders Partially Support CPUC\u2019s AB 825 Implementation Plan appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T19:43:23+00:00"
     },
     {
       "id": "5ab37f171fb92321",
@@ -6481,26 +6511,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-24T07:00:00+00:00"
-    },
-    {
-      "id": "becbc82b6c914b71",
-      "title": "9th Circuit Denies Nonprofits\u2019 Bid to Reverse BPA\u2019s Markets+ Decision",
-      "link": "https://www.rtoinsider.com/149626-9th-circ-denies-enviros-bid-to-reverse-bpas-dam-decision/",
-      "summary": "A split three-judge panel on the 9th U.S. Circuit Court of Appeals tossed a suit filed by a group of nonprofits alleging the Bonneville Power Administration\u2019s decision to pursue participation in SPP\u2019s Markets+ could harm ratepayers, saying the plaintiffs lack standing because the market does not yet exist.\nThe post 9th Circuit Denies Nonprofits\u2019 Bid to Reverse BPA\u2019s Markets+ Decision appeared firs",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-24T01:56:25+00:00"
-    },
-    {
-      "id": "65086242106c9994",
-      "title": "ROWE Elects Board Chair, Moves \u2018Very Rapidly\u2019 on CEO Appointment",
-      "link": "https://www.rtoinsider.com/149235-rowe-elects-board-chair-moves-very-rapidly/",
-      "summary": "The Regional Organization for Western Energy has chosen its board chair and now focuses on appointing a CEO as the organization prepares to assume governance over CAISO\u2019s energy markets.\nThe post ROWE Elects Board Chair, Moves \u2018Very Rapidly\u2019 on CEO Appointment appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-23T19:58:39+00:00"
     }
   ]
 }
