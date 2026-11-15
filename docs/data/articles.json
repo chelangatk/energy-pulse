@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T01:29:56.670020+00:00",
-  "count": 655,
+  "generated_at": "2026-11-15T18:29:41.602806+00:00",
+  "count": 656,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-15T01:29:53.338122+00:00"
+      "published": "2026-11-15T18:29:39.060463+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-15T01:29:53.338109+00:00"
+      "published": "2026-11-15T18:29:39.060449+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-15T01:29:53.338094+00:00"
+      "published": "2026-11-15T18:29:39.060432+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-15T01:29:53.338061+00:00"
+      "published": "2026-11-15T18:29:39.060404+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-15T01:29:51.250778+00:00"
+      "published": "2026-11-15T18:29:37.585911+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,57 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-15T01:29:49.639371+00:00"
+      "published": "2026-11-15T18:29:36.137008+00:00"
+    },
+    {
+      "id": "1e705e11514958a7",
+      "title": "MISO Rebuffs IMM\u2019s Advice to Restrict Market Reprices",
+      "link": "https://www.rtoinsider.com/151486-miso-rebuffs-imms-advice-restrict-market-reprices/",
+      "summary": "MISO announced it would not pursue changes to limit instances of market repricing as its Monitor suggested, instead committing to minimizing pricing errors in the first place.\nThe post MISO Rebuffs IMM\u2019s Advice to Restrict Market Reprices appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T18:26:57+00:00"
+    },
+    {
+      "id": "3f9c0f255af6c732",
+      "title": "DOE Directs Campbell Coal Plant to Stay Open Despite Court Ruling",
+      "link": "https://www.rtoinsider.com/151499-doe-directs-campbell-coal-plant-to-stay-open-despite-court-ruling/",
+      "summary": "Secretary of Energy Chris Wright directed the Campbell coal plant to stay open another 90 days, with DOE announcing the action as its appeal of a D.C. Circuit ruling is pending.\nThe post DOE Directs Campbell Coal Plant to Stay Open Despite Court Ruling appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T17:14:10+00:00"
+    },
+    {
+      "id": "efe9020dfcfc6832",
+      "title": "Southwest Hydro Output Falls to Record Lows, Further Decline Expected",
+      "link": "https://www.rtoinsider.com/151480-southwest-hydro-output-falls-record-lows/",
+      "summary": "Southwest hydroelectric output sank to record lows in summer 2026 and is expected to fall again inn 2027 in the face of prolonged drought, according to the Energy Information Administration.\nThe post Southwest Hydro Output Falls to Record Lows, Further Decline Expected appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T16:55:18+00:00"
+    },
+    {
+      "id": "2afb6c1f207fa28c",
+      "title": "SPP Hires Arielle Schwartz as Fed Policy Lead",
+      "link": "https://www.rtoinsider.com/151454-spp-hires-arielle-schwartz-fed-policy-lead/",
+      "summary": "SPP has strengthened its relationship with FERC by naming Arielle Schwartz as director of federal regulatory policy. She just happens to be the sister of FERC Chair Laura Swett.\nThe post SPP Hires Arielle Schwartz as Fed Policy Lead appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T16:48:32+00:00"
+    },
+    {
+      "id": "133784554235d582",
+      "title": "Airsys invests in digital boiler startup ThermAI",
+      "link": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+      "summary": "Cooling company providing spray-cooling technology to UK startup",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-15T11:00:47+00:00"
     },
     {
       "id": "67475a1b91eca872",
@@ -163,6 +213,16 @@
       "published": "2026-11-13T19:43:23+00:00"
     },
     {
+      "id": "60bac8aaf5891d61",
+      "title": "Stakeholders Partly Support CPUC\u2019s AB 825 Implementation Plan",
+      "link": "https://www.rtoinsider.com/151242-stakeholders-partly-support-cpucs-ab-825-implementation-plan/",
+      "summary": "Stakeholders generally agree about how the CPUC should implement certain requirements of AB 825, but some are expressing reservations around how the shift in CAISO market oversight could affect resource adequacy arrangements and access to data.\nThe post Stakeholders Partly Support CPUC\u2019s AB 825 Implementation Plan appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-13T19:43:23+00:00"
+    },
+    {
       "id": "5ab37f171fb92321",
       "title": "The Federal Playbook Against Data Center Bans",
       "link": "https://www.rtoinsider.com/151003-the-federal-playbook-against-data-center-bans/",
@@ -226,7 +286,7 @@
       "id": "3bea5ce3176b1f83",
       "title": "What\u2019s next for California\u2019s climate laws following an appeals court split decision",
       "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
-      "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+      "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6501,56 +6561,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-25T18:31:57+00:00"
-    },
-    {
-      "id": "a69d529d805ecdf8",
-      "title": "MISO Members Largely Denounce DOE Emergency Coal Plant Orders",
-      "link": "https://www.rtoinsider.com/149296-miso-members-denounce-doe-emergency-coal-orders/",
-      "summary": "MISO\u2019s Advisory Committee has precious few supporters in its ranks of the U.S. Department of Energy\u2019s use of emergency orders to prevent the retirement of three coal plants in the RTO's footprint.\nThe post MISO Members Largely Denounce DOE Emergency Coal Plant Orders appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T17:33:23+00:00"
-    },
-    {
-      "id": "65f20ae5400d357c",
-      "title": "Local Governments Step in to Tighten Data Center Regs",
-      "link": "https://www.rtoinsider.com/149615-local-governments-tighten-data-center-regs/",
-      "summary": "Counties and municipalities across the West are not waiting for state leaders to address growing public concern about data centers during upcoming legislative sessions that start in January 2027.\nThe post Local Governments Step in to Tighten Data Center Regs appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T17:30:22+00:00"
-    },
-    {
-      "id": "2f62ad744674b61e",
-      "title": "New York TOs to Propose Cost Recovery Agreement on Large Loads",
-      "link": "https://www.rtoinsider.com/149238-nytos-separately-file-large-load-proposal-ferc/",
-      "summary": "The New York Transmission Owners are exercising their 205 Filing rights while hoping to avoid a protracted legal battle over state vs FERC authority.\nThe post New York TOs to Propose Cost Recovery Agreement on Large Loads appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T17:25:05+00:00"
-    },
-    {
-      "id": "5713eb3b051a43e5",
-      "title": "ACORE Forum Underscores Grid Strain, Openings to Ease It",
-      "link": "https://www.rtoinsider.com/149642-acore-forum-underscores-grid-strain/",
-      "summary": "The American Council on Renewable Energy\u2019s grid forum offered a panoramic snapshot of a status quo under stress from soaring load growth. It also highlighted an array of options for relief.\nThe post ACORE Forum Underscores Grid Strain, Openings to Ease It appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T17:13:44+00:00"
-    },
-    {
-      "id": "b378a3fb6b6cd8eb",
-      "title": "The power behind AI: Data centers drive the demand for qualified electricians",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
-      "summary": "An insatiable demand for electricians",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-25T11:00:30+00:00"
     }
   ]
 }
