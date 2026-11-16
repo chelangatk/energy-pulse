@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T18:29:41.602806+00:00",
-  "count": 656,
+  "generated_at": "2026-11-16T01:32:57.208294+00:00",
+  "count": 658,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-15T18:29:39.060463+00:00"
+      "published": "2026-11-16T01:32:55.803625+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-15T18:29:39.060449+00:00"
+      "published": "2026-11-16T01:32:55.803616+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-15T18:29:39.060432+00:00"
+      "published": "2026-11-16T01:32:55.803604+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-15T18:29:39.060404+00:00"
+      "published": "2026-11-16T01:32:55.803576+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-15T18:29:37.585911+00:00"
+      "published": "2026-11-16T01:32:54.853000+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-15T18:29:36.137008+00:00"
+      "published": "2026-11-16T01:32:54.134847+00:00"
+    },
+    {
+      "id": "c749d3e7de7d4e97",
+      "title": "Debate Continues on Markets+ Voting Sectors at Go-live",
+      "link": "https://www.rtoinsider.com/151500-debate-continues-markets-voting-sectors-at-go-live/",
+      "summary": "The stakeholder leadership of SPP's Markets+ has agreed with a task force that it needs additional time to continue its negotiations over governance sector placement and voting representation that have become bogged down in recent months.\nThe post Debate Continues on Markets+ Voting Sectors at Go-live appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T21:06:55+00:00"
+    },
+    {
+      "id": "d92a63c57a367347",
+      "title": "Report: Utilities Need to Partner with Automakers to Manage EV Charging",
+      "link": "https://www.rtoinsider.com/151470-report-utilities-need-partner-automakers-manage-ev-charging/",
+      "summary": "As more consumers adopt electric vehicles, the electricity industry needs to work with automakers to coordinate charging so it does not overwhelm the power system, the Smart Electric Power Alliance says in a recent report.\nThe post Report: Utilities Need to Partner with Automakers to Manage EV Charging appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T21:05:03+00:00"
+    },
+    {
+      "id": "371f6b6f353a6a40",
+      "title": "PJM MRC/MC Preview: Nov. 18, 2026",
+      "link": "https://www.rtoinsider.com/151449-pjm-mrc-mc-preview-111826/",
+      "summary": "The PJM Markets and Reliability Committee will consider endorsing manual revisions, among other items on the agenda.\nThe post PJM MRC/MC Preview: Nov. 18, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T21:02:17+00:00"
+    },
+    {
+      "id": "01ddc22a3d32dcc6",
+      "title": "BAAJA vs. Local Opposition to AI, Transmission and Clean Energy",
+      "link": "https://www.rtoinsider.com/151451-baaja-vs-local-opposition-ai-transmission-clean-energy/",
+      "summary": "Data centers have tapped into \u2500 and become emblematic of \u2500 deep-seated social fears and anxieties, and opposition to them is driving policy at the local, state, federal and international levels, writes Livewire columnist K Kaufmann.\nThe post BAAJA vs. Local Opposition to AI, Transmission and Clean Energy appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T20:26:08+00:00"
+    },
+    {
+      "id": "596515c72a5870d5",
+      "title": "NEPOOL PC Supports Most of ISO-NE\u2019s Proposed Large Load Changes",
+      "link": "https://www.rtoinsider.com/151473-nepool-pc-supports-most-of-iso-nes-proposed-large-load-changes/",
+      "summary": "The NEPOOL Participants Committee voted to approve most of ISO-NE\u2019s proposed treatment of large loads but did not support the New England transmission owners\u2019 proposed cost recovery approach.\nThe post NEPOOL PC Supports Most of ISO-NE\u2019s Proposed Large Load Changes appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T19:54:11+00:00"
+    },
+    {
+      "id": "a8ad592ad050c535",
+      "title": "$14.7B MTEP 26 Clears MISO Board Committee Vote",
+      "link": "https://www.rtoinsider.com/151431-mtep-26-clears-board-committee-vote/",
+      "summary": "More than half of the $14.7 billion costs spread across 532 projects in MISO\u2019s 2026 Transmission Expansion Plan are derived from large load entries on the system, prompting stakeholders to appeal for consumer protections.\nThe post $14.7B MTEP 26 Clears MISO Board Committee Vote appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T19:23:45+00:00"
+    },
+    {
+      "id": "34f5b30577dbba36",
+      "title": "BPA Misses Revenue Goals, Grows Workforce",
+      "link": "https://www.rtoinsider.com/151384-bpa-misses-revenue-target-grows-workforce/",
+      "summary": "The Bonneville Power Administration\u2019s net revenues ended $49 million below target by the end of fiscal year 2026 following court-ordered spill and a difficult water year, the agency\u2019s acting chief financial officer said.\nThe post BPA Misses Revenue Goals, Grows Workforce appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T19:21:09+00:00"
+    },
+    {
+      "id": "b129d6bae52f0c55",
+      "title": "MISO Vows Improvements After Rash of Market Pricing Errors, Delays",
+      "link": "https://www.rtoinsider.com/151483-miso-vows-improvements-after-market-pricing-errors-delays/",
+      "summary": "After its market has racked up a string of pricing errors in 2026, MISO announced it\u2019s embarking on a market quality initiative.\nThe post MISO Vows Improvements After Rash of Market Pricing Errors, Delays appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-15T18:44:54+00:00"
     },
     {
       "id": "1e705e11514958a7",
@@ -6501,66 +6581,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-26T07:30:00+00:00"
-    },
-    {
-      "id": "867317250424345d",
-      "title": "SPP Confident of Compliance with FERC Show Cause",
-      "link": "https://www.rtoinsider.com/149647-spp-confident-compliance-with-ferc-show-cause/",
-      "summary": "SPP says it is 90% compliant with FERC\u2019s show-cause order on large load interconnection processes, pointing to its development of a new participation model for flexible price-sensitive loads as a major reason why.\nThe post SPP Confident of Compliance with FERC Show Cause appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T20:05:16+00:00"
-    },
-    {
-      "id": "7c189695e4a4dc16",
-      "title": "PJM to Refile Reliability Backstop Procurement",
-      "link": "https://www.rtoinsider.com/149336-pjm-to-refile-reliability-backstop-procurement/",
-      "summary": "PJM intends to refile its Reliability Backstop Procurement with FERC on Oct. 29, taking the commission up on its recommendation to resubmit the proposal with changes to three core areas.\nThe post PJM to Refile Reliability Backstop Procurement appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T19:53:55+00:00"
-    },
-    {
-      "id": "5ca6ac0d7f438ce4",
-      "title": "MISO to Raise Member Rates, Requests Largest-ever $550M Budget in 2027",
-      "link": "https://www.rtoinsider.com/149303-miso-raise-member-rates-requests-550m-2027-budget/",
-      "summary": "MISO is raising the rates it collects on members in 2027, mostly due to the interest refunds it owes to the large number of interconnection customers leaving its queue.\nThe post MISO to Raise Member Rates, Requests Largest-ever $550M Budget in 2027 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T18:54:30+00:00"
-    },
-    {
-      "id": "f5f564c38024573d",
-      "title": "MISO Plans External Resource Capacity Accreditation, Including HVDC-Enabled Gen",
-      "link": "https://www.rtoinsider.com/149306-miso-plans-external-resource-capacity-accreditation/",
-      "summary": "MISO is drawing up a single method for accrediting the capacity of external resources, including those carried into the footprint via HVDC lines.\nThe post MISO Plans External Resource Capacity Accreditation, Including HVDC-Enabled Gen appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T18:50:26+00:00"
-    },
-    {
-      "id": "440d80e458a7e31e",
-      "title": "MISO Plans External Resource Capacity Accreditation, Including HVDC-enabled Gen",
-      "link": "https://www.rtoinsider.com/149306-miso-plans-external-resource-capacity-accreditation/",
-      "summary": "MISO is drawing up a single method for accrediting the capacity of external resources, including those carried into the footprint via HVDC lines.\nThe post MISO Plans External Resource Capacity Accreditation, Including HVDC-enabled Gen appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T18:50:26+00:00"
-    },
-    {
-      "id": "ad62f30e81381b57",
-      "title": "ISO-NE Transmission Owners Add $1.8B to Asset Condition List",
-      "link": "https://www.rtoinsider.com/149212-iso-ne-transmission-owners-add-asset-condition-list/",
-      "summary": "ISO-NE transmission owners added new asset condition projects totaling $1.8 billion since the last update to their project list, the RTO told the Planning Advisory Committee.\nThe post ISO-NE Transmission Owners Add $1.8B to Asset Condition List appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-25T18:31:57+00:00"
     }
   ]
 }
