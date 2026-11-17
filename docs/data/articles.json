@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T21:39:29.015740+00:00",
-  "count": 663,
+  "generated_at": "2026-11-17T04:18:24.543260+00:00",
+  "count": 666,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-16T21:39:24.898493+00:00"
+      "published": "2026-11-17T04:18:21.647850+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-16T21:39:24.898478+00:00"
+      "published": "2026-11-17T04:18:21.647841+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-16T21:39:24.898460+00:00"
+      "published": "2026-11-17T04:18:21.647830+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-16T21:39:24.898429+00:00"
+      "published": "2026-11-17T04:18:21.647801+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-16T21:39:23.505457+00:00"
+      "published": "2026-11-17T04:18:20.329325+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-16T21:39:22.383218+00:00"
+      "published": "2026-11-17T04:18:19.307625+00:00"
+    },
+    {
+      "id": "60a0cdf6730a7cf9",
+      "title": "N.J. Launches VPP, Storage Programs",
+      "link": "https://www.rtoinsider.com/151444-new-jersey-program-virtual-power-plant-initiative-vpp/",
+      "summary": "New Jersey has launched a virtual power plant initiative and a related 250-MW storage development incentive program that officials hope will help shave up to 20% from the state\u2019s demand peaks.\nThe post N.J. Launches VPP, Storage Programs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-17T02:01:14+00:00"
+    },
+    {
+      "id": "298a64db4b942f25",
+      "title": "Oregon PUC OKs Pacific Power\u2019s Plan to Shield Customers from Data Center Costs",
+      "link": "https://www.rtoinsider.com/151590-oregon-puc-oks-pacific-powers-plan-shield-customers-data-center-costs/",
+      "summary": "The Oregon Public Utility Commission approved tariff revisions that would require new data centers in Pacific Power\u2019s service area to pay the full costs of serving their facilities under a direct contracting and direct assignment approach.\nThe post Oregon PUC OKs Pacific Power\u2019s Plan to Shield Customers from Data Center Costs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-17T01:24:03+00:00"
+    },
+    {
+      "id": "4414dea43b3aa2b2",
+      "title": "PJM MIC Briefs: Nov. 4, 2026",
+      "link": "https://www.rtoinsider.com/151447-pjm-mic-briefs-110426/",
+      "summary": "The PJM Market Implementation Committee endorsed a Voltus issue charge to account for demand response resources being dispatched to curtail during the same hours of their winter peak load for accreditation purposes.\nThe post PJM MIC Briefs: Nov. 4, 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-17T00:51:25+00:00"
+    },
+    {
+      "id": "6e9b0620ed9a0d8f",
+      "title": "For Georgia Power, Large Load Growth Fuels Cost-shifting Scrutiny",
+      "link": "https://www.rtoinsider.com/151325-georgia-power-large-load-growth-fuels-cost-shifting-scrutiny/",
+      "summary": "The Georgia PSC is weighing a contentious reappraisal of Georgia Power's fuel credit allocation framework used in real-time pricing for large industrial and commercial customers.\nThe post For Georgia Power, Large Load Growth Fuels Cost-shifting Scrutiny appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-17T00:42:26+00:00"
+    },
+    {
+      "id": "1654a2352aaad4b4",
+      "title": "MISO Looking to Fix $10K Pricing Intervals During Solar Cliffs",
+      "link": "https://www.rtoinsider.com/151583-miso-working-out-fix-10k-pricing-intervals-during-solar-cliffs/",
+      "summary": "MISO plans to make market changes to help counter the increasing number of intervals that prices hit the RTO\u2019s $10,000/MWh value of lost load when its system runs short on rampable generation during steep daily drops in solar output.\nThe post MISO Looking to Fix $10K Pricing Intervals During Solar Cliffs appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-17T00:31:40+00:00"
+    },
+    {
+      "id": "82e022fee9d643d9",
+      "title": "Summary of FERC Meeting Agenda for November 2026",
+      "link": "https://www.rtoinsider.com/summary-of-ferc-meeting-agenda-for-november-2026/",
+      "summary": "Summaries of the agenda items for the FERC\u2019s monthly open meeting to be held Nov. 19, 2026. They were furnished by the White & Case law firm.\nThe post Summary of FERC Meeting Agenda for November 2026 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-16T23:50:56+00:00"
+    },
+    {
+      "id": "41798c53ae5635e1",
+      "title": "On the Distribution Grid, Every Street is Different",
+      "link": "https://www.rtoinsider.com/150566-on-the-distribution-grid-every-street-is-different/",
+      "summary": "On the distribution system, utilization is intensely local: It depends on when customers use power, and raising it is not free, EPRI CEO Arshad Mansoor writes.\nThe post On the Distribution Grid, Every Street is Different appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-16T23:16:15+00:00"
+    },
+    {
+      "id": "8d15ba8093365590",
+      "title": "Permitting reform is a big, controversial bet for the energy transition",
+      "link": "https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet",
+      "summary": "The Senate bipartisan permitting bill is essentially an enormous three-part bet by the Democrats and clean energy advocates who support it.\u00a0 The first part of the bet is that streamlining federal environmental reviews and permitting processes for all energy infrastructure will lead to more clean than dirty energy\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-16T22:30:00+00:00"
     },
     {
       "id": "3779ca1252fa5b18",
@@ -236,7 +316,7 @@
       "id": "3337709d8c8e4c10",
       "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
       "link": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
-      "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at\u00a0$1,400/KW, while NRG is \u201cdeveloping 1.5 GW of new natural gas generation in Texas for just above $1,000/KW.\u201d",
+      "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at\u00a0$1,400/kW, while NRG is \u201cdeveloping 1.5 GW of new natural gas generation in Texas\u201d\u00a0for just above $1,000/kW.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -260,7 +340,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-11-16T15:20:41+00:00"
+      "published": "2026-11-16T15:20:00+00:00"
     },
     {
       "id": "00f205eca7aa8d4e",
@@ -300,7 +380,7 @@
       "source": "Data Center Dynamics",
       "category": "Data Centers & Load Growth",
       "region": "National",
-      "published": "2026-11-16T14:37:38+00:00"
+      "published": "2026-11-16T14:37:00+00:00"
     },
     {
       "id": "249ec101b56b2788",
@@ -6581,56 +6661,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-27T07:30:00+00:00"
-    },
-    {
-      "id": "324547f77467bbdc",
-      "title": "Small-scale Resources Presented as Grid Solutions",
-      "link": "https://www.rtoinsider.com/149779-reports-play-up-grid-benefits-distributed-solar-storage/",
-      "summary": "Two new reports promote the value of distributed energy resources in meeting the needs of a stressed grid.\nThe post Small-scale Resources Presented as Grid Solutions appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-27T00:13:26+00:00"
-    },
-    {
-      "id": "4e519e0df03e22e0",
-      "title": "LaCerte Lauds Southeast, Decries Politics-driven Energy Decisions",
-      "link": "https://www.rtoinsider.com/149708-lacerte-lauds-southeast-decries-politics-energy-decisions/",
-      "summary": "Speaking before a conference of energy traders, FERC Commissioner David LaCerte praised the Southeastern states for enabling infrastructure and data center buildout while criticizing New England and Texas for making decisions based on politics.\nThe post LaCerte Lauds Southeast, Decries Politics-driven Energy Decisions appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-27T00:05:04+00:00"
-    },
-    {
-      "id": "1b8a26c5315e5c56",
-      "title": "NERC Trustees Approve Large Loads Standards in Special Meeting",
-      "link": "https://www.rtoinsider.com/149724-nerc-trustees-approve-large-loads-standards/",
-      "summary": "NERC's board agreed to send five new standards addressing computational loads to FERC for final approval.\nThe post NERC Trustees Approve Large Loads Standards in Special Meeting appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-26T23:39:11+00:00"
-    },
-    {
-      "id": "3874f411c42c4406",
-      "title": "FERC Approves New Rules, Penalties for Demand Response in MISO",
-      "link": "https://www.rtoinsider.com/149777-ferc-approves-new-rules-penalties-demand-response-miso/",
-      "summary": "FERC approved new penalties designed to ensure demand response shows up when called upon by MISO.\nThe post FERC Approves New Rules, Penalties for Demand Response in MISO appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-26T22:58:11+00:00"
-    },
-    {
-      "id": "69e235189d25307f",
-      "title": "Leading with Leverage: BPA will Improve the ROWE",
-      "link": "https://www.rtoinsider.com/149632-leading-with-leverage-bpa-will-improve-the-rowe/",
-      "summary": "The promise of ROWE is that joining a bigger, deeper market that includes California no longer means being a house guest subject, at least at some level, to house rules, writes Spencer Gray.\nThe post Leading with Leverage: BPA will Improve the ROWE appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-26T22:09:59+00:00"
     }
   ]
 }
