@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T19:59:28.515244+00:00",
-  "count": 662,
+  "generated_at": "2026-11-19T02:55:19.840899+00:00",
+  "count": 660,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-18T19:59:26.147367+00:00"
+      "published": "2026-11-19T02:55:16.461148+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-18T19:59:26.147356+00:00"
+      "published": "2026-11-19T02:55:16.461137+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-18T19:59:26.147343+00:00"
+      "published": "2026-11-19T02:55:16.461123+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-18T19:59:26.147314+00:00"
+      "published": "2026-11-19T02:55:16.461098+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-18T19:59:24.803460+00:00"
+      "published": "2026-11-19T02:55:14.302504+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,67 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-18T19:59:23.835804+00:00"
+      "published": "2026-11-19T02:55:13.268783+00:00"
+    },
+    {
+      "id": "9f6d628a80cf4368",
+      "title": "Dominion, NextEra CEOs Face Questions in Va. SCC Merger Review",
+      "link": "https://www.rtoinsider.com/151800-va-scc-merger-hearings-kick-off-ceo-testimony/",
+      "summary": "The CEOs of Dominion Energy and NextEra Energy faced questions from the Virginia State Corporation Commission over the companies' proposed merger.\nThe post Dominion, NextEra CEOs Face Questions in Va. SCC Merger Review appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T01:48:18+00:00"
+    },
+    {
+      "id": "9053484d7f17f7a8",
+      "title": "NERC Urges Preparedness Ahead of \u2018Unpredictable\u2019 Winter",
+      "link": "https://www.rtoinsider.com/151790-nerc-winter-reliability-assessment-urges-preparedness/",
+      "summary": "In its Winter Reliability Assessment, NERC predicted that all subregions would have adequate resources for normal weather conditions, but warned of unpredictable effects from the El Ni\u00f1o climate pattern.\nThe post NERC Urges Preparedness Ahead of \u2018Unpredictable\u2019 Winter appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T01:35:30+00:00"
+    },
+    {
+      "id": "3eed3c184e8bbf63",
+      "title": "NYISO Finds Statewide Resource Deficiency by 2033",
+      "link": "https://www.rtoinsider.com/151811-nyiso-finds-statewide-resource-deficiency-by-2033/",
+      "summary": "A combination of generation retirements, generator unavailability during peak conditions because of old age and the addition of large loads has led NYISO to declare a statewide resource deficiency, according to its latest Reliability Needs Assessment.\nThe post NYISO Finds Statewide Resource Deficiency by 2033 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T01:23:20+00:00"
+    },
+    {
+      "id": "49d0d86f02da718c",
+      "title": "Heat Pumps Described As Key to Addressing Southern Load Growth",
+      "link": "https://www.rtoinsider.com/151814-heat-pumps-described-key-addressing-southern-load-growth/",
+      "summary": "Southern utilities and policymakers could dramatically cut cold weather peak demand and the need for new gas-fired speaker plants by incentivizing households to adopt heat pumps.\nThe post Heat Pumps Described As Key to Addressing Southern Load Growth appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T00:36:40+00:00"
+    },
+    {
+      "id": "9ea0cfbcdfbfbd1e",
+      "title": "Beyond American Made: Bolstering the Executive Order on Bulk Power Security",
+      "link": "https://www.rtoinsider.com/151359-beyond-american-made-bolstering-executive-order-bulk-power-security/",
+      "summary": "An August executive order on bulk power security is a good start but doesn't go far enough to protect critical infrastructure, Owl Cyber Defense CEO Scott Orton writes.\nThe post Beyond American Made: Bolstering the Executive Order on Bulk Power Security appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T00:13:29+00:00"
+    },
+    {
+      "id": "daf4806005362774",
+      "title": "ISO-NE Asset Condition Review Supports $70M VELCO Upgrade",
+      "link": "https://www.rtoinsider.com/151798-iso-ne-asset-condition-review-supports-70m-velco-upgrade/",
+      "summary": "An interim review commissioned by ISO-NE supported the need and design of a $70 million line upgrade proposed by the Vermont Electric Power Company.\nThe post ISO-NE Asset Condition Review Supports $70M VELCO Upgrade appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T00:11:35+00:00"
     },
     {
       "id": "f7658cd8a1109d10",
@@ -6541,86 +6601,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-29T07:30:00+00:00"
-    },
-    {
-      "id": "17628f30f0c1ea31",
-      "title": "Report Examines SPP\u2019s Western BAA Energy Alerts",
-      "link": "https://www.rtoinsider.com/150020-report-examines-spp-energy-alerts-in-western-baa/",
-      "summary": "A report from SPP\u2019s Market Monitoring Unit digs into energy emergency alerts issued for the RTO\u2019s West balancing authority area on three days over the summer, concluding that the West BAA\u2019s reliability issues extend beyond a capacity shortage.\nThe post Report Examines SPP\u2019s Western BAA Energy Alerts appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-29T00:29:12+00:00"
-    },
-    {
-      "id": "d301800102499856",
-      "title": "MISO, SPP Fail Again to Find Interregional Projects",
-      "link": "https://www.rtoinsider.com/150040-miso-spp-fail-again-find-interregional-projects/",
-      "summary": "Expectations for the first joint interregional project between MISO and SPP, a 500-kV transmission project from Oklahoma to Arkansas, have vanished with the grid operators\u2019 decision to conclude a two-year study without a recommendation.\nThe post MISO, SPP Fail Again to Find Interregional Projects appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-29T00:17:44+00:00"
-    },
-    {
-      "id": "33e81a80ad51762d",
-      "title": "CAISO Board Approves Large Loads Proposal",
-      "link": "https://www.rtoinsider.com/149821-caiso-board-approves-large-loads-proposal/",
-      "summary": "CAISO\u2019s Board of Governors approved a large loads proposal designed to accommodate growing artificial intelligence data center demand in the ISO.\nThe post CAISO Board Approves Large Loads Proposal appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-28T23:33:59+00:00"
-    },
-    {
-      "id": "3656ce634e6f1649",
-      "title": "Grid Held Last Winter; Weather Forecasts Missed at Both Extremes",
-      "link": "https://www.rtoinsider.com/149785-grid-held-last-winter-weather-forecasts-missed-at-both-extremes/",
-      "summary": "The FERC-NERC review of last winter\u2019s arctic cold gives the grid credit for getting through Winter Storms Fern and Gianna without shedding firm load, even as U.S. demand peaked at 666 GW on Jan. 27.\nThe post Grid Held Last Winter; Weather Forecasts Missed at Both Extremes appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-28T22:19:55+00:00"
-    },
-    {
-      "id": "096b2e17e8959b36",
-      "title": "ROWE Solicits Input on Choosing Headquarters Location",
-      "link": "https://www.rtoinsider.com/150022-rowe-solicits-input-choosing-headquarters-location/",
-      "summary": "The Regional Organization for Western Energy\u2019s recently seated board is seeking stakeholder feedback on how to choose the headquarters location for the new entity.\nThe post ROWE Solicits Input on Choosing Headquarters Location appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-28T22:16:21+00:00"
-    },
-    {
-      "id": "3dbc2ad2a0a8ee38",
-      "title": "EDF Tallies Cost of Trump\u2019s Support for Coal Power",
-      "link": "https://www.rtoinsider.com/150031-edf-reports-trump-has-subsidized-half-us-coal-plants/",
-      "summary": "The support for coal is costing taxpayers and ratepayers hundreds of millions of dollars and continuing the release of harmful emissions, EDF said.\nThe post EDF Tallies Cost of Trump\u2019s Support for Coal Power appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-28T22:14:02+00:00"
-    },
-    {
-      "id": "e2cf3f4d08a2c02a",
-      "title": "Alliant Energy Gets $5.1B Loan for Gas, Storage Projects",
-      "link": "https://www.rtoinsider.com/150026-doe-loans-alliant-5-1b-expand-generation-boost-reliability/",
-      "summary": "The Department of Energy loan will help Alliant Energy develop 1.8 GW of additional gas-fired generation and 1 GW of storage in Iowa and Wisconsin.\nThe post Alliant Energy Gets $5.1B Loan for Gas, Storage Projects appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-28T21:48:08+00:00"
-    },
-    {
-      "id": "876538edaead987b",
-      "title": "Building liquid cooling systems that last: the critical role of sustaining engineering",
-      "link": "https://www.datacenterdynamics.com/en/opinions/building-liquid-cooling-systems-that-last-the-critical-role-of-sustaining-engineering/",
-      "summary": "Liquid cooling must remain reliable, serviceable, and adaptable to what the future holds",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-28T20:58:39+00:00"
     }
   ]
 }
