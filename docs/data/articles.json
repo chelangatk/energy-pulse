@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T19:57:53.341610+00:00",
-  "count": 653,
+  "generated_at": "2026-11-20T02:49:14.461074+00:00",
+  "count": 656,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-19T19:57:49.552077+00:00"
+      "published": "2026-11-20T02:49:11.355417+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-19T19:57:49.552066+00:00"
+      "published": "2026-11-20T02:49:11.355406+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-19T19:57:49.552050+00:00"
+      "published": "2026-11-20T02:49:11.355393+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-19T19:57:49.552018+00:00"
+      "published": "2026-11-20T02:49:11.355363+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-19T19:57:47.978770+00:00"
+      "published": "2026-11-20T02:49:09.507475+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,147 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-19T19:57:46.251624+00:00"
+      "published": "2026-11-20T02:49:08.335376+00:00"
+    },
+    {
+      "id": "555c3b4edcc18470",
+      "title": "FERC Warns Challenges to Continue in 2026/27 Winter",
+      "link": "https://www.rtoinsider.com/151879-ferc-winter-assessment-challenges-continue/",
+      "summary": "FERC staff said the electric grid's margin for error continues to narrow as demand grows and the resource mix changes.\nThe post FERC Warns Challenges to Continue in 2026/27 Winter appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-20T01:56:54+00:00"
+    },
+    {
+      "id": "b412af87ca82c2a8",
+      "title": "Utah Lawmakers\u2019 Data Center Plan Would Prioritize Local Input",
+      "link": "https://www.rtoinsider.com/151946-utah-lawmakers-data-center-plan-would-prioritize-local-input/",
+      "summary": "Utah lawmakers have outlined planned revisions to state data center policies they expect to consider during the legislative session beginning January 2027.\nThe post Utah Lawmakers\u2019 Data Center Plan Would Prioritize Local Input appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-20T01:36:58+00:00"
+    },
+    {
+      "id": "95060178fa7efacb",
+      "title": "Solar Industry Seeks Durable Political Support",
+      "link": "https://www.rtoinsider.com/151866-solar-industry-seeks-durable-political-support/",
+      "summary": "Despite the blue wave that swept Democratic candidates into office across the U.S. in November 2026, solar and storage representatives are looking for ways to build bipartisan support and create greater stability for the industry.\nThe post Solar Industry Seeks Durable Political Support appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-20T00:50:37+00:00"
+    },
+    {
+      "id": "b2ad20d52ec86ca3",
+      "title": "IESO Proposal Would Make Competitive Bids the Main Route for Buying Regulation Service",
+      "link": "https://www.rtoinsider.com/151796-ieso-proposal-make-competitive-bids-main-route-buying-regulation-service/",
+      "summary": "Competitive bidding would become the main way of buying regulation service under a plan outlined by IESO.\nThe post IESO Proposal Would Make Competitive Bids the Main Route for Buying Regulation Service appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-20T00:44:48+00:00"
+    },
+    {
+      "id": "62ea95aec9197b28",
+      "title": "SPP, Board, Members Agree $23.7B Tx Plan Necessary",
+      "link": "https://www.rtoinsider.com/151794-spp-board-members-approve-itp/",
+      "summary": "SPP's Board of Directors and Members Committee have approved SPP's 2026 Integrated Transmission Plan, despite a $23.7 billion price tag that includes six more 765-kV lines expected to encounter consumer pushback.\nThe post SPP, Board, Members Agree $23.7B Tx Plan Necessary appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-20T00:31:28+00:00"
+    },
+    {
+      "id": "0e6eb1854130bb9c",
+      "title": "ISO-NE Proposes Right-sizing Process for Asset Condition Projects",
+      "link": "https://www.rtoinsider.com/151887-iso-ne-proposes-right-sizing-process-asset-condition-projects/",
+      "summary": "ISO-NE has proposed a new process for transmission owners to right-size asset condition projects to address anticipated system needs.\nThe post ISO-NE Proposes Right-sizing Process for Asset Condition Projects appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-20T00:29:40+00:00"
+    },
+    {
+      "id": "555e6528a6eb65ae",
+      "title": "FERC Enforcement Report Offers Tips on AI, Large Load Compliance",
+      "link": "https://www.rtoinsider.com/151891-ferc-enforcement-report-offers-tips-ai-large-load-compliance/",
+      "summary": "FERC released its annual enforcement report summarizing its activities in FY 2026, while adding a new section on emerging issues like AIs trading in power and natural gas.\nThe post FERC Enforcement Report Offers Tips on AI, Large Load Compliance appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T23:58:52+00:00"
+    },
+    {
+      "id": "9ab67f68e64512bf",
+      "title": "NERC Standards Committee Discusses Drafting Team Effectiveness",
+      "link": "https://www.rtoinsider.com/151792-nerc-standards-committee-discusses-drafting-team-effectiveness/",
+      "summary": "Members of NERC's Standards Committee heard the results of a survey of standard drafting team members conducted over the last two years.\nThe post NERC Standards Committee Discusses Drafting Team Effectiveness appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T23:43:43+00:00"
+    },
+    {
+      "id": "0f22e9674406baa6",
+      "title": "PJM IMM Knocks Potential Plan for MISO Internal Monitor",
+      "link": "https://www.rtoinsider.com/151864-pjm-imm-knocks-potential-internal-market-monitoring-component-in-miso/",
+      "summary": "PJM\u2019s Independent Market Monitor pulled no punches in contending that a tentative proposal to establish an internal market monitor in MISO would be detrimental to its markets.\nThe post PJM IMM Knocks Potential Plan for MISO Internal Monitor appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T23:27:16+00:00"
+    },
+    {
+      "id": "60b386ab3bc71d02",
+      "title": "TVA Reports Major Data Center Deal",
+      "link": "https://www.rtoinsider.com/151876-tva-reports-major-data-center-deal/",
+      "summary": "The Tennessee Valley Authority has signed its first data center agreement under a recently approved large load tariff and expects to eventually receive an aggregate of $1.7 billion in payments.\nThe post TVA Reports Major Data Center Deal appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T23:24:02+00:00"
+    },
+    {
+      "id": "aef1cc039ed78633",
+      "title": "Blykalla Secures World\u2019s First HALEU Enrichment Contract for a Commercial Lead-Cooled Reactor",
+      "link": "https://www.powermag.com/blykalla-secures-worlds-first-haleu-enrichment-contract-for-a-commercial-lead-cooled-reactor/",
+      "summary": "Swedish advanced nuclear developer Blykalla has signed an agreement with Urenco that the companies describe as the world\u2019s first high-assay low-enriched uranium (HALEU) enrichment contract for a commercial lead-cooled reactor. The agreement covers Blykalla\u2019s first commercial 55-MWe Swedish Advanced Lead Reactor (SEALER), which the company plans to deploy in the U.S. The agreement, signed Nov. [\u2026]\n",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T21:50:24+00:00"
+    },
+    {
+      "id": "39d489080a5d57df",
+      "title": "DOE Offers $2.8B Conditional Loan for 1.8-GW Wyoming Link Between Eastern and Western Grids",
+      "link": "https://www.powermag.com/doe-offers-2-8b-conditional-loan-for-1-8-gw-wyoming-link-between-eastern-and-western-grids/",
+      "summary": "The U.S. Department of Energy (DOE) has offered up to $2.8 billion in conditional financing for Wyoming Intertie, a proposed 106-mile transmission project in southeastern Wyoming that could more than double existing power transfer capacity between the Eastern and Western Interconnections, the nation\u2019s two largest synchronous grids. The federal loan, which could be assigned to [\u2026]\nThe post DOE Offe",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T21:42:41+00:00"
+    },
+    {
+      "id": "99859c5f6f1c0860",
+      "title": "Five Grid Operators Respond to FERC With Distinct Plans for Large-Load Integration",
+      "link": "https://www.powermag.com/five-grid-operators-respond-to-ferc-with-distinct-plans-for-large-load-integration/",
+      "summary": "Five U.S. regional grid operators have submitted sweeping tariff reforms to the Federal Energy Regulatory Commission (FERC) that could fundamentally change how data centers and other large electricity consumers connect to the transmission system, secure access to generating capacity, and pay for the necessary infrastructure. The proposals, filed Nov. 13 and 16 in response to [\u2026]\nThe post Five Grid",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T21:05:45+00:00"
+    },
+    {
+      "id": "1da75ca5cdad2fc0",
+      "title": "How would Becerra\u2019s solar Power Hour actually work?",
+      "link": "https://www.canarymedia.com/articles/politics/becerra-solar-power-hour",
+      "summary": "This is\u00a0  California Wire  , a weekly newsletter from Jeff St. John on the state\u2019s clean energy transition.  Subscribe to get it weekly via Substack.  Hello, everyone! California\u00a0Gov.-elect Xavier Becerra\u2019s\u00a0 Power Hour plan is getting a ton of attention right now, so let\u2019s dive into it.\u00a0 During his campaign, Becerra\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-19T19:00:00+00:00"
     },
     {
       "id": "cb87691902587f11",
@@ -86,7 +226,7 @@
       "id": "9afa595014ab9f8a",
       "title": "Grid operators need data center ride-through rules that protect reliability",
       "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
-      "summary": "The first facilities built to Texas\u2019 new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
+      "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -306,7 +446,7 @@
       "id": "7ca2ff75107290df",
       "title": "New York state is short electric resources beginning 2033: ISO",
       "link": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
-      "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need\u00a0for power resources growing to 1,850 MW by 2036, the state\u2019s grid operator said Wednesday.",
+      "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need\u00a0for power resources growing to 1,850 MW by 2036, the state\u2019s grid operator said Wednesday.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -546,7 +686,7 @@
       "id": "5ad31e9fffdec8c9",
       "title": "How National Grid, Eversource are using VPPs to solve local-level constraints",
       "link": "https://www.utilitydive.com/news/national-grid-eversource-vpp-demand-response/875039/",
-      "summary": "The Northeast\u2019s virtual power plant foundations are far stronger today than they were a decade ago, but executives say utilities still need more visibility into distribution-system loads and energy resources.",
+      "summary": "The Northeast\u2019s virtual power plant foundations are far stronger today than a decade ago, but utilities still need more visibility into distribution-system loads and energy resources, executives said.",
       "source": "Utility Dive",
       "category": "Trade Press",
       "region": "National",
@@ -6421,116 +6561,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-10-30T07:30:00+00:00"
-    },
-    {
-      "id": "c4aeba72167a869b",
-      "title": "IESO Unlikely to Fully Apply New Capacity Accreditation Method in LT2 Window 2",
-      "link": "https://www.rtoinsider.com/150018-ieso-unlikely-fully-apply-new-capacity-accreditation-method-lt2-window/",
-      "summary": "IESO indicated that it is unlikely to fully apply its preferred capacity accreditation methodology in the second window of Ontario\u2019s Long-Term 2 procurement, acknowledging that some implementation options could conflict with existing government policy.\nThe post IESO Unlikely to Fully Apply New Capacity Accreditation Method in LT2 Window 2 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-30T01:33:14+00:00"
-    },
-    {
-      "id": "3cd1deb63dc6aead",
-      "title": "Regulators Amplify Call for Greater State Involvement in PJM Policy",
-      "link": "https://www.rtoinsider.com/150129-regulators-amplify-call-greater-state-involvement-pjm-policy/",
-      "summary": "Several speakers at a conference of state regulators amplified a call for PJM to adopt a governance structure that provides states a greater role in shaping grid policy as the RTO prepares a FERC filing containing broad changes to its decision-making processes.\nThe post Regulators Amplify Call for Greater State Involvement in PJM Policy appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-30T01:05:14+00:00"
-    },
-    {
-      "id": "08ca8f4d92e70c61",
-      "title": "ISO-NE Updates CAR-SA Proposal, Agrees to Extend Transition Period",
-      "link": "https://www.rtoinsider.com/150033-iso-ne-updates-car-sa-proposal/",
-      "summary": "ISO-NE has announced a series of changes to the second phase of its Capacity Auction Reform project, including extending the proposed transition period from two to three years.\nThe post ISO-NE Updates CAR-SA Proposal, Agrees to Extend Transition Period appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-30T00:38:34+00:00"
-    },
-    {
-      "id": "cbaf7e5757410dbb",
-      "title": "In Reversal, Duke Energy to Seek Large Load Tariff for South Carolina",
-      "link": "https://www.rtoinsider.com/150058-in-reversal-duke-energy-seek-large-load-tariff-south-carolina/",
-      "summary": "As Duke Energy readies a large load tariff proposal for its South Carolina operations, the utility sees \u201cbroad agreement\u201d on key principles, according to a recent regulatory filing.\nThe post In Reversal, Duke Energy to Seek Large Load Tariff for South Carolina appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-30T00:36:48+00:00"
-    },
-    {
-      "id": "3f8e5a53abe8c0a2",
-      "title": "PGE Draws \u2018Red Line\u2019 on Oregon PUC\u2019s Conditions for Holding Company",
-      "link": "https://www.rtoinsider.com/150122-pge-earnings-call-red-line-opuc-conditions/",
-      "summary": "Portland General Electric\u2019s bid to reorganize under a holding company hangs in the air as the utility called conditions imposed by the Oregon Public Utility Commission \u201cunworkable.\u201d\nThe post PGE Draws \u2018Red Line\u2019 on Oregon PUC\u2019s Conditions for Holding Company appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-30T00:32:57+00:00"
-    },
-    {
-      "id": "5c95ba0bfc95d558",
-      "title": "Stakeholders Support Proposed NERC Standards Process Changes",
-      "link": "https://www.rtoinsider.com/150127-stakeholders-accept-nerc-standards-process-changes/",
-      "summary": "Stakeholders overwhelmingly supported NERC's proposed changes to its Standard Processes Manual intended to update and modernize the ERO's standard development process.\nThe post Stakeholders Support Proposed NERC Standards Process Changes appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-29T23:49:41+00:00"
-    },
-    {
-      "id": "273839926db9318c",
-      "title": "AEP Looking to Capitalize on Large Load Growth",
-      "link": "https://www.rtoinsider.com/150111-aep-earnings-looking-capitalize-large-load-growth/",
-      "summary": "American Electric Power CEO Bill Fehrman says the company is at the center of the utility sector\u2019s \u201cunprecedented surge\u201d in electric demand, presenting it with an opportunity to capitalize on the situation.\nThe post AEP Looking to Capitalize on Large Load Growth appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-29T23:05:59+00:00"
-    },
-    {
-      "id": "a950487ed4553735",
-      "title": "Analysts Forecast Major Tx Expansion if BAAJA Passes",
-      "link": "https://www.rtoinsider.com/150116-analysts-forecast-major-transmission-expansion-if-baaja-passes/",
-      "summary": "Senators introduced the Bipartisan American Affordability and Jobs Act a month before Election Day, which gave Resources for the Future plenty of time to study and release an analysis.\nThe post Analysts Forecast Major Tx Expansion if BAAJA Passes appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-29T22:59:25+00:00"
-    },
-    {
-      "id": "8dcc0b33da24cdcb",
-      "title": "Past and Present OMS Regulators Seek Multi-RTO Platform to Coax Interregional Planning",
-      "link": "https://www.rtoinsider.com/150105-past-present-oms-regulators-seek-states-platform-coax-planning/",
-      "summary": "Past and present MISO state utility commissioners are discussing the possibility of reconstituting a group that would bring together regulators from the MISO and SPP footprints to help move the needle on interregional planning.\nThe post Past and Present OMS Regulators Seek Multi-RTO Platform to Coax Interregional Planning appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-29T22:57:47+00:00"
-    },
-    {
-      "id": "ac6d94c72d0dd2f8",
-      "title": "PJM Files Amended Reliability Backstop Proposal",
-      "link": "https://insidelines.pjm.com/pjm-files-amended-reliability-backstop-proposal/",
-      "summary": "PJM filed an amended proposal to FERC with the goal of commencing a Reliability Backstop Procurement on March 1, 2027. Central to Thursday\u2019s filing are modifications to three elements of the original filing: the method for determining the cost allocation for Reliability Backstop charges, LSE credit requirements and LSE exit responsibilities. An LSE is a [\u2026]",
-      "source": "PJM Inside Lines",
-      "category": "ISO/RTO",
-      "region": "Northeast",
-      "published": "2026-10-29T21:32:51+00:00"
-    },
-    {
-      "id": "ae5ca8b440442085",
-      "title": "Keeping America\u2019s Nuclear Fleet Reliable as Electricity Demand Grows",
-      "link": "https://www.powermag.com/keeping-americas-nuclear-fleet-reliable-as-electricity-demand-grows/",
-      "summary": "Artificial intelligence (AI), data centers, and electrification are increasing U.S. electricity demand. Lawrence Berkeley National Laboratory estimates data centers could account for 11.8% of electricity consumption by 2030, within a projected range of 9.5%\u201315.3%. The U.S. Energy Information Administration (EIA) forecasts electricity consumption to increase by approximately 2.2% in 2026 and a furt",
-      "source": "POWER Magazine",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-29T21:01:26+00:00"
     }
   ]
 }
