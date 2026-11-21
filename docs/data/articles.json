@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T19:37:44.778411+00:00",
-  "count": 662,
+  "generated_at": "2026-11-21T02:58:10.465797+00:00",
+  "count": 661,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-20T19:37:42.411715+00:00"
+      "published": "2026-11-21T02:58:08.298599+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-20T19:37:42.411701+00:00"
+      "published": "2026-11-21T02:58:08.298585+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-20T19:37:42.411684+00:00"
+      "published": "2026-11-21T02:58:08.298568+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-20T19:37:42.411655+00:00"
+      "published": "2026-11-21T02:58:08.298541+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-20T19:37:40.598998+00:00"
+      "published": "2026-11-21T02:58:06.607060+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-20T19:37:39.297297+00:00"
+      "published": "2026-11-21T02:58:05.493703+00:00"
+    },
+    {
+      "id": "6044c4d837cfffd2",
+      "title": "EDAM Participants Release Draft Plan for RA Program",
+      "link": "https://www.rtoinsider.com/152041-edam-participants-release-draft-plan-for-ra-program/",
+      "summary": "A stakeholder group representing present and future participants in CAISO\u2019s Extended Day-Ahead Market has released its \u201cinitial\u201d draft proposal for a resource adequacy program designed to accommodate the needs of EDAM\u2019s non-CAISO members.\nThe post EDAM Participants Release Draft Plan for RA Program appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-20T23:01:48+00:00"
+    },
+    {
+      "id": "40759af52b0691b2",
+      "title": "Why tribal rights have become key to the energy permitting debate",
+      "link": "https://www.canarymedia.com/articles/land-use/tribal-rights-energy-permitting-debate",
+      "summary": "For months, the climate world and the broader Democratic coalition have argued over whether the sweeping bipartisan permitting reform bill will be good or bad for the energy transition. But inside the Senate, which just\u00a0 passed the legislation by a 62\u201333 vote, concerns about tribal sovereignty overshadowed the debate\u2026",
+      "source": "Canary Media",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-20T21:30:00+00:00"
     },
     {
       "id": "05c7efe6a3bc3eeb",
@@ -6591,36 +6611,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-10-31T11:00:39+00:00"
-    },
-    {
-      "id": "24daddb18f5b4e2e",
-      "title": "BPA to Issue Draft Day-ahead Market Decision in Early December",
-      "link": "https://www.rtoinsider.com/150279-bpa-to-issue-draft-day-ahead-market-decision-in-early-december/",
-      "summary": "The Bonneville Power Administration expects to issue a draft decision on its day-ahead market choice in early December and a final record of decision in February 2027.\n\nThe post BPA to Issue Draft Day-ahead Market Decision in Early December appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-30T23:13:46+00:00"
-    },
-    {
-      "id": "e755262c0451f8be",
-      "title": "PJM Refiles Reliability Backstop Procurement",
-      "link": "https://www.rtoinsider.com/150274-pjm-refiles-reliability-backstop-procurement/",
-      "summary": "PJM has refiled its Reliability Backstop Procurement a month after FERC recommended the RTO submit a revised proposal or face a five-month paper hearing.\nThe post PJM Refiles Reliability Backstop Procurement appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-30T21:37:09+00:00"
-    },
-    {
-      "id": "cfc5a428d11e4e18",
-      "title": "Meta strikes deal to help bring a low-carbon cement plant to Missouri",
-      "link": "https://www.canarymedia.com/articles/clean-industry/meta-fortera-deal-cement-plant-missouri",
-      "summary": "Tech companies say they're seeking low-carbon construction materials to limit the climate impact of their data centers. But very little clean cement or green steel is actually being produced in the U.S. today, and only in a handful of locations. To tackle that dilemma, Meta recently\u00a0 struck a deal with\u00a0 Fortera to\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-10-30T20:00:00+00:00"
     }
   ]
 }
