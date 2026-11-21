@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T02:58:10.465797+00:00",
+  "generated_at": "2026-11-21T18:43:06.348755+00:00",
   "count": 661,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-21T02:58:08.298599+00:00"
+      "published": "2026-11-21T18:43:03.374576+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-21T02:58:08.298585+00:00"
+      "published": "2026-11-21T18:43:03.374557+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-21T02:58:08.298568+00:00"
+      "published": "2026-11-21T18:43:03.374531+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-21T02:58:08.298541+00:00"
+      "published": "2026-11-21T18:43:03.374480+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-21T02:58:06.607060+00:00"
+      "published": "2026-11-21T18:43:01.157810+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-21T02:58:05.493703+00:00"
+      "published": "2026-11-21T18:42:59.546647+00:00"
+    },
+    {
+      "id": "f6ebadfd21a273d1",
+      "title": "Sponsored: The hidden efficiency gap in data center containment",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
+      "summary": "How a small seam above the hot aisle or missing roof over the cold aisle has been covertly inflating cooling costs, and how to close it without breaking fire code",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-21T16:00:00+00:00"
+    },
+    {
+      "id": "9829b7c16b18b844",
+      "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+      "link": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+      "summary": "Demonstrating compliance is what turns it into power",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-21T11:00:28+00:00"
     },
     {
       "id": "6044c4d837cfffd2",
@@ -6591,26 +6611,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-11-01T11:00:47+00:00"
-    },
-    {
-      "id": "788ec1a4702a950a",
-      "title": "Sponsored: One security strategy. Four different data center realities.",
-      "link": "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/",
-      "summary": "The strongest data center security strategies do not deploy identical controls everywhere",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-31T16:00:00+00:00"
-    },
-    {
-      "id": "516b495d7ba8a250",
-      "title": "Europe\u2019s AI ambitions are hitting a power bottleneck",
-      "link": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
-      "summary": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-10-31T11:00:39+00:00"
     }
   ]
 }
