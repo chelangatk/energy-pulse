@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T01:52:54.965966+00:00",
-  "count": 661,
+  "generated_at": "2026-11-22T19:03:18.241448+00:00",
+  "count": 652,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-22T01:52:51.724938+00:00"
+      "published": "2026-11-22T19:03:14.662538+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-22T01:52:51.724931+00:00"
+      "published": "2026-11-22T19:03:14.662526+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-22T01:52:51.724922+00:00"
+      "published": "2026-11-22T19:03:14.662512+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-22T01:52:51.724895+00:00"
+      "published": "2026-11-22T19:03:14.662479+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-22T01:52:49.533232+00:00"
+      "published": "2026-11-22T19:03:12.497007+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,27 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-22T01:52:48.683277+00:00"
+      "published": "2026-11-22T19:03:11.648625+00:00"
+    },
+    {
+      "id": "c2d2b26cf48e1c6c",
+      "title": "Why the next phase of the data center buildout runs on light",
+      "link": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/",
+      "summary": "Copper is running out of reach",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-22T15:00:32+00:00"
+    },
+    {
+      "id": "c4c7c47a41fd4215",
+      "title": "Britain is hosting the AI boom, not owning it",
+      "link": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+      "summary": "Is there a flaw in the logic",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-22T11:00:43+00:00"
     },
     {
       "id": "f6ebadfd21a273d1",
@@ -6501,116 +6521,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-11-01T19:44:20+00:00"
-    },
-    {
-      "id": "70f348fab96bbd03",
-      "title": "Ameren Mo. Exec Advises Responsible Growth While Adding 5 St. Louises\u2019 Worth of Demand to Territory",
-      "link": "https://www.rtoinsider.com/150272-ameren-mo-exec-advises-responsible-growth/",
-      "summary": "Melda told MISO state regulators to approach load growth responsibly as Ameren Missouri prepares to serve 30% more load within four years.\nThe post Ameren Mo. Exec Advises Responsible Growth While Adding 5 St. Louises\u2019 Worth of Demand to Territory appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T18:46:56+00:00"
-    },
-    {
-      "id": "8aa325af62a38a81",
-      "title": "With Rapid Advances in AI, Future Data Center Load Profile Uncertain",
-      "link": "https://www.rtoinsider.com/150289-with-rapid-advances-ai-future-data-center-load-profile-uncertain/",
-      "summary": "Grid operators, utilities and regulators have been grappling for years with the question of just how much data center load will come online, and when, but the question of how that load will behave is just as complex and uncertain.\nThe post With Rapid Advances in AI, Future Data Center Load Profile Uncertain appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T18:21:21+00:00"
-    },
-    {
-      "id": "ce97621aa678bb7b",
-      "title": "BPA Reveals RA Position Not as Long as \u2018Many Might Assume\u2019",
-      "link": "https://www.rtoinsider.com/150303-bpa-reveals-ra-position-not-as-long-as-might-assume/",
-      "summary": "BPA Administrator Travis Kavulla revealed the agency is not as long on capacity as many in the industry might expect.\nThe post BPA Reveals RA Position Not as Long as \u2018Many Might Assume\u2019 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T17:43:45+00:00"
-    },
-    {
-      "id": "e197ec1faaf5dbe3",
-      "title": "Xcel Joins Industry\u2019s Capital Investment Binge",
-      "link": "https://www.rtoinsider.com/150235-xcel-energy-3q-earnings-call/",
-      "summary": "Xcel Energy updated its five-year capital expenditure plan to $70B as it joins America's energy renaissance building out and modernizing the electric grid to meet ever-growing demand.\nThe post Xcel Joins Industry\u2019s Capital Investment Binge appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T17:01:56+00:00"
-    },
-    {
-      "id": "8a0122a1eaccc693",
-      "title": "PJM\u2019s Tx Owners Would Lock In What a Data Center Pays",
-      "link": "https://www.rtoinsider.com/150118-pjm-transmission-owners-would-lock-in-what-data-center-pays/",
-      "summary": "The plan secures a minimum payment on behalf of each large load. It leaves the local upgrades built for that load in the zone's shared rate, with no test of whether the payment covers them.\nThe post PJM\u2019s Tx Owners Would Lock In What a Data Center Pays appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T16:47:18+00:00"
-    },
-    {
-      "id": "eb4ae5d066bc9015",
-      "title": "MISO Initiates 2 More Tx Reviews as ATC and Xcel Face Delays, Cost Overruns",
-      "link": "https://www.rtoinsider.com/150108-miso-initiates-2-more-tx-reviews-atc-xcel-face-delays-cost-overruns/",
-      "summary": "MISO has opened two more reviews into long-range transmission projects in Wisconsin that developers are struggling to complete on their original terms.\nThe post MISO Initiates 2 More Tx Reviews as ATC and Xcel Face Delays, Cost Overruns appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T15:59:33+00:00"
-    },
-    {
-      "id": "e0d7fc6e5646f855",
-      "title": "Dominion Holds Earnings Call as Merger Review in Virginia Ramps Up",
-      "link": "https://www.rtoinsider.com/150267-dominion-holds-earnings-call-as-merger-review-ramps-up/",
-      "summary": "Dominion's third quarter earnings call focused on its proposed merger with NextEra Energy as the regulatory review in Virginia ramps up.\nThe post Dominion Holds Earnings Call as Merger Review in Virginia Ramps Up appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T15:54:51+00:00"
-    },
-    {
-      "id": "2c093051c36061c9",
-      "title": "Oregon PUC Rejects Penalty Waiver for PGE, PacifiCorp as EDAM RA Program Develops",
-      "link": "https://www.rtoinsider.com/150024-oregon-puc-rejects-penalty-waiver-pge-pacificorp/",
-      "summary": "The Oregon Public Utility Commission declined granting Portland General Electric and PacifiCorp penalty waivers from the state\u2019s resource adequacy program, saying development of a new program aligned with CAISO\u2019s Extended Day-Ahead Market is too far from being finished.\nThe post Oregon PUC Rejects Penalty Waiver for PGE, PacifiCorp as EDAM RA Program Develops appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T15:48:00+00:00"
-    },
-    {
-      "id": "f6486712f3a473bb",
-      "title": "DOE Offers $237M to Boost Domestic Supply of Grid Components",
-      "link": "https://www.rtoinsider.com/150270-doe-offers-237m-boost-domestic-supply-grid-components/",
-      "summary": "DOE is offering $237 million to boost the domestic supply of key grid components.\nThe post DOE Offers $237M to Boost Domestic Supply of Grid Components appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T15:32:46+00:00"
-    },
-    {
-      "id": "f4a86a125c1a2ceb",
-      "title": "What could 1,000x more reliable quantum computation unlock?",
-      "link": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
-      "summary": "And why you should start thinking about quantum computing as an element of the broader data center ecosystem",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-11-01T15:00:31+00:00"
-    },
-    {
-      "id": "0e175ff699426d1f",
-      "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
-      "link": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
-      "summary": "Building maintenance needs more attention",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-11-01T11:00:47+00:00"
     }
   ]
 }
