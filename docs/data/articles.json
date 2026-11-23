@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T19:03:18.241448+00:00",
-  "count": 652,
+  "generated_at": "2026-11-23T02:12:17.921377+00:00",
+  "count": 653,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-22T19:03:14.662538+00:00"
+      "published": "2026-11-23T02:12:11.268197+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-22T19:03:14.662526+00:00"
+      "published": "2026-11-23T02:12:11.268183+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-22T19:03:14.662512+00:00"
+      "published": "2026-11-23T02:12:11.268164+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-22T19:03:14.662479+00:00"
+      "published": "2026-11-23T02:12:11.268134+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-22T19:03:12.497007+00:00"
+      "published": "2026-11-23T02:12:09.576084+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,57 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-22T19:03:11.648625+00:00"
+      "published": "2026-11-23T02:12:08.638478+00:00"
+    },
+    {
+      "id": "7171d48450580d55",
+      "title": "Draft Rules Require Grid Tests for Large Ontario Data Centers",
+      "link": "https://www.rtoinsider.com/151868-draft-rules-require-grid-tests-for-large-ontario-data-centers/",
+      "summary": "Ontario data centers and other computational loads over 10 MW would have to demonstrate they meet grid reliability standards before entering regular service, pursuant to draft amendments that IESO presented at an engagement.\nThe post Draft Rules Require Grid Tests for Large Ontario Data Centers appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-22T20:33:57+00:00"
+    },
+    {
+      "id": "a338a225aff1ff26",
+      "title": "MISO Detects Ample Potential Needs in Early Long-range Planning",
+      "link": "https://www.rtoinsider.com/151992-miso-detects-ample-potential-needs-in-early-long-range-system-planning/",
+      "summary": "MISO unveiled hundreds of potential reliability and economic issues it foresees on its system over the next two decades if it doesn\u2019t plan more long-range transmission.\nThe post MISO Detects Ample Potential Needs in Early Long-range Planning appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-22T20:32:06+00:00"
+    },
+    {
+      "id": "6b47b9d4e03f5be3",
+      "title": "N.Y. Lays out Master Plan, Rallies Partners Toward 5-GW Nuclear Goal",
+      "link": "https://www.rtoinsider.com/152016-new-york-nuclear-summit/",
+      "summary": "New York\u2019s third nuclear summit laid out the progress Gov. Kathy Hochul\u2019s administration has made since she launched a drive to get 5 GW of nuclear capacity built in the state.\nThe post N.Y. Lays out Master Plan, Rallies Partners Toward 5-GW Nuclear Goal appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-22T20:30:55+00:00"
+    },
+    {
+      "id": "92e415ed8a74bf92",
+      "title": "N.Y. Continues but Diversifies its Offshore Wind Investments",
+      "link": "https://www.rtoinsider.com/152019-ny-continues-but-diversifies-its-offshore-wind-energy/",
+      "summary": "New York has awarded $228 million in grants to build port infrastructure that can support offshore wind power infrastructure but also pivot to other activities.\nThe post N.Y. Continues but Diversifies its Offshore Wind Investments appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-22T20:25:39+00:00"
+    },
+    {
+      "id": "4bf059ffff5c4d5f",
+      "title": "ERCOT\u2019s Vegas to Receive Hefty Pay Package After Delay",
+      "link": "https://www.rtoinsider.com/ercots-vegas-to-receive-hefty-pay-package-after-delay/",
+      "summary": "ERCOT has filed Pablo Vegas' compensation package with the PUC. It is unchanged from September, when it was pulled after political pressure over what could amount to nearly $30 million over the next seven years.\nThe post ERCOT\u2019s Vegas to Receive Hefty Pay Package After Delay appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-22T20:23:33+00:00"
     },
     {
       "id": "c2d2b26cf48e1c6c",
@@ -6481,46 +6531,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-11-02T08:30:00+00:00"
-    },
-    {
-      "id": "5451c0ec6134e94c",
-      "title": "MISO, SPP Commit to Improve Joint Study",
-      "link": "https://www.rtoinsider.com/150237-miso-spp-commit-improve-joint-study/",
-      "summary": "MISO and SPP have told their stakeholders they are committed to improving their Coordinated System Plan process after yet another joint study was unable to agree upon joint transmission projects.\nThe post MISO, SPP Commit to Improve Joint Study appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T20:35:09+00:00"
-    },
-    {
-      "id": "1d1ceb3106595b29",
-      "title": "MISO, SPP Commit to Improving Joint Study",
-      "link": "https://www.rtoinsider.com/150237-miso-spp-commit-improve-joint-study/",
-      "summary": "MISO and SPP have told their stakeholders they are committed to improving their Coordinated System Plan process after yet another joint study was unable to agree upon joint transmission projects.\nThe post MISO, SPP Commit to Improving Joint Study appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T20:35:09+00:00"
-    },
-    {
-      "id": "e9d6b2b39c17d69b",
-      "title": "State Regulators Displeased with MISO Large Load Cost-shifting Plan",
-      "link": "https://www.rtoinsider.com/150245-state-regulators-displeased-miso-large-load-cost-shifting-plan/",
-      "summary": "MISO state regulators said MISO\u2019s plan to prevent cost shifts from data centers onto existing customers isn\u2019t up to scratch, with states in the dark on key aspects.\nThe post State Regulators Displeased with MISO Large Load Cost-shifting Plan appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T19:47:39+00:00"
-    },
-    {
-      "id": "1ab27a6eef08a63e",
-      "title": "N.Y. Gives AES Final Siting Permits to Repower 6 Wind Farms",
-      "link": "https://www.rtoinsider.com/150265-ny-gives-aes-final-siting-permits-repower-wind-farms/",
-      "summary": "The six repowered wind farms would contribute up to 672 MW to the grid and help move the state closer to its elusive decarbonization goals.\nThe post N.Y. Gives AES Final Siting Permits to Repower 6 Wind Farms appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-01T19:44:20+00:00"
     }
   ]
 }
