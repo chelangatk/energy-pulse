@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:55:45.219139+00:00",
+  "generated_at": "2026-11-25T04:46:00.468181+00:00",
   "count": 650,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-24T21:55:41.267824+00:00"
+      "published": "2026-11-25T04:45:57.614917+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-24T21:55:41.267810+00:00"
+      "published": "2026-11-25T04:45:57.614909+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-24T21:55:41.267792+00:00"
+      "published": "2026-11-25T04:45:57.614899+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-24T21:55:41.267761+00:00"
+      "published": "2026-11-25T04:45:57.614871+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-24T21:55:39.331147+00:00"
+      "published": "2026-11-25T04:45:55.618060+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,107 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-24T21:55:38.370742+00:00"
+      "published": "2026-11-25T04:45:54.484067+00:00"
+    },
+    {
+      "id": "01640941bb90d19a",
+      "title": "MRO Winter Report Finds System Strong Despite Vulnerabilities",
+      "link": "https://www.rtoinsider.com/152226-mro-winter-report-finds-system-strong-despite-vulnerabilities/",
+      "summary": "MRO's Winter Reliability Assessment predicted only local challenges in parts of the SPP subregion ahead of the upcoming winter season.\nThe post MRO Winter Report Finds System Strong Despite Vulnerabilities appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-25T03:06:29+00:00"
+    },
+    {
+      "id": "d8ad16365c70078d",
+      "title": "AESO Sees Little Room for Design Changes Ahead of January Sandbox Testing",
+      "link": "https://www.rtoinsider.com/151940-aeso-to-open-albertas-new-power-market-systems-for-testing-in-january/",
+      "summary": "AESO plans to open a sandbox in January 2027 for participants to test individual software tools for Alberta\u2019s Restructured Energy Market and sees little room for design changes ahead of that date.\nThe post AESO Sees Little Room for Design Changes Ahead of January Sandbox Testing appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-25T02:45:59+00:00"
+    },
+    {
+      "id": "bea52e1a6f34fc00",
+      "title": "PPC Urges BPA not to Join EDAM Based on \u2018Hopeful Assurances\u2019",
+      "link": "https://www.rtoinsider.com/152228-ppc-urges-bpa-not-to-join-edam-based-on-hopeful-assurances/",
+      "summary": "The Public Power Council urged BPA not to make any decisions on day-ahead markets \u201cbased on hopeful assurances of future changes,\u201d saying issues with CAISO\u2019s Extended Day-Ahead Market are unlikely to be resolved before the agency\u2019s self-imposed draft decision deadline in December.\nThe post PPC Urges BPA not to Join EDAM Based on \u2018Hopeful Assurances\u2019 appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-25T02:10:44+00:00"
+    },
+    {
+      "id": "d6ab500d1ad2640d",
+      "title": "E3: Solar+Storage Reduced Thermal Reliance in CAISO, ERCOT",
+      "link": "https://www.rtoinsider.com/152126-e3-solarstorage-reduced-thermal-reliance-in-caiso-ercot/",
+      "summary": "From 2021 to 2026, CAISO summer peak load grew by 3.8 GW, while peak-hour gas and imports fell by 6 GW, a researcher found, attributing the trend to the increased contributions of solar and storage.\nThe post E3: Solar+Storage Reduced Thermal Reliance in CAISO, ERCOT appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-25T01:40:53+00:00"
+    },
+    {
+      "id": "ce405dc2e8eeb250",
+      "title": "2 Large Storage Projects Execute ISO-NE Interconnection Agreements",
+      "link": "https://www.rtoinsider.com/152223-large-battery-projects-sign-interconnection-agreements/",
+      "summary": "Two large battery projects in southeastern Massachusetts have executed interconnection agreements with ISO-NE.\nThe post 2 Large Storage Projects Execute ISO-NE Interconnection Agreements appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-25T01:36:15+00:00"
+    },
+    {
+      "id": "5ac3f1dfcb05ab4d",
+      "title": "Study Projects Impending Shortage of Key Grid-supporting Equipment",
+      "link": "https://www.rtoinsider.com/152233-study-projects-impending-shortage-of-key-grid-supporting-equipment/",
+      "summary": "A new study predicts shortages of critical grid-supporting equipment and the materials from which they are built will constrain expansion of the U.S. power system.\nThe post Study Projects Impending Shortage of Key Grid-supporting Equipment appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-25T01:25:04+00:00"
+    },
+    {
+      "id": "95e7a1bf122f3b2a",
+      "title": "PJM Transmission Owners, States Propose Cost Allocation Approaches to FERC",
+      "link": "https://www.rtoinsider.com/152242-pjm-transmission-owners-states-propose-cost-allocation-approaches-to-ferc/",
+      "summary": "PJM transmission owners have filed their proposal for allocating the costs of long-term regional transmission planning projects, with a proposal endorsed by the Organization of PJM States Inc. attached.\nThe post PJM Transmission Owners, States Propose Cost Allocation Approaches to FERC appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-25T01:21:38+00:00"
+    },
+    {
+      "id": "4ccc94c00347a3c9",
+      "title": "Google Proposes to Pay $10M for ATTs in AEP Ohio Project",
+      "link": "https://www.rtoinsider.com/152230-google-proposes-to-pay-100m-for-atts-in-aep-ohio-project/",
+      "summary": "Google and Ohio Power have filed a proposal with regulators that would have the tech giant pay for transmission upgrades allowing for 24 MW of data center capacity to go online early while benefiting other ratepayers.\nThe post Google Proposes to Pay $10M for ATTs in AEP Ohio Project appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-24T23:42:30+00:00"
+    },
+    {
+      "id": "f7c1880ed393c3b2",
+      "title": "Minn. PUC Orders Independent Audit into Xcel Billing, Customer Service",
+      "link": "https://www.rtoinsider.com/152162-minn-puc-orders-independent-audit-into-xcel-billing-and-customer-service/",
+      "summary": "The Minnesota Public Utilities Commission ordered an independent, third-party audit of Xcel Energy's billing and customer service practices following a pronounced rise in complaints.\nThe post Minn. PUC Orders Independent Audit into Xcel Billing, Customer Service appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-24T23:34:54+00:00"
+    },
+    {
+      "id": "4aed235081d548ad",
+      "title": "America\u2019s Grid Cannot Grow on One-size-fits-all Power Rules",
+      "link": "https://www.rtoinsider.com/151460-americas-grid-cannot-grow-on-one-size-fits-all-power-rules/",
+      "summary": "As regulators rewrite the rules for connecting major customers to the grid, they risk making the infrastructure needed for economic growth so expensive to finance that companies begin reconsidering where to invest.\nThe post America\u2019s Grid Cannot Grow on One-size-fits-all Power Rules appeared first on RTO Insider.",
+      "source": "RTO Insider",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-24T23:32:40+00:00"
     },
     {
       "id": "613e69d8c857e355",
@@ -6401,106 +6501,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-11-04T08:30:00+00:00"
-    },
-    {
-      "id": "c6c8b957d7fd5c50",
-      "title": "AESO/AUC Briefs: Nov. 3, 2026",
-      "link": "https://www.rtoinsider.com/150402-aeso-auc-briefs-110326/",
-      "summary": "AESO issued a formal rebuttal to Alberta\u2019s Market Surveillance Administrator over its findings that the ISO inadequately monitored generator primary frequency response compliance and failed to refer suspected violations.\nThe post AESO/AUC Briefs: Nov. 3, 2026 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-04T01:50:12+00:00"
-    },
-    {
-      "id": "b9a8d92bfea5e275",
-      "title": "Florida Regulators Deal Setback to Duke Energy on Large Load Tariff",
-      "link": "https://www.rtoinsider.com/150581-florida-regulators-deal-setback-duke-energy-large-load-tariff/",
-      "summary": "The Florida Public Service Commission has unanimously denied Duke Energy Florida\u2019s proposed large load tariff in a first test of a state law intended to shield state residents from the cost of meeting hyperscale data centers\u2019 electricity demands.\nThe post Florida Regulators Deal Setback to Duke Energy on Large Load Tariff appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-04T01:34:04+00:00"
-    },
-    {
-      "id": "020f43fc261f5b24",
-      "title": "Data Center Devs Struggle with Conflicting Desires: Speed to Power and \u2018Five 9s\u2019",
-      "link": "https://www.rtoinsider.com/150291-with-rapid-advances-in-ai-future-data-center-load-profile-uncertain/",
-      "summary": "Data center developers and financiers express the desire for near constant availability from their facilities using terms that may not be as well known to the electricity industry: \u201cthree\u201d or \u201cfive 9s.\u201d\nThe post Data Center Devs Struggle with Conflicting Desires: Speed to Power and \u2018Five 9s\u2019 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-04T01:07:40+00:00"
-    },
-    {
-      "id": "e8be5202c31641f9",
-      "title": "NextEra, Dominion Agree to More Conditions in Va. Merger Case",
-      "link": "https://www.rtoinsider.com/150556-nextera-dominion-agree-more-conditions-rebuttal-testimony-scc/",
-      "summary": "Dominion Energy and NextEra Energy agreed to more conditions in an effort to win approval for their merger in Virginia, but pushed back on some requests that they said would place too many limits on accessing NextEra's capital or were just outside the scope of the merger review.\nThe post NextEra, Dominion Agree to More Conditions in Va. Merger Case appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-04T00:49:35+00:00"
-    },
-    {
-      "id": "6b4822030a1d12a6",
-      "title": "NEPOOL Technical Committees Approve ISO-NE Large Load Proposal",
-      "link": "https://www.rtoinsider.com/150555-nepool-technical-committees-approve-iso-ne-large-load-proposal/",
-      "summary": "NEPOOL technical committees supported ISO-NE\u2019s proposed treatment of large loads Nov. 3 despite opposition from the generation sector.\nThe post NEPOOL Technical Committees Approve ISO-NE Large Load Proposal appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-03T23:51:14+00:00"
-    },
-    {
-      "id": "ecaf730fe81ab649",
-      "title": "Shoulder Season Scarcity a Deeper Issue than Typical Outage Season Dynamics",
-      "link": "https://www.rtoinsider.com/150301-high-shoulder-season-pricing-pjm-miso-result-of-deeper-issue/",
-      "summary": "Abnormally hot fall weather hit the Midwest and East Coast this October, sending energy prices above $1,000/MWh in PJM and MISO.\nThe post Shoulder Season Scarcity a Deeper Issue than Typical Outage Season Dynamics appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-03T23:40:50+00:00"
-    },
-    {
-      "id": "fee28de884a820df",
-      "title": "MISO Foresees Low-risk Winter 2026/27",
-      "link": "https://www.rtoinsider.com/150544-miso-foresees-low-risk-26-27-winter/",
-      "summary": "MISO said it should have almost 25 GW of spare capacity even on the most challenging day of winter 2026/27, with an El Ni\u00f1o weather pattern giving rise to a relatively warm season.\nThe post MISO Foresees Low-risk Winter 2026/27 appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-03T23:16:23+00:00"
-    },
-    {
-      "id": "080119f0cb50c7c4",
-      "title": "Grid Operators Need an AI Incident Protocol Before Agents Touch the Energy Market",
-      "link": "https://www.rtoinsider.com/150255-grid-operators-need-ai-incident-protocol-before-agents-touch-energy-market/",
-      "summary": "For the operators of regional electricity markets, if an autonomous agent changes a consequential record or submits an unauthorized instruction, who can reconstruct and stop the transaction before it spreads?\nThe post Grid Operators Need an AI Incident Protocol Before Agents Touch the Energy Market appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-03T22:57:27+00:00"
-    },
-    {
-      "id": "7d73796fbac9bcc1",
-      "title": "CAISO Battery Capacity Increased 42% in 2025, Report Finds",
-      "link": "https://www.rtoinsider.com/150407-caiso-battery-capacity-increased-2025-dmm-report/",
-      "summary": "Batteries are supplying more energy than ever to CAISO\u2019s grid \u2014 almost twice as much in 2025 compared with the year before.\nThe post CAISO Battery Capacity Increased 42% in 2025, Report Finds appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-03T22:44:57+00:00"
-    },
-    {
-      "id": "bf32f858d0dbba88",
-      "title": "NTT Data opens JKT2A data center in Indonesia",
-      "link": "https://www.datacenterdynamics.com/en/news/ntt-data-opens-jkt2a-data-center-in-indonesia/",
-      "summary": "Facility is designed for AI workloads",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-11-03T22:17:57+00:00"
     }
   ]
 }
