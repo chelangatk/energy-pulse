@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T21:04:11.070026+00:00",
-  "count": 646,
+  "generated_at": "2026-11-26T03:55:47.107000+00:00",
+  "count": 631,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-25T21:04:07.109774+00:00"
+      "published": "2026-11-26T03:55:43.293547+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-25T21:04:07.109767+00:00"
+      "published": "2026-11-26T03:55:43.293534+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-25T21:04:07.109757+00:00"
+      "published": "2026-11-26T03:55:43.293518+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-25T21:04:07.109738+00:00"
+      "published": "2026-11-26T03:55:43.293483+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-25T21:04:05.314147+00:00"
+      "published": "2026-11-26T03:55:41.361345+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-25T21:04:04.364752+00:00"
+      "published": "2026-11-26T03:55:40.280156+00:00"
     },
     {
       "id": "d79da0a10b7d8ef8",
@@ -6311,156 +6311,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-11-05T05:01:00+00:00"
-    },
-    {
-      "id": "c9ee5be693917c95",
-      "title": "FERC Rejects PacifiCorp\u2019s Financing Bid for B2H Line",
-      "link": "https://www.rtoinsider.com/150572-ferc-rejects-pacificorps-financing-bid-for-b2h-line/",
-      "summary": "In two orders, FERC rejected PacifiCorp\u2019s proposed financing arrangement for the 290-mile Boardman-to-Hemingway line, saying the company failed to show the proposals would not lead to increased rates and did not include enough details.\nThe post FERC Rejects PacifiCorp\u2019s Financing Bid for B2H Line appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T02:12:15+00:00"
-    },
-    {
-      "id": "32ab8dc97eb488a7",
-      "title": "Stakeholders Advance ISO-NE Capacity Accreditation, Seasonal Market Revisions",
-      "link": "https://www.rtoinsider.com/150671-stakeholders-advance-iso-ne-capacity-accred/",
-      "summary": "The NEPOOL Markets Committee has approved a suite of ISO-NE tariff changes intended to overhaul capacity accreditation and divide annual capacity commitment periods into winter and summer periods with separate auctions.\nThe post Stakeholders Advance ISO-NE Capacity Accreditation, Seasonal Market Revisions appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T02:00:42+00:00"
-    },
-    {
-      "id": "804bb6eaf37f1943",
-      "title": "Republicans\u2019 Red Wall Holds Up in Regulatory Elections",
-      "link": "https://www.rtoinsider.com/150693-republicans-red-wall-holds-up-in-regulatory-elections/",
-      "summary": "The Democrats\u2019 blue wave affected some of the elections for state regulatory commissions, but not all.\nThe post Republicans\u2019 Red Wall Holds Up in Regulatory Elections appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T01:40:14+00:00"
-    },
-    {
-      "id": "b73e787339b3a619",
-      "title": "Global Cyber Threats Growing, Security Consultant Warns SERC",
-      "link": "https://www.rtoinsider.com/150684-global-cyber-threats-growing-serc-speaker-warns/",
-      "summary": "A speaker at SERC's Fall Reliability and Security Seminar highlighted the biggest cyber threats from nation-state actors.\nThe post Global Cyber Threats Growing, Security Consultant Warns SERC appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T01:34:54+00:00"
-    },
-    {
-      "id": "d49cc588facbe992",
-      "title": "BPA, Earthjustice Reach Settlement to Reduce $250M Rate Hike",
-      "link": "https://www.rtoinsider.com/150709-bpa-earthjustice-reach-settlement-reduce-rate-hike/",
-      "summary": "Bonneville Power Administration has reached a settlement with conservation and clean energy groups that would decrease a $250 million rate hike the agency proposed after being ordered to increase water spills over dams to protect migrating salmon.\nThe post BPA, Earthjustice Reach Settlement to Reduce $250M Rate Hike appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T01:11:13+00:00"
-    },
-    {
-      "id": "cdbedd01ce2d1352",
-      "title": "Midterms Signal Looming Data Center Bans in Western States",
-      "link": "https://www.rtoinsider.com/150665-big-electoral-wins-for-governors-pushing-data-center-bans/",
-      "summary": "The data center industry can expect to see the pace of development slow dramatically, as several Western states are expected to consider statewide moratoriums after the midterm elections that saw Democrats win numerous governor\u2019s races.\nThe post Midterms Signal Looming Data Center Bans in Western States appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T01:10:11+00:00"
-    },
-    {
-      "id": "764de4b5c068cc97",
-      "title": "Data Centers Lose Big in Local Referenda",
-      "link": "https://www.rtoinsider.com/150698-2026-midterms-data-centers-lose-big-in-local-elections/",
-      "summary": "Of the 47 data center ballot measures in cities, towns and counties, 38 were approved by voters, according to a tracker. Votes are still being counted on six, while one was rejected by voters in the city of Harwood, N.D.\nThe post Data Centers Lose Big in Local Referenda appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T00:55:38+00:00"
-    },
-    {
-      "id": "fcfb06984a7a6fbb",
-      "title": "Election Breaks GOP Hold on Georgia PSC",
-      "link": "https://www.rtoinsider.com/150663-democrats-will-control-georgia-psc-for-the-first-time-since-the-1990s/",
-      "summary": "Democrats have gained majority control of the Georgia Public Service Commission for the first time in decades, a landmark win that could lead to heightened regulatory scrutiny of Georgia Power and its corporate parent, Southern Co.\nThe post Election Breaks GOP Hold on Georgia PSC appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T00:50:00+00:00"
-    },
-    {
-      "id": "371dcfa6c47fff8e",
-      "title": "What Democrats\u2019 Blue Wave Means for Permitting and Energy Policy",
-      "link": "https://www.rtoinsider.com/150687-what-democrats-blue-wave-means-for-permitting-and-energy-policy/",
-      "summary": "Democrats\u2019 blowout performance in midterm elections increases the likelihood that Senate permitting legislation under consideration will not make it into law.\nThe post What Democrats\u2019 Blue Wave Means for Permitting and Energy Policy appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T00:47:43+00:00"
-    },
-    {
-      "id": "7180d12430f1bbc2",
-      "title": "Exelon Asks FERC for Prompt Capacity Auction in PJM",
-      "link": "https://www.rtoinsider.com/150688-exelon-ask-ferc-prompt-capacity-auction-pjm/",
-      "summary": "Exelon has filed a complaint with FERC arguing that PJM\u2019s three-year forward Base Residual Auction no longer is just and reasonable and is requesting that it order the RTO to hold a prompt auction just two months before the delivery year.\nThe post Exelon Asks FERC for Prompt Capacity Auction in PJM appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T00:44:12+00:00"
-    },
-    {
-      "id": "b7e0d18efb4ceff9",
-      "title": "Making Energy Data Count: From Industry Investment to Customer Action",
-      "link": "https://www.rtoinsider.com/150397-making-energy-data-count-from-industry-investment-to-customer-action/",
-      "summary": "Smart meters, increasingly detailed electricity use data, sophisticated forecasting models and advanced grid management systems have transformed what utilities know about their networks and customers.\nThe post Making Energy Data Count: From Industry Investment to Customer Action appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-04T23:53:49+00:00"
-    },
-    {
-      "id": "cc8437b619589686",
-      "title": "Generational Change in Texas Politics Could Affect 765-kV Lines, Data Centers",
-      "link": "https://www.rtoinsider.com/150672-blue-wave-swamps-gop-in-texas/",
-      "summary": "Election night's blue wave has swept Republicans from power in Texas, giving the Democrats their first opportunity to govern in more than a generation.\nThe post Generational Change in Texas Politics Could Affect 765-kV Lines, Data Centers appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-04T23:52:17+00:00"
-    },
-    {
-      "id": "2d74d5b8964c8008",
-      "title": "Top clean energy wins from the midterm elections",
-      "link": "https://www.canarymedia.com/articles/politics/top-clean-energy-wins-midterms",
-      "summary": "The top story from Tuesday\u2019s elections is clear: Democrats won big-time on the national level, dominating U.S. Senate and House races across the country. And on the state level, clean energy could get a jolt from Democratic wins for state offices and utility commissions and new approved ballot measures. Here\u2019s a\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-04T22:30:00+00:00"
-    },
-    {
-      "id": "fff563fac7bda8fd",
-      "title": "VodafoneThree kicks off rollout of Ericsson's AI-ready Massive MIMO radio in London",
-      "link": "https://www.datacenterdynamics.com/en/news/vodafonethree-kicks-off-rollout-of-ericssons-ai-ready-massive-mimo-radio-in-london/",
-      "summary": "The telco kicked off the deployment last month",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-11-04T21:40:38+00:00"
-    },
-    {
-      "id": "791810bddc18d751",
-      "title": "atNorth signs deal with Calentix for heat reuse at SWE04 data center in Sollefte\u00e5, Sweden",
-      "link": "https://www.datacenterdynamics.com/en/news/atnorth-signs-deal-with-calentix-for-heat-reuse-at-swe04-data-center-in-sollefte%C3%A5-sweden/",
-      "summary": "First delivery of heat expected in 2029",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-11-04T21:30:35+00:00"
     }
   ]
 }
