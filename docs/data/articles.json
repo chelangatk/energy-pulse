@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T20:56:35.029846+00:00",
-  "count": 617,
+  "generated_at": "2026-11-27T03:55:25.976937+00:00",
+  "count": 607,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-26T20:56:31.896207+00:00"
+      "published": "2026-11-27T03:55:23.772768+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-26T20:56:31.896201+00:00"
+      "published": "2026-11-27T03:55:23.772754+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-26T20:56:31.896192+00:00"
+      "published": "2026-11-27T03:55:23.772736+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-26T20:56:31.896177+00:00"
+      "published": "2026-11-27T03:55:23.772705+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-26T20:56:29.750493+00:00"
+      "published": "2026-11-27T03:55:22.813256+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,7 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-26T20:56:28.327702+00:00"
+      "published": "2026-11-27T03:55:21.923615+00:00"
     },
     {
       "id": "18f33a0bfa0a1c22",
@@ -6071,106 +6071,6 @@
       "category": "Trade Press",
       "region": "National",
       "published": "2026-11-06T08:30:00+00:00"
-    },
-    {
-      "id": "d6d43363c5056872",
-      "title": "IESO Recommends New Transformer Capacity for GTA East Growth",
-      "link": "https://www.rtoinsider.com/150569-ieso-recommends-new-transformer-capacity-gta-east-growth/",
-      "summary": "IESO recommends adding transformer capacity in eastern Greater Toronto, where summer peak demand is forecast to double by 2044.\nThe post IESO Recommends New Transformer Capacity for GTA East Growth appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-06T02:04:55+00:00"
-    },
-    {
-      "id": "e99512ed6e77f69b",
-      "title": "Ohio Advocates Press FERC to Protect Ratepayers in Data Center Study Agreement",
-      "link": "https://www.rtoinsider.com/150680-ohio-advocates-press-ferc-protect-ratepayers-data-center-study/",
-      "summary": "Ohio\u2019s ratepayer advocate is urging FERC to erect strong customer safeguards before allowing PJM to proceed with a largely untested approach to assess the expected transmission needs of a mammoth data center complex in the south of the state.\nThe post Ohio Advocates Press FERC to Protect Ratepayers in Data Center Study Agreement appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-06T01:54:34+00:00"
-    },
-    {
-      "id": "959c0f379f9c2a49",
-      "title": "CAISO Reports $33M in EDAM Benefits Since Launch",
-      "link": "https://www.rtoinsider.com/150830-caiso-edam-weim-benefits-report/",
-      "summary": "CAISO\u2019s third-quarter joint energy markets report shows EDAM recording almost $33 million in benefits since launching in spring 2026.\nThe post CAISO Reports $33M in EDAM Benefits Since Launch appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-06T01:03:11+00:00"
-    },
-    {
-      "id": "a18fb1b0c7fb6aa1",
-      "title": "FERC Chairs: No Impact from SCOTUS\u2019 Slaughter Decision, Yet",
-      "link": "https://www.rtoinsider.com/150843-four-ferc-chairs-discuss-scotus-slaughter-decision-wires/",
-      "summary": "FERC has not seen much of an impact so far from the Supreme Court's Trump v. Slaughter decision, but the long-term effects remain to be seen.\nThe post FERC Chairs: No Impact from SCOTUS\u2019 Slaughter Decision, Yet appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-06T00:32:28+00:00"
-    },
-    {
-      "id": "979482f520adba36",
-      "title": "Dems Flip New Hampshire Legislature, Pick up Seats Across New England",
-      "link": "https://www.rtoinsider.com/150826-dems-flip-new-hampshire-legislature-pick-up-seats-new-england/",
-      "summary": "While no governorships in New England changed party control during the midterms, Democrats picked up seats in state legislatures throughout the region and flipped control of both the New Hampshire House and Senate.\nThe post Dems Flip New Hampshire Legislature, Pick up Seats Across New England appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-06T00:30:53+00:00"
-    },
-    {
-      "id": "c756319fdb8004a7",
-      "title": "Democrats' state wins open the door for major clean energy progress",
-      "link": "https://www.canarymedia.com/articles/politics/democrat-state-wins-clean-energy-progress",
-      "summary": "Democrats' historic wins in Tuesday\u2019s midterm elections will give them control of Congress and a\u00a0 chance to combat the Trump administration\u2019s anti-climate agenda, but the president\u2019s\u00a0 veto power will limit their options.\u00a0 At the state level, however, Democrats\u2019 victories offer immediate opportunities to advance clean\u2026",
-      "source": "Canary Media",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-06T00:30:00+00:00"
-    },
-    {
-      "id": "55f3ceb7d70c7b54",
-      "title": "Is There a Gold Standard for Hedging New Capacity in Power Markets?",
-      "link": "https://www.rtoinsider.com/150677-is-there-a-gold-standard-for-hedging-new-capacity-in-power-markets/",
-      "summary": "As power markets transition from managing surplus supply to navigating scarcity conditions with tight reserve margins, the risks associated with resource adequacy and capital investment have changed.\nThe post Is There a Gold Standard for Hedging New Capacity in Power Markets? appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T23:56:14+00:00"
-    },
-    {
-      "id": "8c649aff4a2666c1",
-      "title": "DTE Selling Vantage to Focus on Electricity, Data Centers",
-      "link": "https://www.rtoinsider.com/150828-dte-selling-vantage-focus-on-electricity-data-centers/",
-      "summary": "DTE Energy is selling its energy solutions business to sharpen its focus instead on regulated utility operations as it courts large load customers.\nThe post DTE Selling Vantage to Focus on Electricity, Data Centers appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T23:54:17+00:00"
-    },
-    {
-      "id": "03ab759a729f429f",
-      "title": "Entergy Examining Non-traditional Funding Options for Data Center Groundswell",
-      "link": "https://www.rtoinsider.com/150832-entergy-examining-non-traditional-funding-options-data-centers/",
-      "summary": "Entergy leadership said the utility will likely pursue alternative funding avenues to secure capital to finance investments for data centers.\nThe post Entergy Examining Non-traditional Funding Options for Data Center Groundswell appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T23:17:24+00:00"
-    },
-    {
-      "id": "98df36f41f3c54c4",
-      "title": "Even if Additional Capacity Resources Aren\u2019t Needed, New Data Loads Are Likely to Increase Market Prices",
-      "link": "https://www.rtoinsider.com/150839-even-if-additional-capacity-resources-arent-needed-data-loads-likely-increase-market-prices/",
-      "summary": "New research suggests that even when data centers avoid increasing peak demand, they can still drive up wholesale electricity prices by pushing demand toward more expensive generation resources.\nThe post Even if Additional Capacity Resources Aren\u2019t Needed, New Data Loads Are Likely to Increase Market Prices appeared first on RTO Insider.",
-      "source": "RTO Insider",
-      "category": "Trade Press",
-      "region": "National",
-      "published": "2026-11-05T21:12:40+00:00"
     }
   ]
 }
