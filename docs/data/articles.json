@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T03:42:08.657659+00:00",
-  "count": 600,
+  "generated_at": "2026-11-28T19:33:24.200026+00:00",
+  "count": 607,
   "articles": [
     {
       "id": "623b1a9c6e498a89",
@@ -10,7 +10,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-28T03:42:05.884979+00:00"
+      "published": "2026-11-28T19:33:21.411374+00:00"
     },
     {
       "id": "92273bfbfe140fca",
@@ -20,7 +20,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-28T03:42:05.884965+00:00"
+      "published": "2026-11-28T19:33:21.411367+00:00"
     },
     {
       "id": "b28b7b610ec8f487",
@@ -30,7 +30,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-28T03:42:05.884949+00:00"
+      "published": "2026-11-28T19:33:21.411358+00:00"
     },
     {
       "id": "c938b6e4e2ffd8ca",
@@ -40,7 +40,7 @@
       "source": "ISO New England",
       "category": "ISO/RTO",
       "region": "Northeast",
-      "published": "2026-11-28T03:42:05.884922+00:00"
+      "published": "2026-11-28T19:33:21.411332+00:00"
     },
     {
       "id": "660f691e86a39ce7",
@@ -50,7 +50,7 @@
       "source": "SPP News",
       "category": "ISO/RTO",
       "region": "Midwest",
-      "published": "2026-11-28T03:42:03.952140+00:00"
+      "published": "2026-11-28T19:33:19.429814+00:00"
     },
     {
       "id": "bbedce0439e84787",
@@ -60,7 +60,87 @@
       "source": "ERCOT News",
       "category": "ISO/RTO",
       "region": "Texas / South Central",
-      "published": "2026-11-28T03:42:02.755862+00:00"
+      "published": "2026-11-28T19:33:18.521180+00:00"
+    },
+    {
+      "id": "934b2a011bd7a8c1",
+      "title": "Construction begins on AI data center for Leipzig University, Germany",
+      "link": "https://www.datacenterdynamics.com/en/news/construction-begins-on-ai-data-center-for-leipzig-university-germany/",
+      "summary": "Facility being constructed at Alte Messe",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-28T18:00:42+00:00"
+    },
+    {
+      "id": "ef860257cb68ee58",
+      "title": "Sponsored: From pilot to production: Three enterprise AI infrastructure decisions that matter",
+      "link": "https://www.datacenterdynamics.com/en/opinions/from-pilot-to-production-three-enterprise-ai-infrastructure-decisions-that-matter/",
+      "summary": "As enterprise AI moves from experimentation to production, infrastructure decisions carry greater weight. Here are three areas leaders should evaluate to scale AI with control, cost visibility, and operational resilience",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-28T16:00:00+00:00"
+    },
+    {
+      "id": "91d4a772ce7a3977",
+      "title": "The Blind Operator Trap: Solving Power Generation\u2019s OT Decision Void",
+      "link": "https://www.powermag.com/the-blind-operator-trap-solving-power-generations-ot-decision-void/",
+      "summary": "A chief information security officer (CISO) may have visibility into authentication events, network traffic, endpoint behavior, alerts and control failures, yet still lack the evidence needed to understand what is happening inside the physical process. Plant operators and engineers monitor alarms, equipment states, interlocks, maintenance activity and production constraints, but they may interpret",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-28T14:59:14+00:00"
+    },
+    {
+      "id": "120f75a2db503ba4",
+      "title": "Power Plant Valves and Operators: Critical Components That Have to Work When Needed",
+      "link": "https://www.powermag.com/power-plant-valves-and-operators-critical-components-that-have-to-work-when-needed/",
+      "summary": "Valves and the actuators that move them are routine, well-maintained plant equipment. What is changing is how much they can report about their own condition, and how closely owners weigh their energy use and\nThe post Power Plant Valves and Operators: Critical Components That Have to Work When Needed appeared first on POWER Magazine.",
+      "source": "POWER Magazine",
+      "category": "Trade Press",
+      "region": "National",
+      "published": "2026-11-28T13:29:07+00:00"
+    },
+    {
+      "id": "7ff52bc46b60f4b9",
+      "title": "Federal state of Vienna, Austria, publishes new data center strategy",
+      "link": "https://www.datacenterdynamics.com/en/news/sebastian-gemkow/",
+      "summary": "The new plan is designed to boost the sustainability and efficiency of projects in the capital city",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-28T12:00:47+00:00"
+    },
+    {
+      "id": "8ce1ce819d435eae",
+      "title": "The hidden reliability layer in data centers: why physical connections matter more than ever",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-reliability-layer-in-data-centers-why-physical-connections-matter-more-than-ever/",
+      "summary": "The infrastructure layer nobody measures until it fails",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-28T11:00:27+00:00"
+    },
+    {
+      "id": "136bef87b0b78601",
+      "title": "Spain's NxN acquires hosting and services firm Occentus Networks",
+      "link": "https://www.datacenterdynamics.com/en/news/spains-nxn-acquires-hosting-and-services-firm-occentus-networks/",
+      "summary": "Acquisition brings in ten professionals, including founders Luc\u00eda Mundina and Daniel Rodr\u00edguez",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-28T08:00:29+00:00"
+    },
+    {
+      "id": "2af31ab49433a582",
+      "title": "Sponsored: When batteries fail, can data centers contain the fire?",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/when-batteries-fail-can-data-centers-contain-the-fire/",
+      "summary": "What a full-scale UPS battery fire test reveals about propagation, heat exposure, and re-ignition",
+      "source": "Data Center Dynamics",
+      "category": "Data Centers & Load Growth",
+      "region": "National",
+      "published": "2026-11-28T08:00:00+00:00"
     },
     {
       "id": "6e45880eb85c5cbc",
@@ -5991,16 +6071,6 @@
       "category": "Data Centers & Load Growth",
       "region": "National",
       "published": "2026-11-08T11:00:48+00:00"
-    },
-    {
-      "id": "fd8f66890e2449be",
-      "title": "Sponsored: Water stewardship starts with design, not offsets",
-      "link": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
-      "summary": "How can data center development not only minimize its impact on local water resources, but contribute to the long-term resilience of the watersheds in which we operate?",
-      "source": "Data Center Dynamics",
-      "category": "Data Centers & Load Growth",
-      "region": "National",
-      "published": "2026-11-07T16:00:00+00:00"
     }
   ]
 }
